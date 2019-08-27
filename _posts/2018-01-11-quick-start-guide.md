@@ -5,7 +5,7 @@ author: Someone Magnificent
 categories:
 - Jekyll
 - tutorial
-image: assets/images/12.jpg
+image: "/assets/images/12.jpg"
 featured: true
 hidden: true
 
