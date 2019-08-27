@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's Test Spoilers
-author: Someone Magnificent
+author: sal
 categories:
 - Jekyll
 - tutorial
