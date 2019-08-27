@@ -3,7 +3,7 @@ layout: post
 title: New Test Post
 author: sal
 categories: []
-featured-image: "/assets/images/aristotle.png"
+featured-image: "/assets/images/15.jpg"
 featured: true
 hidden: false
 
