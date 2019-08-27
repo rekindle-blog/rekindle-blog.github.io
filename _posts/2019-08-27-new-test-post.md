@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Test Post
-author: Sal
+author: sal
 categories: []
 featured-image: "/uploads/fastfood.jpg"
 featured: true
