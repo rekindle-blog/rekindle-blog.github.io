@@ -4,22 +4,34 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  description: This should probably always be "post"
+  default: post
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: author
-  label: author
+  label: Author
+  description: Must be a recognised username (e.g. gheslop)
+  config:
+    required: true
 - type: list
   name: categories
-  label: categories
+  label: Categories
+  description: Comma separated list of tags ("New Testament", "Lord of the Rings",
+    etc.). Keep capitalisation consistent.
+  config:
+    use_select: false
 - type: file
-  name: image
-  label: image
+  name: featured-image
+  label: Featured Image
+  description: Shown on home page and at the top of your post
 - type: boolean
   name: featured
-  label: featured
+  label: Featured
+  description: Should this post be featured on the front page?
 - type: boolean
   name: hidden
-  label: hidden
+  label: Hidden Post
