@@ -36,4 +36,4 @@ fields:
   name: hidden
   label: Hidden Post
 pages:
-- _posts/new-test-post.md
+- _posts/2019-08-27-new-test-post.md
