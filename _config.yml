@@ -13,14 +13,12 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  gheslop:
+    name: gheslop
+    display_name: Graham Heslop
+    avatar: assets/images/avatar.png
+    web: https://africa.thegospelcoalition.org/
+    description: "I have an insatiable appetite for books, occasionally dip into theology and am presently reading for my Masters in theology at George Whitefield College, Cape Town. Most often found on the beach, a soccer field or my couch."
   john:
     name: John
     display_name: John    
