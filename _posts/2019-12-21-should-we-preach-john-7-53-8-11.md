@@ -6,6 +6,8 @@ categories: []
 image: assets/images/432px-Title_page_of_Herodotus'_history_of_the_Greek_and_Persian_Wars_1502.jpg
 featured: false
 hidden: false
+permalink: "/content/should-we-preach-john-753-811/"
+date: 2019-10-01
 
 ---
 Imagine a Sunday morning at your local church. The band are leaving the stage while the reader makes her way up to the pulpit. She reaches the microphone and announces the passage, “This morning’s reading will be from Herodotus’ _The Histories_, 7:220-221.” After a brief pause, she says again, “The reading will be from _Histories_, book 7, verses 220 through to the end of 221.”
