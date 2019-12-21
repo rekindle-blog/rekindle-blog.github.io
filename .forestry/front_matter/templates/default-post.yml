@@ -35,3 +35,5 @@ fields:
 - type: boolean
   name: hidden
   label: Hidden Post
+pages:
+- _posts/some-final-thoughts-on-john-7-53-8-11.md
