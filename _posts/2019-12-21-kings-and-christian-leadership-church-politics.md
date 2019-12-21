@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kings and Christian Leadership: Church Politics'
+title: 'Kings and Christian Leadership: God Builds His Church'
 author: gheslop
 categories:
 - Old Testament
