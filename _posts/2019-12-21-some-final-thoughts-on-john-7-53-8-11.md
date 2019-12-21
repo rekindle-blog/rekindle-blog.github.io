@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Some Final Thoughts on John 7:53-8:11
+date: 2019-11-19 13:08:03.000000000 -06:00`
 author: gheslop
 categories: []
 image: assets/images/374px-Christ_and_the_Woman_Taken_in_Adultery_one_of_a_set_of_12_scenes_from_The_Life_of_Christ_MET_DP278246.jpg?resize=372,477.jpg?resize=372,477
 featured: false
 hidden: false
+permalink: "/content//should-we-preach-john-753-811/"
 
 ---
 A few weeks back I posted an [article](http://www.rekindle.co.za/content/should-we-preach-john-753-811/) that argued against preaching John 7:53-8:11. It built on an [older piece](http://www.rekindle.co.za/content/should-john-753-811-be-in-our-bibles/), outlining some of the major concerns over the authenticity of that passage. Following the more recent post, I became embroiled in quite a fierce argument about the points I had made. At numerous points in that conversation I received the somewhat undesirable label of ‘heretic’. My views were also blamed for the apparent exodus we are seeing in the contemporary church. But as it turns out, dialogue is a great way to test and develop your thinking. So in this post I will simply summarise and comment on a few of the things said in the exchange—or inquisition.
