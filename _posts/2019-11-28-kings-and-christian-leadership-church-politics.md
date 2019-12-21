@@ -9,7 +9,7 @@ categories:
 - Ministry
 - Old Testament
 - 1 Kings
-image: ''
+image: assets/images/king_solomon.jpg
 featured: false
 hidden: false
 date: 2019-11-28
