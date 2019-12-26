@@ -7,8 +7,8 @@
 		var disqus_config = function () {
 			// Here is an example,
 			// this.page.url = "https://poanchen.github.io/blog/2017/07/27/how-to-add-disqus-to-your-jekyll-site";
-			this.page.url = "https://rekindle.co.za" + document.location.pathname;
-			this.page.identifier = document.location.pathname;
+			this.page.url = "https://rekindle.co.za" + document.location.pathname.replace("//content", "/content");
+			this.page.identifier = document.location.pathname.replace("//content", "/content");
 		};
         (function() {
 			var d = document, s = d.createElement('script');
