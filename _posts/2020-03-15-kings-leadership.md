@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kings Leadership
-author: gheslop
+title: This is a Test
+author: jcuenod
 categories:
 - David
 - 1-2 Kings
