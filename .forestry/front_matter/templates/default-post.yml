@@ -20,8 +20,8 @@ fields:
 - type: list
   name: categories
   label: Categories
-  description: Comma separated list of tags ("New Testament", "Lord of the Rings",
-    etc.). Keep capitalisation consistent.
+  description: List of tags ("New Testament", "Lord of the Rings", etc.). Keep capitalisation
+    consistent (sorry there are no suggestions).
   config:
     use_select: false
 - type: file
@@ -35,9 +35,3 @@ fields:
 - type: boolean
   name: hidden
   label: Hidden Post
-pages:
-- _posts/kings-and-christian-leadership-church-politics-1.md
-- _posts/kings-and-christian-leadership-church-politics.md
-- _posts/should-we-preach-john-7-53-8-11.md
-- _posts/some-final-thoughts-on-john-7-53-8-11.md
-- _posts/the-last-battle-to-live-is-christ.md
