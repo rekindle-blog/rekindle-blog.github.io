@@ -3,10 +3,20 @@
     <script type="text/javascript">
         var disqus_shortname = '{{site.disqus}}'; 
         var disqus_developer = 0;
+
+		var disqus_config = function () {
+			// Here is an example,
+			// this.page.url = "https://poanchen.github.io/blog/2017/07/27/how-to-add-disqus-to-your-jekyll-site";
+			this.page.url = "https://rekindle.co.za" + document.location.pathname.replace("//content", "/content");
+			this.page.identifier = document.location.pathname.replace("//content", "/content");
+		};
         (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+			var d = document, s = d.createElement('script');
+            s.type = 'text/javascript';
+			s.async = true;
+			s.src = '//'+disqus_shortname+'.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

@@ -1,0 +1,43 @@
+---
+label: default-post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  description: This should probably always be "post"
+  default: post
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: author
+  label: Author
+  description: Must be a recognised username (e.g. gheslop)
+  config:
+    required: true
+- type: list
+  name: categories
+  label: Categories
+  description: Comma separated list of tags ("New Testament", "Lord of the Rings",
+    etc.). Keep capitalisation consistent.
+  config:
+    use_select: false
+- type: file
+  name: image
+  label: Featured Image
+  description: Shown on home page and at the top of your post
+- type: boolean
+  name: featured
+  label: Featured
+  description: Should this post be featured on the front page?
+- type: boolean
+  name: hidden
+  label: Hidden Post
+pages:
+- _posts/kings-and-christian-leadership-church-politics-1.md
+- _posts/kings-and-christian-leadership-church-politics.md
+- _posts/should-we-preach-john-7-53-8-11.md
+- _posts/some-final-thoughts-on-john-7-53-8-11.md
+- _posts/the-last-battle-to-live-is-christ.md

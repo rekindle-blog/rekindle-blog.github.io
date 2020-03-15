@@ -1,35 +1,38 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Rekindle"
+title: "Rekindle"
+description: "Christian South Africans thinking in the open about culture, ethics, literature, Scripture and God in our context."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+# baseurl: /mediumish-theme-jekyll
+google_analytics: 'UA-41751258-1'
+disqus: 'rekindle'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  gheslop:
+    name: gheslop
+    display_name: Graham Heslop
+    avatar: assets/images/avatars/gheslop.png
+    web: https://africa.thegospelcoalition.org/
+    twitter: https://twitter.com/avosquirrel/
+    description: "I have an insatiable appetite for books, occasionally dip into theology and am presently reading for my Masters in theology at George Whitefield College, Cape Town. Most often found on the beach, a soccer field or my couch."
+  jpoole:
+    name: jpoole
+    display_name: Jade Poole
+    avatar: assets/images/avatars/jpoole.jpg
+    description: "I live in PE with my husband and 3 kids. We passionately love our church where I also have the privilege of serving as youth and children's pastor. I enjoy dry witty comedy, sharing our home with others, and sipping coffee by the fire when the house is quiet."
+  jcuenod:
+    name: jcuenod
+    display_name: James Cuénod
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: j3frea+rekindle@gmail.com
+    web: https://jcuenod.github.io
+    twitter: https://twitter.com/jamescuenod
+    description: "I love Jesus, preach his Gospel, disciple his children, study his word and I am, I pray, incurably passionate about the glory of God."
 
 # Plugins
 plugins:
@@ -70,3 +73,8 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+collections:
+  posts:
+    output: true
+    permalink: /content/:name
