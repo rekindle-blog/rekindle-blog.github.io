@@ -33,6 +33,16 @@ authors:
     web: https://jcuenod.github.io
     twitter: https://twitter.com/jamescuenod
     description: "I love Jesus, preach his Gospel, disciple his children, study his word and I am, I pray, incurably passionate about the glory of God."
+  dkobedi:
+    name: dkobedi
+    display_name: David Kobedi
+    avatar: 'assets/images/avatars/dkobedi.png'
+    description: "David Kobedi serves as a pastor at Christ Church Midrand, Gauteng, South Africa. He oversees the evening service and their student ministry. He is married to Puseletso and they are blessed with a son."
+  kgroger:
+    name: kgroger
+    display_name: Kyle Groger
+    avatar: 'assets/images/avatars/kgroger.jpg'
+    description: "I care about Jesus, people, my country and what being a Christian means in relation to each of these."
 
 # Plugins
 plugins:
