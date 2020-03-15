@@ -36,9 +36,9 @@ fields:
   name: hidden
   label: Hidden Post
 pages:
+- _posts/2020-03-15-kings-leadership.md
 - _posts/kings-and-christian-leadership-church-politics-1.md
 - _posts/kings-and-christian-leadership-church-politics.md
-- _posts/kings-leadership.md
 - _posts/should-we-preach-john-7-53-8-11.md
 - _posts/some-final-thoughts-on-john-7-53-8-11.md
 - _posts/the-last-battle-to-live-is-christ.md
