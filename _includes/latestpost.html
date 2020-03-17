@@ -6,7 +6,7 @@
         <div class="row h-100">
             <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
                 <div class="h-100">
-                    <div class="wrapthumbnail">
+                    <div class="wrapthumbnail" style="max-height: 300px">
                         <a href="{{ latest_post.url | absolute_url }}">
                             {% if site.lazyimages == "enabled" %}
                             <img class="featured-box-img-cover lazyimg"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %}{{ latest_post.image | absolute_url }}{% endif %}">
