@@ -3,9 +3,11 @@ layout: post
 title: '"Church at Home": The Triumph of Pragmatism Over Theology'
 author: gheslop
 categories:
+- Online
+- Virtual
 - Ministry
 - Church
-image: ''
+image: assets/images/man-watching-tv-1540551064Who.jpg
 featured: false
 hidden: false
 
