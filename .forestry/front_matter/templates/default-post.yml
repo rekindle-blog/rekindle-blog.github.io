@@ -35,3 +35,5 @@ fields:
 - type: boolean
   name: hidden
   label: Hidden Post
+pages:
+- _posts/church-at-home-the-triumph-of-pragmatism-over-theology.md
