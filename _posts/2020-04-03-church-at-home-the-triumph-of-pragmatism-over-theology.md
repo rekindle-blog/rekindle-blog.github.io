@@ -3,6 +3,9 @@ layout: post
 title: '"Church at Home": The Triumph of Pragmatism Over Theology'
 author: gheslop
 categories:
+- Ecclesiology
+- Home
+- Theology
 - Online
 - Virtual
 - Ministry
@@ -16,7 +19,7 @@ Can we really do “church at home”? Is it possible to “worship together” 
 
 Over the years I have watched and listened to sermons or services online. We’ve even been privileged enough to ‘attend’ conferences on other continents via live-stream or recording. But I have never considered those as times of meeting with other people who were doing likewise. At no point did I finish watching and conclude, ‘It was good to join my brothers and sisters at church.’ Why? Because I knew that that was not what was happening. I admit that our technological age brings unprecedented opportunities for communication. But with those comes unparalleled potential for confusion. Due to the carelessness of church leaders, many Christians are now wallowing in that confusion.
 
-Admittedly, space-time is strangely blurred in our ever changing digital world. This is an area that we are moderns are grappling with: where does the person end, or how far does one extend into the digital and the online? Yet, despite this bleeding between virtual and physical spaces or realities, we remain embodied beings. And, not insignificantly, this is how God created us. Therefore, while I was able to remotely listen to, or watch, services and conferences via a device, I always knew that I was not actually there. Even though other people were experiencing the same service, listening to the same talk or enjoying the same production, we were not doing that together. Unless you mean that we did it simultaneously. My concern is that in bowing to pragmatic and hurried solutions, church leaders have inadvertently pushed people over the edge of that quandary.
+Admittedly, space-time is strangely blurred in our ever changing digital world. This is an area that we as moderns are grappling with: where does the person end, or how far does one extend into the digital and online? Yet, despite this bleeding between virtual and physical spaces or realities, we remain embodied beings. And, not insignificantly, this is how God created us. Therefore, while I was able to remotely listen to, or watch, services and conferences via a device, I always knew that I was not actually there. Even though other people were experiencing the same service, listening to the same talk or enjoying the same production, we were not doing that together. Unless you mean that we did it simultaneously. My concern is that in bowing to pragmatic and hurried solutions, church leaders have inadvertently pushed people over the edge of that quandary.
 
 So what changed? Because of the COVID-19 pandemic, churches in South Africa are no longer able to physically meet at real world locations. And the rushed effort of churches to create digital content (or video services) that enable churches to continue ‘meeting’ together points to an ultimately pragmatic but profoundly untheological action. I say this because, for churches who affirm the New Testament’s teaching regarding the church, such an arrangement would previously have not only been unthinkable but theologically indefensible. This is evident from the torrent of evangelical criticisms levelled against Judah Smith’s creation of an online church. It is further evident from the countless exhortations from pulpits to not give up meeting together. Not coincidentally, these can be found in Scripture too. Yet here we are.
 
