@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Thoughts on "Church at Home"
+title: More Thoughts on “Church at Home”
 author: gheslop
 categories:
 - Liturgy
@@ -18,7 +18,7 @@ featured: false
 hidden: false
 
 ---
-After Rekindle crashed in December, I welcomed the opportunity to take a break from blogging regularly. But now that we are up and running again, I am enjoying a renewed vigour and desire to write. I hope it is matched, even if only slightly, by eager and engaged readers. My [previous post](https://rekindle.co.za/content/2020-04-03-church-at-home-the-triumph-of-pragmatism-over-theology '"Church at home"') identified what I believe is an admixture of careless pragmatism and an approach to church that is lacking in proper theological reflection—naturally, these two things usually go hand-in-hand. In this post I will explore some of the conversations that resulted from that post: (1) the reductionistic view of church as teaching; (2) the circumstances that supposedly demanded decisions; and (3) how everything we do shapes what we believe.
+After Rekindle crashed in December, I welcomed the opportunity to take a break from blogging regularly. But now that we are up and running again, I am enjoying a renewed vigour and desire to write. I hope it is matched, even if only slightly, by eager and engaged readers. My [previous post](https://rekindle.co.za/content/2020-04-03-church-at-home-the-triumph-of-pragmatism-over-theology '“Church at home”') identified what I believe is an admixture of careless pragmatism and an approach to church that is lacking in proper theological reflection—naturally, these two things usually go hand-in-hand. In this post I will explore some of the conversations that resulted from that post: (1) the reductionistic view of church as teaching; (2) the circumstances that supposedly demanded decisions; and (3) how everything we do shapes what we believe.
 
 Firstly, let me state for the record: I am not opposed to churches recording services or live-streaming songs and preaching. But, since we’re on record, let me add: I find it indicative of the reductionistic view of the church, and therefore the Sunday service, as responsible for generating Christian content. Commenting on my previous post, Brad opined, “I wonder if this lockdown hasn't exposed something else amiss in our ecclesiology: an obsession with teaching and thereby influence. As so many have scrambled to quickly get content out, they’ve…given the impression that church is teaching; thus it's easy to continue 'church' (i.e. teaching) during lockdown.” Amen. Many pastors have - either unwittingly or deliberately - reduced their primary function to preaching sermons on Sunday. Furthermore, I would venture a guess at this point and claim that the reason so many Christians have relished “church at home” is that it is barely different from their usual Sunday experience. If our measure of Sunday services is the quality of preaching and the musicians’ performance then little has changed. Though if those are your criteria for church meetings then may I recommend downloading some songs from Page CXVI or Josh Garrels, before streaming a sermon by D. A. Carson. However, is this really what the weekly Sunday gathering is about?
 
