@@ -62,7 +62,7 @@ jekyll-archives:
     
 # Pagination 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /posts/:num/
     
 # Other
 markdown: kramdown
