@@ -16,7 +16,7 @@ authors:
   gheslop:
     name: gheslop
     display_name: Graham Heslop
-    avatar: assets/images/avatars/gheslop.png
+    avatar: assets/images/avatars/gheslop.jpg
     web: https://africa.thegospelcoalition.org/
     twitter: https://twitter.com/avosquirrel/
     description: "I have an insatiable appetite for books, occasionally dip into theology and am presently reading for my Masters in theology at George Whitefield College, Cape Town. Most often found on the beach, a soccer field or my couch."
@@ -36,7 +36,7 @@ authors:
   dkobedi:
     name: dkobedi
     display_name: David Kobedi
-    avatar: 'assets/images/avatars/dkobedi.png'
+    avatar: 'assets/images/avatars/dkobedi.jpg'
     description: "David Kobedi serves as a pastor at Christ Church Midrand, Gauteng, South Africa. He oversees the evening service and their student ministry. He is married to Puseletso and they are blessed with a son."
   kylegroger:
     name: kylegroger
