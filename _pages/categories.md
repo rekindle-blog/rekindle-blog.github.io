@@ -1,5 +1,6 @@
 ---
+layout: categories
 title: Categories
-permalink: /categories/:categories
+permalink: /categories
 ---
 <div>{{categories}}</div>
