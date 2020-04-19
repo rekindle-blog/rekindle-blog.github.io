@@ -1,23 +1,21 @@
-# Mediumish - Jekyll Theme
+# Rekindle | The Reformation
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+[Rekindle](https://rekindle.co.za) strives to be a blog where Christian South Africans think in the open about culture, ethics, literature, Scripture and God in our context.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+## About this repository
 
+This is where we store all the good stuff.
 
-### Copyright
+ - Most of what you find here is going to be the data that fills the actual blog
+ - It's just a github-pages site though
+ - So really, you're finding a pretty neat jekyll theme here...
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+## Acknowledgements
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+You should check out the original theme here: <https://github.com/wowthemesnet/mediumish-theme-jekyll/>
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+## Copyright
 
-### Contribute
+The theme is free, the content is not. Feel free to use the code under the MIT license.
 
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+The content, however, is copyright 2020.
