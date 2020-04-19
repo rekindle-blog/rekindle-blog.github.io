@@ -1,5 +1,5 @@
 ---
 title: Categories
-permalink: /categories/:cateogries
+permalink: /categories/:categories
 ---
 <div>{{categories}}</div>
