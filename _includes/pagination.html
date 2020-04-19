@@ -29,7 +29,7 @@
   {% if paginator.next_page %}
     <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Next page">&gt;</a></li>
     {% if site.paginate_show_first_and_last %}
-      <li class="page-item"><a class="page-link" href="{{ site.baseurl | replace: '//', '/' }}/page{{ paginator.total_pages }}" title="Last page">&raquo;</a></li>
+      <li class="page-item"><a class="page-link" href="{{ site.baseurl | replace: '//', '/' }}/posts/{{ paginator.total_pages }}" title="Last page">&raquo;</a></li>
     {% endif %}
   {% endif %}
 
