@@ -2,8 +2,14 @@
 layout: post
 title: 'Kings and Christian Leadership: Servants not Centres'
 author: gheslop
-categories: []
-image: ''
+categories:
+- Kingship
+- Ministry
+- Church
+- Leadership
+- Old Testament
+- Kings
+image: assets/images/pxfuel.com.jpg
 featured: false
 hidden: false
 
