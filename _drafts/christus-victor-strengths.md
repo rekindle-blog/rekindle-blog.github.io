@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Christus Victor: Strengths'
+title: Retrieving Christus Victor
 author: gheslop
 categories:
 - Dramatic View
