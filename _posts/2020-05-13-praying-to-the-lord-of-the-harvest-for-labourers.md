@@ -1,8 +1,12 @@
 ---
 layout: post
-title: Praying to the Lord of the Harvest for Labourers
+title: Christian, Pray to the Lord of the Harvest
 author: gheslop
 categories:
+- Lord's Prayer
+- Jesus
+- Matthew's Gospel
+- Evangelism
 - Mission
 - Ministry
 - Church
@@ -14,7 +18,7 @@ hidden: false
 ---
 Last year I attended a conference for African Presbyterians. It was a privilege to meet brothers and sisters from around the continent, and hear how God’s gospel is gaining ground in countries and regions I would struggle to point out on a map. In addition to many encouraging conversations, I relished sitting under the teaching of my African brothers because such exhortations always expose my Western bubble. It is difficult to deny that many South African churches are more Anglo-Saxon than African. We read books and listen to sermons from Americans, Australians and the British. I perennially out of touch with the continent, with Africans. Therefore, we should not only welcome but must search for those voices that we’ve historically ignored. This is not only right and necessary, but very often for our good.
 
-One of the shorter exhortations at the conference was on prayer. The preacher, quite simply, picked up on Jesus’ imperative in Matthew 9:28, “pray earnestly to the Lord of the harvest to send out labourers into his harvest.” No doubt, for many readers this is a familiar verse. After all, the _Book of Common_ _Prayer,_ when followed, regularly invites Christians to pray for the extension of Christ’s kingdom, “Grant that by the witness of those who serve our Lord Jesus Christ wherever they minister your word, perishing souls may be saved.” Despite this, I cannot recall regularly pleading with God to raise up gospel workers for the mission field.
+One of the shorter exhortations at the conference was on prayer. The preacher, quite simply, picked up on Jesus’ imperative in Matthew 9:28, “pray earnestly to the Lord of the harvest to send out labourers into his harvest.” No doubt, for many readers this is a familiar verse. After all, the _Book of Common_ _Prayer_ regularly invites Christians to pray for the extension of Christ’s kingdom, “Grant that by the witness of those who serve our Lord Jesus Christ wherever they minister your word, perishing souls may be saved.” Despite this, I cannot recall regularly pleading with God to raise up gospel workers for the mission field.
 
 On the other hand, the Lord’s Prayer is staple. It’s memorised, preached through and often used to structure corporate prayers as well as public and private intercessions. But why do we regularly find, “Our Father in heaven,” on our lips yet rarely, if ever, “Send out labourers”? Might it be that mission is not on our hearts? After all, Jesus did say that what one finds on the lips is rooted in the heart. I don’t know. Is it because praying about the harvest field requires me to think outside not only of my neat little life but also beyond the confines and comfort of my local church? Perhaps. Or it could simply come down to the fact that the emphasis on missions has been lost amid [the scramble to build empires](https://rekindle.co.za/content/pastor-why-do-you-want-a-big-church/ "Wanting a big church")—I mean, local churches. Whatever the reason, Jesus’ words certainly challenge both my attitude and practise.
 
