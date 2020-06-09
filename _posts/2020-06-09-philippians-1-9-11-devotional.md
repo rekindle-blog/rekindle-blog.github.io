@@ -8,7 +8,7 @@ categories:
 - Devotional
 - New Testament
 - Philippians
-image: assets/images/devotional-graphics.jpg
+image: assets/images/philippians-devotional.jpg
 featured: false
 hidden: false
 
