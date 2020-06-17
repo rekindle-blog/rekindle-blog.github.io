@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fatherhood
+title: 'Fatherhood: A Personal Reflection'
 author: gheslop
 categories:
 - Lila
