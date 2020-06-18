@@ -3,6 +3,8 @@ layout: post
 title: 'Fatherhood: A Personal Reflection'
 author: gheslop
 categories:
+- Father
+- Motherhood
 - Lila
 - Home
 - Gilead
