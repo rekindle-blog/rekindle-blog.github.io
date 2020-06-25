@@ -9,7 +9,7 @@ categories:
 - Women
 - Aimee Byrd
 - Complementarianism
-image: assets/images/online-insults.jpg
+image: assets/images/man-with-a-megaphone-1467100857wjb.jpg
 featured: false
 hidden: false
 
