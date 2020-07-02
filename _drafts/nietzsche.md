@@ -3,6 +3,7 @@ layout: post
 title: Nietzsche
 author: gheslop
 categories:
+- Philosophy
 - Fridays with Fred
 - Aphorisms on Love and Hate
 - Friedrich Nietzsche
