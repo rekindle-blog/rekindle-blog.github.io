@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nietzsche
+title: 'Fridays with Fred: Existentialism and Entertainment'
 author: gheslop
 categories:
 - Mankind
@@ -16,7 +16,7 @@ featured: false
 hidden: false
 
 ---
-“One hears a lot of talk about men, but none at all about man.” So wrote Friedrich Nietzsche in his _Aphorisms on Love and Hate_. To the skim reader, you might want to reread that first sentence. Nietzsche subtly distinguishes between the activities of individuals and our ideas about mankind. His term for the latter is “psychological observation” or dissection, which he recognised in exceptional authors and philosophers. According to Nietzsche, observation during the 19th century was superficial, bordering on the meaningless and taken up with events and personalities. This is a fitting description for the 21st century, when more people can tell you about Joe Exotic than existentialism. We are captured by what comes to us on our screens but unable to reflect deeply on reality, values, virtues and meaning. When we sit down to dinner we can trade information but struggle to engage with ideas. Thus I agree with Nietzsche, we talk a lot about men and women but rarely about mankind.
+“One hears a lot of talk about men, but none at all about man.” So wrote Friedrich Nietzsche in his _Aphorisms on Love and Hate_. To the skim reader, you might want to reread that first sentence. Nietzsche subtly distinguishes between the activities of individuals and our ideas about mankind. His term for the latter is “psychological observation” or dissection, which he recognised in exceptional authors and philosophers. We might also call this existentialism. According to Nietzsche, such observation during the 19th century was superficial, bordering on the meaningless and taken up with events and personalities. This is a fitting description for the 21st century, when more people can tell you about Joe Exotic than existentialism. We are captured by what comes to us on our screens but unable to reflect deeply on reality, values, virtues and meaning. When we sit down to dinner we can trade information but struggle to engage with ideas. Thus I agree with Nietzsche, we talk a lot about men and women but rarely about mankind.
 
 But, you might ask, why is this a problem? What does it matter? Isn’t what Nietzsche describes the work for academics, a highbrow hobby? Well, no. Nietzsche actually appeals to psychological observation on the grounds of entertainment: “Meditating on things human is one of the means by which man can ease life’s burden…exercising this art, one can secure entertainment amid boring surroundings.” But Nietzsche, you will likely retort, have you heard of Netflix? He hadn’t. He was lucky enough to die before the entertainment industry was digitally divinised. Therefore he doesn’t compare the two. But his description of contemplative observation rightly earns it the adjective: “stimulant”. For reflection and careful thought is stimulating. Netflix might light up your eyes for a second but study enlightens one for a lifetime. For it is not passive entertainment. It demands something on the part of the observer. Something more than skipping the intro or choosing what to watch next. Doing this internal work, so often wrongly associated with intellectuals is therefore, as Nietzsche says, richly rewarding.
 
