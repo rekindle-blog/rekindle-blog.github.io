@@ -3,12 +3,18 @@ layout: post
 title: A Critique of Christus Victor
 author: gheslop
 categories:
+- Jesus Christ
+- Cross
+- Old Testament
+- New Testament
+- God's justice
+- God's love
 - Gustaf Aulén
 - Classic view
 - Dramatic view
 - Critique
 - Christus Victor
-image: ''
+image: assets/images/holy-maria-altar-church-gold-light-christ-christianity-jesus-figure.jpg
 featured: false
 hidden: false
 
