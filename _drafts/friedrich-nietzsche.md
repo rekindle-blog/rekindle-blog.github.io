@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Friedrich Nietzsche
+title: 'Fridays with Fred: Sacrifice and Significance'
 author: gheslop
 categories:
+- Value
+- Sacrifice
 - Existentialism
 - Philosophy
 - Fridays with Fred
