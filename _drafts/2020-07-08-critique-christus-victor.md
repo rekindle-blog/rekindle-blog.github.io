@@ -3,20 +3,21 @@ layout: post
 title: Christus Victor and the New Testament
 author: gheslop
 categories:
+- Penal substitutionary atonement
 - Critique
 - Atonement
 - New Testament
 - Gustaf Aulén
 - Critique
 - Christus Victor
-image: assets/images/holy-maria-altar-church-gold-light-christ-christianity-jesus-figure.jpg
+image: assets/images/new-testament.jpg
 featured: false
 hidden: false
 
 ---
 The Bible presents us with a victory motif, often brought together under the Christus Victor view of the atonement. This post is the third in a series considering Gustav Aulén’s defence and development of this view. So far we have considered some of its [strengths ](https://rekindle.co.za/content/2020-07-01-christus-victor-strengths "Retrieving Christus Victor")and also offered a [broad theological critique](https://rekindle.co.za/content/2020-07-08-critique-christus-victor "Critiquing Christus Victor "). Because we are engaging with Aulén’s presentation, my observations will at times only apply to his work titled _Christus Victor._ But we should not forget that he is arguably the historical position's most influential champion. Therefore there is signifiant overlap between Aulén’s packaging of Christus Victor and the early church's view. This post will assess Aulén’s handling of the New Testament and aim to present a more well rounded view of the atonement.
 
-### Christus Victor as exclusive
+### Christus Victor is not exclusive
 
 One of the criticisms I made in my previous post was his exclusive preference for the atonement as conflict and victory. The overbearing note in Aulén’s work is the divine conflict that crescendoes in conquest. But he fails to harmonise that note with the larger symphony of God’s biblical narrative. His atonement “theme” of Christus Victor drowns out the other voices and instruments—if you will indulge my metaphor. Though Aulén refers to Christ's death as a sacrifice or “self-oblation,” God’s costly punishment, these amount to little more than passing mentions. They only delay the inevitable conclusion: God’s victory comes by raw power, which overthrows his opponents.
 
@@ -30,19 +31,21 @@ Let’s consider the second in some more detail. Biblically, we might say that S
 
 His defeat demands more than pure power. God must strip Satan of source energising his power to accuse—human guilt. Let us consider how this is developed in the New Testament.
 
-### Paul's epistles: Galatians and Colossians
+## Linking victory to penal substitutionary atonement
+
+#### Galatians and Colossians
 
 Galatians 4:1-5:1 speaks at length of our freedom from spiritual forces and elementary principles. This liberation flows from Paul’s robust presentation of the cross as God’s curse suffered by Christ, in whom justification can be found through faith, in the promise of God made to Abraham [(Galatians 2:15-3:29)](https://rekindle.co.za/content/galatians-faith-in-christ-or-the-faithfulness-of-christ/ "Faith in Christ"). The link between believers’ liberation and Christ’s substitutionary death can be found elsewhere in Paul’s writings.
 
 Turning to Colossians, those persuaded by Aulén might hastily clutch onto the language of deliverance and redemption (Colossians 1:13-14). Yet when we read on, “his beloved Son, in whom we have…the forgiveness of sins.” In fact the theme of forgiveness in Christ is pervasive and tied to both: \[i\] the reconciliation of all things (Colossians 1:20), and \[ii\] the disarming of rulers (Colossians 2:15). All of this takes place because Christ suffered the debt for breaking God's legal commands by his death at the cross (Colossians 2:14).
 
-### Hebrews and Revelation
+#### Hebrews and Revelation
 
 Though probably not Pauline, Hebrews is similar. The destruction of the devil’s works is the result of Christ's propitiating death (Hebrews 2:14-17). To this point we might add that Hebrews’ is considered by many to be a ‘sermon’ majoring in Psalm 110, which describes God’s conquest over his enemies and the seating of his Son at his right hand.
 
 Likewise, as we noted in the first post of this series, in Revelation the Son is both victorious Lion and slain Lamb (Revelation 5:1-7). This tension is captured in the opening of John’s ‘apocalypse’ where Christ is at the same time the “ruler of the kings on earth” who freed his people with his own blood, or death (Revelation 1:5). Though the letter exhorts its readers to persevere and ultimately conquer, there is no missing the emphasis on Christ being the one has already who conquered (Revelation 3:21; 5:5; 17:14). Furthermore, those who are called to conquer appear to do so in no way other than the blood of the Lamb (Revelation 3:21; 12:11).
 
-### 1 John
+#### 1 John
 
 Aulén cites 1 John 3:8, “Christ came to destroy the works of the devil.” But, somewhat predictably and frustratingly, he does not explain how this victory is won. Even brief attention to this verse’s context is useful. For he Son came to remove our sin, which is lawlessness (1 John 3:4-5). In keeping with the major theme of 1 John, those who live in fellowship with God will have lives marked by righteousness (1 John 3:6-7). Thus the Son's defeat of Satan is concerned both with the eradication of our sin or guilt and the reinstatement of justice—or righteous living. Furthermore, 1 John links justice and love to the forgiveness of sins (1 John 1:9). There is no conflict between these elements. Our forgiveness is grounded in both God’s love and the fulfilment of his justice. Those who are set free from their guilt before God by Christ’s penal substitutionary death now become those who practise God’s righteousness. His love towards us does not abolish the law but empowers us to fulfil it through loving others.
 
