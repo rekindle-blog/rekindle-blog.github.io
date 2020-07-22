@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Critique of Christus Victor
+title: A Broad Critique of Christus Victor
 author: gheslop
 categories:
 - God's love
