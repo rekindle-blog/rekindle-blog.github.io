@@ -3,6 +3,7 @@ layout: post
 title: Christus Victor and the New Testament
 author: gheslop
 categories:
+- Vicarious death
 - Penal substitutionary atonement
 - Critique
 - Atonement
@@ -10,7 +11,7 @@ categories:
 - Gustaf Aulén
 - Critique
 - Christus Victor
-image: assets/images/new-testament.jpg
+image: assets/images/christus-victor-vicarious-suffering.jpg
 featured: false
 hidden: false
 
