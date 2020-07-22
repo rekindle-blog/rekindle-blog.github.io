@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christus Victor New Testament
+title: Christus Victor and the New Testament
 author: gheslop
 categories:
 - Vicarious death
