@@ -3,12 +3,13 @@ layout: post
 title: 'Doodle: How the Possibility of Apostasy Provides Assurance'
 author: gheslop
 categories:
+- Salvation
 - Scot McKnight
 - Warning passages
 - Hebrews
 - Apostasy
 - Assurance
-image: ''
+image: assets/images/walking-away.jpg
 featured: false
 hidden: false
 
