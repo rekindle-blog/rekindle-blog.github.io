@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assurance apostasy
+title: 'Doodle: How the Possibility of Apostasy Provides Assurance'
 author: gheslop
 categories:
 - Scot McKnight
