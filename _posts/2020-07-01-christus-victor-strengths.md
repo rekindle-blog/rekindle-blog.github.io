@@ -8,7 +8,7 @@ categories:
 - Gustav Aulén
 - Atonement
 - Christus Victor
-image: assets/images/art-2092530_1920.jpg
+image: assets/images/christus-victor-vicarious-suffering.jpg
 featured: false
 hidden: false
 
