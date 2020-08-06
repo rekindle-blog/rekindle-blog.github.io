@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christus Victor Theology
+title: Christus Victor in Patristic Theology, Irenaeus and Martin Luther
 author: gheslop
 categories:
 - Reformed theology
