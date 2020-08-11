@@ -3,9 +3,6 @@ layout: post
 title: Friederich Nietzsche
 author: gheslop
 categories:
-- Hypocrisy
-- Becoming
-- Habit
 - Existentialism
 - Philosophy
 - Fridays with Fred
