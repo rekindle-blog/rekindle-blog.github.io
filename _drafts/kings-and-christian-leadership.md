@@ -11,7 +11,7 @@ categories:
 - Old Testament
 - 1 Kings
 - Kings
-image: assets/images/rekindle-blog-images.jpg
+image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
 
