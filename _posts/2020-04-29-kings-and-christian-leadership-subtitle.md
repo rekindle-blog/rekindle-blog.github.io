@@ -9,7 +9,7 @@ categories:
 - Leadership
 - Old Testament
 - Kings
-image: assets/images/pxfuel.com.jpg
+image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
 
