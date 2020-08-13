@@ -3,10 +3,10 @@ layout: post
 title: Kings and Christian Leadership
 author: gheslop
 categories:
+- Christian leadership
 - Ministry
 - Solomon
 - Omri
-- Leadership
 - Kingship
 - Old Testament
 - 1 Kings
