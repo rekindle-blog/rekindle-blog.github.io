@@ -2,7 +2,7 @@
 layout: post
 title: Kings and Christian Leadership
 author: gheslop
-categories:
+tags:
 - Christian leadership
 - Ministry
 - Solomon
