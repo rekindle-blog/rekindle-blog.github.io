@@ -94,7 +94,7 @@ post_class: post-template
                 </small>
             </p>
 
-            <!-- Post Categories -->
+            <!-- Post Categories
             <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
@@ -104,7 +104,7 @@ post_class: post-template
                     </li>
                     {% endfor %}
                 </ul>
-            </div>
+			</div>-->
             <!-- End Categories -->
 
             <!-- Post Tags -->
@@ -113,7 +113,7 @@ post_class: post-template
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tag/{{ tag | replace: " ","-" | strip }}">{{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
