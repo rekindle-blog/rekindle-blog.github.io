@@ -2,7 +2,7 @@
 layout: post
 title: 'Kings and Christian Leadership: Church Politics'
 author: gheslop
-categories:
+tags:
 - Church leaders
 - Kings
 - Leadership

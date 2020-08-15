@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:21-24 Devotional
 author: gheslop
-categories:
+tags:
 - To live is Christ
 - Philippians
 - Philippians 1:21-24

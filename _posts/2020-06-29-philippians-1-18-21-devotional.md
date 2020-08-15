@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:18-21 Devotional
 author: gheslop
-categories:
+tags:
 - To die is gain
 - Philippians 1:21
 - God's glory

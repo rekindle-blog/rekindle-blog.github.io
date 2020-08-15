@@ -2,7 +2,7 @@
 layout: post
 title: Christian, Pray to the Lord of the Harvest
 author: gheslop
-categories:
+tags:
 - Lord's Prayer
 - Jesus
 - Matthew's Gospel

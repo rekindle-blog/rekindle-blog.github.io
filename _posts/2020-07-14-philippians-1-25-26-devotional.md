@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:25-26 Devotional
 author: gheslop
-categories:
+tags:
 - Confidence
 - Christian maturity
 - Philippians 1:25-26

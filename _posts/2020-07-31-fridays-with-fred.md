@@ -2,7 +2,7 @@
 layout: post
 title: 'Fridays with Fred: How Habits Shape Us'
 author: gheslop
-categories:
+tags:
 - Hypocrisy
 - Becoming
 - Habit

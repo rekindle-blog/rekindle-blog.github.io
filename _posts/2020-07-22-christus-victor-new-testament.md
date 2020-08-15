@@ -2,7 +2,7 @@
 layout: post
 title: Christus Victor and the New Testament
 author: gheslop
-categories:
+tags:
 - Vicarious death
 - Penal substitutionary atonement
 - Critique

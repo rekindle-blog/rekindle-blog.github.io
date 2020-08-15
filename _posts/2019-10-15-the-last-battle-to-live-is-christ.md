@@ -2,7 +2,7 @@
 layout: post
 title: 'The Last Battle: To Live is Christ'
 author: gheslop
-categories:
+tags:
 - New Testament
 - Philippians
 - Servanthood

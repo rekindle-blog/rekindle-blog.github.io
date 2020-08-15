@@ -2,7 +2,7 @@
 layout: post
 title: 'Fridays with Fred: Love and Marriage'
 author: gheslop
-categories:
+tags:
 - Emotion
 - Love
 - Marriage

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fridays with Fred: Existentialism and Entertainment'
 author: gheslop
-categories:
+tags:
 - Mankind
 - Humanity
 - Entertainment

@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:15-18 Devotional
 author: gheslop
-categories:
+tags:
 - Suffering
 - Ministry
 - Preaching

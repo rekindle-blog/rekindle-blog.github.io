@@ -2,7 +2,7 @@
 layout: post
 title: 'Doodle: "Where Is The Love?"'
 author: gheslop
-categories:
+tags:
 - 9 Marks
 - Christina Rossetti
 - Black Eyed Peas

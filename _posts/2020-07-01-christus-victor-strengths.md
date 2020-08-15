@@ -2,7 +2,7 @@
 layout: post
 title: Retrieving Christus Victor
 author: gheslop
-categories:
+tags:
 - Dramatic View
 - Classic View
 - Gustav Aulén

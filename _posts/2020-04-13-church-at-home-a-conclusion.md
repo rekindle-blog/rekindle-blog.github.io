@@ -2,7 +2,7 @@
 layout: post
 title: '"Church at Home": A Conclusion'
 author: gheslop
-categories:
+tags:
 - Ecclesiology
 - Home
 - Virtual

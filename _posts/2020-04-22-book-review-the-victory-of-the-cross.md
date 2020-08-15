@@ -2,7 +2,7 @@
 layout: post
 title: 'Book Review: The Victory of the Cross (James Payton Jr)'
 author: gheslop
-categories:
+tags:
 - Book review
 - Atonement
 - James Payton

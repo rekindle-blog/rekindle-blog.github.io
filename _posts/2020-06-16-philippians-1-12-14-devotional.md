@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:12-14 Devotional
 author: gheslop
-categories:
+tags:
 - God's sovereignty
 - Suffering
 - Philippians 1:12-14

@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:3-6 Devotional
 author: gheslop
-categories:
+tags:
 - Christian Life
 - Joy
 - Philippians 1:3-6

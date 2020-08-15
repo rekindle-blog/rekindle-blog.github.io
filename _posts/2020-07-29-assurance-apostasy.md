@@ -2,7 +2,7 @@
 layout: post
 title: 'Doodle: How the Possibility of Apostasy Provides Assurance'
 author: gheslop
-categories:
+tags:
 - Salvation
 - Scot McKnight
 - Warning passages

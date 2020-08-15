@@ -2,7 +2,7 @@
 layout: post
 title: Christus Victor in Patristic Theology, Irenaeus and Martin Luther
 author: gheslop
-categories:
+tags:
 - Reformed theology
 - Irenaeus
 - Recapitulation

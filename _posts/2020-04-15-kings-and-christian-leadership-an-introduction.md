@@ -2,7 +2,7 @@
 layout: post
 title: 'Kings and Christian Leadership: An Introduction'
 author: gheslop
-categories:
+tags:
 - Church
 - Ministry
 - Leadership

@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:27-30 Devotional
 author: gheslop
-categories:
+tags:
 - Suffering
 - Church
 - Christian unity

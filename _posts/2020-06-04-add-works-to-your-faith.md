@@ -2,7 +2,7 @@
 layout: post
 title: Add Works to Your Faith
 author: gheslop
-categories:
+tags:
 - Righteousness
 - Catholic Epistles
 - 2 Peter

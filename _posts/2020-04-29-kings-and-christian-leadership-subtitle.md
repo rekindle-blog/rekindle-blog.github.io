@@ -2,7 +2,7 @@
 layout: post
 title: 'Kings and Christian Leadership: Servants not Centres'
 author: gheslop
-categories:
+tags:
 - Kingship
 - Ministry
 - Church

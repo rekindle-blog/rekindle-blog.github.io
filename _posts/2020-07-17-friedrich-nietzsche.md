@@ -2,7 +2,7 @@
 layout: post
 title: 'Fridays with Fred: Sacrifice and Significance'
 author: gheslop
-categories:
+tags:
 - Selfless
 - Value
 - Sacrifice

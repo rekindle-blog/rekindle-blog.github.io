@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 2:5-8 Devotional
 author: gheslop
-categories:
+tags:
 - Incarnation
 - Humility
 - Church

@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:9-11 Devotional
 author: gheslop
-categories:
+tags:
 - Philippians 1:9-11
 - Prayer
 - Devotional

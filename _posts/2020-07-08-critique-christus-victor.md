@@ -2,7 +2,7 @@
 layout: post
 title: A Broad Critique of Christus Victor
 author: gheslop
-categories:
+tags:
 - God's love
 - God's justice
 - Critique

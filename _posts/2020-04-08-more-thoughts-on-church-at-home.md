@@ -2,7 +2,7 @@
 layout: post
 title: More Thoughts on “Church at Home”
 author: gheslop
-categories:
+tags:
 - Liturgy
 - Pastor
 - Theology

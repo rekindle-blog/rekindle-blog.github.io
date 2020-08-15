@@ -2,7 +2,7 @@
 layout: post
 title: The Mortification of Aimee Byrd
 author: gheslop
-categories:
+tags:
 - Mortification
 - Complementarian
 - Feminism

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kings and Christian Leadership: God Builds His Church'
 author: gheslop
-categories:
+tags:
 - Old Testament
 - Ministry
 - Leadership

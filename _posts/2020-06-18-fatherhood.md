@@ -2,7 +2,7 @@
 layout: post
 title: 'Fatherhood: A Personal Reflection'
 author: gheslop
-categories:
+tags:
 - Father
 - Motherhood
 - Lila

@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 1:7-8 Devotional
 author: gheslop
-categories:
+tags:
 - Prayer
 - Philippians 1:7-8
 - Devotional

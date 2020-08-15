@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 2:9-11 Devotional
 author: gheslop
-categories:
+tags:
 - Humility
 - Worship
 - Christ's exaltation

@@ -2,7 +2,7 @@
 layout: post
 title: '“Church at Home”: The Triumph of Pragmatism Over Theology'
 author: gheslop
-categories:
+tags:
 - Ecclesiology
 - Home
 - Theology

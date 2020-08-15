@@ -2,7 +2,7 @@
 layout: post
 title: Philippians 2:1-4 Devotional
 author: gheslop
-categories:
+tags:
 - Encouragement
 - Christian service
 - Suffering
