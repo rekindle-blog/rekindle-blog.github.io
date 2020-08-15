@@ -21,6 +21,11 @@
 
 </head>
 
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
+
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script>
