@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Jesus"
-category: Jesus
+layout: tag_page
+title: "Tag: Jesus"
+tag: Jesus
 robots: noindex
 ---

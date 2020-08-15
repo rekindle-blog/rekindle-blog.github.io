@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Aimee Byrd"
-category: Aimee Byrd
+layout: tag_page
+title: "Tag: Aimee Byrd"
+tag: Aimee Byrd
 robots: noindex
 ---

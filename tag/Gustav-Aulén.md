@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Gustav Aulén"
-category: Gustav Aulén
+layout: tag_page
+title: "Tag: Gustav Aulén"
+tag: Gustav Aulén
 robots: noindex
 ---

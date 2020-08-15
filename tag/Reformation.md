@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Reformation"
-category: Reformation
+layout: tag_page
+title: "Tag: Reformation"
+tag: Reformation
 robots: noindex
 ---

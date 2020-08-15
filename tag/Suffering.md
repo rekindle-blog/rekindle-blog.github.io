@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Suffering"
-category: Suffering
+layout: tag_page
+title: "Tag: Suffering"
+tag: Suffering
 robots: noindex
 ---

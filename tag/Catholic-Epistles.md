@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Catholic Epistles"
-category: Catholic Epistles
+layout: tag_page
+title: "Tag: Catholic Epistles"
+tag: Catholic Epistles
 robots: noindex
 ---

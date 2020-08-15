@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Becoming"
-category: Becoming
+layout: tag_page
+title: "Tag: Becoming"
+tag: Becoming
 robots: noindex
 ---

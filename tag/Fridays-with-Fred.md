@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Fridays with Fred"
-category: Fridays with Fred
+layout: tag_page
+title: "Tag: Fridays with Fred"
+tag: Fridays with Fred
 robots: noindex
 ---

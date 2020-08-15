@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Christian service"
-category: Christian service
+layout: tag_page
+title: "Tag: Christian service"
+tag: Christian service
 robots: noindex
 ---

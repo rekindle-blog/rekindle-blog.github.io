@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Scot McKnight"
-category: Scot McKnight
+layout: tag_page
+title: "Tag: Scot McKnight"
+tag: Scot McKnight
 robots: noindex
 ---

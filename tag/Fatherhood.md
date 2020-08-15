@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Fatherhood"
-category: Fatherhood
+layout: tag_page
+title: "Tag: Fatherhood"
+tag: Fatherhood
 robots: noindex
 ---

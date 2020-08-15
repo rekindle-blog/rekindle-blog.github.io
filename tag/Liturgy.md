@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Liturgy"
-category: Liturgy
+layout: tag_page
+title: "Tag: Liturgy"
+tag: Liturgy
 robots: noindex
 ---

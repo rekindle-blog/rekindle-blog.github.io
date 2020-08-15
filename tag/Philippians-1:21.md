@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Philippians 1:21"
-category: Philippians 1:21
+layout: tag_page
+title: "Tag: Philippians 1:21"
+tag: Philippians 1:21
 robots: noindex
 ---

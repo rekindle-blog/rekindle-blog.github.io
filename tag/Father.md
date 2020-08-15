@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Father"
-category: Father
+layout: tag_page
+title: "Tag: Father"
+tag: Father
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: God's sovereignty"
-category: God's sovereignty
+layout: tag_page
+title: "Tag: God's sovereignty"
+tag: God's sovereignty
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Matthew's Gospel"
-category: Matthew's Gospel
+layout: tag_page
+title: "Tag: Matthew's Gospel"
+tag: Matthew's Gospel
 robots: noindex
 ---

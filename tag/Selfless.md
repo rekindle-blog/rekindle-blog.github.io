@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Selfless"
-category: Selfless
+layout: tag_page
+title: "Tag: Selfless"
+tag: Selfless
 robots: noindex
 ---

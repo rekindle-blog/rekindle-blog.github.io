@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Warning passages"
-category: Warning passages
+layout: tag_page
+title: "Tag: Warning passages"
+tag: Warning passages
 robots: noindex
 ---

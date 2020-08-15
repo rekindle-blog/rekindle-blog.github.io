@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Christian unity"
-category: Christian unity
+layout: tag_page
+title: "Tag: Christian unity"
+tag: Christian unity
 robots: noindex
 ---

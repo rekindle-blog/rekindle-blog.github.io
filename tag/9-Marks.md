@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: 9 Marks"
-category: 9 Marks
+layout: tag_page
+title: "Tag: 9 Marks"
+tag: 9 Marks
 robots: noindex
 ---

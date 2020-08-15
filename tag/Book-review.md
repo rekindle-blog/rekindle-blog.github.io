@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Book review"
-category: Book review
+layout: tag_page
+title: "Tag: Book review"
+tag: Book review
 robots: noindex
 ---

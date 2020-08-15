@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Kingship"
-category: Kingship
+layout: tag_page
+title: "Tag: Kingship"
+tag: Kingship
 robots: noindex
 ---

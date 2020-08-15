@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Recapitulation"
-category: Recapitulation
+layout: tag_page
+title: "Tag: Recapitulation"
+tag: Recapitulation
 robots: noindex
 ---

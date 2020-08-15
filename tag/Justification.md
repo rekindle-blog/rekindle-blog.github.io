@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Justification"
-category: Justification
+layout: tag_page
+title: "Tag: Justification"
+tag: Justification
 robots: noindex
 ---

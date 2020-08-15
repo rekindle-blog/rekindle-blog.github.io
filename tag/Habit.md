@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Habit"
-category: Habit
+layout: tag_page
+title: "Tag: Habit"
+tag: Habit
 robots: noindex
 ---

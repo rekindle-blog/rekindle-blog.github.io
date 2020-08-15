@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: 2 Peter"
-category: 2 Peter
+layout: tag_page
+title: "Tag: 2 Peter"
+tag: 2 Peter
 robots: noindex
 ---

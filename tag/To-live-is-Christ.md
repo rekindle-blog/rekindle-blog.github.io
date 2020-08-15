@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: To live is Christ"
-category: To live is Christ
+layout: tag_page
+title: "Tag: To live is Christ"
+tag: To live is Christ
 robots: noindex
 ---

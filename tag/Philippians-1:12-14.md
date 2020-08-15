@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Philippians 1:12-14"
-category: Philippians 1:12-14
+layout: tag_page
+title: "Tag: Philippians 1:12-14"
+tag: Philippians 1:12-14
 robots: noindex
 ---

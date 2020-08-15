@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: The Victory of the Cross"
-category: The Victory of the Cross
+layout: tag_page
+title: "Tag: The Victory of the Cross"
+tag: The Victory of the Cross
 robots: noindex
 ---

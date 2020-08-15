@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Christus Victor"
-category: Christus Victor
+layout: tag_page
+title: "Tag: Christus Victor"
+tag: Christus Victor
 robots: noindex
 ---

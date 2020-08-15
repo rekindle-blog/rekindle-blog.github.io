@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Martin Luther"
-category: Martin Luther
+layout: tag_page
+title: "Tag: Martin Luther"
+tag: Martin Luther
 robots: noindex
 ---

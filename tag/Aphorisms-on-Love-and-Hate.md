@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Aphorisms on Love and Hate"
-category: Aphorisms on Love and Hate
+layout: tag_page
+title: "Tag: Aphorisms on Love and Hate"
+tag: Aphorisms on Love and Hate
 robots: noindex
 ---

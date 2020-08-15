@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Hypocrisy"
-category: Hypocrisy
+layout: tag_page
+title: "Tag: Hypocrisy"
+tag: Hypocrisy
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Ministry"
-category: Ministry
+layout: tag_page
+title: "Tag: Ministry"
+tag: Ministry
 robots: noindex
 ---

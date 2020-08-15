@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Lord's Prayer"
-category: Lord's Prayer
+layout: tag_page
+title: "Tag: Lord's Prayer"
+tag: Lord's Prayer
 robots: noindex
 ---

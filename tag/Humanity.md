@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Humanity"
-category: Humanity
+layout: tag_page
+title: "Tag: Humanity"
+tag: Humanity
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Incarnation"
-category: Incarnation
+layout: tag_page
+title: "Tag: Incarnation"
+tag: Incarnation
 robots: noindex
 ---

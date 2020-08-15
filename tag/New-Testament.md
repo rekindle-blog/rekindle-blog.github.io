@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: New Testament"
-category: New Testament
+layout: tag_page
+title: "Tag: New Testament"
+tag: New Testament
 robots: noindex
 ---

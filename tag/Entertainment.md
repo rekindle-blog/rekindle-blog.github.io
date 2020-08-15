@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Entertainment"
-category: Entertainment
+layout: tag_page
+title: "Tag: Entertainment"
+tag: Entertainment
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Marilynne Robinson"
-category: Marilynne Robinson
+layout: tag_page
+title: "Tag: Marilynne Robinson"
+tag: Marilynne Robinson
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Existentialism"
-category: Existentialism
+layout: tag_page
+title: "Tag: Existentialism"
+tag: Existentialism
 robots: noindex
 ---

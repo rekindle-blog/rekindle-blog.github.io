@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Humility"
-category: Humility
+layout: tag_page
+title: "Tag: Humility"
+tag: Humility
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Vicarious death"
-category: Vicarious death
+layout: tag_page
+title: "Tag: Vicarious death"
+tag: Vicarious death
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Women"
-category: Women
+layout: tag_page
+title: "Tag: Women"
+tag: Women
 robots: noindex
 ---

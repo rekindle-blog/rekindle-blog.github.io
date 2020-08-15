@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: C. S. Lewis"
-category: C. S. Lewis
+layout: tag_page
+title: "Tag: C. S. Lewis"
+tag: C. S. Lewis
 robots: noindex
 ---

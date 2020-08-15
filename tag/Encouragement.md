@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Encouragement"
-category: Encouragement
+layout: tag_page
+title: "Tag: Encouragement"
+tag: Encouragement
 robots: noindex
 ---

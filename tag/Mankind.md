@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Mankind"
-category: Mankind
+layout: tag_page
+title: "Tag: Mankind"
+tag: Mankind
 robots: noindex
 ---

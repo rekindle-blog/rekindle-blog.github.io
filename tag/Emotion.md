@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Emotion"
-category: Emotion
+layout: tag_page
+title: "Tag: Emotion"
+tag: Emotion
 robots: noindex
 ---

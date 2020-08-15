@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Leadership"
-category: Leadership
+layout: tag_page
+title: "Tag: Leadership"
+tag: Leadership
 robots: noindex
 ---

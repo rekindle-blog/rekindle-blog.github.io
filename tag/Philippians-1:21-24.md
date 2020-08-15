@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Philippians 1:21-24"
-category: Philippians 1:21-24
+layout: tag_page
+title: "Tag: Philippians 1:21-24"
+tag: Philippians 1:21-24
 robots: noindex
 ---

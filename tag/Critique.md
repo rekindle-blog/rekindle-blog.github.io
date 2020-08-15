@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Critique"
-category: Critique
+layout: tag_page
+title: "Tag: Critique"
+tag: Critique
 robots: noindex
 ---

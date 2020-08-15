@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Ecclesiology"
-category: Ecclesiology
+layout: tag_page
+title: "Tag: Ecclesiology"
+tag: Ecclesiology
 robots: noindex
 ---

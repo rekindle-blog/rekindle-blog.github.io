@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Confidence"
-category: Confidence
+layout: tag_page
+title: "Tag: Confidence"
+tag: Confidence
 robots: noindex
 ---

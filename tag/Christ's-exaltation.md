@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Christ's exaltation"
-category: Christ's exaltation
+layout: tag_page
+title: "Tag: Christ's exaltation"
+tag: Christ's exaltation
 robots: noindex
 ---

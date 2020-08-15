@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Church leaders"
-category: Church leaders
+layout: tag_page
+title: "Tag: Church leaders"
+tag: Church leaders
 robots: noindex
 ---

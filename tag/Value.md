@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Value"
-category: Value
+layout: tag_page
+title: "Tag: Value"
+tag: Value
 robots: noindex
 ---

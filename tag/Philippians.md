@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Philippians"
-category: Philippians
+layout: tag_page
+title: "Tag: Philippians"
+tag: Philippians
 robots: noindex
 ---

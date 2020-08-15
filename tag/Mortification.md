@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Mortification"
-category: Mortification
+layout: tag_page
+title: "Tag: Mortification"
+tag: Mortification
 robots: noindex
 ---

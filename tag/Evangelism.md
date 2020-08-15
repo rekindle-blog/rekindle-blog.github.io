@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Evangelism"
-category: Evangelism
+layout: tag_page
+title: "Tag: Evangelism"
+tag: Evangelism
 robots: noindex
 ---

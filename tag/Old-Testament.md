@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Old Testament"
-category: Old Testament
+layout: tag_page
+title: "Tag: Old Testament"
+tag: Old Testament
 robots: noindex
 ---

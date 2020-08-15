@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Prayer"
-category: Prayer
+layout: tag_page
+title: "Tag: Prayer"
+tag: Prayer
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Sacrifice"
-category: Sacrifice
+layout: tag_page
+title: "Tag: Sacrifice"
+tag: Sacrifice
 robots: noindex
 ---

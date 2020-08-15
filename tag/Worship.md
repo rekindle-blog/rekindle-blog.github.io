@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Worship"
-category: Worship
+layout: tag_page
+title: "Tag: Worship"
+tag: Worship
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Church"
-category: Church
+layout: tag_page
+title: "Tag: Church"
+tag: Church
 robots: noindex
 ---

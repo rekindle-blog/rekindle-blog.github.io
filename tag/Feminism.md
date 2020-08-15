@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Feminism"
-category: Feminism
+layout: tag_page
+title: "Tag: Feminism"
+tag: Feminism
 robots: noindex
 ---

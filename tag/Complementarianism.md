@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Complementarianism"
-category: Complementarianism
+layout: tag_page
+title: "Tag: Complementarianism"
+tag: Complementarianism
 robots: noindex
 ---

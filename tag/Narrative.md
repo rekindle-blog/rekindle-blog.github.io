@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Narrative"
-category: Narrative
+layout: tag_page
+title: "Tag: Narrative"
+tag: Narrative
 robots: noindex
 ---

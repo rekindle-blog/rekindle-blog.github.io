@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Complementarian"
-category: Complementarian
+layout: tag_page
+title: "Tag: Complementarian"
+tag: Complementarian
 robots: noindex
 ---

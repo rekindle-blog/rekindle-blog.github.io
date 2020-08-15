@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Joy"
-category: Joy
+layout: tag_page
+title: "Tag: Joy"
+tag: Joy
 robots: noindex
 ---

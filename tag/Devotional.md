@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Devotional"
-category: Devotional
+layout: tag_page
+title: "Tag: Devotional"
+tag: Devotional
 robots: noindex
 ---

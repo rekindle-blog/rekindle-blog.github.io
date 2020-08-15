@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Virtual"
-category: Virtual
+layout: tag_page
+title: "Tag: Virtual"
+tag: Virtual
 robots: noindex
 ---

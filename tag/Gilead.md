@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Gilead"
-category: Gilead
+layout: tag_page
+title: "Tag: Gilead"
+tag: Gilead
 robots: noindex
 ---

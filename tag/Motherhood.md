@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Motherhood"
-category: Motherhood
+layout: tag_page
+title: "Tag: Motherhood"
+tag: Motherhood
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Service"
-category: Service
+layout: tag_page
+title: "Tag: Service"
+tag: Service
 robots: noindex
 ---

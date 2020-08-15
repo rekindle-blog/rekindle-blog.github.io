@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Dramatic View"
-category: Dramatic View
+layout: tag_page
+title: "Tag: Dramatic View"
+tag: Dramatic View
 robots: noindex
 ---

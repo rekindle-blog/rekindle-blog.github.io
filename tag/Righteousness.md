@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Righteousness"
-category: Righteousness
+layout: tag_page
+title: "Tag: Righteousness"
+tag: Righteousness
 robots: noindex
 ---

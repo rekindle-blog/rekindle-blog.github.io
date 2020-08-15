@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Marriage"
-category: Marriage
+layout: tag_page
+title: "Tag: Marriage"
+tag: Marriage
 robots: noindex
 ---

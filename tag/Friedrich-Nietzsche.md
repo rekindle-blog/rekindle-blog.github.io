@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Friedrich Nietzsche"
-category: Friedrich Nietzsche
+layout: tag_page
+title: "Tag: Friedrich Nietzsche"
+tag: Friedrich Nietzsche
 robots: noindex
 ---

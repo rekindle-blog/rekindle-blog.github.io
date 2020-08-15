@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Gospel"
-category: Gospel
+layout: tag_page
+title: "Tag: Gospel"
+tag: Gospel
 robots: noindex
 ---

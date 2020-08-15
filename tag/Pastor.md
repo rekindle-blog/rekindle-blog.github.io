@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Pastor"
-category: Pastor
+layout: tag_page
+title: "Tag: Pastor"
+tag: Pastor
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Narnia"
-category: Narnia
+layout: tag_page
+title: "Tag: Narnia"
+tag: Narnia
 robots: noindex
 ---

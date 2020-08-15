@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Works"
-category: Works
+layout: tag_page
+title: "Tag: Works"
+tag: Works
 robots: noindex
 ---

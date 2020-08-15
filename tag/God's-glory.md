@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: God's glory"
-category: God's glory
+layout: tag_page
+title: "Tag: God's glory"
+tag: God's glory
 robots: noindex
 ---

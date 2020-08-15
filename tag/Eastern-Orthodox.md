@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Eastern Orthodox"
-category: Eastern Orthodox
+layout: tag_page
+title: "Tag: Eastern Orthodox"
+tag: Eastern Orthodox
 robots: noindex
 ---

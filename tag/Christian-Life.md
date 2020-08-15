@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Christian Life"
-category: Christian Life
+layout: tag_page
+title: "Tag: Christian Life"
+tag: Christian Life
 robots: noindex
 ---

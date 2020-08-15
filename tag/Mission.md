@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Mission"
-category: Mission
+layout: tag_page
+title: "Tag: Mission"
+tag: Mission
 robots: noindex
 ---

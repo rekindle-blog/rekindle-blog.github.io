@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Christian maturity"
-category: Christian maturity
+layout: tag_page
+title: "Tag: Christian maturity"
+tag: Christian maturity
 robots: noindex
 ---

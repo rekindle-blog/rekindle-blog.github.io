@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Lila"
-category: Lila
+layout: tag_page
+title: "Tag: Lila"
+tag: Lila
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Apostasy"
-category: Apostasy
+layout: tag_page
+title: "Tag: Apostasy"
+tag: Apostasy
 robots: noindex
 ---

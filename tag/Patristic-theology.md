@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Patristic theology"
-category: Patristic theology
+layout: tag_page
+title: "Tag: Patristic theology"
+tag: Patristic theology
 robots: noindex
 ---

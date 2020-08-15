@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Servanthood"
-category: Servanthood
+layout: tag_page
+title: "Tag: Servanthood"
+tag: Servanthood
 robots: noindex
 ---

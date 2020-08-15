@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Assurance"
-category: Assurance
+layout: tag_page
+title: "Tag: Assurance"
+tag: Assurance
 robots: noindex
 ---

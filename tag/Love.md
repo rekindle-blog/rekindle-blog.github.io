@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Love"
-category: Love
+layout: tag_page
+title: "Tag: Love"
+tag: Love
 robots: noindex
 ---

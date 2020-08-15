@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Philosophy"
-category: Philosophy
+layout: tag_page
+title: "Tag: Philosophy"
+tag: Philosophy
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Preaching"
-category: Preaching
+layout: tag_page
+title: "Tag: Preaching"
+tag: Preaching
 robots: noindex
 ---

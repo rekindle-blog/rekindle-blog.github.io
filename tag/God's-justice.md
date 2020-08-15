@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: God's justice"
-category: God's justice
+layout: tag_page
+title: "Tag: God's justice"
+tag: God's justice
 robots: noindex
 ---

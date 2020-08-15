@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Theology"
-category: Theology
+layout: tag_page
+title: "Tag: Theology"
+tag: Theology
 robots: noindex
 ---

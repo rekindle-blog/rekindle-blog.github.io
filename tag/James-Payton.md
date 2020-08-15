@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: James Payton"
-category: James Payton
+layout: tag_page
+title: "Tag: James Payton"
+tag: James Payton
 robots: noindex
 ---

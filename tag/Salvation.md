@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: Salvation"
-category: Salvation
+layout: tag_page
+title: "Tag: Salvation"
+tag: Salvation
 robots: noindex
 ---

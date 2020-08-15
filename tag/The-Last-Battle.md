@@ -1,6 +1,6 @@
 ---
-layout: category_page
-title: "Category: The Last Battle"
-category: The Last Battle
+layout: tag_page
+title: "Tag: The Last Battle"
+tag: The Last Battle
 robots: noindex
 ---
