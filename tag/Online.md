@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Online"\category: Online
+title: "Category: Online"
+category: Online
 robots: noindex
 ---

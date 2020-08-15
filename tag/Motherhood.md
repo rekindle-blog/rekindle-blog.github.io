@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Motherhood"\category: Motherhood
+title: "Category: Motherhood"
+category: Motherhood
 robots: noindex
 ---

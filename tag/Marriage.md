@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Marriage"\category: Marriage
+title: "Category: Marriage"
+category: Marriage
 robots: noindex
 ---

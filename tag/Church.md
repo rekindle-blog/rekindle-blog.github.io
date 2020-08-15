@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Church"\category: Church
+title: "Category: Church"
+category: Church
 robots: noindex
 ---

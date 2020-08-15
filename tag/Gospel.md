@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Gospel"\category: Gospel
+title: "Category: Gospel"
+category: Gospel
 robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Penal substitutionary atonement"\category: Penal substitutionary atonement
+title: "Category: Penal substitutionary atonement"
+category: Penal substitutionary atonement
 robots: noindex
 ---

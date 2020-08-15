@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Apostasy"\category: Apostasy
+title: "Category: Apostasy"
+category: Apostasy
 robots: noindex
 ---

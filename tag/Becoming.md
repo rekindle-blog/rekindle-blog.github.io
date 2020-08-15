@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Becoming"\category: Becoming
+title: "Category: Becoming"
+category: Becoming
 robots: noindex
 ---

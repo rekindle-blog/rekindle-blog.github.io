@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Patristic theology"\category: Patristic theology
+title: "Category: Patristic theology"
+category: Patristic theology
 robots: noindex
 ---

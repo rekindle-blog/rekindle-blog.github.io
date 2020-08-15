@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Leadership"\category: Leadership
+title: "Category: Leadership"
+category: Leadership
 robots: noindex
 ---

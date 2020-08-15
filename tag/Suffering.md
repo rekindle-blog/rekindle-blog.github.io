@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Suffering"\category: Suffering
+title: "Category: Suffering"
+category: Suffering
 robots: noindex
 ---

@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Hypocrisy"\category: Hypocrisy
+title: "Category: Hypocrisy"
+category: Hypocrisy
 robots: noindex
 ---

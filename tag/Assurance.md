@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Assurance"\category: Assurance
+title: "Category: Assurance"
+category: Assurance
 robots: noindex
 ---

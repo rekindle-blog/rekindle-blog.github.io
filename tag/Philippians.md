@@ -1,5 +1,6 @@
 ---
 layout: category_page
-title: "Category: Philippians"\category: Philippians
+title: "Category: Philippians"
+category: Philippians
 robots: noindex
 ---
