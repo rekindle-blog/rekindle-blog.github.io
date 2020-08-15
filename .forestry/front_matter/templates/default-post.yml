@@ -18,8 +18,8 @@ fields:
   config:
     required: true
 - type: list
-  name: categories
-  label: Categories
+  name: tags
+  label: Tags
   description: List of tags ("New Testament", "Lord of the Rings", etc.). Keep capitalisation
     consistent (sorry there are no suggestions).
   config:
