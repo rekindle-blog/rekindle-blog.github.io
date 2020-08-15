@@ -6,9 +6,13 @@ layout: default
 <h2 id="{{ category[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ page.tag }}</span></h2>
 <ul>
 {% for post in site.tags[page.tag] %}
-	{% include postbox.html %}
+	{{ post | debug}}
 {% endfor %}
 </ul>
 </div>
+site:<br/>
+{{ site.tags | debug }}
+page:</br>
+{{ page | debug }}
 </div>
 <hr>
