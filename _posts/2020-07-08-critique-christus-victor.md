@@ -10,7 +10,7 @@ categories:
 - Gustaf Aulén
 - Critique
 - Christus Victor
-image: assets/images/holy-maria-altar-church-gold-light-christ-christianity-jesus-figure.jpg
+image: assets/images/christus-victor-vicarious-suffering.jpg
 featured: false
 hidden: false
 

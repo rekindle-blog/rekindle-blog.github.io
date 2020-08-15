@@ -11,7 +11,7 @@ categories:
 - Old Testament
 - 1 Kings
 - Kings
-image: assets/images/410px-Solomon's_Wealth_and_Wisdom.jpg
+image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
 
