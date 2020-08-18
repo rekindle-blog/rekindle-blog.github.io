@@ -2,7 +2,7 @@
 layout: post
 title: Kings and Christian Leadership
 author: gheslop
-tags:
+categories:
 - Christian leadership
 - Ministry
 - Solomon
@@ -14,13 +14,19 @@ tags:
 image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
+tags:
+- Christian leadership
+- Omri
+- Solomon
+- Kings
+- Old Testament
 
 ---
 Have you heard about the mighty Omridic dynasty in the ancient Near East? No? Don’t worry. I hadn’t either before completing the readings for my course on the Old Testament book of Kings. And when I say “readings,” I am not referring to my reading of Kings itself. For 1-2 Kings displays almost no interest in recounting the historically well-attested rise of Omri’s house in the northern kingdom of Israel. We meet Omri in 1 Kings 16:16, at his coronation. His time onstage, however, is short. In a handful of narrative verses we are told twice that he sinned in the manner of Jeroboam, doing what was evil in Yahweh’s eyes and leading Israel into sin (16:19, 25-26). In passing another small detail is mentioned, “He built Samaria” (16:24). Interestingly, Samaria rather than Jerusalem was the military and political capital of of both Israel and Judah for decades. In fact, if a historian were rewriting the book of Kings, she would almost certainly describe the Omridic dynasty as Israel’s economic, military and political centre. But this is not so.
 
 We should stop to reflect on the meaning of this. The Omridic dynasty was a powerhouse in the ancient Near East. Yet Kings' object lesson from Omri - along with each of his descendants - is that he rebelled against Yahweh. So when Kings reviews the period following Solomon (1 Kings 12) up until the exile (2 Kings 24-25), Omri’s very human successes and triumphs are all but passed over. Therefore we learn that the might of the Omridic dynasty was no match for Yahweh’s power. Conversely, fidelity to Yahweh would have ensured military success. Yahweh rewarded fidelity to his covenant. Throughout the Old Testament, Yahweh repeatedly demonstrates he is capable to fulfil the promises given to his people, protect his people and powerfully overcome their enemies. But this is hard for proud people to admit—especially the leaders of those people.
 
-Solomon illustrates this struggle well. As we have already seen, paraphrasing Old Testament scholar Gordon McConville: Solomon makes a mockery of Yahweh's chosen place and power when he turns Jerusalem into the capital of a centralised and self-protecting, self-serving state. As I argued in a [previous post](https://rekindle.co.za/content/2020-04-29-kings-and-christian-leadership-subtitle "Leaders: servants not centres"), rather than serving the people Solomon made himself into Israel’s centre. Furthermore, [he sought comfort and security in his own ingenuity](https://rekindle.co.za/content/2019-11-28-kings-and-christian-leadership-church-politics "Leaders and church politics"), which is a short step from idolatry. His father David had exhorted him to depend on Yahweh (2:1-4), yet David’s advise was commingled with ruthless and decisive human action to secure the throne (2:5-11). In some ways this counsel set the course for Solomon’s kingship, rather than the [kingship charter ](https://rekindle.co.za/content/2020-04-15-kings-and-christian-leadership-an-introduction "Introduction to Kings and Christian leadership")in Deuteronomy 17. His reign was to be marked by politically savvy and prudent strategising, rewarding his ambition but ultimately derailing his leadership and faith.
+Solomon illustrates this struggle well. As we have already seen, paraphrasing Old Testament scholar Gordon McConville: Solomon makes a mockery of Yahweh's chosen place and power when he turns Jerusalem into the capital of a centralised and self-protecting, self-serving state. As I argued in a [previous post](https://rekindle.co.za/content/2020-04-29-kings-and-christian-leadership-subtitle "Leaders: servants not centres"), rather than serving the people Solomon made himself into Israel’s centre. Furthermore, he sought [comfort and security in his own ingenuity](https://rekindle.co.za/content/2019-11-28-kings-and-christian-leadership-church-politics "Leaders and church politics"), which is a short step from idolatry. His father David had exhorted him to depend on Yahweh (2:1-4), yet David’s advise was commingled with ruthless and decisive human action to secure the throne (2:5-11). In some ways this counsel set the course for Solomon’s kingship, rather than the [kingship charter ](https://rekindle.co.za/content/2020-04-15-kings-and-christian-leadership-an-introduction "Introduction to Kings and Christian leadership")in Deuteronomy 17. His reign was to be marked by politically savvy and prudent strategising, rewarding his ambition but ultimately derailing his leadership and faith.
 
 Solomon became a self-securing leader. He amassed multiple horses (1 Kings 4:26-27). This isn’t to say he liked horses but rather that he created a military machine. He married an Egyptian princess (1 Kings 3:1), establishing an alliance with the great north African power. While such actions appear historically defensible, not to mention sensible, they imply a wayward faith. As Wray Beal writes in her commentary, "Their military needs are to be met by Yahweh the divine warrior." Israel possessed the land God gave to them. It remained theirs through Yahweh’s power, as they continued to trust in his promises. Thus, another Old Testament scholar, Gerbrandt, notes that military defence of the land was not the king’s primary responsibility but contingent on Yahweh’s sovereign power.
 
