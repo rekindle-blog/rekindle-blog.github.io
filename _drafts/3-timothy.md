@@ -14,6 +14,8 @@ featured: false
 hidden: false
 
 ---
+### Paul's Third Epistle to Timothy
+
 **1:1** Paul, an apostle of Christ Jesus, by the command of God and for the sake of his church. **1:2** To Timothy, my child in the faith: grace, mercy and peace from God the Father and Christ Jesus our Lord.
 
 **1:3** I thank God you were able to visit to me in Nicopolis, and especially for your delivery of the books and parchments I requested. **1:4** I do not want you to be deceived, my beloved, by those who have misunderstood me. **1:5** Though Scripture is breathed out by God and able to equip the believer for every good work, **1:6** much more is necessary to equip the church leader in his task. **1:7** As much as we did not receive a spirit of fear, nor did God give us a spirit of naivety. **1:8** So show yourself approved, rightly handling Scripture. **1:9** But do not make yourself ineffective through ignorance of the secular writings. **1:10** The saying is trustworthy and deserving of full acceptance, that godliness is of some value, **1:11** but to fulfil our charge and guard the good deposit you must be devoted to church growth. **1:12** As one leader wrote, ‘I came to Rome when it was a city of stone and left it a city of marble.’ **1:13** Therefore, let no one despise you for your commitment to the secular writings. Rather set them an example in vision casting, strategic planning and ambition. **1:14** Practise these things, immerse yourself in them. By rejecting them some have made a shipwreck of their public image and church brand.
