@@ -14,9 +14,10 @@ image: assets/images/philippians-devotional.jpg
 featured: false
 hidden: false
 tags:
+- Church
+- Christian community
 - Epaphroditus
 - Philippians 2:25-30
-- Christian life
 - Devotional
 - New Testament
 - Philippians
