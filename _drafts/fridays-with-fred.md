@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nietzsche power
+title: 'Fridays with Fred: Sorry, Not Sorry'
 author: gheslop
 categories:
 - Emotion
