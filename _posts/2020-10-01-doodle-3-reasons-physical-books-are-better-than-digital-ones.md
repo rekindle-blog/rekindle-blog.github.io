@@ -26,7 +26,7 @@ Already touched on above, physical books can be lent out. They are easily shared
 
 ### 2. Physical Books Are More Conspicuous
 
-Because physical books are, well, physical they are more conspicuous. Being materially tangible, or visible, they are difficult to ignore. This makes it harder for me to accumulate books unthinkingly because they disappear into the digital cloud. Physical books line the walls of my home. I walk past them when I open the curtains in the morning and water my indoor plants at night. I truly cannot tell you how many digital books I own on Kindle—please don’t tell my wife. Most of these digital accruements were free and others were deals to good to pass up. Yet many of them remain unread. I don’t think I am alone in this regard.
+Because physical books are, well, physical they are more conspicuous. Being materially tangible, or visible, they are difficult to ignore. This makes it easier for me to accumulate books unthinkingly because they disappear into the digital cloud. Physical books line the walls of my home. I walk past them when I open the curtains in the morning and water my indoor plants at night. I truly cannot tell you how many digital books I own on Kindle—please don’t tell my wife. Most of these digital accruements were free and others were deals to good to pass up. Yet many of them remain unread. I don’t think I am alone in this regard.
 
 ### 3. Digital Books Fuel Undiscerning Consumerism
 
