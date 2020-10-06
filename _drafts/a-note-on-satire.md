@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Note On Satire
+title: In Defence Of Satire
 author: gheslop
 tags:
 - Old Testament
@@ -9,7 +9,7 @@ tags:
 - Irony
 - Literary device
 - Satire
-image: ''
+image: assets/images/satire-waterloo.jpg
 featured: false
 hidden: false
 
