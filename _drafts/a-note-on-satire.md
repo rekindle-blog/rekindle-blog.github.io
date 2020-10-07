@@ -3,6 +3,7 @@ layout: post
 title: In Defence Of Satire
 author: gheslop
 tags:
+- 3 Timothy
 - New Testament
 - Parable
 - Old Testament
