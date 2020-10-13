@@ -15,6 +15,11 @@ image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
 tags:
+- Sheba
+- Idolatry
+- Sin
+- Appearance versus reality
+- Success
 - Church
 - Ministry
 - Christian leadership
