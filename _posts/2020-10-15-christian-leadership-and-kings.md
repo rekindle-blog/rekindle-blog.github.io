@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christian Leadership and Kings
+title: 'Kings and Christian Leadership: Sin Brings Forth Death'
 author: gheslop
 categories:
 - Christian leadership
