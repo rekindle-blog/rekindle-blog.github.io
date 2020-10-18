@@ -9,7 +9,8 @@ tags:
 - Ministry
 - Old Testament
 - 1 Kings
-image: assets/images/king_solomon.jpg
+image: assets/images/kings-christian-leadership.jpg
+featured: false
 featured: false
 hidden: false
 date: 2019-11-28

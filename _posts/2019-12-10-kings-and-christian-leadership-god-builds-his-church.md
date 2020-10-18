@@ -9,7 +9,7 @@ tags:
 - Kings
 - Church leaders
 - " 1 Kings"
-image: assets/images/solomon-holding-a-scroll-d563e7.jpg
+image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
 date: 2019-12-10
