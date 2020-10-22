@@ -15,9 +15,6 @@ image: assets/images/fridays.jpg
 featured: false
 hidden: false
 tags:
-- Sorry
-- Apology
-- Power
 - Existentialism
 - Philosophy
 - Fridays with Fred
