@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fridays with Fred: Nietzsche'
+title: 'Fridays with Fred: On Being Woke'
 author: gheslop
 categories:
 - Emotion
@@ -15,6 +15,7 @@ image: assets/images/fridays.jpg
 featured: false
 hidden: false
 tags:
+- Woke
 - Human history
 - Morality
 - Existentialism
