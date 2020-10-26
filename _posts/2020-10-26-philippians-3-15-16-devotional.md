@@ -3,13 +3,12 @@ layout: post
 title: Philippians 3:15-16 Devotional
 author: gheslop
 tags:
+- Philippians 3:15-16
+- Philippians devotional
 - Revelation
 - Bible
 - Christian maturity
-- Philippians 3
-- Devotional
 - New Testament
-- Philippians
 image: assets/images/philippians-devotional.jpg
 featured: false
 hidden: false
