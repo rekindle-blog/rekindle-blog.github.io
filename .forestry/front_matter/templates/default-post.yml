@@ -36,6 +36,7 @@ fields:
   name: hidden
   label: Hidden Post
 pages:
+- _posts/1-corinthians-7.md
 - _posts/2020-04-03-church-at-home-the-triumph-of-pragmatism-over-theology.md
 - _posts/2020-04-08-more-thoughts-on-church-at-home.md
 - _posts/2020-04-15-kings-and-christian-leadership-an-introduction.md
