@@ -12,7 +12,7 @@ tags:
 - Church
 - Prayer
 image: assets/images/pikrepo.com.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
