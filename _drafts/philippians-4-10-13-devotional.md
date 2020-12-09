@@ -5,7 +5,6 @@ author: gheslop
 tags:
 - I can do all things
 - Strength
-- Content
 - Contentment
 - Philippians 4:10-13
 - Philippians devotional
