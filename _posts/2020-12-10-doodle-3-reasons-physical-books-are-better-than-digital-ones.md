@@ -30,7 +30,7 @@ Because physical books are, well, physical, they are more conspicuous. Being mat
 
 ### 3. Digital Books Fuel Undiscerning Consumerism
 
-Finally, following the above point, digital books suit rampant consumerism. For they requir less discernment when it comes to making purchases. It’s too easy to think, “Keller, for only $1.99 on Kindle? Buying the hard copy would probably mean not eating for a few of days.” So I buy it. One click. But have I read it? Probably not.
+Finally, following the above point, digital books suit rampant consumerism. For they require less discernment when it comes to making purchases. It’s too easy to think, “Keller, for only $1.99 on Kindle? Buying the hard copy would probably mean not eating for a few of days.” So I buy it. One click. But have I read it? Probably not.
 
 Linked to this is the absence of logistical (read: physical) limitations. Because ebooks require no space I can easily justify owning more of them than I actually need to—or will ever read. How can I turn Keller down when it’s only $1.99? Justified by savings alone, the book is added to my invisible bookshelf where it is very likely to be forgotten forever.
 
