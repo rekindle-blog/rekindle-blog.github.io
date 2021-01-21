@@ -1,20 +1,18 @@
 ---
 layout: post
-title: 'Don''t Wait for the Rebuke: Repent of Your Sin'
+title: 'Don''t Wait for the Rebuke: Repent and Confess Your Sin'
 author: gheslop
 tags:
 - Confess
 - Repentance
 - Sin
-- Matthew's Gospel
 - Matthew 18
-- WCF
 - Westminster Confession of Faith
 - Jesus
 - Matthew 5
 - Repentance
 - Rebuke
-image: ''
+image: assets/images/confess-your-sin.jpg
 featured: false
 hidden: false
 
