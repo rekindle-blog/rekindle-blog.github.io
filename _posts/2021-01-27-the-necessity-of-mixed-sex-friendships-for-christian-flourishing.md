@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Necessity of Mixed-Sex Friendships
+title: The Necessity of Mixed-Sex Friendships for Christian Faith
 author: gheslop
 tags:
 - Lord of the Rings
