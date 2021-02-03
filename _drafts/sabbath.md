@@ -3,6 +3,8 @@ layout: post
 title: Sabbath
 author: gheslop
 tags:
+- Saturday
+- Sunday
 - Lord's Day
 - New Testament
 - Westminster Confession of Faith
