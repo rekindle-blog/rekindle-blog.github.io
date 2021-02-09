@@ -12,7 +12,7 @@ tags:
 - Multiply
 - Genesis 1:28
 - Genesis
-image: ''
+image: assets/images/multiply.jpg
 featured: false
 hidden: false
 
