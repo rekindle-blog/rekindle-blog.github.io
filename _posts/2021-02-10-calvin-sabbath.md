@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calvin Sabbath
+title: John Calvin On The Sabbath Commandment For Christians
 author: gheslop
 tags:
 - Westminster Confession of Faith
