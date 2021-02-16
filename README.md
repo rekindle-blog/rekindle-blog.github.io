@@ -18,4 +18,4 @@ You should check out the original theme here: <https://github.com/wowthemesnet/m
 
 The theme is free, the content is not. Feel free to use the code under the MIT license.
 
-The content, however, is copyright 2020.
+The content, however, is copyright 2021.
