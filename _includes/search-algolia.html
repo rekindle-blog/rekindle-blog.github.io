@@ -1,0 +1,107 @@
+<style>
+    .searchresult .title {color: #d9230f;}
+    .searchresult .url {color: silver;}
+    .searchresult a {display: block; color: #777;}
+    .searchresult a:hover, .searchresult a:focus {text-decoration: none;}
+    .searchresult a:hover .title {text-decoration: underline;}
+    #header_search_form { transition: opacity 300ms linear; }
+    .modal-open #header_search_form { opacity: 0.3; }
+</style>
+
+<form id="header_search_form">
+    <input type="text" class="form-control text-small launch-modal-search" id="header_search_box" name="q" maxlength="255" value="" placeholder="Search..."/>
+</form>
+
+<div id="resultsmodal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
+    <div class="modal-dialog shadow-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header" id="modtit">
+                <h5 class="modal-title">
+                    Search results for 
+                    <div id="algoliasearchbox"/>
+                </h5>
+                <button type="button" class="close" id="btnx" onclick="hide_modal()" aria-label="Close"> × </button>
+            </div>
+            <div class="modal-body">
+                <div id="searchresults" class="searchresult">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="btnx" type="button" class="btn btn-danger btn-sm" onclick="hide_modal()">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+
+<script>
+    const searchClient = algoliasearch('SMOKVNFP0L', 'abb9be5427b528d7708421c3cde208e4');
+
+    const search = instantsearch({
+        indexName: 'rekindle_index',
+        searchClient,
+    })
+    search.addWidgets([
+        instantsearch.widgets.searchBox({
+            container: '#algoliasearchbox',
+            showReset: false,
+            showSubmit: false,
+            cssClasses: {
+                input: ['form-control', 'algolia-search-input']
+            },
+        }),
+        instantsearch.widgets.hits({
+            container: "#searchresults",
+            templates: {
+                item: results => {
+                    // console.log(results)
+                    return `
+                    <a href="${results.url}">
+                        <span class="title">
+                        ${results._highlightResult.title.value}
+                        </span><br />
+                        <small>
+                        ${results._snippetResult ? `<span class="body">
+                            2018/06/12 - ${results._snippetResult.content.value}
+                        </span><br />` : ""}
+                        <span class="url">
+                            ${results.url}
+                        </span>
+                        </small>
+                    </a>`
+                },
+            },
+        })
+    ])
+    search.start()
+
+
+    const $modal = document.querySelector("#resultsmodal")
+    const $headerSearchBox = document.querySelector('#header_search_box')
+
+    document.forms[0].addEventListener("submit",  (e) => {
+        e.preventDefault()
+        $modal.classList.add("d-block")
+        $modal.classList.add("show")
+        document.body.classList.add("modal-open")
+        
+        search.setUiState({
+            rekindle_index: {
+                query: $headerSearchBox.value
+            }
+        })
+
+        setTimeout(() => {
+            document.querySelector(".algolia-search-input").focus()
+        }, 350)
+    })
+    const hide_modal = () => {
+        $modal.classList.remove("show")
+        setTimeout(() => {
+            $modal.classList.remove("d-block")
+        }, 350)
+        document.body.classList.remove("modal-open")
+    }
+</script>
