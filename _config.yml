@@ -80,8 +80,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+# adsense-data-ad-client: "ca-pub-3412143450191416"
+# adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
@@ -92,3 +92,8 @@ collections:
   posts:
     output: true
     permalink: /content/:name
+
+algolia:
+   application_id: SMOKVNFP0L
+   index_name: rekindle_index # You can replace that with whatever name you want
+   search_only_api_key: abb9be5427b528d7708421c3cde208e4
