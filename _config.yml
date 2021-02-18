@@ -92,3 +92,8 @@ collections:
   posts:
     output: true
     permalink: /content/:name
+
+algolia:
+   application_id: SMOKVNFP0L
+   index_name: rekindle_index # You can replace that with whatever name you want
+   search_only_api_key: abb9be5427b528d7708421c3cde208e4
