@@ -89,7 +89,11 @@
                         </span><br />
                         <small>
                         ${results._snippetResult ? `<span class="body">
-                            2018/06/12 - ${results._snippetResult.content.value}
+                            ${"date" in results
+                                ? new Date(results.date * 1000).toLocaleDateString(navigator.language, {timeZone: "Africa/Johannesburg"}) + " - "
+                                : ""
+                            }
+                            ${results._snippetResult.content.value}
                         </span><br />` : ""}
                         <span class="url">
                             ${results.url}
