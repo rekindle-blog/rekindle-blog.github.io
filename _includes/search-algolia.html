@@ -6,6 +6,23 @@
     .searchresult a:hover .title {text-decoration: underline;}
     #header_search_form { transition: opacity 300ms linear; }
     .modal-open #header_search_form { opacity: 0.3; }
+    .algolia-loading-indicator {
+        float: right;
+        margin-top: -2.3rem;
+        margin-right: 0.7rem;
+    }
+    .modal-header-flex {
+        display: flex;
+        align-items: center;
+    }
+    .title-text {
+        padding: 0.3rem 1rem 0.3rem 0 !important;
+    }
+    @media (max-width:480px) {
+        .responsive-hide {
+            display: none;
+        }
+    }
 </style>
 
 <form id="header_search_form">
@@ -16,9 +33,11 @@
     <div class="modal-dialog shadow-lg" role="document">
         <div class="modal-content">
             <div class="modal-header" id="modtit">
-                <h5 class="modal-title">
-                    Search results for 
-                    <div id="algoliasearchbox"/>
+                <h5 class="modal-title modal-header-flex">
+                        <div class="responsive-hide title-text">
+                            Search results for&nbsp;
+                        </div>
+                        <div id="algoliasearchbox"/>
                 </h5>
                 <button type="button" class="close" id="btnx" onclick="hide_modal()" aria-label="Close"> × </button>
             </div>
@@ -49,7 +68,8 @@
             showReset: false,
             showSubmit: false,
             cssClasses: {
-                input: ['form-control', 'algolia-search-input']
+                input: ['form-control', 'algolia-search-input'],
+                loadingIndicator: 'algolia-loading-indicator'
             },
         }),
         instantsearch.widgets.hits({
