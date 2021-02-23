@@ -1,0 +1,33 @@
+---
+layout: post
+title: Sabbath Hebrews 4:9
+author: gheslop
+tags:
+- Saturday
+- Sunday
+- Lord's Day
+- New Testament
+- Westminster Confession of Faith
+- New City Catechism
+- Sabbatarianism
+- Sabbatarian
+- Sabbath
+- Fourth commandment
+image: assets/images/sabbath.jpeg
+featured: false
+hidden: false
+
+---
+The New City Catechism (NCC) is a terrific resource. I have [written](https://africa.thegospelcoalition.org/article/the-new-city-catechism-in-africa/ "NCC in Africa") about it at the Gospel Coalition Africa and regularly engage with it at Rekindle (recently [here](https://rekindle.co.za/content/2020-05-05-doodle-where-is-the-love "Where is the Love?") and [here](https://rekindle.co.za/content/2020-11-05-personality-test "Personality Tests and Types")). I’ve also used it in my own devotional reading, for discipleship, and as part of Sunday liturgy. In fact, I have only one reservation throughout. Question 10 asks, "What does God require in the fourth commandment?" And the answer is, "That on the Sabbath day we spend time in public and private worship of God, rest from routine employment, serve the Lord and others, and so anticipate the eternal Sabbath." I take issue with the NCC on this point because it appears to call Sunday "the Sabbath day." To some readers this might come across as mere pedantry, or semantics. But this identification of Sundays, or the Lord's Day, with the Jewish Sabbath tends towards various forms of Sabbatarianism. Below, in what I hope is the first of a series of articles on this topic, I will present three arguments against viewing Sunday as a kind of 'Christian Sabbath.'
+
+Firstly, part of my problem with the NCC’s answer regarding the the fourth commandment is it treats Sabbath and Sunday synonymously. The reference to "public worship" is, I’m assuming, shorthand for the Sunday gathering. However, no such transferral or identification is apparent in the New Testament. The NCC follows most Reformed confessions at this point. For example, the Westminster Confession of Faith (21.7) says, “God…appointed one day in seven for a Sabbath…which, from the beginning of the world to the resurrection of Christ, was the last day of the week \[Saturday\]; and, from the resurrection of Christ, was changed into the first day of the week, which in Scripture is called the Lord's day \[Sunday\].” No such transferral is found in the New Testament. Every single occurrence of the word 'Sabbath' in the New Testament refers to Saturday.
+
+That brings us to my second point: the "Lord’s Day" (1 Corinthians 11:12; Revelation 1:10). For the time being, we will ignore the fact that this phrase occurs just twice in the entire New Testament. Most scholars agree that 1st century Christians used "Lord’s Day" to refer to Sunday, the first day of the week. Evidently, at some point in those first few generations of early Christians they began to meet on Sundays (1 Corinthians 16:2; Acts 20:7). However because this was also long before the five day work week, Saturday was most people’s day off to rest. The Sabbath was on Saturday. Therefore, even if we read the New Testament in such a way that the "Lord’s Day" or Sunday becomes a kind of Christian Sabbath, it is highly unlikely that any 1st century Christians rested on Sundays—especially since many of them were Jewish.
+
+Taking the above point further, in a typically excellent essay, Richard Bauckham shows that throughout the 2nd century the "Lord’s Day" is never conflated with the Sabbath. In other words, there is not a single Christian text prior to the 3rd century that supports viewing Sunday as a Christian Sabbath. Therefore no one among the first 6 or 7 generations of Christian believers was a Sabbatarian. This is not an irrelevant point, one to delight the church history buff; it demands serious reflection. What does one make of the fact that for two centuries Christians did not 'observe the Sabbath' on Sunday? Sure, Jewish Christians might have practiced obedience to the fourth commandment. But Paul makes it explicitly clear that no such expectation rests on Gentile converts (Romans 14:5-6; Galatians 4:10).
+
+Before I conclude, let us briefly consider Hebrews 4:9, though being a cardboard bastion for the Sabbatarian position I anticipate having to deal with it in its own post. The writer of Hebrews says, "There remains a Sabbath rest for the people of God" (Hebrews 4:9). Considering the above evidence, if this is referring to some kind of Sabbath observance for Christians it almost certainly would have been carried out on Saturday—not Sunday. But this isn’t the only problem with appealing to Hebrews 4:9. The word translated "Sabbath rest" is unique, a _hapax legomenon_. This has lead some commentators to distinguish it from Sabbath observance, suggesting that it could refer to a heavenly and eschatological Sabbath celebration rather than the observance of a single day. We might have expected the writer of Hebrews to use the regular word for 'Sabbath,' if that’s what he intended.
+
+I realise that I would be both presumptuous and a fool if I thought that a few hundred words could settle a debate that has raged on and off for centuries. But I do ask my readers of a Sabbatarian persuasion to consider the arguments I’ve laid out. For two centuries no Christian 'observed the Sabbath' on a Sunday. The early Christians probably met on Sundays, commemorating Christ’s resurrection by calling it the "Lord’s Day." Yet as they did this other Christians observed the Sabbath on Saturday. No Christians before the 3rd century conflated Sabbath observance or the fourth commandment with Sunday worship.
+
+Evidently, the only issue that arose around Sabbath observance was the imposition of an Old Testament Jewish law on Christian believers. This should make us wary of making a similar imposition today. As Paul wrote in Colossians 2:16-17, "let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come."
