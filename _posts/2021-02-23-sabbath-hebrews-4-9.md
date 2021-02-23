@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sabbath Hebrews 4:9
+title: Hebrews 4:9 And The Sabbath
 author: gheslop
 tags:
 - Rest
