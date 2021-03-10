@@ -10,7 +10,7 @@ tags:
 - Marriage
 - Marry
 image: assets/images/marriage-versus-singleness.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
