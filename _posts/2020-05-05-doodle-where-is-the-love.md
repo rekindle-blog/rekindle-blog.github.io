@@ -2,7 +2,7 @@
 layout: post
 title: 'Doodle: "Where Is The Love?"'
 author: gheslop
-tags:
+categories:
 - 9 Marks
 - Christina Rossetti
 - Black Eyed Peas
@@ -12,8 +12,9 @@ tags:
 - Christian life
 - Love
 image: assets/images/Rocky_Rock_with_Black_Eyed_Peas,_featuring_their_song_Bebot.png
-featured: false
+featured: true
 hidden: false
+tags: []
 
 ---
 In 2003 a theological cohort known as The Black Eyed Peas asked: “where is the love?” Naturally, the questions we ask influence the answers we get. To put it another way, what we seek out determines - at least in part - what we find. Therefore, The Black Eyed Peas’ question is a deeply profound one—particularly for the modern church. In this doodle, I will suggest that many Reformed and Evangelical churches have swapped out love for God and neighbour with theological precision, expositional preaching and - the often proud but somewhat misplaced insistence - on being 'biblical.'
