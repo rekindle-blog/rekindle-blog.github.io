@@ -3,6 +3,7 @@ layout: post
 title: 'Mixed-Sex Friendships: Tackling The Charge Of Perceptions'
 author: gheslop
 tags:
+- Perceptions
 - Family
 - Church life
 - Sexual sin
