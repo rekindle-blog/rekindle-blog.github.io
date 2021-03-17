@@ -3,18 +3,18 @@ layout: post
 title: The Necessity of Mixed-Sex Friendships for Christian Faith
 author: gheslop
 tags:
-  - Lord of the Rings
-  - Discipleship
-  - Mixed-sex friendships
-  - Tolkien
-  - Kathy Keller
-  - Marriage
-  - Friendship
-image: assets/images/msf.jpg
+- Lord of the Rings
+- Discipleship
+- Mixed-sex friendships
+- Tolkien
+- Kathy Keller
+- Marriage
+- Friendship
+image: assets/images/friendship-between-men-and-women.jpg
 featured: false
 hidden: false
----
 
+---
 Two weeks ago I wrote a [post](https://rekindle.co.za/content/2021-01-13-tolkien-friendship-versus-marriage "Tolkien: Marriage Versus Friendship") exploring the implied conflict between friendship and marriage in J. R. R. Tolkien’s _The Lord Of The Rings_. I argued that towards the end of his work Tolkien undoes the wonderfully rich theme of friendship he develops throughout. For in the last chapter we learn that as long as Frodo remains in Middle-earth, Sam will be "torn." Sam will forever be strung between Rosie and his old master. Tolkien even contrasts being torn with becoming whole or healed. In other words, Sam would have experienced an ongoing unrest as long as both Frodo and Rosie were in his life. As I said in that post, I believe this is how many of us perceive marriage: one relationship to rule them all.
 
 Far from being a literary phenomenon, much of the thinking I’ve encountered in the church is identical to and often more explicit than Tolkien’s in _The Lord Of The Rings_. For starters, many Christians have swallowed [the unbiblical idea of a soulmate](https://rekindle.co.za/content/2020-12-03-john-calvin-marriage-singleness "Does Marriage Complete Us?"), the other half who completes us in marriage. Related to this, many Christians bow down to the cultural idols of romance and sex, [exalting marriage as the human ideal](https://rekindle.co.za/content/2020-11-12-1-corinthians-7-is-it-better-to-marry "Is Is Better To Marry?"). Once we adopt these outlooks it is no surprise that friendships are shed after we wed. The marriage relationship quickly overshadows and often excludes deep, intimate, and meaningful friendships. My spouse becomes my best friend—and by "best" I mean 'only.'
@@ -26,4 +26,3 @@ That brings us to the crux of this post. In my post about mixed-sex friendships 
 In fact, I believe that the opposite is true: mixed-sex friendships are necessary for life and faith. I recently preached on [Philippians 2:1-4](https://rekindle.co.za/content/2020-07-27-philippians-2-1-4-devotional "Philippians 2:1-4 Devotional"). In the course of the sermon I quoted the illustrious German theologian Karl Barth from his commentary on Romans: "What the gospel demands of us is more than notice, or understanding, or sympathy. It demands participation, comprehension, co-operation." Barth’s choice of "participation" and "co-operation" fits well with [Philippians 1:28](https://rekindle.co.za/content/2020-07-20-philippians-1-27-30-devotional "Philippians 1:27-30 Devotional"), where Paul is exhorting Christians to stand firm, in one mind, striving side by side for sake of the gospel. To use Paul’s phrase in 1:27, a life worthy of the gospel is one that is relationally rich. How will we accomplish this if we allow legalism to rule out friendships between men and women? Should we really limit our participation, or partnership, striving in unison, encouragement, affection, and comfort for members of the same sex as us (1:27-2:2)?
 
 Let me conclude this post with an endnote from Kathy Keller’s chapter in _The Meaning Of Marriage_. In her discussion of complementarianism, Kathy expounds Genesis 2:18, "It is not good that the man should be alone; I will make him a helper fit for him." Without denying the complementary nature of the genders in marriage, she argues that this text indicates the necessity for "cross-gender" discipleship, which we might hold closely to mixed-sex friendships. She writes, "We need the friendship and fellowship of persons of the opposite sex—whether they are siblings and relatives, or Christian brothers and sisters, or friends, or spouses. There are always ways in which we need the ‘stretching’ and enriching experience of cross-gender interaction. There are things you will only be able to learn (either through counsel or example) from people of the other sex."
-
