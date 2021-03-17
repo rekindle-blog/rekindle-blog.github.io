@@ -1,20 +1,20 @@
 ---
 layout: post
-title: 'Mixed-Sex Friendships: Tackling The Charge Of Perceptions'
+title: "Mixed-Sex Friendships: Tackling The Charge Of Perceptions"
 author: gheslop
 tags:
-- Perceptions
-- Family
-- Church life
-- Sexual sin
-- Temptation
-- Mixed-sex friendships
-- Friendship
-image: assets/images/mixed-sex-friendship.jpg
+  - Perceptions
+  - Family
+  - Church life
+  - Sexual sin
+  - Temptation
+  - Mixed-sex friendships
+  - Friendship
+image: assets/images/msf.jpg
 featured: false
 hidden: false
-
 ---
+
 Many years ago I wrote an [article](https://rekindle.co.za/content/can-i-be-friends-with-girls/ "An Argument For Mixed-sex Friendships") advocating for mixed-sex friendships between Christians—that is, intimate and [spiritual friendship](https://rekindle.co.za/content/friendship/ "Christian Friendship") between men and women. At the same time another article, from a far more popular blogger, was doing the rounds. His article challenged an overemphasis on the New Testament's familial language applied to friendship. The author showed, by recounting a recent weekend spent with his biological sister that there is a fundamental difference between my sisters in Christ and those born to my mother. He concluded that while I might be brought into a closer relationship with Christian women through the work of Christ, this does not alter the fact that I may grow sexually attracted to them. On the other hand, this possibility does not exist between biological siblings.
 
 If we put incest aside for the time being, this is true. Regardless of how much time I spend with my biological sister, and where we spend it, no romantic or sexual thoughts will arise. And even though I can call the women in my local church 'sisters in Christ,' they are nevertheless not my biological sisters. These women, so it is argued, may become sexually appealing or romantically alluring the more intimate our friendship becomes.
@@ -44,3 +44,4 @@ A favourite verse among those who opposed mixed-sex friendships is Ephesians 5:3
 ## **Where To From Here?**
 
 In conclusion, sure, I am more likely to become romantically interested with a female friend than my biological sister. But this is, as we saw, only a relative statement. It proves a greater degree of likeliness rather than inevitability. Therefore wisdom is necessary, but legalism is not. Concerning perceptions, they are largely determined by personal biases. If you’re suspicious of mixed-sex friendships then you will perceive romance. If you're persuaded that relational intimacy between a man and a women tends towards sexual and romantic attraction you will be suspicious of close mixed-sex friendships. But you may very well be wrong.
+
