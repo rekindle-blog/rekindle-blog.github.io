@@ -2,15 +2,14 @@
 layout: post
 title: 'Kings and Christian Leadership: Church Politics'
 author: gheslop
-tags:
+categories:
 - Church leaders
 - Kings
 - Leadership
 - Ministry
 - Old Testament
 - 1 Kings
-image: assets/images/kings-christian-leadership.jpg
-featured: false
+image: ''
 featured: false
 hidden: false
 date: 2019-11-28
