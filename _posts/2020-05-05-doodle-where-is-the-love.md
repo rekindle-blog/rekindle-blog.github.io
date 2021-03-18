@@ -12,7 +12,7 @@ categories:
 - Christian life
 - Love
 image: assets/images/Rocky_Rock_with_Black_Eyed_Peas,_featuring_their_song_Bebot.png
-featured: true
+featured: false
 hidden: false
 tags: []
 
