@@ -2,7 +2,7 @@
 layout: post
 title: 'Fridays with Fred: How Habits Shape Us'
 author: gheslop
-tags:
+categories:
 - Hypocrisy
 - Becoming
 - Habit
@@ -12,8 +12,9 @@ tags:
 - Aphorisms on Love and Hate
 - Friedrich Nietzsche
 image: assets/images/fridays.jpg
-featured: false
+featured: true
 hidden: false
+tags: []
 
 ---
 If you have spent any time with Christians or attending church then chances are you have heard about ‘hypocrisy’—perhaps you have even been called a ‘hypocrite.’ This emphasis, however, is not entirely the church’s fault. While an unhealthy fixation on hypocrisy is unbecoming, Jesus did speak harshly against it. In fact, in one Greek lexicon, Matthew 23:28 is cited as an example of the word’s third definition: “playing a part, outward show.” This isn’t actually too different from the second, supported by citing Aristotle, “playing a part on the stage.” Both refer to theatre. But Jesus spoke about life. By now I’m sure you’re wondering: what does any of this have to do with Friedrich Nietzsche and habits?
