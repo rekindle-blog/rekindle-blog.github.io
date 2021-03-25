@@ -11,7 +11,7 @@ tags:
 - Hebrews
 - New Testament
 - Sabbath
-image: assets/images/sabbath.jpeg
+image: assets/images/reed-rest-sabbath.jpg
 featured: false
 hidden: false
 
