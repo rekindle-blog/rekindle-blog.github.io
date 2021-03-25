@@ -2,7 +2,7 @@
 layout: post
 title: 'Kings and Christian Leadership: An Introduction'
 author: gheslop
-tags:
+categories:
 - Church
 - Ministry
 - Leadership
@@ -14,6 +14,7 @@ tags:
 image: assets/images/kings-christian-leadership.jpg
 featured: false
 hidden: false
+tags: []
 
 ---
 When it comes to contemporary Christian leadership material, experience has unfortunately lead me to expect two things: (1) sparing as well as shallow biblical exegesis; and (2) an oversubscription to trendy business and management literature along with secular leadership principles. I previously wrote a [post](https://rekindle.co.za/content/pastor-sit-lightly-on-the-wisdom-of-the-world/ "Pastor, sit lightly on the wisdom of the world") addressed to church leaders sounding a caution against worldly wisdom, considering the Bible’s language about wisdom contrast with God’s. One of my conclusions in that post was, “Wisdom in the New Testament comes from God by prayer, can be found in Scripture and empowers Christians for faithful service.” But much so-called Christian leadership seems unapologetically shaped by the world rather than the Word.
@@ -34,3 +35,5 @@ Other posts in this series, Kings and Christian leadership:
 
 * [Church politics](https://rekindle.co.za/content/2019-11-28-kings-and-christian-leadership-church-politics "Church politics")
 * [God's promise to build his church](https://rekindle.co.za/content/2019-12-10-kings-and-christian-leadership-god-builds-his-church "God builds his church")
+* [Servants not centres](https://rekindle.co.za/content/2020-04-29-kings-and-christian-leadership-subtitle "Servants not centres")
+* [Sin brings forth death]()
