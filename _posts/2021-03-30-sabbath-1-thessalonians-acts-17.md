@@ -1,13 +1,14 @@
 ---
 layout: post
-title: The Sabbath in 1 Thessalonians 1
+title: The Sabbath in 1 Thessalonians And Acts 17
 author: gheslop
 tags:
+- Paul
+- 1 Thessalonians
 - Church
 - Corporate Worship
 - Sunday
 - Thessalonica
-- 1 Thessalonians 1
 - Acts 17
 - Sabbath
 image: assets/images/reed-rest-sabbath.jpg
