@@ -29,7 +29,7 @@ Firstly, in my own church experience Wendell Berry’s "state of mutual help," o
 
 This observation is evident in the fact that the pastor is rarely considered in a supportive capacity to his wife. As Berry says, marrieds should understand themselves as belonging and therefore needing to help each other. While significant demands are often placed on the pastor’s wife, calling her to make sacrifices for her husband and his ministry, there are precious few examples of the reverse. Yet it is the husband and not the wife who is commanded to lay down his life (Ephesians 5:28). Thus, while a pastor’s wife may make sacrifices for her husband’s ministry, he should readily make sacrifices for her. Whether she is working as a full-time mother, CEO, or in her own pastoral capacity, the pastor must ask himself how he might support and partner with her.
 
-## **2. 'Oneness' Does Not Conflate Individuals Or Calling**
+## **2. 'Oneness' Does Not Conflate Calling**
 
 Secondly, I worry that Christians exaggerate the the notion of union or 'oneness' in marriage. I argued this at length in [another post](https://rekindle.co.za/content/2020-12-03-john-calvin-marriage-singleness "John Calvin On Marriage") on marriage and singleness. In short, it is worth remembering that men and women possess the image of God independently of one another (Genesis 1:27). Therefore whatever them becoming "one flesh" means (Genesis 2:24), it does not indicate completion in the marriage union—let alone a fundamental change to the respective persons. We should avoid collapsing spouses into a 'oneness' or union that ignores their God-given identities as individual people.
 
@@ -37,6 +37,6 @@ To quote from my post, "In Genesis 2:25 our English translations possibly obscur
 
 ### **Concluding Anecdote**
 
-At 10 months old, my son wasn’t the greatest sleeper. One Saturday night before I preached he was particularly disruptive, owing to a raging temperature. When I stepped into the pulpit on Sunday I passing made a remark about being tired. During tea I was taken to task by one of the women on staff because—as she claimed—my responsibility as a pastor was to preach; my wife’s was tending to our unwell son and indirectly my office. 
+At 10 months old, my son wasn’t the greatest sleeper. One Saturday night before I preached he was particularly disruptive, owing to a raging temperature. When I stepped into the pulpit on Sunday I passing made a remark about being tired. During tea I was taken to task by one of the women on staff because—as she claimed—my responsibility as a pastor was to preach; my wife’s was tending to our unwell son and indirectly my office.
 
 That conversation demonstrates how the marriage partnership is narrowly defined. For it reveals how the the pastor's wife is seen as an extension of and support to her husband's office. It collapses her calling and even her person into a marriage 'oneness' that prioritises the husband. Such understandings of marriage and the role of the pastor's wife are not only mistaken, they are in conflict with the gospel.
