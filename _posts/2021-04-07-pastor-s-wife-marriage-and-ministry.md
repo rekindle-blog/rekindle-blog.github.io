@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pastor''s Wife: Marriage And Ministry'
+title: 'The Pastor''s Wife: Marriage And Ministry'
 author: gheslop
 tags:
 - Pastor
