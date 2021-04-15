@@ -14,7 +14,7 @@ categories:
 - Atonement
 - Christus Victor
 image: assets/images/christus-victor-vicarious-suffering.jpg
-featured: true
+featured: false
 hidden: false
 tags:
 - John Webster
