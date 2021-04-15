@@ -12,7 +12,7 @@ categories:
 - Aphorisms on Love and Hate
 - Friedrich Nietzsche
 image: assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: false
 tags: []
 
