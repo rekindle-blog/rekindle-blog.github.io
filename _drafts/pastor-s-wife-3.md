@@ -20,7 +20,7 @@ In my [first post ](https://rekindle.co.za/content/2021-03-10-pastor-s-wife "Pas
 
 Before we get to the body of this post, I want to quote an invaluable and pertinent comment made by my friend, Alida. She writes, "When a pastor's wife chooses to teach Sunday school, sing, or lead a Bible study, it should be for the same reason as the plumber's wife." I really appreciate this comment because it captures one of the animating but unstated convictions behind my posts. At the end of the day, the pastor’s wife is first and foremost a member of Christ and his church. This is her primary identity. Thus her primary allegiance must always be to our Lord, Jesus Christ. His gospel must always be the motivating force behind any service and ministry. With that in place, let’s consider a few other comments.
 
-## **The Pastor's Wife Amid Limited Resources**
+## **1. The Pastor's Wife Amid Limited Resources**
 
 Nkosi observed that the exceeding involvement of the pastor’s wife in local church ministry is often the result of limited resources, especially in small and struggling churches. He writes, "It happens in a context where there are few people who can fill ministry positions in a church. Therefore, a pastor's wife becomes an asset for the survival of the ministry." Nkosi rightly noted that in such cases the demands are primarily pragmatic. However, he adds, "Unfortunately, it has become a culture and a wrong and unnecessary expectation of women who marry pastors." More on culture a little later.
 
@@ -28,7 +28,7 @@ I appreciate Nkosi’s point. It is undoubtedly true in many churches. But I won
 
 Our churches don’t always battle to fill ministry berths for lack of willing people but for lack of training. As someone who has served on a large ministry team, I am all too familiar with the temptation to rely on the trained rather than investing in the untrained. This is often true concerning the pastor's wife. In most cases she is both gifted and has a desire for ministry. She is an obvious choice for filling ministry gaps, one that will require less training and personal discipleship. Yes, limited resources sometimes mean the pastor's wife is called on. But on other occasions she is called on because the leadership are not actively invested in raising up new leaders.
 
-## **Wrong Expectations For The Pastor's Wife**
+## **2. Wrong Expectations For The Pastor's Wife**
 
 The problem that Nkosi points out is not limited to rural and township churches—nor is it only ever an outworking of financial limitations. Another friend who serves in a middle-class suburban church writes: "Churches are perpetually under-resourced and work falls to the pastor's wife by virtue of her association with the pastor." He adds, "Pastor's wives are subtly thrust into positions already cast for them by members. I can't tell you how many people have explicitly assumed that my wife is a full-time employee of the church." He’s correct in his insistence that these assumptions within the broader church culture must be acknowledged. But in doing so I feel that they should also be addressed—and corrected.
 
@@ -40,7 +40,7 @@ This point from Helopoulos is crucial because it corrects the wrong expectations
 
 In Titus 2:2-5, Paul does not single out the pastor’s wife but rather exhorts older men and women to be involved in the teaching of others. Perhaps we would be slower to overburden the pastor’s wife with our expectations if we recognised that all of them can be turned back onto us. A church culture that expects more from the pastor’s wife does than it does from other members of the congregation falls short of a gospel culture.
 
-## **C. S. Lewis' "Inner Ring"**
+### **C. S. Lewis' "Inner Ring"**
 
 As one of my friends rightly said this in response to my first post, "I am willing to bet that most pastor's wives do not start out wanting a position." All things considered, that is probably true for the vast majority of pastors’ wives. But this raises a question, which I will use to bring this post and series to a close: Why does the pastor’s wife so often allow herself to become increasingly drawn into and entangled with her husband’s ministry and the broader ministry of the local church?
 
