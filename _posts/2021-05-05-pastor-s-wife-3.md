@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pastor's Wife 3
+title: 'The Pastor''s Wife: Limited Resources And Church Culture'
 author: gheslop
 tags:
 - The Inner Ring
