@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '“Church at Home”: The Triumph of Pragmatism Over Theology'
+title: '"Church at Home": The Triumph of Pragmatism Over Theology'
 author: gheslop
-tags:
+categories:
 - Ecclesiology
 - Home
 - Theology
@@ -13,6 +13,8 @@ tags:
 image: assets/images/man-watching-tv-1540551064Who.jpg
 featured: false
 hidden: false
+tags:
+- Church Online
 
 ---
 Can we really do “church at home”? Is it possible to “worship together” as we tune in from our respective lounges? Does viewing our church’s production of a Sunday service enable gathering even though we are doing so remotely? Does simultaneously watching a live stream of a Sunday service with my church constitute meeting together? For the time being, my answer to all of these questions is, ‘No’. I am convinced, for reasons that will become apparent below, that this is more than an exercise in splitting theological hairs. For, as my title suggests, I worry that labelling the solution many churches have hastily turned to as ‘church,’ or ‘meeting together,’ is little more than thoughtless pragmatism. At its worst, it is careless and devoid of discerning theological reflection.
