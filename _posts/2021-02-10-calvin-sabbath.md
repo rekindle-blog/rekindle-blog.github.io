@@ -6,7 +6,7 @@ tags:
 - Westminster Confession of Faith
 - Sunday
 - Fourth Commandment
-- Sabbatarian
+- Sabbatarianism
 - Institutes
 - John Calvin
 - Sabbath
