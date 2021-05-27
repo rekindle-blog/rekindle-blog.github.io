@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Hypocrisy"
-tag: Hypocrisy
+title: "Tag: Eulogy"
+tag: Eulogy
 robots: noindex
 ---

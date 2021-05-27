@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Becoming"
-tag: Becoming
+title: "Tag: iPhone 12"
+tag: iPhone 12
 robots: noindex
 ---
