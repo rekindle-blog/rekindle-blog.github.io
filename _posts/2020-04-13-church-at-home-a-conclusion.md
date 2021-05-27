@@ -10,6 +10,7 @@ tags:
 - Pastor
 - Church
 - Theology
+- Church Online
 image: assets/images/group-of-people-enjoying-music-concert-325521.jpg
 featured: false
 hidden: false
