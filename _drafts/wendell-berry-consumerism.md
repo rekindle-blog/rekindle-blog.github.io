@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wendell Berry Consumerism
+title: 'Digital Consumerism: Where Should We Draw The Line?'
 author: gheslop
 tags:
 - Entertainment
@@ -20,7 +20,7 @@ hidden: false
 
 Two weeks back I developed some of Wendell Berry’s writing on what we might call [traditional consumerism](Buying New Technology "https://rekindle.co.za/content/2021-05-19-discernment-new-technology"): the insatiable appetite for new material things, for more possessions. Assuming that many of my readers are in the middle or upper economic brackets, I developed Berry’s distinction between whether we 'can' buy something and if we 'should.' Unfortunately for most of us the determinative factor in every purchase is financial. We are consumers and, as I argued, this is perhaps nowhere better illustrated that in our unceasing desire for new technology. This post will not revisit traditional consumerism. Instead I will consider how Berry’s writing on technology touches on our consumption of media. After all, the two are essentially inseparable.
 
-## Digital And Media Consumption
+## Digital Consumerism
 
 Berry writes, "Someone asked where one is to draw the line. That question returns me to the bewilderment I mentioned earlier: I am unsure where the line is to be drawn, or how to draw it. But it is an intelligent question, worth losing some sleep over." So we come back to the question I opened with: "How far is too far?" The church champions drawing this line when it comes to our bodies and sex, but seems largely unable or unwilling to tackle the complex yet crucial matter of our minds and social media habits. Worse than this hesitation is the resistance such questions often encounter: 'Don’t be so self righteous and judgmental. There are far more significant and spiritual matters than how much time I spend on Netflix and Instagram.' I agree. But that does not mean that evaluating our consumption of media is unimportant—or somehow not a spiritual matter.
 
