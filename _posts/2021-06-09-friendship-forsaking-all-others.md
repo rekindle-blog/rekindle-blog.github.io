@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Friendship Forsaking All Others"
+title: 'Marriage Vows: Should We Forsake All Others?'
 author: gheslop
 tags:
 - '"Forsaking All Others"'
