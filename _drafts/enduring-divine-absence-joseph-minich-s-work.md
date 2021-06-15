@@ -3,7 +3,7 @@ layout: post
 title: 'Enduring Divine Absence – Joseph Minich’s work '
 author: edengrant
 tags: []
-image: assets/images/sunrise-at-mid-ocean-thomas-moran-1907.jpg
+image: assets/images/sunrise-at-mid-ocean-thomas-moran-1907-cropped-1.jpg
 featured: false
 hidden: false
 
@@ -46,6 +46,8 @@ Said another way:
 
 It is this dissonance Minich unpacks. It seems that even when I hold to the Christian profession, my life reflects God’s absence back to me. Why is it plausible to interpret my life and the world without God in it? As though ‘God were not there’.
 
+### By a pilgrim for pilgrims 
+
 Minich writes about this from both his own experience and for his young son who is instinctively hesitant at Christian claims. It is a book by a Christian who seeks to constantly reflect on why he holds to his beliefs, and it is for Christians who are trying to contest the personal dissonance they know is alive and well within them.
 
 For those who do not wrestle with these experiences this book will do one of two things. Firstly, it will helpfully map out the pathway some of your Christian family travel. Second, it might surface unresolved questions you have tucked away for fear of exploration. Either way, I encourage you to read it. And as an aside, the word doubt is too small a word for the experience. And “doubt” has also garnered a reputation amongst some as a Christian status symbol. Perhaps then it is better to say the book seeks to aid those who, periodically or perennially, because of various factors, endure a bewildering loss of footing when it comes to what is a sure & sound in relation to God.
@@ -57,6 +59,8 @@ One thing I appreciate about Minich is how diligent he is with his terminology. 
 “_You can only act or refrain from acting according to what you can see, and you can only see what you’ve been taught to say._”
 
 For those less familiar with detailed historical and philosophical work (there is your homework!), Chapter 4 alone is worth the price of the book. In Chapter 4—“seeking, finding and being found”—Minich lays out a Christian response to tackle the impulse to wander away. He winsomely identifies that Christians with the challenges of our time _must work_ to rightly “orientate” ourselves to God. This chapter brings home a critical insight of Minich’s thesis. That we experience being a human person today very differently to previous generations. And then, how the act of remembrance can alter **us** as we face the world around us.
+
+### Three Commitments
 
 Within Chapter 4, Minich offers “three spheres of activity” that provide a roadmap for orienting ourselves toward God. 1) considering our intellectual reasons, 2) the community of God and 3) spiritual disciplines.
 
@@ -72,6 +76,8 @@ And retreat from community, as painful as gathering might be, is not optional in
 
 The third sphere, spiritual disciplines, can equally be lost on us. But it is as essential as ever. What we enact shapes what we perceive as real. It is a fight for aligning will and affection. Mental ascent must marry physical enactment even, especially, when it feels empty. These spiritual disciplines are rhythms of life that enable us to grasp what is real despite what many alternative voices tell us.
 
+### Three Propositions
+
 In the final section of Chapter 4, Minich gives three propositions we are to mull over while enduring Divine absence. These are: God is, God is for me in Christ, and human beings are guilty of sin before God. As a quick aside, when we speak of remembering, it is not merely information ‘recall’. No, remembering is the disposition of lived memory meditated upon.
 
 The propositions are simple yet critical. They are also inexhaustible. It is after all the plain truths prayerfully considered and impressed upon by the Spirit which alleviate much agony.
@@ -80,7 +86,7 @@ From start to end, Minich offers perspective, personal insight, profound reflect
 
 ## **“In that day I will respond,” declares the Lord.**
 
-I read this book toward the tail end of years of enduring Divine absence myself. Some of my friends remain in the thick of this storm, others may one day battle this storm.
+I read this book toward the tail end of years of enduring divine absence myself. Some of my friends remain in the thick of this storm, others may one day battle this storm.
 
 In my own life, I am grateful that the psalmists are ready to sit alongside us in the wilderness and cry out: “_Why Lord do you reject me and hide your face from me?_” (Psalm 88:14) and still more grateful that the psalmist and his friends think it absurd to make the jump from a seemingly silent God to no God at all.
 
