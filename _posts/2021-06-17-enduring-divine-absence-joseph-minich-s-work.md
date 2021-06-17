@@ -22,7 +22,7 @@ Richard, the Bible college student who could write a publication quality book on
 
 He says, "Finally, at four o’ clock in the morning, I came to my senses. Nothing had happened. God had not responded. Why continue torturing myself? Why not just forget God and get on with life, like most of the rest of the world?"
 
-Similarly, a friend and I have shared countless coffee conversations wrestling, not with the intellectual arguments for God, but with our own innate desperation—not because of the sense that we were  walking away from Christ, but because it seemed he was slipping away from us.
+Similarly, a friend and I have shared countless coffee conversations wrestling, not with the intellectual arguments for God, but with our own innate desperation—we were not walking away from Christ, but  it seemed he was slipping away from us.
 
 ## **"Why, Lord, Do You Hide Your Face?"**
 
@@ -42,7 +42,7 @@ Said another way: "How is it possible that we can both (a) think we have compell
 
 ## **Minich’s Case**
 
-It is this dissonance that Minich unpacks. It seems that even when I hold to the Christian profession, my life reflects God’s absence back to me. Why is it plausible to interpret my life and the world without God in it, when it feels as though 'God is not there'?
+It is this dissonance that Minich unpacks. It seems that even when I hold to the Christian profession, my life reflects God’s absence back to me. Why is it plausible to interpret my life and the world without God in it, as though 'God is not there'?
 
 ### By A Pilgrim For Pilgrims
 
@@ -54,7 +54,7 @@ The work is based on Minich’s PhD, and it is written in 5 sections across 94 p
 
 One thing I appreciate about Minich is how diligent he is with his terminology. He chooses words wisely. He works hard to re-orientate common understanding on various topics including something as fundamental as how we understand cause and effect. This is one trait of his I love. Sloppy language frames reality poorly. As Hauerwas has said: "You can only act or refrain from acting according to what you can see, and you can only see what you’ve been taught to say."
 
-For those less familiar with detailed historical and philosophical work (there is your homework!), chapter 4 alone is worth the price of the book. In it ("seeking, finding and being found") Minich lays out a Christian response to tackle the impulse to wander away. He winsomely identifies that Christians with the challenges of our time must w_ork_ to rightly "orientate" ourselves to God. This chapter brings home a critical insight of Minich’s thesis. That we experience being a human person today very differently to previous generations. And then, how the act of remembrance can alter us as we face the world around us.
+For those less familiar with detailed historical and philosophical work (there is your homework!), chapter 4 alone is worth the price of the book. In it ("seeking, finding and being found") Minich lays out a Christian response to tackle the impulse to wander away. He winsomely identifies that Christians with the challenges of our time must work to rightly "orientate" ourselves to God. This chapter brings home a critical insight of Minich’s thesis. That we experience being a human person today very differently to previous generations. And then, how the act of remembrance can alter us as we face the world around us.
 
 ### Three Commitments
 
