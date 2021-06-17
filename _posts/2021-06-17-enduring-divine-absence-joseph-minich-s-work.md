@@ -22,7 +22,7 @@ Richard, the Bible college student who could write a publication quality book on
 
 He says, "Finally, at four o’ clock in the morning, I came to my senses. Nothing had happened. God had not responded. Why continue torturing myself? Why not just forget God and get on with life, like most of the rest of the world?"
 
-Similarly, a friend and I have shared countless coffee conversations wrestling, not with the intellectual arguments for God, but with our own innate desperation—not because of the sense that we were not walking away from Christ, but because of the feeling that he was slipping away from us.
+Similarly, a friend and I have shared countless coffee conversations wrestling, not with the intellectual arguments for God, but with our own innate desperation—not because of the sense that we were  walking away from Christ, but because it seemed he was slipping away from us.
 
 ## **"Why, Lord, Do You Hide Your Face?"**
 
