@@ -2,7 +2,13 @@
 layout: post
 title: 'Enduring Divine Absence: Joseph Minich’s Work'
 author: edengrant
-tags: []
+tags:
+- Doubt
+- Faith
+- Book Review
+- Divine Absence
+- Enduring Divine Absence
+- Joseph Minich
 image: assets/images/sunrise-at-mid-ocean-thomas-moran-1907-cropped-1.jpg
 featured: false
 hidden: false
@@ -48,14 +54,14 @@ The work is based on Minich’s PhD, and it is written in 5 sections across 94 p
 
 One thing I appreciate about Minich is how diligent he is with his terminology. He chooses words wisely. He works hard to re-orientate common understanding on various topics including something as fundamental as how we understand cause and effect. This is one trait of his I love. Sloppy language frames reality poorly. As Hauerwas has said: "You can only act or refrain from acting according to what you can see, and you can only see what you’ve been taught to say."
 
-For those less familiar with detailed historical and philosophical work (there is your homework!), chapter 4 alone is worth the price of the book. In it ("seeking, finding and being found") Minich lays out a Christian response to tackle the impulse to wander away. He winsomely identifies that Christians with the challenges of our time _must work_ to rightly "orientate" ourselves to God. This chapter brings home a critical insight of Minich’s thesis. That we experience being a human person today very differently to previous generations. And then, how the act of remembrance can alter us as we face the world around us.
+For those less familiar with detailed historical and philosophical work (there is your homework!), chapter 4 alone is worth the price of the book. In it ("seeking, finding and being found") Minich lays out a Christian response to tackle the impulse to wander away. He winsomely identifies that Christians with the challenges of our time must w_ork_ to rightly "orientate" ourselves to God. This chapter brings home a critical insight of Minich’s thesis. That we experience being a human person today very differently to previous generations. And then, how the act of remembrance can alter us as we face the world around us.
 
 ### Three Commitments
 
 Within chapter 4, Minich offers "three spheres of activity" that provide a roadmap for orienting ourselves toward God:
 
 1. Considering our intellectual reasons
-2. The community of God 
+2. The community of God
 3. Spiritual disciplines
 
 The first sphere, considering our intellectual reasons, is the default disposition of anyone who wrestles heavily with understanding reality coherently. It is the call to review—through new eyes—the reasons we believe. This reminds, refreshes, and deepens one’s faith.
@@ -70,7 +76,7 @@ The third sphere, spiritual disciplines, can equally be lost on us. But it is as
 
 ### Three Propositions
 
-In the final section of Chapter 4, Minich gives three propositions we are to mull over while enduring Divine absence. These are: God is, God is for me in Christ, and human beings are guilty of sin before God. As a quick aside, when we speak of remembering, it is not merely information ‘recall’. No, remembering is the disposition of lived memory meditated upon.
+In the final section of Chapter 4, Minich gives three propositions we are to mull over while enduring Divine absence. These are: God is, God is for me in Christ, and human beings are guilty of sin before God. As a quick aside, when we speak of remembering, it is not merely information 'recall'. No, remembering is the disposition of lived memory meditated upon.
 
 The propositions are simple yet critical. They are also inexhaustible. It is after all the plain truths prayerfully considered and impressed upon by the Spirit which alleviate much agony.
 
