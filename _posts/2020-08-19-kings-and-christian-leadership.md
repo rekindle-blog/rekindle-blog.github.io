@@ -12,7 +12,7 @@ categories:
 - 1 Kings
 - Kings
 image: assets/images/kings-christian-leadership.jpg
-featured: true
+featured: false
 hidden: false
 tags:
 - Church
