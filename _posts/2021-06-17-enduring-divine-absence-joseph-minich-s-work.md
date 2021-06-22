@@ -72,7 +72,7 @@ Welcome to spiritual warfare.
 
 And retreat from community, as painful as gathering might be, is not optional in the fight. Minich’s words’ rightly sting: "We cannot despise brothers and sisters in Christ who live in the same world that we do and whose attunement to it often far exceeds our own distorted calibration."
 
-The third sphere, spiritual disciplines, can equally be lost on us. But it is as essential as ever. What we enact shapes what we perceive as real. It is a fight for aligning will and affection. Mental ascent must marry physical enactment even, especially, when it feels empty. These spiritual disciplines are rhythms of life that enable us to grasp what is real despite what many alternative voices tell us.
+The third sphere, spiritual disciplines, can equally be lost on us. But it is as essential as ever. What we enact shapes what we perceive as real. It is a fight for aligning will and affection. Mental assent must marry physical enactment even, especially, when it feels empty. These spiritual disciplines are rhythms of life that enable us to grasp what is real despite what many alternative voices tell us.
 
 ### Three Propositions
 
