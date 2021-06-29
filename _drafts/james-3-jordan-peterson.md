@@ -3,11 +3,13 @@ layout: post
 title: Jordan Peterson On James 3
 author: gheslop
 tags:
+- Deceit
+- The Tongue
 - Speech
 - 12 Rules For Life
 - Jordan Peterson
 - James 3
-image: ''
+image: assets/images/jordan-peterson.jpg
 featured: false
 hidden: false
 
