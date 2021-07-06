@@ -8,7 +8,7 @@ tags:
 - Suffering
 - Prayer
 - Belgic Confession
-image: ''
+image: assets/images/prayer.jpg
 featured: false
 hidden: false
 
