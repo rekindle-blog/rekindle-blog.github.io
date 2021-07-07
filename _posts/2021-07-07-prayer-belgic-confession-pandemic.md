@@ -3,6 +3,7 @@ layout: post
 title: A Prayer For The Sick And Suffering
 author: gheslop
 tags:
+- Sovereignty of God
 - Lamentations 3
 - Pandemic
 - Suffering
@@ -13,7 +14,7 @@ featured: false
 hidden: false
 
 ---
-**_Preface:_** _this past Sunday I was asked to prepare an intercessory prayer for those who are sick and suffering in my local church. Because no one has been untouched by the pandemic, this prepared prayer may be of wider use for those wanting to bring their own needs and the needs of others to our heavenly Father. Like the many brothers and sisters who have gone before us, the great cloud of witnesses, this season is one of wrestling with God's sovereignty and extensive human suffering. It is undoubtedly a time of confusion and uncertainty. Therefore, as we plead with God, let us also seek to draw peace in his powerful presence._
+**_Preface:_** _this past Sunday I was asked to prepare an intercessory prayer for those who are sick and suffering in my local church. Like the many brothers and sisters who have gone before us, the great cloud of witnesses, this season is one of wrestling with God's sovereignty and extensive human suffering. It is undoubtedly a time of confusion and uncertainty. This makes knowing how to pray difficult, sometimes confusing. Because no one has been untouched by the pandemic, I hope that this prepared prayer will be a useful guide for those wanting to bring their own needs and the needs of others to our heavenly Father._
 
 ### Prayer Using Lamentations 3 And The Belgic Confession
 
