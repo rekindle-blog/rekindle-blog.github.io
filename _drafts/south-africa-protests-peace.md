@@ -8,7 +8,7 @@ tags:
 - South Africa
 - Philippians
 - Prayer
-image: ''
+image: assets/images/peace.jpg
 featured: false
 hidden: false
 
@@ -37,4 +37,4 @@ Finally, and briefly, Paul’s third avenue for enjoying the peace of God is per
 
 Yet his point actually makes a lot of sense. As Eugene Peterson writes, “We must decide to live in response to the abundance of God, and not under the dictatorship of our own poor needs…We must centre ourselves in the God who generously gives and not in our own egos which greedily grab.”
 
-The numerous crises we are facing, and their peculiar impacts on each of us, mean it is easy to obsess over me. But the more I fret over my own mounting troubles and endless worries—even hardship and suffering—the less able I am to give my attention to others. This will not only mean failing in Christian service but also forfeiting the peace that God promises to those who look to the interest of others (Philippians 2:4-5). This is certainly counterintuitive. Yet we have a choice, whatever our situation: be consumed by our own needs or gladly spent for the sake of others. Christ, Paul, and many believers since, knew the peace of God in the latter.
+The numerous crises we are facing, and their peculiar impacts on each of us, mean it is easy to obsess over ourselves. But the more I fret over my own mounting troubles and endless worries—even hardship and suffering—the less able I am to give my attention to others. This will not only mean failing in Christian service but also forfeiting the peace that God promises to those who look to the interest of others (Philippians 2:4-5). This is certainly counterintuitive. Yet we have a choice, whatever our situation: be consumed by our own needs or gladly spent for the sake of others. Christ, Paul, and many believers since, knew the peace of God in the latter.
