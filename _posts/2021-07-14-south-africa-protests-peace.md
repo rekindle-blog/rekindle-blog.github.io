@@ -13,7 +13,7 @@ featured: false
 hidden: false
 
 ---
-As hail crashed against my windows on Monday night I wondered for a moment if we might be living through the catastrophic events outlined in Revelation. Millions of people have lost their lives to COVID-19. Billions more have been adversely affected by the pandemic. And over the past few days in South Africa we’ve witnessed widespread protests, violence, and unprecedented looting. Mr Ramaphosa has called a nation state of emergency, deploying the military. Indeed, one would be forgiven for hearing the blast of trumpets in the distance, together with the cracking of seals and clashing of bowls.
+As hail crashed against the windows of my home on Monday night I wondered for a moment if we might be living through the catastrophic events outlined in Revelation. Millions of people have lost their lives to COVID-19. Billions more have been adversely affected by the pandemic. And over the past few days in South Africa we’ve witnessed widespread protests, violence, and unprecedented looting. Mr Ramaphosa has called a nation state of emergency, deploying the military. Indeed, one would be forgiven for hearing the blast of trumpets in the distance, together with the cracking of seals and clashing of bowls.
 
 Such upheavals quickly give way to unrest and anxiety. I live in Cape Town, yet I have found myself feeling overwhelmed—and not only because I have family and friends in both Gauteng and KZN. The disruption to our precarious peace has been nothing short of devastating, and the rupture appears irreparable. Amidst this perplexing chaos we long for peace. So in this post, using Philippians 4:4-9 and hopefully no platitudes, I will attempt to reorient us back to the God who offers a peace that transcends understanding.
 
