@@ -10,7 +10,7 @@ tags:
 - Bible Believing
 - Bible
 image: assets/images/bible-believing.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
