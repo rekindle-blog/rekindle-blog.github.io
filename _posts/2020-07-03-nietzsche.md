@@ -2,7 +2,7 @@
 layout: post
 title: 'Fridays with Fred: Existentialism and Entertainment'
 author: gheslop
-tags:
+categories:
 - Mankind
 - Humanity
 - Entertainment
@@ -12,8 +12,9 @@ tags:
 - Aphorisms on Love and Hate
 - Friedrich Nietzsche
 image: assets/images/fridays.jpg
-featured: false
+featured: true
 hidden: false
+tags: []
 
 ---
 “One hears a lot of talk about men, but none at all about man.” So wrote Friedrich Nietzsche in his _Aphorisms on Love and Hate_. To the skim reader, you might want to reread that first sentence. Nietzsche subtly distinguishes between the activities of individuals and our ideas about mankind. His term for the latter is “psychological observation” or dissection, which he recognised in exceptional authors and philosophers. We might also call this existentialism. According to Nietzsche, such observation during the 19th century was superficial, bordering on the meaningless and taken up with events and personalities. This is a fitting description for the 21st century, when more people can tell you about Joe Exotic than existentialism. We are captured by what comes to us on our screens but unable to reflect deeply on reality, values, virtues and meaning. When we sit down to dinner we can trade information but struggle to engage with ideas. Thus I agree with Nietzsche, we talk a lot about men and women but rarely about mankind.
