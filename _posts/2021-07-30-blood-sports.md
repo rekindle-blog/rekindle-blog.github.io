@@ -6,7 +6,6 @@ tags:
 - Consent
 - MMA
 - Boxing
-- Consent
 - Porn
 - Animal fighting
 - Blood sports
