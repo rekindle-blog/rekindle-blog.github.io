@@ -18,7 +18,7 @@ In this post I want to explore the distinction between service and gifts in the 
 
 Large churches create countless positions. But many of those positions cater to the comfort of passengers. Most large churches can very likely point to an extensive volunteer list, boasting numerous areas for service. However, on closer inspection, many of those roles are akin to working as the barman or card dealer on a cruise liner. Now, I do not want to minimise Christian service. However, I don't think that Christians should be content with only ever pouring tea, marshalling cars, ushering people to their seats, and setting up the auditorium. For, at the end of the day, the proliferation of such roles are designed to improve the church 'experience' or 'shop window.'
 
-### Pouring Tea As An Illustration
+### An Illustration: Pouring Tea
 
 Imagine a church with 10 000 Sunday attendees—I use "attendees" advisedly. Now let’s assume this church has 5 services on a Sunday. This would mean 2 000 people at each service, if they’re evenly spread. That number presents a significant logistical headache. But let’s forget the countless stewards involved in directing people from their car seats into the auditorium. My question is this: how many people are involved in serving tea to 2 000 people? 50? 100? I don’t know. We can guess it’s a lot to ensure the best possible church 'experience.'
 
