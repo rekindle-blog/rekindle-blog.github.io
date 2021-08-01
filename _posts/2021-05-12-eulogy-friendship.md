@@ -9,7 +9,7 @@ tags:
 - Eulogy
 - Friendship
 image: assets/images/eulogy.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
