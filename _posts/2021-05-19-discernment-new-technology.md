@@ -10,7 +10,7 @@ tags:
 - Technology
 - Wendell Berry
 image: assets/images/iphone-12.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
