@@ -11,7 +11,7 @@ tags:
 - Marriage
 - Pastor's Wife
 image: assets/images/pastors-wife.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
