@@ -3,10 +3,13 @@ layout: post
 title: Should Friendship Be Costly?
 author: gheslop
 tags:
+- Wesley Hill
+- Love
+- Sacrifice
 - Motivational Quotes
 - Marriage
 - Friendship
-image: ''
+image: assets/images/costly-friendship.jpg
 featured: false
 hidden: false
 
@@ -19,7 +22,7 @@ Of course, for fear of appearing calloused and grossly self-centred, few of us w
 
 If you’re ever been to a Christian wedding, marriage counselling, or relationship seminar then it’s highly probable you’re familiar with Ephesians 5—regrettably, it’s also possible you think 1 Corinthians 13 is 'the marriage text,' but that’s a quibble for another post. In case you need reminding, in Ephesians 5:25 Paul exhorts husbands to love their wives "as Christ loved the church and gave himself up for her." Thus God expects sacrificial, unconditional, Jesus shaped love from husbands towards their wives.
 
-So marriage is not about me and my needs but those of my wife. This is evident from the [traditional Christian marriage vows](https://rekindle.co.za/content/2021-06-09-friendship-forsaking-all-others '"Forsaking All Others"'), where prospective spouses promise unconditional love rather than gushing [empty declarations of undying passion](https://rekindle.co.za/content/2020-08-14-friederich-nietzsche "Nietzsche On Love"). So, when it comes to marriage, the church is usually clear on God’s demanding call for selflessness. Yet in my experience this call is rarely applied outside of marriage—except perhaps towards one’s children. It’s almost as if God’s call to imitate Christ in our relationships through radical other-person centred love is the sole right of a spouse (cf. [Philippians 2:1-4](https://rekindle.co.za/content/2020-07-27-philippians-2-1-4-devotional "Philippians 2:1-4 Devotional")). Even though few of us would put it quite like this: marriage is permanent but friendships are primarily a matter of convenience. Thus my wife can urge me to love her like Christ, but my friends can’t.
+So marriage is not about me and my needs but those of my wife. This is evident from the [traditional Christian marriage vows](https://rekindle.co.za/content/2021-06-09-friendship-forsaking-all-others '"Forsaking All Others"'), where prospective spouses promise unconditional love rather than gushing [empty declarations of undying passion](https://rekindle.co.za/content/2020-08-14-friederich-nietzsche "Nietzsche On Love"). So, when it comes to marriage, the church is usually clear on God’s demanding call for selflessness. Yet in my experience this call is rarely applied outside of marriage—except perhaps towards one’s children. It’s almost as if God’s call to imitate Christ in our relationships through radical other-person centred love is the sole right of a spouse (cf. [Philippians 2:1-4](https://rekindle.co.za/content/2020-07-27-philippians-2-1-4-devotional "Philippians 2:1-4 Devotional")). Even though few of us would put it quite like this: marriage is permanent but friendships are primarily a matter of convenience. My wife can urge me to love her like Christ, but my friends can’t.
 
 ## "No Greater Love"
 
