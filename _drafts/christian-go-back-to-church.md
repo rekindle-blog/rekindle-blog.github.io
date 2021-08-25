@@ -8,7 +8,7 @@ tags:
 - Habit
 - Church
 - Church online
-image: ''
+image: assets/images/church.jpg
 featured: false
 hidden: false
 
