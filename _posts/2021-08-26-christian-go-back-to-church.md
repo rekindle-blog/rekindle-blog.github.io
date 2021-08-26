@@ -13,7 +13,7 @@ featured: false
 hidden: false
 
 ---
-Most mornings I make myself a cup of coffee using our moka pot. For the uninitiated, the moka pot a stovetop brewer consisting of three large parts. Since I started using it last year—for whatever reason—I’ve always run water into it when I’m done but leave taking it apart and cleaning it until the next time I want cup of coffee. This is fairly unremarkable. However, even though I never wash the moka pot immediately after brewing coffee, I am convinced that I should. This would prevent oilier grinds from coating the inside while also making the next occasion for coffee far easier as well as quicker. My problem is simple: habit. And many of us are facing a similar problem with regards to gathering with our church communities, especially for Sunday worship services.
+Most mornings I make myself a cup of coffee using our moka pot. For the uninitiated, the moka pot is a stovetop brewer consisting of three parts. Since I started using it last year—for whatever reason—I’ve always run water into it when I’m done but leave taking it apart and cleaning it until the next time I want cup of coffee. This is fairly unremarkable. However, even though I never wash the moka pot immediately after brewing coffee, I am convinced that I should. This would prevent oilier grinds from coating the inside while also making the next occasion for coffee far easier as well as quicker. My problem is simple: habit. And many of us are facing a similar problem with regards to gathering with our church communities, especially for Sunday worship services.
 
 ## How'd We Get Here?
 
