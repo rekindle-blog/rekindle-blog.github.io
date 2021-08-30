@@ -9,7 +9,7 @@ tags:
 - Motivational Quotes
 - Marriage
 - Friendship
-image: assets/images/costly-friendship.jpg
+image: assets/images/friendship-costly.jpeg
 featured: false
 hidden: false
 
