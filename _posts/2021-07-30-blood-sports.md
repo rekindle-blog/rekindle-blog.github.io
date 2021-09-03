@@ -14,7 +14,7 @@ featured: false
 hidden: false
 
 ---
-Last week I posted my [first article](https://rekindle.co.za/content/2021-07-22-should-christians-watch-blood-sports "Should We Watch?") in a planned series asking whether Christians should watch blood sports. It was a tentative foray that I hoped would stir conversation and further reflection. Though I cannot verify the latter among my readers, the article certainly resulted in some useful conversations. These will guide the forthcoming posts. But before getting to those I want to answer what a common criticism: the analogy between human blood sports and animal fighting has numerous points of breakdown. The most significant of these is that human combatants in MMA or boxing choose to fight whereas animals are made to do so against their wills.
+Last week I posted my [first article](https://rekindle.co.za/content/2021-07-22-should-christians-watch-blood-sports "Should We Watch?") in a planned series asking whether Christians should watch blood sports. It was a tentative foray that I hoped would stir conversation and further reflection. Though I cannot verify the latter among my readers, the article certainly resulted in some useful conversations. These will guide the forthcoming posts. But before getting to those I want to answer what was a common criticism: the analogy between human blood sports and animal fighting has numerous points of breakdown. The most significant of these is that human combatants in MMA or boxing choose to fight whereas animals are made to do so against their wills.
 
 ## The Matter Of Consent
 
@@ -26,7 +26,7 @@ So below, regarding consent, I ask two questions about animal fighting and sport
 
 Firstly, why do we stop our animals from fighting? Sure, you might answer, there are veterinary bills and sentiment. But when domesticated animals—particularly dogs—decide they want to duke it out in the park humans quickly intervene. In other words, when two or more dogs engage in combat by their own volition we don’t allow it. Why is that?
 
-Secondly, if a major problem with animal fighting is that animals are compelled against their wills, why do we not oppose all other forms of animal sports? I’m don’t know about you, but I’ve personally never seen bunch of horses—or dogs for that matter—set off at gallop to see who crosses a line first. When it comes to animal racing we ignore the fact that animals are forced into a situation that they would never choose for themselves.
+Secondly, if a major problem with animal fighting is that animals are compelled against their wills, why do we not oppose all other forms of animal sports? I don’t know about you, but I’ve personally never seen bunch of horses—or dogs for that matter—set off at gallop to see who crosses a line first. When it comes to animal racing we ignore the fact that animals are forced into a situation that they would never choose for themselves.
 
 In fact, if I were seeking to be contentious, I would probe the fact that fighting appears to come more naturally to most animals than racing or doing tricks. But let’s leave that for another time. Clearly animals don’t choose to fight but are goaded into violent combat. But if this is a sticking point when it comes to animal fighting, it should also probably be extended to other ways in which animals are forced to compete for human entertainment.
 
