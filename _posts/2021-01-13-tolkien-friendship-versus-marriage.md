@@ -12,7 +12,7 @@ tags:
 - Lord of the Rings
 - Tolkien
 image: assets/images/mountains.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
