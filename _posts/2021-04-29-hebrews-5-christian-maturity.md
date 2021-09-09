@@ -10,7 +10,7 @@ tags:
 - Hebrews 5
 - Hebrews
 image: assets/images/growing-up.jpeg
-featured: true
+featured: false
 hidden: false
 
 ---
