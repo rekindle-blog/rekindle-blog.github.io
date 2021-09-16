@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Mankind"
-tag: Mankind
+title: "Tag: MMA"
+tag: MMA
 robots: noindex
 ---
