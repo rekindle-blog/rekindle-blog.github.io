@@ -19,7 +19,7 @@ hidden: false
 
 ### Traditional Consumerism
 
-Two weeks ago I developed some of Wendell Berry’s writing on what we might call [traditional consumerism](Buying New Technology "https://rekindle.co.za/content/2021-05-19-discernment-new-technology"): the insatiable appetite for new material things, for more possessions. Assuming that many of my readers are in the middle and upper economic brackets, I developed Berry’s distinction between whether we 'can' buy something and if we 'should.'
+Two weeks ago I developed some of Wendell Berry’s writing on what we might call [traditional consumerism](https://rekindle.co.za/content/2021-05-19-discernment-new-technology "Consumerism"): the insatiable appetite for new material things, for more possessions. Assuming that many of my readers are in the middle and upper economic brackets, I developed Berry’s distinction between whether we 'can' buy something and if we 'should.'
 
 Unfortunately for most of us the determinative factor in every purchase is financial. We are consumers and, as I argued, this is perhaps nowhere better illustrated that in our unceasing desire for new technology. This post will not revisit traditional consumerism. Instead I will consider how Berry’s writing on technology touches on our consumption of media. After all, the two are inseparable.
 
