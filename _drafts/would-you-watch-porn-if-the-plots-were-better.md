@@ -3,6 +3,9 @@ layout: post
 title: Would You Watch Porn If The Plots Were Better?
 author: gheslop
 tags:
+- David Foster Wallace
+- Ethics
+- Digital Age
 - Consumerism
 - Streaming services
 - Entertainment
@@ -26,7 +29,7 @@ As binge watching series becomes not only more acceptable but completely normali
 
 Many Christians cite the above as justification for watching basically anything—except perhaps porn. So, would you watch porn if the plots were better? We already 'stomach' a two minute sex scene with no less full-on nudity than one might find at PornHub, because the film also happens to land some intriguing philosophical points. We tell ourselves that tangled gorgeous naked bodies are fundamental to character development. But they rarely are, if ever, and you know it. Perhaps we convince one another that a series renowned for trading in sexually explicit scenes makes too many sound social and cultural comments to be skipped. So we watch. We watch anything—as long as it isn’t porn.
 
-## Porn 
+## Are We Unwittingly Watching Porn?
 
 So let me turn the question of this post around: why don’t we watch porn? Is it because the acting is atrocious; the plots are awful; and the soundtracks are shoddy? No. We don’t watch porn because Jesus said that lust is sin, comparable to adultery (Matthew 5:27-28). This sin, says Jesus, nests in our eyes and burrows into our hearts. Therefore we cut ourselves off from content that is certain to make us lust, deforming our very souls in the process (Matthew 5:29).
 
