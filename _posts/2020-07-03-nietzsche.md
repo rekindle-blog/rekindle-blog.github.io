@@ -14,7 +14,15 @@ categories:
 image: assets/images/fridays.jpg
 featured: false
 hidden: false
-tags: []
+tags:
+- Digital Age
+- Social Media
+- Streaming Services
+- Existentialism
+- Entertainment
+- Aphorisms on Love and Hate
+- Friedrich Nietzsche
+- Fridays with Fred
 
 ---
 “One hears a lot of talk about men, but none at all about man.” So wrote Friedrich Nietzsche in his _Aphorisms on Love and Hate_. To the skim reader, you might want to reread that first sentence. Nietzsche subtly distinguishes between the activities of individuals and our ideas about mankind. His term for the latter is “psychological observation” or dissection, which he recognised in exceptional authors and philosophers. We might also call this existentialism.
