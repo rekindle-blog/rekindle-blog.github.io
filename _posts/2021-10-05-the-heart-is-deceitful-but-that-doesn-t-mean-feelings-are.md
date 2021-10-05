@@ -3,7 +3,7 @@ layout: post
 title: '"The Heart Is Deceitful," But That Doesn''t Mean Feelings Are'
 author: gheslop
 tags:
-- The Enlightenment
+- Matthew Elliot
 - Jeremiah 17:9
 - Logic
 - Reason
