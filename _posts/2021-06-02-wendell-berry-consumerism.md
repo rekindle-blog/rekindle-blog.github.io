@@ -11,7 +11,7 @@ tags:
 - Technology
 - Consumerism
 image: assets/images/technology-digital-consumerism.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
