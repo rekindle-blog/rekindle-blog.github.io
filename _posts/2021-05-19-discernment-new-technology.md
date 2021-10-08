@@ -3,10 +3,10 @@ layout: post
 title: Should You Buy A New iPhone?
 author: gheslop
 tags:
+- iPhone 13
 - Individualism
 - Consumerism
 - Discernment
-- iPhone 12
 - Technology
 - Wendell Berry
 image: assets/images/iphone-12.jpg
@@ -14,7 +14,7 @@ featured: false
 hidden: false
 
 ---
-Should I buy an iPhone 12? Considering my own financial situation, this question is purely academic. But that doesn’t mean it isn’t a question we should thoughtfully consider. We are constantly confronted with new technology and urged to be both early adopters and avid users—whether in the form of Apple’s latest offering or social media platforms. So here is an important distinction. 'Can I afford to buy the new iPhone?' and 'Should I buy a new iPhone?' are different questions. Unfortunately, in the age of unchecked consumerism most of us give little or no thought to the latter, once we’ve answered the former.
+Should I buy an iPhone 13? Considering my own financial situation, this question is purely academic. But that doesn’t mean it isn’t a question we should thoughtfully consider. We are constantly confronted with new technology and urged to be both early adopters and avid users—whether in the form of Apple’s latest offering or social media platforms. So here is an important distinction. 'Can I afford to buy the new iPhone?' and 'Should I buy a new iPhone?' are different questions. Unfortunately, in the age of unchecked consumerism most of us give little or no thought to the latter, once we’ve answered the former.
 
 The above distinction lies behind Wendell Berry’s essay [_Why I Am Not Going To Buy A Computer_](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf "Wendell Berry Essay")_,_ together with his follow-up piece, [_Feminism, The Body And The Machine_](http://www.crosscurrents.org/berryspring2003.htm "Wendell Berry Essay"). Given the success Berry already enjoyed as a writer in the late 1980s, he could undoubtedly have afforded a personal computer. If he asked himself, 'Can I afford to buy a computer?' his answer would almost certainly have been, 'Yes.' But that isn’t Berry’s only or primary consideration for deciding whether the purchase the latest technology. He is far more interested in the question of whether one should adopt new technology at all.
 
