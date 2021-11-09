@@ -2,7 +2,7 @@
 layout: post
 title: 'Kings and Christian Leadership: Servants not Centres'
 author: gheslop
-tags:
+categories:
 - Kingship
 - Ministry
 - Church
@@ -10,8 +10,9 @@ tags:
 - Old Testament
 - Kings
 image: assets/images/kings-christian-leadership.jpg
-featured: false
+featured: true
 hidden: false
+tags: []
 
 ---
 Picking up shortly where the [post on 1 Kings 2](https://rekindle.co.za/content/2019-11-28-kings-and-christian-leadership-church-politics "Church Politics") left off, the wisdom of Yahweh was in Solomon to carry out justice in Israel (1 Kings 3:28). But, as we saw in [the introduction to this series](https://rekindle.co.za/content/2020-04-15-kings-and-christian-leadership-an-introduction "Kings and Christian Leadership"), Solomon's leadership was restricted by something that resembled a constitution. Solomon’s kingship was also far from autocratic or self-determinative. He exercised a clipped power, unlike other monarchies typical of the ancient Near East. This was Yahweh’s design for kingship. However Israelite kings didn’t necessarily follow it. Fortunately, as I argued in our [second post on 1 Kings 2](https://rekindle.co.za/content/2019-12-10-kings-and-christian-leadership-god-builds-his-church "God Builds His Church"), Yahweh’s faithfulness and promises were reliable even when the leaders of his people failed. Even if the reader misses Solomon's autocratic (or 'unconstitutional') judgment in 1 Kings 3 as a portent, his building of a judgment throne in his own palace (1 Kings 7:7) would almost certainly have made any Israelite uncomfortable. For all his strengths, perhaps because of them, Solomon seems to revel in being self-made and therefore unaccountable to anyone—not even Yahweh. This is clear in 1 Kings 4.
