@@ -12,7 +12,7 @@ tags:
 - Andrew Wommack
 - Joyce Meyer
 image: assets/images/tongue.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
