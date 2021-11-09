@@ -11,7 +11,7 @@ tags:
 - Marriage
 - Friendship
 image: assets/images/friendship-between-men-and-women.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
