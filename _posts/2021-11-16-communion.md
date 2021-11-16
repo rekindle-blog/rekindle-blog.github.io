@@ -15,7 +15,7 @@ featured: false
 hidden: false
 
 ---
-Before joining the [Presbyterian church](https://www.hopecity.co.za "Hope City Presbyterian") where my wife and I are presently members, I had only ever belonged to churches across a few denominations that celebrated Communion—or the Lord’s Supper—once a month. On top of those Sundays, we would also come to the table on Good Friday, owing to the tremendous significance of Christ’s death. Simultaneously, then, Communion was deemed indispensable to the high point of our liturgical calendar (Easter), yet it was still only something the gathered church did 13 times a year. In hindsight, such practise seems pretty inconsistent, not to mention confusing.
+Before joining the [Presbyterian church](https://www.hopecity.co.za "Hope City Presbyterian") where my wife and I are presently members, I had only ever belonged to churches across a few denominations that celebrated Communion—or the Lord’s Supper—once a month. On top of those Sundays, we would also come to the table on Good Friday, owing to the tremendous significance of Christ’s death. Simultaneously, then, Communion was deemed indispensable to the high point of our liturgical calendar (at Easter), yet it was still only something the gathered church did 13 times a year. In hindsight, this practise is somewhat confusing.
 
 It’s hard to say why this has happened—under a few of the points below I will make tentative suggestions. But that isn’t the purpose for this post. Instead, I want to make a positive case for celebrating Communion every Sunday.
 
