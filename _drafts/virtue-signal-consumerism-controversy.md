@@ -3,18 +3,19 @@ layout: post
 title: 'Watch Yourselves: "We Must Pay Closer Attention"'
 author: gheslop
 tags:
+- Hebrews 2
 - Watchblogs
 - Virtue Signal
 - Social Media
 - Consumerism
 - Technology
 - Attention
-image: ''
+image: assets/images/lighthouse.jpg
 featured: false
 hidden: false
 
 ---
-Recently I wrote [an article](https://rekindle.co.za/content/2021-10-26-be-careful-how-your-spend-your-attention "Be Careful Spending Attention") calling on Christians to invest their attention more carefully. Beyond simply budgeting a finite resource, I argued that "how we invest our attention pays dividends in our own personal formation." In other words, "what we give our attention to has a direct impact on who we become." This isn’t limited to what we put before our eyes. It extends to our habits, requiring us to discern not only [the quality](https://rekindle.co.za/content/2021-09-23-would-you-watch-porn-if-the-plots-were-better "On Watching Porn") of what we give our attention to as well as [the quantity ](https://rekindle.co.za/content/2021-06-02-wendell-berry-consumerism "Where is the Line?")of attention we’re willing to spend thoughtlessly.
+Recently I wrote [an article](https://rekindle.co.za/content/2021-10-26-be-careful-how-your-spend-your-attention "Be Careful Spending Attention") calling on Christians to invest their attention more carefully. Beyond simply budgeting a finite resource, I argued that "how we invest our attention pays dividends in our own personal formation." In other words, "what we give our attention to has a direct impact on who we become." This isn’t limited to what we put before our eyes. It extends to our habits, requiring us to discern not only [the quality](https://rekindle.co.za/content/2021-09-23-would-you-watch-porn-if-the-plots-were-better "On Watching Porn") of what we give our attention but also [the quantity](https://rekindle.co.za/content/2021-06-02-wendell-berry-consumerism "Where is the Line?") of attention we’re willing to spend thoughtlessly.
 
 ## Stewarding Our Attention
 
@@ -44,4 +45,4 @@ What is it that drives our insatiable appetite for investigative journalism, min
 
 ## Reinvest Your Attention
 
-There you have it, three things that God exhorts us to be on guard against: virtue signalling, consumerism, and fixating on scandal. But what should we give our attention to? Very briefly, picking just three examples from the New Testament, God exhorts us to pay careful attention to [our salvation](https://rekindle.co.za/content/2020-07-29-assurance-apostasy "Seeking Assurance in Salvation") (Hebrews 2:1-4), [corporate worship](https://rekindle.co.za/content/2021-08-26-christian-go-back-to-church "Go Back to Church") (1 Timothy 4:13), and [Scripture](https://rekindle.co.za/content/words-of-eternal-life/ "Words of Eternal Life") (2 Peter 1:19). Perhaps then we might turn our virtue signalling into meaningful justice; our consumerism into a desire for God; and our delight in controversy into constructive conversations.
+But what should we give our attention to? Very briefly, picking just three examples from the New Testament, God exhorts us to pay careful attention to [our salvation](https://rekindle.co.za/content/2020-07-29-assurance-apostasy "Seeking Assurance in Salvation") (Hebrews 2:1-4), [corporate worship](https://rekindle.co.za/content/2021-08-26-christian-go-back-to-church "Go Back to Church") (1 Timothy 4:13), and [Scripture](https://rekindle.co.za/content/words-of-eternal-life/ "Words of Eternal Life") (2 Peter 1:19). Perhaps then we might transform our virtue signalling into meaningful justice; our consumerism into a desire for God; and our delight in controversy into constructive conversations.
