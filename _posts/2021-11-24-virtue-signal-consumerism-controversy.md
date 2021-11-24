@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Watch Yourselves: "We Must Pay Closer Attention"'
+title: Watch Yourselves
 author: gheslop
 tags:
 - Hebrews 2
@@ -10,7 +10,7 @@ tags:
 - Consumerism
 - Technology
 - Attention
-image: assets/images/lighthouse.jpg
+image: assets/images/watch-yourself.jpg
 featured: false
 hidden: false
 
