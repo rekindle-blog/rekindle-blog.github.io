@@ -10,7 +10,7 @@ categories:
 - Old Testament
 - Kings
 image: assets/images/kings-christian-leadership.jpg
-featured: true
+featured: false
 hidden: false
 tags: []
 
