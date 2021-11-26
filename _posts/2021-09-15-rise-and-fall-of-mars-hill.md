@@ -3,6 +3,7 @@ layout: post
 title: The Rise Of Self-Righteous Resentment
 author: gheslop
 tags:
+- Virtue Signal
 - Mike Cosper
 - Watchblogs
 - Discernment blogs
