@@ -5,10 +5,8 @@ author: gheslop
 tags:
 - Westminster Confession of Faith
 - Theology
-- Humility
 - God
 - Trinity
-- Trinitarian Analogies
 image: assets/images/trinity.jpg
 featured: false
 hidden: false
