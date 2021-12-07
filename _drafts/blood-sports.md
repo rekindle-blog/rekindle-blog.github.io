@@ -28,7 +28,7 @@ There are very few contexts where people cheer as humans beat each other up—pr
 
 ### Does Context Change Matters?
 
-Of course, none of us ever really stop to reflect on the wild peculiarity of this phenomenon: blood sports. But in the conversations I’ve had since writing the two posts linked above, one of the points I’ve often brought up is context. If you change the context of what we so readily watch on our screens, it suddenly becomes less palatable.
+Of course, none of us ever really stop to reflect on the wild peculiarity of this phenomenon. But in the conversations I’ve had since writing on the topic, one of the points I’ve often often raised is context. If you change the context of what we so readily watch on our screens, it suddenly becomes less palatable.
 
 When a fight breaks out between two men in the road beneath my flat I don’t pull up a chair and reach for the snacks. If someone is physically dominating another person in the street I don’t cheer his name. Nor do I ask what the odds are on the guy getting pummelled. In the few occasions I’ve seen a fist fight start I’ve instantly felt a knot in my stomach. Each time I was really grateful that someone stepped in and broke it up. Why do we break up fights in the street? Why don’t we let violent altercations reach a natural conclusion? Probably because we have some inherent sense that people shouldn’t be allowed to hurt each other—even when they want, or consent, to doing so.
 
