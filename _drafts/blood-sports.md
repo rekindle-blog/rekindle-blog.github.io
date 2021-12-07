@@ -12,19 +12,21 @@ featured: false
 hidden: false
 
 ---
-A friend recently told me about the first and last time he watched a boxing match, in-person. We were talking about a couple of my posts asking whether Christians should watch blood sports, particularly boxing and MMA—by first [comparing it with animal fighting](https://rekindle.co.za/content/2021-07-22-should-christians-watch-blood-sports "Should Christians Watch Blood Sports?") and then considering the [matter of consent](https://rekindle.co.za/content/2021-07-30-blood-sports "Blood Sports and Consent"). Though my friend had watched plenty of fights on-screen, he said that he immediately felt uneasy, as he watched the boxing match ringside.
+A friend recently told me about the first and last time he attended a boxing match. We were talking about a couple of my posts asking whether Christians should watch blood sports, particularly boxing and MMA, by first [comparing it with animal fighting](https://rekindle.co.za/content/2021-07-22-should-christians-watch-blood-sports "Should Christians Watch Blood Sports?") and then considering the [matter of consent](https://rekindle.co.za/content/2021-07-30-blood-sports "Blood Sports and Consent"). Though my friend had watched blood sports on-screen, he said that he immediately felt uneasy, as he watched the boxing match ringside.
 
-What made my friend profoundly uncomfortable was the undeniable reality that he was a spectator to real world violence. When one of the fighters staggered after a volley of punches, my friend was confronted by the stark realisation that he’d paid money to see this human hurt. When blood ran from a cut above the boxer’s eye or split cheek, he saw actual blood. In the event of a knockout, my friend was close enough to hear the unconscious body crashing to the floor.
+What made my friend profoundly uncomfortable was the undeniable reality that he was a spectator to real world violence. When one of the fighters staggered after a volley of punches, my friend was confronted by the stark realisation that he’d paid money to see this human hurt. When a cut opened above the boxer’s eye or his cheek split, my friend saw actual blood. And in the event of a knockout, he was close enough to hear the unconscious body crashing to the floor.
 
 When the fighting was no longer mediated by a screen—abstracted and to a degree fictionalised in the process—it was impossible to ignore what blood sports truly are: capitalising on other humans’ pain for our entertainment.
 
-### Heading
+### Should We Delight in Violence?
 
-The awakening that followed my friend’s first boxing match ringside is not unique. I can also remember the first and only time I watched a boxing match, at the Wynberg Military Base over a decade ago. A couple of my friends had taken up amateur boxing and they invited me to attend their inaugural fights. One of them knocked his opponent out in under a minute. As we revelled in his victory by KO, I can remember the nagging sense that we were delighting in the fact that he had just punched someone unconscious.
+This ringside realisation is not unique. I can also remember the first and only time I watched a boxing match, at the Wynberg Military Base over a decade ago. A couple of my friends had taken up amateur boxing and invited me to their inaugural fights. One of them knocked his opponent out in under a minute. As we revelled in his victory by KO, I can remember the nagging sense that we were delighting in the fact that my friend had just punched someone unconscious.
 
-This brings me to the very simple point of this post: blood sports have created a context where human violence isn’t only tolerated but celebrated. There are very few contexts where people cheer as humans beat each other up—prisons, bars, and high school yards. Blood sports is another. Yes, they’re trained and incredibly conditioned professionals, but they set out with the same goal: to incapacitate their opponent by violence and force. Call it what you want—technical, strategic, and athletic—at the end of the day, blood sports offer us a context where violence can be enjoyed; they’ve made a socially acceptable way for us to be entertained by humans hurting.
+This brings me to my title and very simple point of this post: blood sports have created a context where human violence isn’t only tolerated but celebrated.
 
-### Does Context Change Everything?
+There are very few contexts where people cheer as humans beat each other up—prisons, bars, and high school yards. Add to those, blood sports such as boxing and MMA. Yes, they involve well trained and conditioned professionals, but they set out with the same goal: to incapacitate their opponent by violent force. Call it what you want—technical, strategic, or athletic—at the end of the day, blood sports offer us a context where violence can be enjoyed; they’ve made a socially acceptable way for us to be entertained by other humans hurting.
+
+### Does Context Change Matters?
 
 Of course, none of us ever really stop to reflect on the wild peculiarity of this phenomenon: blood sports. But in the conversations I’ve had since writing the two posts linked above, one of the points I’ve often brought up is context. If you change the context of what we so readily watch on our screens, it suddenly becomes less palatable.
 
