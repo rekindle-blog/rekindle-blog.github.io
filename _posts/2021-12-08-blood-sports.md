@@ -26,7 +26,7 @@ This brings me to my title and very simple point of this post: blood sports have
 
 There are very few contexts where people cheer as humans beat each other up—prisons, bars, and high school yards. Add to those, blood sports such as boxing and MMA. Yes, they involve well trained and conditioned professionals, but they set out with the same goal: to incapacitate their opponent by violent force. Call it what you want—technical, strategic, or athletic—at the end of the day, blood sports offer us a context where violence can be enjoyed; they’ve made a socially acceptable way for us to be entertained by other humans hurting.
 
-### Does Context Change Matters?
+### Does Context Matter?
 
 Of course, none of us ever really stop to reflect on the wild peculiarity of this phenomenon. But in the conversations I’ve had since writing on the topic, one of the points I’ve often often raised is context. If you change the context of what we so readily watch on our screens, it suddenly becomes less palatable.
 
