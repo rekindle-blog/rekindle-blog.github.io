@@ -11,7 +11,7 @@ tags:
 - Wendell Berry
 - Social Media
 image: assets/images/smartphone.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
