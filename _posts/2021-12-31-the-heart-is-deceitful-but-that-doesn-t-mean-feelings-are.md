@@ -1,0 +1,43 @@
+---
+layout: post
+title: '"The Heart Is Deceitful," But That Doesn''t Mean Feelings Are'
+author: gheslop
+tags:
+- Matthew Elliot
+- Jeremiah 17:9
+- Logic
+- Reason
+- Sin
+- Emotion
+- Feeling
+- Heart
+image: assets/images/heart.jpg
+featured: true
+hidden: false
+
+---
+Many years ago a friend asked this question on social media: "Why is our church so suspicious, and regularly dismissive, of feelings?" It didn’t take long for a mutual friend from our church to respond by quoting Jeremiah 17:9, "The heart is deceitful above all things, and desperately sick; who can understand it?" Take that, Charismatics. You see, the Christian faith is about objective facts rather than your unreliable feelings. Admittedly, at the time, I deemed this response adequate. For the prophet essentially says: 'Emotions and feelings are deceitful; who can understand them?' Only, he doesn’t. Below I will show why citing this text to make an argument against emotions is poor Bible handling. Then I will offer three suggestions for our thinking about the "heart" in the church.
+
+## The "Heart" In Culture
+
+If Jeremiah 17:9 had been written in the 21st century, we might understand this verse as a warning against overemphasising feelings. Because when we encourage someone to 'follow their heart,' we’re telling them to do whatever feels good. In contemporary culture—at least in the West—the heart embodies our emotions. We closely align it with feeling. Thus we refer to being 'heartbroken.' Alternatively, we might say: 'my heart is overflowing,' when we’re happy. Thus we often contrast heads and hearts, identifying a tension between thought and feeling—I explore this in [another post](https://rekindle.co.za/content/2020-10-08-a-note-on-satire "A Note On Satire"), on satire. This tension, sometimes portrayed as conflict, has unfortunately lead to an unhealthy obsession with reason and logic, among many Christians. This tends to come at the expense of feeling.
+
+Matthew Elliot puts his finger on this imbalance. In _Feel_ he writes: "We have become indoctrinated in the belief that emotions are unreliable, dangerous, and bad. Philosophy, psychology, our scientific culture, and the church have taught us that logic and reason must reign supreme, while feelings are trivialised and seen as something to be suppressed or ignored. Many successful contemporary writers have brainwashed us into believing that we must stifle what we _feel_ in favour of what we _think._" This is what lay behind my friend’s question, as well as our mutual friend’s reply, quoting Jeremiah 17:9.
+
+Things may be slightly different today, owing to the cultural moment we inhabit. Over the past few years we’ve seen a radical move to enshrine feelings, almost exclusively. The burdens of tradition and reason have been set aside, abandoning the Enlightenment project entirely in favour of expressive individualism. But the church is predictably behind those trends—a topic for another post. For the most part we still readily affirm rational enquiry, logic, and deep thinking as faith essentials while emotions are marginalised. We remain suspicious and dismissive of feelings. To adapt a popular slogan: it’s about objective faith not subjective feelings. This brings us back to my friend’s question: Why do we give short thrift to feelings and emotion? Once I’ve answered that question, we can begin to explore how to get beyond the supposed tension between heads and hearts.
+
+## The "Heart" In Scripture
+
+From the above cultural considerations, and my friend’s quotation of Jeremiah 17:9, it’s safe to say that we don’t operate with a biblically informed definition of the heart. Listen to [Robert Alter](https://rekindle.co.za/content/more-from-robert-alter-theological-observations/ "Alter: Theological Observations"), in his [_Art of Biblical Narrative_](https://rekindle.co.za/content/rediscovering-the-art-of-biblical-narrative/ "The Art of Biblical Narrative"), "The heart in biblical physiology \[is\] the seat of understanding rather than feeling." Similarly, in _Praying with Paul,_ D. A. Carson writes: "The heart is not only the centre of personality, the seat of will and understanding, but also the place where hidden motives are shaped." Taken together, when the Bible—both Old and New Testaments—speak about the "heart" it is not primarily referring to feelings but understanding. The heart is the engine room of volition rather than emotion. As Carson writes, it entails a whole person, including our wills and desires.
+
+It is for this reason that Jesus says, "Out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness" (Mark 7:21-22). This is not a condemnation of our feelings, identifying an emotional source for sin’s various expressions. Rather, Jesus is appealing to the Old Testament understanding of heart. This understanding is evident in a verse like Proverbs 4:23, "Keep your heart with all vigilance, for from it flow the springs of life." Our emotions are not the problem. Feelings aren’t inherently deceitful. They are part of the complicated knot that makes up the human person. From this we can make three brief conclusions towards application.
+
+## 'Head Versus Heart'?
+
+Firstly, our preference for arid reason and robust logic might reveal that our concept of humanity is more informed by the Enlightenment than the Bible. But if we’ve properly understood how God uses the concept of "heart," we should at the very least be as suspicious of our own logic as we are of our emotions. For we cannot read Jeremiah 17:9 as a caution against feelings without at the same time extending that to include reason. Both are unreliable and deceitful. As Ashley Null often quotes: "What the heart loves, the will chooses, and the mind justifies." In other words, just as we can exercise reason for good, it can also become a means of justifying sin and disobedience.
+
+Secondly, the Christian church must do better when it comes to the place, purpose, and power of emotions. Because our feelings aren’t only ever dubious, we should pay more careful attention to them. God created mankind in his image (Genesis 1:27), and a significant component of what makes us human is our feelings. Just consider Adam’s exuberance when he lays eyes on Eve: "This at last is bone of my bones and flesh of my flesh" (Genesis 2:23). To quote Matthew Elliot again, "God made emotions to be emotions, thoughts to be thoughts, and both to be partners, working hand in hand." Emotions are an essential element of being human. So instead of dismissing them we must work harder at understanding them, and faithfully applying them in the Christian life.
+
+Thirdly, you might have heard this adage: "The heart of the human problem is the problem of the human heart." Only, as we’ve seen, "heart" does not single out emotions as problematic. The biblical definition does not allow for this. Dustin Kensrue better captured the sense of Jeremiah 17:9 a few years back, singing: "There's something dark inside of me / There is a ghost in this machine / There's a giant jagged hole / That twists and rips through my soul / Like the roots of some old wretched tree / There’s something dark inside of me." Indeed, "the heart is deceitful." But the solution is not simply to double down on reason, over against feeling. Rather, we must recognise this complexity and seek to be rehabilitated through the gospel of grace.
+
+Sure, this rehabilitation, or transformation, involves the renewal of our minds (Romans 12:2). But it does not preclude the reformation of our loves and desires [through habit ](https://rekindle.co.za/content/2021-08-26-christian-go-back-to-church "Go Back to Church")(also [here](https://rekindle.co.za/content/2020-07-31-fridays-with-fred "Nietzsche on Habit")). As Friedrich Nietzsche [writes](https://rekindle.co.za/content/2020-08-14-friederich-nietzsche "Nietzsche on Love"), "We must learn to love, learn to be kind, and this from earlier youth; if education or chance give us no opportunity to practise these feelings, our soul becomes dry." Like our minds, our feelings—even our loves—can be trained in fidelity towards God and neighbour. Wholeness will come as as result of rehabilitating not only our heads but also our hearts. For feeling is inseparable from being human. They are integral to who we are, and a significant part of who we must become in Christ.
