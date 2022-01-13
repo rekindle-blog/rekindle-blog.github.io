@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trinity same substance
+title: The Significance Of Father, Son, And Spirit Sharing The "Same Substance"
 author: gheslop
 tags:
 - Institutes
@@ -18,7 +18,7 @@ Last year I started a series of short posts on the doctrine of the Trinity. Thes
 
 ## Two Previous Posts On The Trinity
 
-My [first post](https://rekindle.co.za/content/2021-11-09-trinitarian-analogies "Trinitarian Analogies") explored our preference for Trinitarian analogies. I argued that the profound and perennial insufficiency of these analogies should move us towards humility, modest theologising, and contentment when it comes to the mysteries of God. Furthermore, the well established inadequacy of Trinitarian analogies keeps us from believing we can possess God, for he is supremely beyond both our cognition and categorising. God’s Trinitarian nature resists being objectified and domesticated. As Nicodemus asks in the first episode of [_The Chosen_](https://www.youtube.com/c/TheChosenSeries "The Chosen on YouTube"), "What if \[the whole picture\] is more beautiful and more strange than we can ever imagine?" It certainly is.
+My [first post](https://rekindle.co.za/content/2021-11-09-trinitarian-analogies "Trinitarian Analogies") explored our preference for Trinitarian analogies. I argued that the profound and perennial insufficiency of these analogies should move us towards humility, modest theologising, and contentment when it comes to the mysteries of God. Furthermore, the well established inadequacy of Trinitarian analogies keeps us from believing we can possess God, for he is supremely beyond both our cognition and categorising. God’s Trinitarian nature resists being objectified and domesticated. As Nicodemus asks in the first episode of [_The Chosen_](https://www.youtube.com/c/TheChosenSeries "The Chosen on YouTube"), "What if \[the whole picture\] is more beautiful and more strange than we can ever imagine?" Well, it certainly is.
 
 In the [second post](https://rekindle.co.za/content/2021-12-02-trinity "Threeness and Oneness of God") I considered the seemingly contradictory language of orthodox Trinitarianism that says God is both three and one. In keeping with the theme and purpose of these posts, I didn’t attempt too much explanation, nor was I apologetic for this inexplicable mystery. Instead I explored God’s "oneness" and "threeness," which respectively speak to the problem of idolatry and our created need for interpersonal love and other-person centred community.
 
@@ -44,6 +44,6 @@ For the language of substance guards us against an error that has plagued the ch
 
 We worship a God who is Trinity. When our faith becomes skewed towards one person within the Godhead it is inevitable that the expression of our faith will also be faulty. Therefore we must strive to know God as he has revealed himself, honouring all three persons without an overemphasis on Father, Son, or Spirit that leads to dangerous theological error and deficient Christian expression.
 
-## Study God to Adore Him
+## Study God To Adore Him
 
 Throughout church history, many theologians have said something to the effect that, ‘the Trinity is a doctrine through which we adore rather than study God.’ Perhaps. For any study of God as Trinity certainly inspires awe, while sternly reminding us that we aren’t God. It highlights our creatureliness and the gracious love of the Creator. And to quote Calvin one last time: we must be careful in this study so as to avoid going beyond the Bible and “subtly penetrating into the sublime mystery to wander through many evanescent speculations” (1.13.19). However, we are not forced to choose between dry study and vibrant deferral. Greater attention to what God has revealed about himself functions both as a guard against error and the grounds for heartier worship as we recognise who we are, before God.
