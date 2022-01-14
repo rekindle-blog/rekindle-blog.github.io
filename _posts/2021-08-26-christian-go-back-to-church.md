@@ -9,7 +9,7 @@ tags:
 - Church
 - Church online
 image: assets/images/church.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
