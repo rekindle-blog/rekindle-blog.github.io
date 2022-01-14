@@ -13,7 +13,7 @@ tags:
 - Racing Yacht
 - Cruise Liner
 image: assets/images/cruise-liner.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
