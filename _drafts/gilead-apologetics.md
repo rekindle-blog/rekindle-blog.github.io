@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Gilead apologetics
+title: 'Doodle: John Ames On Apologetics'
 author: gheslop
 tags:
+- God is love
+- Gerald Bray
 - Gilead
 - Marilynne Robinson
 - Apologetics
