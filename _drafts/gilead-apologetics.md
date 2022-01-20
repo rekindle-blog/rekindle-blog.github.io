@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 'Doodle: John Ames On Apologetics'
+title: 'Doodle: A Cautionary Note On Apologetics'
 author: gheslop
 tags:
+- Doodle
 - God is love
 - Gerald Bray
 - Gilead
