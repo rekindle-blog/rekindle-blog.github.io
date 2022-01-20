@@ -10,7 +10,7 @@ tags:
 - Marilynne Robinson
 - Apologetics
 - Arguments for God's existence
-image: ''
+image: assets/images/gilead-book.JPG
 featured: false
 hidden: false
 
