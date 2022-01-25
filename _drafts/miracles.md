@@ -18,7 +18,7 @@ Following the success of an early edition of his _Institutes_, [John Calvin addr
 
 Linked with accusations that the Reformed movement was “of recent birth,” the Roman Catholic Church pointed to the their lack of signs and miracles to back-up their “new” proclamation. Similar charges can be heard today, coming from Pentecostal and Charismatic corners. Miracles, it is claimed, serve to authenticate Christian leaders and movements. Where those miracles are absent, so the logic goes, we should be asking questions about whether God is really at work in those places and through those people. But is this a correct view of miracles? Are they always evidence of God’s presence? And should we uncritically follow after men and women who perform them?
 
-#### The Gospel Precedes and Doesn’t Depend on Miracles
+### The Gospel Doesn’t Depend on Miracles
 
 Calvin’s first line of defence is that the Reformers were “not forging some new gospel.” So he writes, “He who knows that this preaching of Paul is ancient, that ‘Jesus Christ died for our sins and rose again for our justification’ \[Romans 4:25\], will find nothing new among us.” And so, before any discussion about miracles, Calvin argues that the authority of Reformed doctrine resides in its “antiquity.” Against the criticism that the Protestants were innovators, heralding something unprecedented in church history, Calvin affirms their commitment to recovering orthodox Christianity and above all else the Bible’s authority over God’s Church.
 
@@ -26,7 +26,7 @@ Herein is an important corrective for us, living half a millennium after the Ref
 
 So, before considering the place and importance of miracles, we must carefully consider our message. Calvin started his defence of Protestant theology by tracing its lineage through orthodox Christianity and back to the Bible. No proclamation, whether it is propped up by miracles or not, should run counter to or [omit that gospel](https://rekindle.co.za/content/galatians-the-lords-anointed-may-be-accursed/ "The Lord's Anointed versus God's Authority"). In fact, we should be uneasy when preaching and teaching is radically novel and not rooted in our theological tradition—regardless of how many miracles accompany it. We should be able to insist that, “We are not forging some new gospel, but are retaining that very gospel whose truth all the miracles that Jesus Christ and his disciples ever wrought serve to confirm.”
 
-#### Miracles are Signposts to the Truth, They Don’t Supersede it
+### Miracles Signpost, but don't Supersede, Truth
 
 Flowing from the previous point, with Calvin we must insist that doctrine is always superior to miracles. Put another way, God’s truth is authoritative in and of itself. Here Calvin helpfully reminds us of the “legitimate purpose and use of miracles,” which is confirmation of the gospel (Acts 14:3; Hebrews 2:4; Romans 15:18-19). He asks, “When we hear that these are the seals of the gospel, shall we turn them to the destruction of faith in the gospel?” Calvin’s question is bracing for those that place high stock in miracles and signs. For, considering their use in the New Testament era and writing, miracles always have a secondary and supplementary role within God’s economy. As Robert Letham writes_,_ they are only signposts and never spectacles.
 
@@ -34,7 +34,7 @@ This is another important corrective for the contemporary fixation on miracles a
 
 A damnable inversion of John the Baptist’s words in John 3:30—“He must increase, but I must decrease”—runs rampant in many corners of the church. For through sensational miracles and incredible signs men and women are growing their personal brands and ascending to celebrity status among God’s people. Such ministries tend to glorify those at the helm. Where miracles operate to make much of Jesus and his gospel, God be praised. But when they serve Christian leaders and are used to prop up outlandish teaching then they no longer fit within God’s design for them. This brings us to one final point.
 
-#### God is not the only source of miracles
+### God isn't the Only Source of Miracles
 
 Finally, Calvin says that “continual miracles” may be the result of a “strange power—a power other than God’s. Developing this thought, in _Baptism And Fullness,_ John Stott argues that the genuinely miraculous can be traced back to one of three sources: the demonic, the psyche, and God. So, against those who point to miracles as undeniable evidence of God’s blessing, we might point out various examples of miracle workers in the New Testament—who weren’t emissaries of God.
 
@@ -42,6 +42,6 @@ To pick up just two examples, Calvin notes that “Satan has his miracles” (2 
 
 Herein is one final corrective, perhaps the most uncomfortable. Not all miracle have their origin in God, which explains why not all miracle workers use them as a platform for his glory and gospel. Throughout this section of his letter, Calvin cites Deuteronomy 13:2, where Moses warns against miracles that draw people’s attention away from the one true God. When those who perform miracles become spectacles rather than using their works as signposts to Christ, even if they call themselves ‘Christian pastors,’ we are dealing with the spiritually perilous rather than the Spirit of God.
 
-#### Miracles Must only ever be a platform for Christ
+### Fix Your Eyes on Jesus
 
 Perhaps a little tongue-in-cheek, though undoubtedly with sincerity, Calvin concludes this section by writing, “We are not entirely lacking in miracles, and these very certain and not subject to mockery.” Remarkably, Calvin’s initial response to the charge that the Reformers didn’t perform miracles wasn’t an object lesson. Instead he provides us with an important theological one. This lesson is that miracles are only ever secondary and supplementary to God’s revealed truth, in the Bible. Therefore the litmus test of miracles is not eyewitnesses or incontrovertible evidence; it is whether they make much of Christ and God’s glorious gospel message.
