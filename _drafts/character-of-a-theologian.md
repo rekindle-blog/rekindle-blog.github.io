@@ -1,6 +1,6 @@
 ---
 layout: post
-title: character of a theologian
+title: 'An Exhortation For Young Theologians: Pursue Character'
 author: gheslop
 tags:
 - Helmut Thielicke
