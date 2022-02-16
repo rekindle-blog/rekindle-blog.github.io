@@ -3,11 +3,11 @@ layout: post
 title: 'Christian Theologian 101: Humility'
 author: gheslop
 tags:
+- Pride
 - Humility
 - Christian community
 - Christian theologian
 - Helmut Thielicke
-- Character
 - Theology
 - Theological College
 - Bible College
@@ -42,8 +42,8 @@ According to Gibson and Beitler III, humility is a virtue demonstrated relationa
 
 This goes hand in hand with being teachable, as we face "our finitude and fallenness." Importantly, here we mustn’t forget that theological study is incomplete if it remains conceptual—Thielicke’s theological "commodities," which we store in our heads. The Christian theologian is someone who fundamentally believes, or truly knows, that she doesn’t have all the answers; that he isn’t God’s priceless gift to the church or academy—that was Jesus. Being teachable isn’t about citing more sources in your theological writing. It’s a virtue, part of Christian character. Humility is seen in the readiness to listen to others, never forgetting that our hope for Christian theology is not ultimately greater learning but greater love. Such love is impossible when we proudly believe that others have nothing to teach us.
 
-HEADER
+## "Collapse Helpless Into the Weak Arms"
 
 Pride has no place among God’s people, the community created and sustained by God’s gracious attention towards us. Too often the task of higher theological enquiry is exercised away from that community. This makes it easy for us to forget that we are first and foremost—all of us—benefactors of Christ's humble love. That love, that splendid and gracious accommodation on God's part, isn't given so that we might smugly look down on the theological novice. Nor does a proper understanding of that love leave room for proudly individualistic theologian, forever teaching others while she remains unformed and aloof from the community God is saving and shaping.
 
-As Augustine says, in his _Confessions_, “He brings down reliance on themselves, makes them weak as they look directly at the divine weakness, wearing the same 'leather skin' we do. They collapse helpless into the weak arms where power now surges to lift them on high." Or as we so often read in the Bible that we purport to be mastering: God oppose the proud but gives grace to the humble **(ref.)**.
+As Augustine says, in his _Confessions_, "He brings down reliance on themselves, makes them weak as they look directly at the divine weakness, wearing the same 'leather skin' we do. They collapse helpless into the weak arms where power now surges to lift them on high." As we so often read in the Bible that we purport to be mastering in our theological studies: God opposes the proud but gives grace to the humble (James 4:6; Proverbs 3:34).
