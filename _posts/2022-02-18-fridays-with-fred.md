@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friedrich Nietzsche theology
+title: 'Fridays With Fred: Studying Theology'
 author: gheslop
 categories:
 - Hypocrisy
