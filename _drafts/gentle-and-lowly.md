@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gentle and Lowly
+title: 'Doodle: What''s Wrong With ''Gentle And Lowly''?'
 author: gheslop
 tags:
 - Luke's Gospel
