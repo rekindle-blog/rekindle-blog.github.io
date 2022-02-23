@@ -9,12 +9,12 @@ tags:
 - Gentle And Lowly
 - Dane Ortlund
 - Timothy Keller
-image: ''
+image: assets/images/gentle-and-lowly.JPG
 featured: false
 hidden: false
 
 ---
-Since its publication in April 2020, Dane Ortlund’s [_Gentle And Lowly _](https://africa.thegospelcoalition.org/reviews/come-and-rest-in-christs-love-gentle-and-lowly/ "Book Review at TGCA")has received countless plaudits and quite remarkable fanfare. Tim Challies didn’t only list it in his top 10 books from 2020, he also called it a ["consensus favourite"](https://www.challies.com/resources/the-consensus-best-books-of-2020/ "Best Books from 2020") among top books lists in the Christian blogosphere. Two years on and it is still ranked #1 on Amazon, in the Christian Discipleship category, where it has over 7500 ratings and a near perfect average. If a Christian book can appropriately be called a "hit," then _Gentle And Lowly_ is the biggest in a while.
+Since its publication in April 2020, Dane Ortlund’s [Gentle And Lowly](https://africa.thegospelcoalition.org/reviews/come-and-rest-in-christs-love-gentle-and-lowly/ "Book Review at TGCA") has received countless plaudits and quite remarkable fanfare. Tim Challies didn’t only list it in his top 10 books from 2020, he also called it a ["consensus favourite"](https://www.challies.com/resources/the-consensus-best-books-of-2020/ "Best Books from 2020") among top books lists in the Christian blogosphere. Two years on and it is still ranked #1 on Amazon, in the Christian Discipleship category, where it has over 7500 ratings and a near perfect average. If a Christian book can appropriately be called a "hit," then _Gentle And Lowly_ is the biggest in a while.
 
 Personally, I’ve read through it in its entirety twice, finding myself regularly returning to highlighted passages and select chapters. The Lord has certainly used Ortlund’s near perfect blend of biblical truth, Puritan theology, and pastoral care to nourish my faith and stoke greater delight in God. From various conversations I know this to be the case for most readers. In my local church copies of _Gentle And Lowly_ have been passed around more aggressively than the seasonal flu, and no one has been unmoved by Ortlund’s devotionally imbued, accessible yet wonderfully rich work in popular theology.
 
