@@ -3,13 +3,14 @@ layout: post
 title: 'Doodle: What''s Wrong With ''Gentle And Lowly''?'
 author: gheslop
 tags:
+- Doodle
 - Book Review
 - Luke's Gospel
 - The Prodigal God
 - Gentle And Lowly
 - Dane Ortlund
 - Timothy Keller
-image: ''
+image: assets/images/gentle-and-lowly.JPG
 featured: false
 hidden: false
 
@@ -34,4 +35,4 @@ Now, not everyone loves the book. In a few places online you can find detailed t
 
 Evidently, Ortlund anticipated the above resistance to his work. For it is inherent to all of us, despairing at ourselves and doubting God's abundant grace. But I believe there's another reason behind some of the more antagonistic reactions to _Gentle And Lowly_. It’s what Timothy Keller calls the spirit of the elder brother, in his _Prodigal God_. Contrast with the younger brother, who doubts that the father can forgive him, the older brother resents the unconditional love that his father extends to his sibling. Keller puts it perfectly when he says that the older brother loses out on the father’s love because of his own obedience and fidelity. "It is not his sins that create the barrier between him and his father, it’s the pride he has in his moral record; it’s not his wrongdoing but his righteousness that is keeping him from sharing in in the feast of the father."
 
-In closing, I’m not saying that the more zealous critics of _Gentle And Lowly_ are lost in their own confusion about and rejection of God’s spectacular love. But I am suggesting that their disapproval of Ortlund’s book might not in its essence be a theological one. Haven’t all of us said or thought. with the older brother: "Look, these many years I have served you, and I never disobeyed your command…But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him" (Luke 15:29-30)? I wonder if this isn't the feeling that lies behind certain Christian's disapproval of Ortlund's book. That God's overwhelming love means he meets us with open arms, regardless of who we are or what we've done.
+In closing, I’m not saying that the more zealous critics of _Gentle And Lowly_ are lost in their own confusion about and rejection of God’s spectacular love. But I am suggesting that their disapproval of Ortlund’s book might not in its essence be a theological one. Haven’t all of us said or thought. with the older brother: "Look, these many years I have served you, and I never disobeyed your command…But when this son of yours came, who has devoured your property with prostitutes, you killed the fattened calf for him" (Luke 15:29-30)? I wonder if this isn't the feeling that partly lies behind some Christian's disapproval of Ortlund's book. That God's overwhelming love means he meets us with open arms, regardless of who we are or what we've done.
