@@ -13,7 +13,7 @@ tags:
 - Self-righteous
 - Mark Driscoll
 image: assets/images/mark-driscoll.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
