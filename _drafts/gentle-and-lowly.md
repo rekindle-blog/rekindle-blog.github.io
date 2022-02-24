@@ -9,7 +9,7 @@ tags:
 - Gentle And Lowly
 - Dane Ortlund
 - Timothy Keller
-image: assets/images/gentle-and-lowly.JPG
+image: ''
 featured: false
 hidden: false
 
