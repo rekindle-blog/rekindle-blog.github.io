@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gifts Service
+title: Overemphasising Service Can Lead To Underemphasising Gifts
 author: gheslop
 tags:
 - Church
