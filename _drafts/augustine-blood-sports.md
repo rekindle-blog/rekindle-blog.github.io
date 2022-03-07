@@ -33,3 +33,5 @@ No longer the person he was when he entered into the crowd, at one with those wh
 ### There is No Neutral Viewing
 
 Not unlike blood sports today, Augustine describes the gladiatorial games as "a frenzy of extravagant excess," with crowds cheering at human hurt. Thus Augustine writes, "The minute Alypius saw blood, he was sipping animality." And far from a momentary or fleeting delight, when Alypius emerged from the amphitheater he was "no longer the person he was when he entered." For "he took away the madness he had found there."
+
+Why would you willingly put these things before your eyes? Why would you invite them into your heart?
