@@ -10,7 +10,7 @@ tags:
 - MMA
 - Blood Sports
 image: assets/images/blood-sports.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
