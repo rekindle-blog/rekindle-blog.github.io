@@ -19,7 +19,7 @@ hidden: false
 ---
 Earlier this year I began a series of posts for those engaged in theological studies, particularly students. The [first post](https://rekindle.co.za/content/2022-02-02-character-of-a-theologian "Christian Theologian 101: Character") argued that the goal of any theological pursuit must always be Christian character. In the [second](https://rekindle.co.za/content/2022-02-16-christian-theologian-101-humility "Christian Theologian 101: Humility") I identified humility as a fundamental Christian virtue, defining it and then exploring its expression within theological studies. [Finally](https://rekindle.co.za/content/2022-02-18-fridays-with-fred "Nietzsche On Studying Theology"), I highlighted the perils of theological thinking "without inner necessity, without a deep personal choice, without joy" (Nietzsche). In this post I want to turn to the pervasive problem of lust among theologians: intellectual lust.
 
-### Our Disordered Desires Extent to Learning
+### Our Disordered Desires Extend to Learning
 
 Every Christian can echo Paul’s frustration in Romans 7:19, "I do not do the good I want, but the evil I do not want is what I keep on doing." For our desires and longings are disordered. However, when it comes to passages such as this one, we usually apply it narrowly, leaving ourselves vulnerable to—possibly even excusing—the vast arrays of sinful behaviour, expression, and thought.
 
@@ -35,6 +35,6 @@ William goes on, “Roger Bacon's thirst for knowledge was not lust: he wanted t
 
 Benno, the monk from Eco’s novel, embodied many characteristics essential for those engaged in theological study. He was curios, eager to learn, and widely read. He saw the value of the intellectual rigour and thoughtful study. Yet William says these desires were “insatiable,” resulting in “intellectual pride” rather than making God’s people happier. Benno sought knowledge for its own sake, demonstrating a lust for books. Such an approach to theology is “sterile and has nothing to do with love.”
 
-### Heading
+### Study to Love, Don't Merely Love to Study
 
 I can see a lot of myself in Benno. Since becoming a Christian in 2004 I’ve read innumerable theological works, both technical and seminal. I’ve also recently completed a Masters degree in theology. So I must ask myself what it is that I desire? You must too. Can my ongoing learning and increasing knowledge appropriately be described as love, or is it simply intellectual lust? As Calvin exhorted his readers, let us study to love and serve him with all our hearts (1.14.22).
