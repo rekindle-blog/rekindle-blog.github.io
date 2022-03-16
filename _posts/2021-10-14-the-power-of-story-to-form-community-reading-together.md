@@ -12,7 +12,7 @@ tags:
 - Community
 - Story
 image: assets/images/watership-down.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
