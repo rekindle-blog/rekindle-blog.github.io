@@ -3,18 +3,20 @@ layout: post
 title: Passive Voice
 author: gheslop
 tags:
+- Active voice
+- Italics
 - Wendell Berry
 - Writing
 - Literary device
 - Passive Voice
-image: ''
+image: assets/images/passive-voice-writing.jpg
 featured: false
 hidden: false
 
 ---
 In a delightfully tongue-in-cheek [article](https://www.faith-theology.com/2016/06/the-plague-of-italics-its-causes.html "Plague of Italics"), Ben Myers decries what he calls "the plague of italics" in theological writing. After outlining the five historically accepted uses for italics, he writes: "If you would like to emphasise a certain word in your sentence, then you should construct the sentence in such a way that the emphasis falls where you want it to fall." Amen and hallelujah. In the spirit of Myer’s noble and very necessary contribution, I have my own bone to pick: lazy dismissals of the passive voice in writing.
 
-## Comparing the Active and Passive Voice
+## Comparing the Active and Passive Voices
 
 In a standard, and very simple, active English sentence construction you have: subject, verb, and object. For example, 'Graham writes a blog post.' Another example, 'You are reading that post.' In both examples the blog post is the object in the sentence, being acted upon by the subject—respectively you and me. So we are the agents, enacting the verb on an object. Straightforward, I hope.
 
