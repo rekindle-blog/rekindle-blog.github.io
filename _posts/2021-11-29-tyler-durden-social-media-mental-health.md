@@ -9,7 +9,7 @@ tags:
 - Fight Club
 - Mental health
 image: assets/images/fight-club.jpeg
-featured: true
+featured: false
 hidden: false
 
 ---
