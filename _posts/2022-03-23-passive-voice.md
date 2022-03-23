@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Passive Voice
+title: An Ode To The Passive Voice, And Good Writing
 author: gheslop
 tags:
 - Active voice
@@ -14,13 +14,15 @@ featured: false
 hidden: false
 
 ---
-In a delightfully tongue-in-cheek [article](https://www.faith-theology.com/2016/06/the-plague-of-italics-its-causes.html "Plague of Italics"), Ben Myers decries what he calls "the plague of italics" in theological writing. After outlining the five historically accepted uses for italics, he writes: "If you would like to emphasise a certain word in your sentence, then you should construct the sentence in such a way that the emphasis falls where you want it to fall." Amen and hallelujah. In the spirit of Myer’s noble and very necessary contribution, I have my own bone to pick: lazy dismissals of the passive voice in writing.
+In a delightfully tongue-in-cheek [article](https://www.faith-theology.com/2016/06/the-plague-of-italics-its-causes.html "Plague of Italics"), Ben Myers decries what he calls "the plague of italics" in theological writing. After outlining the five historically accepted uses for italics, he writes: "If you would like to emphasise a certain word in your sentence, then you should construct the sentence in such a way that the emphasis falls where you want it to fall." Amen. And hallelujah. In the spirit of Myer’s noble and very necessary contribution, I have my own bone to pick: lazy dismissals of the passive voice in theological writing.
 
-## Comparing the Active and Passive Voices
+I will do so by first defining and comparing the passive and active voice, then I will outline the common criticism made against the former, before finally considering what makes for good writing.
+
+## Comparing the Active and Passive Voice
 
 In a standard, and very simple, active English sentence construction you have: subject, verb, and object. For example, 'Graham writes a blog post.' Another example, 'You are reading that post.' In both examples the blog post is the object in the sentence, being acted upon by the subject—respectively you and me. So we are the agents, enacting the verb on an object. Straightforward, I hope.
 
-Now, in the passive voice the subject of the sentence is acted upon. The subject is no longer the agent or actor but becomes the recipient of the verb. To return to my example above: 'The blog post was written by Graham, and read by you'—thanks for reading, by the way. So, in some ways, the passive voice flips a sentence around. However this is not the whole story. For, in my passive example, the blog post is the subject of the new sentence. It is enacted upon rather the executor of the verb. Still with me?
+Now, in the passive voice the subject of the sentence is acted upon. The subject is no longer the agent or actor but becomes the recipient of the verb. To return to my examples above: 'The blog post was written by Graham, and read by you'—thanks for reading, by the way. So, in some ways, the passive voice flips a sentence around. However this is not the whole story. For, in my passive example, the blog post is the subject and not the object of the new sentence. It is enacted upon rather the executor of the verb.
 
 ## What’s Wrong With It?
 
@@ -34,6 +36,6 @@ As I observed in my [defence of satire](https://rekindle.co.za/content/2020-10-0
 
 Writing is all about communication, and it typically involves attempting to convince your reader. But is the only way to do this by force and precision? The consensus is that the passive voice makes writing softer, and less direct, even vague. But should writing always be pointed? Should we evaluate it by the ratio of what we communicate to the amount of words used? Is the "strength"—a word used by Yoast—of writing determined by the number of active sentences? To answer all of those questions: No. Winsome writing, like compelling communication, need not be precise, direct, efficient, and forceful.
 
-## Let People Decide, Rather Than Plug-Ins
+## Let People, Rather Than Plug-Ins, Decide
 
-Without a doubt, applications and plug-ins such as Grammarly and Yoast have value. But let’s not confuse their desiccating evaluation of written text with what makes for good writing. The passive voice has a place. Persuasive prose cannot be measured by percentages, mostly because that’s not how humans read. Thus Wendell Berry is correct when he [writes](http://www.crosscurrents.org/berryspring2003.htm "Wendell Berry on Writing"), "I would like to be a better writer, and for that I need help from other humans, not a machine."
+Without a doubt, applications and plug-ins such as Grammarly and Yoast add value. But let’s not confuse their desiccating evaluation of written text with what makes for good writing. The passive voice has a place. Persuasive prose cannot be measured by percentages, mostly because that’s not how humans read. Thus Wendell Berry is correct when he [writes](http://www.crosscurrents.org/berryspring2003.htm "Wendell Berry on Writing"), "I would like to be a better writer, and for that I need help from other humans, not a machine."
