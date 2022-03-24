@@ -12,7 +12,7 @@ tags:
 - Consumerism
 - Mark Haddon
 image: assets/images/attention.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
