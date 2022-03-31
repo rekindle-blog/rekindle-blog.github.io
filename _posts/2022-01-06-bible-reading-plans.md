@@ -9,7 +9,7 @@ tags:
 - Five Iron Frenzy
 - Bible Reading Plan
 image: assets/images/bible-reading-plans.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
