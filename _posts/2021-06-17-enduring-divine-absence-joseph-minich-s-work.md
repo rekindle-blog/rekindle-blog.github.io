@@ -9,7 +9,7 @@ tags:
 - Divine Absence
 - Joseph Minich
 image: assets/images/sunrise-at-mid-ocean-thomas-moran-1907-cropped-1.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
