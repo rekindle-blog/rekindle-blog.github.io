@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Jim Carrey Existentialism
+title: 'Listen To Jim Carrey: Don''t Waste Your Life'
 author: gheslop
 tags:
+- Purpose
 - Transcript
 - Hollywood
 - Celebrity Culture
@@ -14,7 +15,9 @@ featured: false
 hidden: false
 
 ---
-At the 2016 Golden Globe Awards, Jim Carrey [presented](https://www.youtube.com/watch?v=a9J8GaeDqVc "YouTube: Golden Globe Awards 2016") the award for Best Motion Picture in the Musical or Comedy category. Before he came on stage the voice over introduced him, saying: "From the upcoming film, _True Crimes_, please welcome two time Golden Globe winner, Jim Carrey." His subsequent riffing off of that introduction wasn’t merely another indication of Carrey's comedic genius, but an insightful and almost [existential](https://rekindle.co.za/content/2020-07-03-nietzsche "Existentialism and Entertainment") reflection on our pursuits and purpose.
+At the 2016 Golden Globe Awards, Jim Carrey [presented](https://www.youtube.com/watch?v=a9J8GaeDqVc "YouTube: Golden Globe Awards 2016") the award for Best Motion Picture in the Musical or Comedy category. Before he came on stage the voice over introduced him, saying: "From the upcoming film, _True Crimes_, please welcome two time Golden Globe winner, Jim Carrey."
+
+His subsequent riffing off of that introduction wasn’t merely another indication of Carrey's comedic genius, but an insightful and almost [existential](https://rekindle.co.za/content/2020-07-03-nietzsche "Existentialism and Entertainment") reflection on our pursuits and purpose, as well as what tends to hold our gaze.
 
 ### Transcript: Jim Carrey at Golden Globe Awards 2016
 
@@ -32,7 +35,7 @@ It would be easy to weaponise some of Carrey’s speech to highlight the absurdi
 
 If you don't have a good register for sarcasm, let me help you: they're not. What happens in Hollywood is not important. As I've argued [elsewhere](https://rekindle.co.za/content/2020-07-17-friedrich-nietzsche "Fridays with Fred"), with the help of Friedrich Nietzsche, devotion to something does not determine value or significance.
 
-### Heading
+### An Appeal to Reconsider Our Ambitions
 
 But our absurdly frivolous obsession with celebrities is not my concern. Nor is it the main reason I've produced the above transcript of Jim Carrey’s short speech.
 
