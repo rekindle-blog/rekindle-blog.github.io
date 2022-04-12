@@ -14,7 +14,7 @@ featured: false
 hidden: false
 
 ---
-Towards the end of last year I put up my an [article](https://rekindle.co.za/content/2021-12-08-blood-sports "A Socially Acceptable Context to Celebrate Violence?") exploring the ethics surrounding human blood sports, particularly boxing and MMA. I argued that blood sports have created a socially acceptable context for us to celebrate real world human violence. Quite remarkably, for many Christians, professional blood sports has become a space where they don’t merely tolerate people hurting each other, but actually cheer them on.
+Towards the end of last year I put up an [article](https://rekindle.co.za/content/2021-12-08-blood-sports "A Socially Acceptable Context to Celebrate Violence?") exploring the ethics surrounding human blood sports, particularly boxing and MMA. I argued that blood sports have created a socially acceptable context for us to celebrate real world human violence. Quite remarkably, for many Christians, professional blood sports has become a space where they don’t merely tolerate people hurting each other, but actually cheer them on.
 
 That article built on two previous offerings on blood sports. The [first](https://rekindle.co.za/content/2021-07-22-should-christians-watch-blood-sports "Should Christians Watch?") likened them to animal fighting, suggesting that they aren’t as different as fans might claim. In the [second](https://rekindle.co.za/content/2021-07-30-blood-sports "Does Consent Change Things?") I attempted to show that though professional athletes consent to fight each other, consent is not the sole consideration when it comes to what we watch—we need only think of ethically sourced pornography and suicide tapes.
 
