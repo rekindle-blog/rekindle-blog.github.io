@@ -10,7 +10,7 @@ tags:
 - Marriage
 - Friendship
 image: assets/images/friendship-costly.jpeg
-featured: true
+featured: false
 hidden: false
 
 ---
