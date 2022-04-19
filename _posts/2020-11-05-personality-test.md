@@ -11,7 +11,7 @@ tags:
 - Personality type
 - Personality test
 image: assets/images/dominance.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
