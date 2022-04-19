@@ -9,7 +9,7 @@ tags:
 - Church Growth
 - Timothy Keller
 image: assets/images/timothy-keller.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
