@@ -31,7 +31,7 @@ As an apprentice I attended a weekly preaching workshop, and to this day I’m t
 
 A second example can be seen in how we mark sermons at seminary or theological college. Now, I realise that preaching class—or homiletics, for those who like technical terminology—serves a specific purpose within theological studies. Added to that, I’m not proposing to know how to best evaluate preaching in a classroom setting. However we do it, it must surely convince future preachers of prayer’s paramount importance for preaching.
 
-In fact, one could go as far to suggest that homiletics without prayer is sub-Christian. Therefore a preaching course as well as any evaluation of preaching that doesn’t emphasis pray is a course in public speaking rather than Christian preaching. The same could be said when we primarily evaluate preaching on the basis of exegesis or text work.
+In fact, one could go as far to suggest that homiletics without prayer is sub-Christian. Therefore a preaching course as well as any evaluation of preaching that doesn’t emphasise prayer is a course in public speaking rather than Christian preaching. The same could be said when we primarily evaluate preaching on the basis of exegesis or text work.
 
 Now, I’m not suggesting we introduce time spent praying into our homiletics marking rubrics. No. I’m instead repeating the warning written into much of my recent content, particularly [theological studies](https://rekindle.co.za/content/2022-02-18-fridays-with-fred "Nietzsche On Studying Theology"): habits shape hearts, both positively and negatively. We shouldn’t be surprised by prayerless preaching in the pulpit when we celebrate everything but prayer in the classroom.
 
