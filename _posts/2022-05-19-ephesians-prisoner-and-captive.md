@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Ephesians prisoner and captive
+title: 'The Myth Of Freedom: We''re All Captives'
 author: gheslop
 tags:
+- Freedom
 - Identity
 - Ephesians
 - Service
@@ -30,7 +31,7 @@ This is well illustrated towards the end of Chuck Palahniuk’s [_Fight Club_](h
 
 But we’ve been tube-fed the notions of personal autonomy and self-expression for so long that we actually believe ourselves to be free, that I’m doing what I really want to do. Yet on an unacknowledged level I know this isn’t true. It's a myth. I’m not absolutely free to choose anything I want. For all of us have masters, which dictate how we live—directing decisions, determining priorities, and forcing us to forego many freedoms. So the question is not 'should I give my life in service to something?' but, 'what should I give my life in service of?' It’s not a matter of if I should choose to have a lord over my life but rather who or what will that lord and master will be.
 
-### All We Choose Is What We Will Worship
+### All We Get Tp Choose Is What We'll Worship
 
 Perhaps no one will ever put this better than David Foster Wallace did, in his [famous Kenyon address](https://www.theguardian.com/books/2008/sep/20/fiction "David Foster Wallace"). He says, "In the day-to-day trenches of adult life, there is no such thing as atheism. There is no such thing as not worshipping. Everybody worships. The only choice we get is what to worship."
 
