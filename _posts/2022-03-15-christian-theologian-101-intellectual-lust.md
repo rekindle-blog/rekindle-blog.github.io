@@ -13,7 +13,7 @@ tags:
 - Theological College
 - Bible College
 image: assets/images/st-jerome-caravaggio.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
