@@ -2,7 +2,7 @@
 layout: post
 title: 'Doodle: How the Possibility of Apostasy Provides Assurance'
 author: gheslop
-tags:
+categories:
 - Salvation
 - Scot McKnight
 - Warning passages
@@ -10,8 +10,9 @@ tags:
 - Apostasy
 - Assurance
 image: assets/images/walking-away.jpg
-featured: false
+featured: true
 hidden: false
+tags: []
 
 ---
 Many Christians have at one time or another wondered about the ‘unforgivable sin’—and whether they have committed it. This idea is usually synonymous with Jesus’ warning against 'blaspheming the Holy Spirit’ (see Matthew 12; Mark 3; Luke 12). The nature of the so-called unforgivable sin, or blasphemy against the Spirit, is debated. The interpretation that I believe best fits the context of Jesus’ warning is to understand it as rejecting God's Messiah, his [Spirit-empowered Saviour](https://rekindle.co.za/content/matthew-the-temptation-of-christ/ "Christ's temptation"). This may come as a relief to some readers. For, according to this view, everyone who confesses Christ as Lord and continues in faith cannot be guilty of the unforgivable sin. To put it another way, Christians cannot blaspheme the Spirit. This brings us to the focus of this doodle: apostasy and assurance.
