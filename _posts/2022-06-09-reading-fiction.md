@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reading fiction
+title: Is Reading Fiction A Waste Of Time?
 author: gheslop
 tags:
 - Institutes
