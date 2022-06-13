@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Apostasy"
-tag: Apostasy
+title: "Tag: Governance"
+tag: Governance
 robots: noindex
 ---

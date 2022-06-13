@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Assurance"
-tag: Assurance
+title: "Tag: Acts 15"
+tag: Acts 15
 robots: noindex
 ---

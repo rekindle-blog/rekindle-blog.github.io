@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Salvation"
-tag: Salvation
+title: "Tag: Pensées"
+tag: Pensées
 robots: noindex
 ---
