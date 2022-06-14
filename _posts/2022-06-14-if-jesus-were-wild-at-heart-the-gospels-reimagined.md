@@ -33,13 +33,13 @@ Now, I’m not interested in mounting a theological critique of _Wild At Heart,_
 
 **35** When evening had come, Jesus said to them, "Let us sail. For on the water we are truly free." **36** And leaving the crowd, they took him with them in the boat, just as he was. And other boats were with him. **37** A great windstorm arose, and the waves were breaking into the boat, so that the it was already filling. **38** But Jesus was in the stern, asleep on the cushion. And they woke him and said to him, "Teacher, do you not care that we are perishing?" **39** And he rebuked them saying, "The closer you are to death the more alive you feel! **40** Why are you so afraid? Have you still no sense of adventure. No desire for danger?"
 
-### Come To Me (Matthew 11:28-29)
+### Come to Me (Matthew 11:28-29)
 
 **28** "Come to me, all who labour and are heavy laden, and I will give you a slap in the face. **29** Man up, and learn from me, for I am strong, wild at heart, and certainly not nice. You will only find rest for yourselves in adventure and aggression."
 
 ### Jesus Laments over Jerusalem (Matthew 23:37-38)
 
-**37 "**How I would have gathered you together, the way a man gathers his bros around the braai to talk sport, but you were soft and unwilling. **38** See, your true male desire for danger has been abandoned.
+\**37 "**How I would have gathered you together, the way a man gathers his bros around the braai to talk sport, but you were soft and unwilling. **38** See, your true male desire for danger has been abandoned.
 
 ### The Death of Lazarus (John 11:33-36)
 
