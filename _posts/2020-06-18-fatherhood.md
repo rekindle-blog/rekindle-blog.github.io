@@ -2,7 +2,7 @@
 layout: post
 title: 'Fatherhood: A Personal Reflection'
 author: gheslop
-tags:
+categories:
 - Father
 - Motherhood
 - Lila
@@ -11,8 +11,9 @@ tags:
 - Marilynne Robinson
 - Fatherhood
 image: assets/images/fatherhood.jpg
-featured: false
+featured: true
 hidden: false
+tags: []
 
 ---
 In 1 Thessalonians 2 Paul likens his ministry to motherhood and fatherhood. It would be a mistake to consider either description normative. But it would also be unfortunate to miss Paul’s vision for fatherhood, which is richer than the one held by many today. After describing mothers as gentle and affectionate (2:7-8), Paul says fathers are those who “exhort” and “encourage” their children (2:12). In Greek, both words connote comfort. This suggests that popular distinctions made between the roles of fathers and mothers might be exaggerated. In Paul’s mind, fathers nurture and care for their children. They should be attentive to their children’s emotional needs. Some readers rush a qualification to statement, perhaps even objecting: ‘Mothers are the primary nurturer, the main caregiver.’ They might be, functionally, in cases where the mother stays at home. Nevertheless, fatherhood involves encouraging children, being sensitive to their feelings and comforting them.
