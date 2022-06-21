@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bad advice
+title: A Miscellany Of Bad Advice Given By Christians
 author: gheslop
 tags:
 - Counsel
