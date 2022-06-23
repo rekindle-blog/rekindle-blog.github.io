@@ -11,7 +11,7 @@ categories:
 - Marilynne Robinson
 - Fatherhood
 image: assets/images/fatherhood.jpg
-featured: true
+featured: false
 hidden: false
 tags: []
 
