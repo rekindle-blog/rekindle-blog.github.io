@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Lila"
-tag: Lila
+title: "Tag: Advice"
+tag: Advice
 robots: noindex
 ---
