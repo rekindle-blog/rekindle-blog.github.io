@@ -13,7 +13,7 @@ tags:
 - Masculinity
 - Fatherhood
 image: assets/images/wild-at-heart.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
