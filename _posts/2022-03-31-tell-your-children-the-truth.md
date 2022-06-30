@@ -13,7 +13,7 @@ tags:
 - Children
 - Fatherhood
 image: assets/images/parenting-your-children-with-truth.JPG
-featured: true
+featured: false
 hidden: false
 
 ---
