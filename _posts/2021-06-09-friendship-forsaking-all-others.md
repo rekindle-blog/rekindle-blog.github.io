@@ -3,12 +3,13 @@ layout: post
 title: 'Marriage Vows: Should We Forsake All Others?'
 author: gheslop
 tags:
+- '"Forsaking All Others"'
 - Marriage Vows
 - Friendship
 - Marriage
 - Book Of Common Prayer (BCP)
 image: assets/images/traditional-marriage-vows.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
