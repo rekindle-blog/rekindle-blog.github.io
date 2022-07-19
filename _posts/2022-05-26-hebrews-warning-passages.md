@@ -11,7 +11,7 @@ tags:
 - Warning passages
 - Hebrews
 image: assets/images/hebrews-warning-passages.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
