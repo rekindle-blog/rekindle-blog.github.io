@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deacons diaconate diaconal ministry '
+title: Where Did All the Deacons Go? Reconsidering Acts 6
 author: gheslop
 tags:
 - Acts 6
@@ -10,7 +10,7 @@ tags:
 - Diaconate
 - Deacons
 - Church leaders
-image: ''
+image: assets/images/deacons.jpg
 featured: false
 hidden: false
 
@@ -19,15 +19,17 @@ Most Bible readers will be familiar with the establishment of diaconal ministry 
 
 ## Is Acts 6 about the Priority of Preaching?
 
-For many years I would have summarised Acts 6:1-6 along these lines: the church’s ministry towards the needy was becoming more complex (6:1), increasing the demands on the twelves’ time and even threatening the apostolic task of preaching (6:2). Therefore the twelve appointed deacons to oversee their ministries of mercy (6:3, 6), and recommitted themselves to prayer and preaching (6:4). The emphasis of this summary suggests that mercy ministry—or diaconal work—was both a distraction from the gospel and a second tier priority in the church. But is that what we should take away from this text? I don’t think it is.
+For many years I would have summarised Acts 6:1-6 along these lines: the church’s ministry towards the needy was becoming more complex (6:1), increasing the demands on the twelves’ time and even threatening the apostolic task of preaching (6:2). Therefore they appointed deacons to oversee their ministries of mercy (6:3, 6), and recommitted themselves to prayer and preaching (6:4).
 
-It’s interesting what Luke writes after the decision to appoint deacons, "What they said pleased the whole gathering" (6:5). I imagine many read this verse and conclude that the gathering were pleased with the the apostles’ reiterated devotion to word ministry and pray (6:4). Only that verse follows on from 6:3, where the decision is made to establish a diaconal ministry that will be committed to administering mercy and charity (6:3). However, whenever I hear this text taught or cited it’s usually to make the point that mercy ministries are a distraction from important gospel work—from Bible teaching. This misses a fundamental point in the text: the early church were pleased with the establishment of the diaconate.
+The emphasis of this summary suggests that mercy ministry—or diaconal work—was both a distraction from the gospel and a second tier priority in the Acts church. But is that what we should take away from this text? I don’t think it is.
+
+It’s interesting what Luke writes after the decision to appoint deacons, "What they said pleased the whole gathering" (6:5). I imagine many will read this verse and conclude that the gathering were pleased with the the apostles’ reiterated devotion to word ministry and pray (6:4). Only that verse follows on from 6:3, where the decision is made to establish a diaconal ministry that will be committed to administering mercy and charity (6:3). However, whenever I hear this text taught or cited it’s usually to make the point that mercy ministries are a distraction from important gospel work—from Bible teaching. This misses a fundamental point in the text: the early church were pleased with the establishment of the diaconate.
 
 ## The Work of Deacons isn't Secondary
 
 Now, hopefully I’m not bending [Luke-Acts](https://rekindle.co.za/content/why-acts-lukes-purpose-for-writing-the-sequel/ "Luke's Sequel: Acts") in ways it shouldn’t be read. Yes, the apostles were concerned about the potential distraction of serving tables (6:2). But the growing needs and complexities of the early church meant that people’s material needs were being neglected (6:1). Those needs were so important to the apostles that they created a distinct office in the church to address them (6:3; 1 Timothy 3:8-13). The apostles don’t shrug off mercy ministry because it’s a distraction or unimportant. No, the church establishes a diaconate because of the incredible importance of helping the needy.
 
-In brief, Acts 6:1-6 highlights that certain individuals within the church must prioritise teaching and preaching, word ministry and prayer. But I’m not sure that it teaches that this ought to be a priority of the church. If anything, the decision in Acts 6 to set apart deacons emphasises the priority of mercy ministry in the early church. With this in mind, let me conclude with three takeaway points for your consideration.
+In brief, Acts 6:1-6 shows us that certain individuals within the church must prioritise teaching and preaching, word ministry and prayer. But I’m not sure that it teaches that this ought to be a priority of the church. If anything, the decision in Acts 6 to set apart deacons emphasises the priority of mercy ministry in the early church. With this in mind, let me conclude with three takeaway points.
 
 ## Concluding Points on Diaconal Ministry
 
