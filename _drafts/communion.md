@@ -3,6 +3,7 @@ layout: post
 title: Communion
 author: gheslop
 tags:
+- Habit
 - C. S. Lewis
 - Gerald Bray
 - Reformed theology
