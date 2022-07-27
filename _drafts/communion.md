@@ -20,13 +20,13 @@ Last year I wrote a couple of articles on communion. The [first article ](https:
 
 In this third post I want to address a common but unconvincing case against offering the sacrament every time the church gathers for Sunday worship. We might summarise it like so: repetition makes routine, and routine eventually empties something of its significance, meaning participants are left going through the motions. In other words, weekly communion becomes perfunctory.
 
-Unfortunately, Gerald Bray seems to give voice to this concern as a possible argument against celebrating communion Sunday by Sunday. In his outstanding work, _God Is Love_, he writes: “Contrary to the intentions of the liturgical reformers, the sacrament has been trivialised and devalued by overuse, and so its significance in the life of the believer and the congregation has been observed."
+Unfortunately, Gerald Bray seems to give voice to this concern as a possible argument against celebrating communion Sunday by Sunday. In his outstanding work, _God Is Love_, he writes: "Contrary to the intentions of the liturgical reformers, the sacrament has been trivialised and devalued by overuse, and so its significance in the life of the believer and the congregation has been observed."
 
 …
 
 ### 1. Header
 
-The first and rather simple point against the supposed danger of weekly communion making the sacrament dryly routine, reducing it to going through the motions is that we don’t apply this logic to other aspects of corporate worship—especially not singing. You don’t ever hear: ‘We’ve taken singing out of the liturgy this week because we’re worried that it’s becoming a little mechanical and insincere. Then we go on to sing, “you’re a good, good Father,” 22 times in a single standing.
+The first and rather simple point against the supposed danger of weekly communion making the sacrament dryly routine, reducing it to going through the motions is that we don’t apply this logic to other aspects of corporate worship—especially not singing. You don’t ever hear: ‘We’ve taken singing out of the liturgy this week because we’re worried that it’s becoming a little mechanical and insincere. Then we go on to sing, "you’re a good, good Father," 22 times in a single standing.
 
 I mean, should we be worried about devotional Bible reading or daily prayer becoming a formality. Is this also an argument against spiritual disciplines, or the means of grace? Should we leave out the Bible reading and sermon this coming Sunday, because we did it last week? I trust your answer to those questions was ‘no.’ Thus overuse leading to hollow formality is not an argument against weekly communion, unless you’re ready to apply to a whole host of other practises.
 
