@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Communion
+title: Weekly Communion Becomes Routine—And That's Okay
 author: gheslop
 tags:
 - Habit
@@ -38,7 +38,7 @@ C. S. Lewis addresses this way of thinking in his _Letters to Malcom_. He writes
 
 Constant reinvention and novelty undercuts the transformative power of repetition. And as Lewis says, it also distracts us. Ironically, when our priorities for corporate worship become excitement and vibe people end up worshipping God less.
 
-### 3. Our Worship is Cerebral—Not Embodied
+### 3. Our Worship is Cerebral—and Disembodied
 
 Finally, let me conclude by adapting [a point](https://rekindle.co.za/content/john-owen-and-asceticism/ "John Owen on Asceticism and Habit") I made years ago, with the help of John Owen and the Pauline Epistles. Paul writes: "I discipline my body and keep it under control" (1 Corinthians 9:27). Elsewhere he employs a similar image: "Train yourself for godliness" (1 Timothy 4:7). Picking up on this language, John Owen insisted that in order to effectively mature as believers we must go beyond the standard, contemporary tools: devotions, accountability, and sermons—as valuable as these are. Owen, along with many others before and after him, insists that we must incorporate our bodies and habits into spiritual formation.
 
