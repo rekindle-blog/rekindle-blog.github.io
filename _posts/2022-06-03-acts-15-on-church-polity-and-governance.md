@@ -12,7 +12,7 @@ tags:
 - Acts 15
 - Christian Leadership
 image: assets/images/westminster-abbey.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
