@@ -17,7 +17,7 @@ hidden: false
 ---
 About a month back I posted a [miscellany](https://rekindle.co.za/content/2022-06-23-bad-advice "Bad Christian Advice") of bad Christian advice. In response to some of the criticisms I received regarding that post, let me say two things. Firstly, I’m sure most advice is given with the best intentions. No one goes out of their way to offer bad advice. Well, at least I hope no one does that. Only, and secondly, this doesn’t change the fact that the advice I collected was bad. And by "bad" I mean misleading, wrong, and unhelpful.
 
-In a third post I plan to explore some of the reasons why bad advice seems to thrive almost as much as [gossip](https://africa.thegospelcoalition.org/article/gossip-a-sin-that-is-sadly-indigenous-to-the-church/ "Why Gossip is Indigenous to the Church") in the church. However, in this post I want to focus **on one thing…**
+In a later third post I plan to explore some of the reasons why bad advice seems to thrive almost as much as [gossip](https://africa.thegospelcoalition.org/article/gossip-a-sin-that-is-sadly-indigenous-to-the-church/ "Why Gossip is Indigenous to the Church") in the church. However, in this short post I want to focus our **tendency to...**
 
 ### Header small
 
