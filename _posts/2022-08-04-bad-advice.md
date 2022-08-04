@@ -17,7 +17,7 @@ hidden: false
 ---
 About a month back I posted a [miscellany](https://rekindle.co.za/content/2022-06-23-bad-advice "Bad Christian Advice") of bad Christian advice. In response to some of the criticisms I received regarding that post, let me say two things. Firstly, I’m sure most advice is given with the best intentions. No one goes out of their way to offer bad advice. Well, at least I hope no one does that. Only, and secondly, this doesn’t change the fact that the advice collected in that post was bad. And by "bad" I mean misleading, wrong, and unhelpful.
 
-In another post I plan to explore some of the reasons why bad advice seems to thrive almost as much as [gossip](https://africa.thegospelcoalition.org/article/gossip-a-sin-that-is-sadly-indigenous-to-the-church/ "Why Gossip is Indigenous to the Church") in the church. However, in this short post I want to focus on our tendency to offer impersonal, recycled, and therefore largely platitudinal advice. However, before that, I must point out that God affords tremendous value to counsel and community.
+In another post I plan to explore some of the reasons why bad advice seems to thrive almost as much as [gossip](https://africa.thegospelcoalition.org/article/gossip-a-sin-that-is-sadly-indigenous-to-the-church/ "Why Gossip is Indigenous to the Church") in the church. However, in this short post I want to focus on our tendency to offer impersonal, recycled, and therefore largely platitudinal advice. Before that, I must point out that God affords tremendous value to counsel and community.
 
 ### Christians Should Seek Out and Offer Counsel
 
@@ -33,7 +33,7 @@ You see, my problem with so much conventional wisdom and Christian advice is tha
 
 Too much advice is pre-fabricated and impersonal. Too much advice speaks without listening. Too much advice is more suited to being made into a motivational quote than meaningfully kneaded into a specific situation or context.
 
-### Good Advice isn't 
+### Good Advice isn't
 
 Owing to my line of work I’ve sat through many Christian conferences. I’ve read countless Christian books, articles, and blog posts; and sat under solid biblical preaching for decades. And as a result I’m never lacking for a great quote to share. I usually have more than one funny but 'applicable' anecdote on hand in response to a question. If you have a problem, I have a platitude.
 
