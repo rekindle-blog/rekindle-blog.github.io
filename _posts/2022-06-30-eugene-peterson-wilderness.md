@@ -12,7 +12,7 @@ tags:
 - A Month of Sundays
 - Eugene Peterson
 image: assets/images/wilderness.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
