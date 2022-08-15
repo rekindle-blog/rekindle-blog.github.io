@@ -1,8 +1,12 @@
 ---
 layout: post
-title: Charitable Writing Book Review
+title: Charitable Writing is About Character Not Style
 author: gheslop
 tags:
+- Habit
+- Character
+- Love
+- Humility
 - Charitable Writing
 - Book review
 - Writing
@@ -11,9 +15,6 @@ featured: false
 hidden: false
 
 ---
-
-<link rel="canonical" href=" link no spaces " />
-
 As I was offering _Charitable Writing_ to potential reviewers, more than one of them said that it sounded like a book I should read. I’d like to think they did this because I’m an editor and writer. Thus this book would better equip me for my work. But that’s wishful thinking. The real reason people made this suggestion fits with the authors’ motivation for writing: there is a serious and pressing need for Christians to examine how they “might conceive of and, in turn, practice writing in light of our religious commitments” (p9). _Charitable Writing_ is not a style guide, it is an invitation to consider how the Christian faith shapes our communication, especially writing—beyond its content.
 
 The authors, Beitler and Gibson, define "charitable writing" as "writing that embodies the distinctive Christian understanding of love, which used to go by the name of 'charity'" (p10). Citing Jesus’ greatest commandment (Matthew 22:37-40), they argue that there is no activity to which this law doesn’t apply. Therefore our writing—as with everything else—must be in its essence an exercise in Christian love (1 Corinthians 13:13). Their contention appears painfully obvious. Until you examine both your own writing and the torrents of Christian content being published or posted online. But we cannot check our faith convictions at the door. So we need, "to reconceive the labour of writing as an aspect of the Christian life, the life of discipleship" (p1).
@@ -45,3 +46,7 @@ It’s true that Jesus argued, as did Paul and the Old Testament prophets. Yet, 
 I don’t have space to do justice to the third major section of _Charitable Writing,_ in which the authors challenge our modern obsession with efficiency and remind readers—that is, writers—that our processes are formative. Thus the authors explore what the various stages of writing "might look like if the goal is not to crank writing out but to serve up something substantial" (p145). So, very helpfully, Beitler and Gibson provide practical steps for the writing process, from preparation through to revision. In doing so they issue a challenging correction to both procrastination (or laziness) and perfectionism (or pride). Each of these forget that the purpose of writing is to serve others rather than oneself.
 
 Finally, the authors remind Christian writers they we are pilgrims—both imperfect and being formed. Therefore "charitable writing won’t be achieved in a semester or a four-year degree program or even a decade. It is nothing less than the work of a writing lifetime" (p164). But character and virtue don’t simply happen, through some kind of literary osmosis. Christian writers must be committed to becoming the kind of writers who cannot but write charitably. So we must bring our faith into conversation with the writing process. The promise contained in such a commitment is not only that our writing will be transformed, but that we will be too. “Draw near to God, charitable writer, and he will draw near to you” (p167).
+
+_This book review originally appeared at the Gospel Coalition Africa and has been republished here without any changes_
+
+<link rel="canonical" href="[https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/](https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/ "https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/")" />
