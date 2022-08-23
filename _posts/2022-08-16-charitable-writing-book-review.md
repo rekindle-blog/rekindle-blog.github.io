@@ -11,7 +11,7 @@ tags:
 - Charitable Writing
 - Book review
 - Writing
-image: assets/images/passive-voice-writing.jpg
+image: assets/images/charitable-writing.png
 featured: false
 hidden: false
 
@@ -51,3 +51,5 @@ Finally, the authors remind Christian writers they we are pilgrims—both imperf
 #### Editor's Note
 
 _This book review originally appeared at_ [_the Gospel Coalition Africa_](https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/ "Review at TGCA") _and has been republished here without any changes. Over the years I've also reviewed books on occasion here, at Rekindle. Most notably among those are books on_ [_Eastern Orthodoxy_](https://rekindle.co.za/content/2020-04-22-book-review-the-victory-of-the-cross "The Victory of the Cross")_,_ [_Dostoyevsky_](https://rekindle.co.za/content/2021-09-08-gospel-notes-from-underground "Notes from Underground")_,_ [_the work of Christ_](https://rekindle.co.za/content/book-review-the-forgotten-cross/ "The Forgotten Cross")_, and_ [Gentle and Lowly](https://rekindle.co.za/content/2022-02-24-gentle-and-lowly "Dane Ortlund")_._
+
+<link rel="canonical" href="[https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/](https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/ "https://africa.thegospelcoalition.org/reviews/charitable-writing-is-about-character-not-style/") />
