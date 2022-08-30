@@ -3,6 +3,7 @@ layout: post
 title: 'Doodle: Are Evangelicals Obsessed with Other People''s Genitalia?'
 author: gheslop
 tags:
+- NakedPastor
 - Genitalia
 - Exvangelical
 - Sexual ethics
@@ -41,7 +42,7 @@ The Church (capital ‘C’) has always been concerned about sexual ethics. Call
 
 As I’ve already noted, it’s trendy to hate Evangelicals right now, but as far as I can tell Hayward isn’t quite ready to go the whole way and simply admit that he hates the Bible, or what God teaches about human sexuality—though that probably isn’t too far down the road. Because, let’s be honest, sexual ethics are significant and often addressed matter throughout the Scriptures.
 
-Whether it’s Paul (Romans 1:18-31; 1 Corinthians 6:12-20), John (Revelation 2:18-29), the writer to the Hebrews (Hebrews 13:4), Jude, David (Psalm 51), Solomon (Proverbs 6:32) the prophets, Yahweh (Exodus 20:14), or Jesus (John 4:17-18; Matthew 19:4-6; Mark 7:21-23), biblical teaching and ethics cannot help but be concerned about what we do with our genitalia. This probably explains why Evangelicals are too.
+Whether it’s Paul (Romans 1:18-31; 1 Corinthians 6:12-20), John (Revelation 2:18-29), the writer to the Hebrews (Hebrews 13:4), Jude, David (Psalm 51), Solomon (Proverbs 6:32) the prophets, Yahweh (Exodus 20:14), or Jesus (John 4:17-18; Matthew 19:4-6; Mark 7:21-23), biblical teaching and ethics cannot help but be concerned about what we do with our genitalia. This probably [explains](https://www.thegospelcoalition.org/article/evangelical-lgbt-ally/ "Evangelicals and LGBT+") why Evangelicals are too.
 
 ## Trade-in Your Old Dogma for a Newer One
 
