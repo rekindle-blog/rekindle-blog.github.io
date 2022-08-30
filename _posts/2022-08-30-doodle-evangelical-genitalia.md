@@ -28,21 +28,21 @@ Most theologians and Christian historians would sooner attempt to catch an eel w
 
 When I asked a friend who is well versed in these matters how she might define Evangelicalism, she replied with the Earl of Shaftesbury’s epithet: “I knew what constituted an Evangelical in former times. I have no clear notion what constitutes one now.” That was in the late 1900s. We’ve had over a century of Evangelicalism since.
 
-The difficulty in defining Evangelicalism or identifying its true proponents shows Hayward’s cartoon for what it truly is: pejorative. And he isn’t alone when it comes to turning the word ‘Evangelical’ into little more than a self0righteous insult aimed at those who are less progressive than you. This isn’t thought provoking. It doesn’t promote critical engagement. It’s just lazy.
+The difficulty in defining Evangelicalism or identifying its true proponents shows Hayward’s cartoon for what it truly is: pejorative. And he isn’t alone when it comes to turning the word ‘Evangelical’ into little more than a self-righteous insult aimed at those who are less progressive than you. This isn’t thought provoking. It doesn’t promote critical engagement. It’s just lazy.
 
 ## Evangelicalism or 2000 Years of Christian Tradition?
 
 Though Hayward would like his readers to believe that it’s only weirdly conservative and frighteningly puritanical Evangelicals that have a disturbing obsession with sex, the truth of the matter is that he’s railing against the traditional Christian sexual ethic. Evangelicals are merely an easy target. It’s cool to hate them right now, whoever they are. So singling them out makes sense, if you’re into logical fallacies such as unwarranted association jumps and gross generalisation.
 
-Unfortunately for Hayward, his sketch of a relatively novel and radically insecure group of hyper-conservative Christians trying to control what people do with their genitalia is false. For his critique of Evangelicals applies to every major Christian tradition (Roman Catholic, Eastern Orthodox, and Protestant) as well as most denominations (be they Baptists or Episcopalians) since the Jesus walked the earth.
+Unfortunately for Hayward, his sketch of a relatively novel and radically insecure group of hyper-conservative Christians trying to control what people do with their genitalia is false. For his critique of Evangelicals applies to every major Christian tradition (Roman Catholic, Eastern Orthodox, and Protestant) as well as most denominations (be they Baptists or Episcopalians) since Jesus walked the earth.
 
 The Church (capital ‘C’) has always been concerned about sexual ethics. Calling that Evangelical is therefore both historically inaccurate and logically inept.
 
 ## The More Important Question: Does God Care?
 
-As I’ve already noted, it’s trendy to hate Evangelicals right now, but as far as I can tell Hayward isn’t quite ready to go the whole way and simply admit that he hates the Bible, or what God teaches about human sexuality—though that probably isn’t too far down the road. Because, let’s be honest, sexual ethics are significant and often addressed matter throughout the Scriptures.
+As I’ve already noted, it’s trendy to hate Evangelicals right now, but as far as I can tell Hayward isn’t quite ready to go the whole way and simply admit that he hates the Bible, or what God teaches about human sexuality—though that probably isn’t too far down the road. Because, let’s be honest, sexual ethics are significant and a regularly addressed matter throughout the Scriptures.
 
-Whether it’s Paul (Romans 1:18-31; 1 Corinthians 6:12-20), John (Revelation 2:18-29), the writer to the Hebrews (Hebrews 13:4), Jude, David (Psalm 51), Solomon (Proverbs 6:32) the prophets, Yahweh (Exodus 20:14), or Jesus (John 4:17-18; Matthew 19:4-6; Mark 7:21-23), biblical teaching and ethics cannot help but be concerned about what we do with our genitalia. This probably [explains](https://www.thegospelcoalition.org/article/evangelical-lgbt-ally/ "Evangelicals and LGBT+") why Evangelicals are too.
+Whether it’s Paul (Romans 1:18-31; 1 Corinthians 6:12-20), John (Revelation 2:18-29), the writer to the Hebrews (Hebrews 13:4), Jude, David (Psalm 51), Solomon (Proverbs 6:32), the prophets, Yahweh (Exodus 20:14), or Jesus (John 4:17-18; Matthew 19:4-6; Mark 7:21-23), biblical teaching and ethics cannot help but be concerned about what we do with our genitalia. This probably [explains](https://www.thegospelcoalition.org/article/evangelical-lgbt-ally/ "Evangelicals and LGBT+") why Evangelicals are too.
 
 ## Trade-in Your Old Dogma for a Newer One
 
