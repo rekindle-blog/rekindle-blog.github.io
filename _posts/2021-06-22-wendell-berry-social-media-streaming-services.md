@@ -19,7 +19,7 @@ Responding to predominantly unfavourable letters regarding his [essay](https://w
 
 ### Putting Our Faith In Technology
 
-I touched on this fundamentalism years ago in a [post](https://rekindle.co.za/content/technology-saviour-or-servant/ "Saviour Or Servant?") exploring the unshakable belief that technological process will inevitably triumph over all our economic, social, and physical ailments. Most of us consider technological innovation, in its various forms, to be entirely good and devoted to the betterment of human life. As Berry says, we all participate in this "cultish" faith.
+I touched on this fundamentalism years ago in a [post](https://rekindle.co.za/content/technology-saviour-or-servant/ "Saviour Or Servant?") exploring the unshakable belief that technological progress will inevitably triumph over all our economic, social, and physical ailments. Most of us consider technological innovation, in its various forms, to be entirely good and devoted to the betterment of human life. As Berry says, we all participate in this "cultish" faith.
 
 We are worshippers, convinced that our digital deities will bless us with a better future, happier lives, and fewer problems. However, as Berry goes on to say: "the existence of the future is an article of faith." Therefore this hope is unfounded. The future does not exist. Nor will it necessarily be better. One need only recall the utopian optimism propped up by technological progress early in the 20th century—until the two bloodiest wars in history made such faith untenable.
 
