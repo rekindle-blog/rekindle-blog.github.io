@@ -24,7 +24,7 @@ So, are Evangelicals obsessed with what people do with their genitalia? Put diff
 
 ## Which Evangelicals or Evangelicalism?
 
-Most theologians and Christian historians would sooner attempt to catch an eel with their bare hands, than attempt to define Evangelicalism. Not only is its historical origin debated, every iteration of it since the Enlightenment has been critical of those that preceded it. Much of this came to a height with the debates around Scripture (especially inerrancy and inspiration) in the 20th century, but that only does to prove how vague the designation actually is.
+Most theologians and Christian historians would sooner attempt to catch an eel with their bare hands, than attempt to define Evangelicalism. Not only is its historical origin debated, every iteration of it since the Enlightenment has been critical of those that preceded it. Much of this came to a height with the debates around Scripture (especially inerrancy and inspiration) in the 20th century, but that only goes to prove how vague the designation actually is.
 
 When I asked a friend who is well versed in these matters how she might define Evangelicalism, she replied with the Earl of Shaftesbury’s epithet: “I knew what constituted an Evangelical in former times. I have no clear notion what constitutes one now.” That was in the late 1900s. We’ve had over a century of Evangelicalism since.
 
