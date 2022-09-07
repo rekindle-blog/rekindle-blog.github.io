@@ -12,7 +12,7 @@ tags:
 - Lord's Supper
 - Communion
 image: assets/images/communion.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
