@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Important Principles For Church Polity From Acts 15
+title: Two Important Principles for Church Polity from Acts 15
 author: gheslop
 tags:
 - Episcopalian
@@ -12,7 +12,7 @@ tags:
 - Acts 15
 - Christian Leadership
 image: assets/images/westminster-abbey.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
