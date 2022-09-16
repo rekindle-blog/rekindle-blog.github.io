@@ -11,7 +11,7 @@ tags:
 - Blaise Pascal
 - Pensées
 image: assets/images/tyranny.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
