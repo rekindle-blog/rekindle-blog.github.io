@@ -13,4 +13,4 @@ featured: false
 hidden: false
 
 ---
-Many years ago I wrote a [reflective assumption](https://rekindle.co.za/content/doodle-the-dangerous-evangelical-assumption/ "The Dangerous Evangelical Assumption") aboin [_Gentle And Lowly_](https://rekindle.co.za/content/2022-02-24-gentle-and-lowly "Review: Gentle And Lowly"), "There is a kind of 
+a [assumption](https://rekindle.co.za/content/doodle-the-dangerous-evangelical-assumption/ "The Dangerous Evangelical Assumption") aboin [_Gentle And Lowly_](https://rekindle.co.za/content/2022-02-24-gentle-and-lowly "Review: Gentle And Lowly"), 
