@@ -13,7 +13,7 @@ tags:
 - Masculinity
 - Fatherhood
 image: assets/images/wild-at-heart.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
@@ -39,7 +39,7 @@ Now, I’m not interested in mounting a theological critique of _Wild At Heart,_
 
 ### Jesus Laments over Jerusalem (Matthew 23:37-38)
 
-\**37 "**How I would have gathered you together, the way a man gathers his bros around the braai to talk sport, but you were soft and unwilling. **38** See, your true male desire for danger has been abandoned.
+**37** "How I would have gathered you together, the way a man gathers his bros around the braai to talk sport, but you were soft and unwilling. **38** See, your true male desire for danger has been abandoned.
 
 ### The Death of Lazarus (John 11:33-36)
 
