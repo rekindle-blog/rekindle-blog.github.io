@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why 'Great' Preaching can Make Ungodly Listeners
+title: Why 'Great' Preaching Can Make Ungodly Listeners
 author: gheslop
 tags:
 - Scripture
