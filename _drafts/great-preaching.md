@@ -3,6 +3,9 @@ layout: post
 title: Why 'Great' Preaching can Make Ungodly Listeners
 author: gheslop
 tags:
+- Scripture
+- Bible Believing
+- Bible
 - Expository Preaching
 - Exposition
 - Exegesis
@@ -17,7 +20,7 @@ Earlier this year I posted [an article](https://rekindle.co.za/content/2022-04-2
 
 In this post I want to explore a theme that I noticed in response to the post mentioned above. A few readers pointed out that the emphasis I critiqued doesn’t only manifest in proud pulpiteers but also pedantic pew-sitters.
 
-### \[Header\]
+### Prep is Incomplete without Prayer
 
 Before picking up on that theme, let me address another: was I forcing a false dichotomy in the previous post? Maybe.
 
@@ -27,7 +30,7 @@ So, I’m not condoning lazy sermon prep. Nor am I calling on preachers to 'let 
 
 With that out of the way, let’s consider how an emphasis on crisp and clear Bible teaching might actually deform rather than transform our hearers.
 
-### \[Header\]
+### The Problem with 'Clever' Preaching
 
 My friend Jade put it like this: "I’ve noticed that 'clever' preaching—for lack of a better description—can often yield a certain kind of listener as well. Over time It shapes some in the congregation to primarily listen for correctness, rather than practice humble submission. One assumes 'I know better' and will try to critique, the other acknowledges our dependency on others’ giftedness and works hard at receiving the taught word instead of dissecting it."
 
@@ -37,7 +40,7 @@ As Dane Ortlund writes in [_Gentle And Lowly_](https://rekindle.co.za/content/20
 
 Of course, no preacher aims at this. But perhaps preaching that prizes publishable sermon notes inevitably achieves it. Precision isn’t the same thing as proclamation. Self-congratulatory preaching deforms those in the pew. Scintillating exegesis can stunt spiritual growth. No matter how great the exposition is, if it makes listeners that are proudly critical then we’ve failed.
 
-### \[Header\]
+### We Must Go beyond the Biblical Text
 
 A few years back I [developed](https://rekindle.co.za/content/bray-on-scripture-experiencing-gods-love/ "Bible is for Experiencing God's Love") a point made by Gerald Bray_,_ challenging the excessive and loud devotion that some give to the Bible without an exceedingly greater love for God. He writes, "Knowing about the Bible is not the same as treasuring it because we experience God himself when it is read and preached." Bray rightly says, "Scripture is the language of God’s love for his people, and if it does not speak to the soul, then it is not doing what we ought to expect…Ultimately, the Bible points us to an experience of God that lies beyond itself."
 
