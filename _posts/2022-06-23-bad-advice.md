@@ -14,7 +14,7 @@ tags:
 - Advice
 - Wisdom
 image: assets/images/bad-advice.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
