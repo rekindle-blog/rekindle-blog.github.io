@@ -13,7 +13,7 @@ tags:
 - Literary device
 - Satire
 image: assets/images/satire-waterloo.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
