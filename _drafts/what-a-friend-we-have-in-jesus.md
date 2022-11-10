@@ -3,42 +3,47 @@ layout: post
 title: What a Friend We Have in Jesus
 author: gheslop
 tags:
-- Richard Matheson
-- I Am Legend
-- Gentle and Lowly
-- John 11:35
-- John 11
-- John's Gospel
+- Hebrews
+- Christian Community
+- Incarnation
+- Hymns
+- What a Friend We Have in Jesus
+- Friendship
 - Jesus Christ
 - Jesus
 - Christ's humanity
-- Nicene Creed
 - Christology
 image: assets/images/jesus.jpg
 featured: false
 hidden: false
 
 ---
-If it’s allowed, I think John’s Gospel is my favourite of the four. Though many literary characteristics and peculiar stories distinguish John from the Synoptics, what draws me to it are the extended narratives—or pericopes. One of the most famous among these is undoubtedly John 11, the raising of Lazarus from the dead. It’s a brilliantly crafted narrative, but the focus of this short post is John 11:35, "Jesus wept." My question is this: should we really make a fuss about the fact that Jesus cried, even if it’s one of only three recorded occasions in the Gospels?
+I’m not sure how many churches sing it today, but Joseph Schriven's poem—set to music by Charles Crozat Converse—is still widely recognised. Even though you've never heard of either of those men, you know the rousing hymn: [_What a Friend We Have in Jesus_](https://www.hymnal.net/en/hymn/h/789 "The Hymn")_._ Reflecting on its words recently, I decided to try and reverse engineer it, exploring what it might teach us about friendship.
 
-### Jesus: Mostly God, Only Marginally Man?
+The question I had regarding the hymn was this: what makes Jesus such a great friend? And are those attributes and abilities exclusive to him? Put differently, do we celebrate the glorious friendship that Jesus provides, while settling for much poorer imitations among one other? Using _What a Friend We Have in Jesus_, let me suggest three things that make a great friend and meaningful friendships.
 
-If you’ve heard a sermon or sat through a Bible study on John 11 then you’ve likely witnessed a poignant pause, emphasising this remarkable moment in Jesus’ life: 'Jesus wept. Only two words. The shortest verse in the Bible.' Only, is it really that remarkable? Judging by pulpits one would almost have to conclude that it is, yes. But similarly to C. S. Lewis' ["he’s not safe, but he’s good," ](https://rekindle.co.za/content/doodle-hes-not-safe-but-hes-good/  "The Lion, the Witch, and the Wardrobe")despite regularly having heard its startling significance declared, I’ve never been able to track with those teaching it. Upon reflection, I’ve wondered if this is in part owing to my theological tradition’s poorly formed Christology.
+### Recognise Our Shared Humanity
 
-Without going into the details, one of the biggest controversies in the early church pertained to Christ’s divinity. As you might have guessed, for most the issue was not whether Christ was a man, but whether he was truly God. This controversy resulted in the [Nicene Creed](https://www.crcna.org/welcome/beliefs/creeds/nicene-creed "The Nicene Creed"). In it one can find crisp, timeless theological language that will likely sound very familiar: "Light from Light, true God from true God, begotten, not made."
+_What a Friend We Have in Jesus_ succeeded, in part, because of its theology, particularly its Christology. The hymn celebrates God’s identification with us, [with humanity](https://rekindle.co.za/content/2022-10-06-jesus-weeping-at-lazarus-tomb-isn-t-remarkable-it-s-human "Jesus Wept for His Friend"), through the incarnation. As one biblical writers says, the Son shared in our flesh and blood (Hebrews 2:14), being tempted like us in every respect (Hebrews 4:15). Because of his humanity, Jesus is truly able to sympathise with our weaknesses. He understands us. He knows our condition, "our every weakness." So the hymn urges us to bring our prayers to him. We approach him as friends. Indeed, what a friend we have in Jesus.
 
-My point in raising this controversy and the Nicene Creed is simply to note the early church never really had to defend or codify, and therefore carefully develop, its understanding of Christ’s human nature. His humanity. The implications of this have always been assumed, and sometimes largely overlooked. I believe that this deficiency is evident in our reading of John 11:35.
+Does that point not apply to the other humans in our life? Yes, they might "despise, forsake thee." True, there is no "friend so faithful" as Jesus. Yet the people around you, those who’re genuinely invested in you, committed to your wellbeing, participate completely in the weight of being human. Even if they don’t share in your specific circumstances, they share your general condition, with its countless highs and inevitable lows. So while they may not understand everything you’re experiencing, they have a good idea about most of it. This really lays the foundations for other two.
 
-### Death: An Incomprehensible Human Reality
+### Readily Bear Each Other's Sins
 
-Early on in John 11 we read that Jesus loved Lazarus (John 11:3, 5). And immediately after we’re see Jesus weeping at the tomb (John 11:35), those standing nearby remark, “See how he loved him” (John 11:36). Three times then, to help even the most lazy reader: Jesus loved Lazarus. Considering this together with how much he loved Lazarus’ sisters, it would be exceptionally strange if he hadn’t wept at Lazarus’ tomb. His dear friend was dead, long laid underground. Standing around were the bereaved, whom Jesus deeply loved as well. It’s a scene heaving with human aches and agony. And we make a big deal about Jesus crying?
+The hymn opens with these lines: "What a friend we have in Jesus, / all our sins and griefs to bear!" Amen. For Jesus is our "precious Saviour." The only Saviour. The joke is true: without Christ, the Christian is left with Ian, and he isn’t saving anyone. Jesus—and Jesus alone—bears God’s just wrath against our sins.
 
-I’m convinced that one of the reasons we tend to handle John 11:35 in a ham-fisted way can be ascribed to our underemphasis on Jesus’ humanity, an underdeveloped Christology. Put anyone else in Jesus’ situation and we would not highlight the fact that they wept. Of course Jesus wept! What did you expect? This isn’t ['wild at heart Jesus.'](https://rekindle.co.za/content/2022-06-14-if-jesus-were-wild-at-heart-the-gospels-reimagined "Wild at Heart") Nor is he merely some dispassionate deity, striding across the earth, pausing to shed some crocodile tears. In John 11:35 we meet a heartbroken man, despairing as he confronts the stark realities of death and loss.
+However, in his _Life Together_, Dietrich Bonhoeffer describes Christian love and community as sin bearing. Though we don’t bear the penalty for one another’s sin, we can shoulder its implications and consequences. So true Christian [friendship is costly](https://rekindle.co.za/content/2021-08-11-costly-friendship "Christian Friendships are Costly"). Conversely, it doesn’t keep a relational check and balance. Christian friendship demands that we absorb one another’s failings and foibles. In friendship, we get to imitate Christ by showing mercy to those we love, offering grace instead of judgment, acceptance rather than accusations.
 
-Consider this passage from Richard Matheson’s _I Am Legend,_ as the protagonist realises his fate: "He tried to understand that. But that didn't work either. In spite of having lived with death all these years, in spite of having walked a tightrope of bare existence across an endless maw of death—in spite of that he couldn't understand it. Personal death still was a thing beyond comprehension." Likewise, Jesus was overwhelmed by the incomprehensibility of death. So Jesus wept. This isn’t remarkable. It’s not exceptional. When we read and preach it with incredulity we only reveal a deficient Christology, a malformed and only marginally human Christ.
+### Risk Being Vulnerable and Weak
 
-### John 11: The Reassurance of Jesus' Humanity
+The second stanza exhorts us to take our "troubles" to Jesus, for as we saw above he bears both our sins and grief. Then the third stanza asks: "Are we weak and heavy laden, / cumbered with a load of care?" Honest answers only. None of us are strangers to suffering. Few of us are without troubles. And most of us regularly feel "weak" and overburdened. Take it to the Lord, in prayer. Of course. Because of Christ we can confidently draw near to the throne of grace to receive mercy and grace in our time of need (Hebrews 4:16).
 
-For me, the most striking feature of the John 11 narrative further proves my point: Jesus went to Lazarus intending to raise him from the dead. Before leaving for Bethany Jesus says, "This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it" (John 11:4). This is why he waits two more days (John 11:5). Jesus, "the resurrection and the life" (John 11:25), knew he would raise Lazarus. Yet he was "deeply moved," standing outside the tomb (John 11:38). He still wept. This is Jesus, the man who loved and lost, who felt acutely the pain of grief. Isn’t it wonderful to see him weep, knowing that he weeps both for us and with us—as one of us.
+Yet, he isn’t the only person we can turn to when "heavy laden" and weighed down by "troubles." Just as friends can bear our sins, so too they exist to help carry our grief. Friendship is forged in vulnerability, to adapt a point from St Aelred’s [_Spiritual Friendship_](https://rekindle.co.za/content/friendship/ "Definition of Friendship").
 
-Listen to these lines from [Gentle and Lowly](https://rekindle.co.za/content/2022-02-24-gentle-and-lowly "What's Wrong with This Book?") by Dane Ortlund, in conclusion: "Let the heart of Jesus be something that is not only gentle toward you but lovely to you. If I may put it this way: romance the heart of Jesus. All I mean is, ponder him through his heart. Allow yourself to be allured. Why not build int to your life unhurried quiet, where, among other disciplines, you consider the radiance of who he actually is, what animates him, what his deepest delight is? Why not give your soul room to be re-enchanted with Christ time and again?"
+Whenever I write about friendship I realise that its painful, palpable absence is due to our inability to lean on others—even Nietzsche [knew this](https://rekindle.co.za/content/2020-09-04-fridays-with-fred-friendship "Nietzsche on Friendship"). As Eugene Peterson writes: "In giving friendship we share strength, but in receiving it we show weakness." But who wants to appear weak, needy, or dependant? Sure, we will occasionally make those admissions as we seek God’s help. Will we do the same with our friends? If we’re willing to, we’ll enjoy much richer, more intimate friendships.
+
+##### "O What Peace We often Forfeit"
+
+The closing lines of our hymn are wonderfully reassuring, depicting Jesus’ wide-armed embrace of all who come to him: "In his arms he'll take and shield you; / you will find a solace there." This alludes back to the first stanza: "O what peace we often forfeit, / O what needless pain we bear, / All because we do not carry / Everything to God in prayer."
+
+Jesus is the rest for our burdened, weary souls (Matthew 11:28-30). He gives "peace" and "solace." But so can friendships, if we: (1) recognise our shared condition; (2) bear each other’s sins; and (3) allow ourselves to be weak and vulnerable.
