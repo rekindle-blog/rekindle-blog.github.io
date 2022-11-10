@@ -10,7 +10,7 @@ categories:
 - Apostasy
 - Assurance
 image: assets/images/walking-away.jpg
-featured: false
+featured: true
 hidden: false
 tags: []
 
