@@ -12,7 +12,7 @@ tags:
 - Story
 - Fiction
 image: assets/images/reading-fiction.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
