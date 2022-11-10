@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What a Friend We Have in Jesus
+title: What a Friend We Have in Jesus, but You Can Have Others
 author: gheslop
 tags:
 - Hebrews
