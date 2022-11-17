@@ -12,7 +12,7 @@ tags:
 - Evangelical
 - Doodle
 image: assets/images/genitalia-and-evangelicals.png
-featured: false
+featured: true
 hidden: false
 
 ---
