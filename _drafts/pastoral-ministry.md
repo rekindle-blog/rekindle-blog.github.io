@@ -3,6 +3,8 @@ layout: post
 title: Pastoral ministry
 author: gheslop
 tags:
+- Mercy Ministry
+- D. A. Carson
 - New Testament
 - Paul
 - 1 Timothy
