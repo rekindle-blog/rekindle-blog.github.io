@@ -56,6 +56,6 @@ Finally, as I’ve argued at length [elsewhere](https://rekindle.co.za/content/2
 
 Consider 1 Timothy. Maybe you haven’t noticed this before. But, quite remarkably, in an epistle many deem a kind of church manual (3:14-15), Paul devotes the best part of an entire chapter to caring for the needy and vulnerable (see 5:4-16). Mercy ministry wasn’t some Pauline appendix. He doesn’t say, ‘Once you’re hitting Sunday services out the park and the 5 ministry M’s are flying you might want to spare some time for the poor.’ Rather, the truth that pastors must defend in love is the same one that also reaches out in love to assist the needy, vulnerable, and disenfranchised.
 
-#### Conclusion
+#### Remember Paul's Priorities
 
-Pastor, let God give shape to your ministry. Make these Pauline priorities your own, rather than allowing modern pressures to shape your pastoral ministry.
+Pastor, let God give shape to your ministry. Make these Pauline priorities your own, rather than allowing modern pressures to form your them.
