@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pastoral ministry
+title: Amid Modern Pressures, Remember Paul's Priorities for Pastoral Ministry
 author: gheslop
 tags:
 - Mercy Ministry
