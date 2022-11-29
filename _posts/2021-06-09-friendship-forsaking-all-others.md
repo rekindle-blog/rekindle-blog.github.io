@@ -9,7 +9,7 @@ tags:
 - Marriage
 - Book Of Common Prayer (BCP)
 image: assets/images/traditional-marriage-vows.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
