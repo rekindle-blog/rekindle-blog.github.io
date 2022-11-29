@@ -2,8 +2,16 @@
 layout: post
 title: Theology and Pastoral Ministry
 author: gheslop
-tags: []
-image: ''
+tags:
+- Suffering
+- John Calvin
+- Theological College
+- Christian theologian
+- Bible College
+- Reading
+- Ministry
+- Theology
+image: assets/images/theological-library.jpg
 featured: false
 hidden: false
 
