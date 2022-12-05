@@ -3,6 +3,10 @@ layout: post
 title: Cobelligerents Make Bad Friends
 author: gheslop
 tags:
+- Social Media
+- Identity
+- Ideology
+- Relationships
 - Cobelligerents
 - Co-belligerence
 - Friends
@@ -34,7 +38,7 @@ Firstly, how much can you trust someone with whom a fundamental point of connect
 
 Think about it. If one of the values you esteem in others is their ability to direct animosity at others, how sure can you be that it won’t eventually be turned on you? This works in reverse, as well. If you prize others primarily for their participation in your aggression then what happens when their position changes? What happens when they change? Having mutual enemies is undoubtedly an effective forge for alliances, but it’s a terrible one for friendships, because it isn’t built on trust.
 
-#### 2. Cobelligerents Will Respect, but Rarely Love, Each Other
+#### 2. Cobelligerents Will Respect but Rarely Love Each Other
 
 Secondly, and not too dissimilarly from the previous point, Friedrich Nietzsche [identified](https://rekindle.co.za/content/2020-09-04-fridays-with-fred-friendship "Nietzsche on Friendship") the challenge to love and respect the same person (_Human, All Too Human_, §603). Respect tends to be tied to status, authority, and utility. Love, on the other hand, eschews power and function. It doesn’t value people—indeed, it doesn’t construct friendships—according to how much they will benefit me or reinforce my own hostilities and causes.
 
