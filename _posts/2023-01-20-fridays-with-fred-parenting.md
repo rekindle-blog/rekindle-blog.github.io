@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fridays With Fred: Parenting'
+title: 'Fridays with Fred: Parenting'
 author: gheslop
 categories:
 - Hypocrisy
@@ -24,7 +24,7 @@ tags:
 - Fridays with Fred
 
 ---
-Over the years I’ve said some apparently incendiary things about children and parenting, from arguing that married couples **don’t have to** attempt to have children and more recently that we should always **tell our children the truth**. Continuing that controversial trend, in this article I’m going to consider a remarkably insightful point Friedrich Nietzsche makes about parenting, in his _Human, All Too Human_. **More…**
+Over the years I’ve said some apparently incendiary things about children and parenting, from arguing that married couples [don’t have to](https://rekindle.co.za/content/responding-to-challies-is-it-okay-to-deliberately-not-have-children/ "Must We Have Children?") attempt to have children and more recently that we should always [tell our children the truth](https://rekindle.co.za/content/2022-03-31-tell-your-children-the-truth "Tell Your Children the Truth"). Continuing that controversial trend, in this article I’m going to consider a remarkably insightful point Friedrich Nietzsche makes about parenting, in his _Human, All Too Human_: because parents live so closely to their children there's always a danger of growing indifferent to them.
 
 The German philosopher writes: "The grossest errors in judging a person are made by his parents; this is a fact, but how is one to explain it? Do the parents have too much experience of the child, and can they no longer compose it into a unity? We notice that travellers in a strange land grasp correctly the common, distinctive traits of a people only in the first period of their stay; the more they get to know a people, the more they forget how to see what is typical and distinctive about it. As soon as they see up close, they stop being farsighted. Might parents judge their child wrongly because they have never stood far enough off from him?" (§423).
 
