@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Celebration Of Tyranny In Pastoral Ministry
+title: The Celebration of Tyranny in Pastoral Ministry
 author: gheslop
 tags:
 - The Pastoral Epistles
@@ -11,7 +11,7 @@ tags:
 - Blaise Pascal
 - Pensées
 image: assets/images/tyranny.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
