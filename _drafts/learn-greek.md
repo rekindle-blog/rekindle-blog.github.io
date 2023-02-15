@@ -1,8 +1,13 @@
 ---
 layout: post
-title: learn greek
+title: How Learning Greek Might Help You Love God
 author: gheslop
-tags: []
+tags:
+- Love
+- Greek
+- Theology
+- Prayer
+- Simone Weil
 image: ''
 featured: false
 hidden: false
