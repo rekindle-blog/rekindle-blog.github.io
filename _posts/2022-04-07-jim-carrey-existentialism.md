@@ -11,7 +11,7 @@ tags:
 - Existentialism
 - Jim Carrey
 image: assets/images/jim-carrey.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
