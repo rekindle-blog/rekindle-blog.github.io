@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'You Can''t Pop over to the Friendship Super Store '
+title: You Can't Pop Over to the Friendship Super Store
 author: gheslop
 tags:
 - Antoine de Saint-Exupéry
@@ -14,11 +14,11 @@ featured: false
 hidden: false
 
 ---
-Having recently relocated, my wife and I have been taking a new route to work. When not driving I’ve been enjoying the new sites, sounds and surrounds. And a couple weeks back I noticed a small shop on Main Road called the Friendship Super Store. Naturally, I snapped a photo of the store front and shared it with some friends on WhatsApp, joking: I’m trading you in.
+Having recently relocated, my wife and I have been taking a new route to work. When not driving I’ve been enjoying the new sites, sounds and surrounds. And a couple weeks back I noticed a small shop on Main Road called the Friendship Super Store. Naturally, I snapped a photo of the store front and shared it with some friends on WhatsApp, joking: I’m trading you in. I'm sure the feelings are mutual.
 
-Regulars at Rekindle will know that I’ve dedicated a considerable amount of reading and writing to the topic friendship. Hopefully a few of you will also be able to testify to that commitment in our shared lives. So I wonder what your feelings would be towards a store where you could buy better friends, upgrading your friendships like you might an old iPhone. With the rise of artificial intelligence (AI) such a concept might not be that outlandish. But, at least for the time being, we’re stuck with one another (i.e. humans). This makes reflecting on friendship essential—especially in this increasingly digital and disembodied age we live in.
+Regulars at Rekindle will know that I’ve dedicated a considerable amount of reading and writing to the topic of friendship. Hopefully a few of you will also be able to testify to that personal commitment in my life. So I wonder what you'd make of a store where you could buy better friends, upgrading friendships like you might an old iPhone. With the rise of artificial intelligence (AI), such a concept might not be that outlandish. But, for the time being, we’re stuck with one another (i.e. humans). This makes reflecting on friendship essential—especially in this increasingly digital and disembodied age we live in.
 
-Driving past the Friendship Super Store got me thinking about a passage from Antoine de Saint-Exupéry’s _Little Prince_. In it, one of the characters bemoans the fact that despite being able to buy almost anything, the only way to gain and grow friendships is by investing our time. So, let’s consider _The Little Prince_, before briefly turning up the _The Watchmen_ graphic novel and finally a song from The Beatles.
+Driving past the Friendship Super Store got me thinking about a passage from Antoine de Saint-Exupéry’s _Little Prince_. In it, one of the characters bemoans the fact that despite being able to buy almost anything, the only way to gain and grow friendships is by investing time.
 
 ### "There Is No Shop Where Friends Can Be Bought"
 
@@ -34,4 +34,4 @@ Of course there’s always social media. But in words of Dr Manhattan from _The 
 
 ### "People No Longer Have Friends"
 
-Returning to _The Little Prince_, the fox, and my drive to work, [meaningful friendships](https://rekindle.co.za/content/2021-05-12-eulogy-friendship "Eulogy to Friendship") take time; they're [inconvenient and costly](https://rekindle.co.za/content/2021-08-11-costly-friendship "Friendship is Costly"). Many of us can buy almost anything “ready-made.” And most of us participate extensively in what appears relational online, but we all know falls far short. It doesn’t satisfy. While its debatable whether we have more or less time today than people did when Antoine de Saint-Exupéry _The Little Prince,_ I’d argue that we are less and less those who work at taming and understanding the world around us. Indicative of this—and coupled with the the fact that we can “buy \[almost\] everything ready-made from the shops”—is that “people no longer have friends.”
+Returning to _The Little Prince_, the fox, and my drive to work, [meaningful friendships](https://rekindle.co.za/content/2021-05-12-eulogy-friendship "Eulogy to Friendship") take time; they're [inconvenient and costly](https://rekindle.co.za/content/2021-08-11-costly-friendship "Friendship is Costly"). Many of us can buy almost anything “ready-made.” And most of us participate extensively in what appears relational online, but we all know falls far short. It doesn’t satisfy. While its debatable whether we have more or less time today than people did when Antoine de Saint-Exupéry _The Little Prince,_ I’d argue that we are less and less those who work at taming and understanding the world around us. Indicative of this—and coupled with the the fact that we can “buy \[almost\] everything ready-made from the shops”—is that “people no longer have friends."
