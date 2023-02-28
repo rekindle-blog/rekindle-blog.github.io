@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should Christians Observe Lent? An Argument For Fasting
+title: Should Christians Observe Lent? An Argument for Fasting
 author: gheslop
 tags:
 - New Testament
@@ -18,13 +18,13 @@ hidden: false
 ---
 Over the past few years I have been increasingly drawn to the role catechising should play in both the corporate life of the church as well as individual believers. But [recently writing](https://africa.thegospelcoalition.org/article/the-new-city-catechism-in-africa/ "New City Catechism At TGCA") about the New City Catechism I confessed to thinking for years that catechising was a peculiarity of Catholics—obviously I was wrong. It’s time for a similar confession: until my late teens I also understood Lent as something peculiar to Catholics. I have a meme saved on my phone in which a man asks another: ‘What are you giving up for Lent?’ The response: ‘Roman Catholic and Papist tradition.’ Regardless of how much I enjoy that meme, the theological association is again wrong. Lent appeared long before Roman Catholicism, or even the Medieval Age and monasticism. So in this post I want to call readers from all Christian traditions to consider observing Lent. And because Lent is in essence an extended period of fasting, I will argue for Lent by making a case for fasting.
 
-### **Lent As Fasting: A Lost Spiritual Discipline**
+### Lent as Fasting: A Lost Spiritual Discipline
 
 Commenting on Matthew 6:16-18, [Dietrich Bonhoeffer](https://rekindle.co.za/content/bonhoeffer-on-the-cost-of-discipleship/ "The Cost Of Discipleship") notes that Jesus took it for granted that his disciples would fast. For Jesus says "when" not "if" you fast. This immediately raises uncomfortable questions about the absence of fasting among most Protestants today. Just as we might see the spectre of Roman Catholicism behind Lent, many may worry that fasting could make us into self-righteous Pharisees. Yet when the Pharisees queried Jesus about why his disciples didn’t fast, his answer again assumed that they would: “Can the wedding guests mourn as long as the bridegroom is with them? The days will come when the bridegroom is taken away from them, and then they will fast” (Matthew 9:14-15). In both instances, Jesus assumed that those who follow him would fast.
 
 This assumption is evident once we move from the Gospels into the rest of the New Testament. For, far as I can tell, there is no clear instruction in the New Testament epistles for Christians to fast. However, the early believers continued the practice (Acts 13:2-3; 14:23). And, as in the Sermon on the Mount, fasting was coupled with prayer in the early church (Matthew 6:5-18). Far from being a later invention, or some Roman Catholic tradition, Jesus’ first disciples and the early church fasted. Furthermore, Christians throughout the centuries have practised fasting. Thus we should examine and ask ourselves why we don’t. If Lent is ultimately an extended fast, we should reconsider our suspicion towards observing it. Perhaps, like fasting more broadly, Lent is a spiritual discipline Christians would do well to recover.
 
-### **Check Your Motivation For Fasting**
+### Check Your Motivation for Fasting
 
 As with most good things or Christian disciplines, there is a danger of turning fasting into badge of honour—a kind of baptised virtue signalling. When Jesus gave instructions about fasting he cautioned against this danger. “When you fast, do not look gloomy like the hypocrites, for they disfigure their faces that their fasting may be seen by others...they have received their reward. But when you fast, anoint your head and wash your face, that your fasting may not be seen by others but by your Father” (Matthew 6:16-18). Therefore we should make no public declarations when we fast. Similarly to Jesus’ indirect rebuke of the Pharisees, with their boastful self-deprecation, when we fast it should be done in secret.
 
@@ -34,7 +34,7 @@ Fasting is something between us and God, done in secret before our heavenly Fath
 
 Before unpacking the benefits of fasting, I want to list a few more wrong reasons to start fasting—or observe Lent. Essentially, they can be summed up under the header: physical health. Spend any time scrolling through Facebook and you’re bound to be confronted by some self-proclaimed health professional or trainer explaining how beneficial it is to fast. I’m not denying these benefits. But it’s worth distinguishing between fasting for the physical, health benefits and out of devotion to God and a desire for personal godliness (1 Timothy 4:7-8). Therefore, if you are considering Lent, do not use it as the thinly veiled selfish means to quit sugar, kickstart a diet, or get into better shape. Those reasons are all about you. They are motivated by nothing other than your own vanity. Fasting must be about drawing nearer to your God, in private devotion to him.
 
-### **The Blessings And Lessons Bound Up In Fasting**
+### The Blessings and Lessons Bound Up in Fasting
 
 Richard Foster writes that fasting is abstaining from something—not necessarily food—for spiritual purposes. Like any practise, fasting has been misused in the past. But as with all the spiritual disciplines, it has the purpose of stirring devotion, fuelling prayer, and giving us a greater sense of God’s presence. Like prayer or meditating on Scripture, fasting can lead to a heightened experience of God—richer communion and deeper fellowship. To adapt the language of Psalm 63, through fasting we should hunger and thirst for God, finding satisfaction in him that is more delightful than other earthly goods. When we fast, God must be at the centre. Knowing him more intimately must be the goal; enjoying God is the end of fasting.
 
