@@ -12,7 +12,7 @@ tags:
 - Fasting
 - Lent
 image: assets/images/lent.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
