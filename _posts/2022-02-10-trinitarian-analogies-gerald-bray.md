@@ -10,7 +10,7 @@ tags:
 - God
 - Trinity
 image: assets/images/trinity.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
