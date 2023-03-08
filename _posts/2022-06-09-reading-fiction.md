@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Reading Fiction A Waste Of Time?
+title: Is Reading Fiction a Waste of Time?
 author: gheslop
 tags:
 - Institutes
@@ -12,7 +12,7 @@ tags:
 - Story
 - Fiction
 image: assets/images/reading-fiction.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
