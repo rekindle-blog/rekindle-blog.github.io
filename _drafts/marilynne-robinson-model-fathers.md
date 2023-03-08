@@ -1,0 +1,29 @@
+---
+layout: post
+title: Marilynne Robinson Model Fathers
+author: gheslop
+categories:
+- Father
+- Motherhood
+- Lila
+- Home
+- Gilead
+- Marilynne Robinson
+- Fatherhood
+image: assets/images/fatherhood.jpg
+featured: false
+hidden: false
+tags: []
+
+---
+In 1 Thessalonians 2 Paul likens his ministry to motherhood and fatherhood. It would be a mistake to consider either description normative. But it would also be unfortunate to miss Paul’s vision for fatherhood, which is richer than the one held by many today. After describing mothers as gentle and affectionate (2:7-8), Paul says fathers are those who “exhort” and “encourage” their children (2:12). In Greek, both words connote comfort. This suggests that popular distinctions made between the roles of fathers and mothers might be exaggerated. In Paul’s mind, fathers nurture and care for their children. They should be attentive to their children’s emotional needs. Some readers rush a qualification to statement, perhaps even objecting: ‘Mothers are the primary nurturer, the main caregiver.’ They might be, functionally, in cases where the mother stays at home. Nevertheless, fatherhood involves encouraging children, being sensitive to their feelings and comforting them.
+
+But in my experience mothers are generally far superior when it comes to encouraging and comforting children. Some claim that this is because it comes more naturally to women than men. This may be true. But it does not mean that nurturing is more essential to mothers than fathers. Instead, it might simply reveal that for too long we’ve made excuses for relationally distant and emotionally uninvested fathers. So rather than putting the observable differences between fathers and mothers down to essence I believe that it is more about effort—or the lack thereof.
+
+When I watch my wife comforting our son it is little short of stupidity for me to conclude that she’s innately intimate or more delicate by design. Perhaps I’m just aloof when it comes to my boy’s feelings. Sure, I can’t deny that she’s much better at emotionally caring for our son than I am. An irrefutable proof of this is that when he’s sad he typically bypasses me in search of her. This may be because they spend more time together or that my wife has an emotional intuition and intelligence that dwarfs my own. But, on the other hand, it might simply be that I’ve done poorly when given opportunities to comfort our son. Therefore, in my own life, one of the means of becoming a better father has been observing my wife, the mother of my son. To risk controversy, I think this is a good rule in general: fathers, observe mothers.
+
+In keeping with the theme above, I think that it is fitting we consider two of the fictional fathers created by my favourite author, Marilynne Robinson. Whenever I read her work I am spellbound by her earthy yet exceptional vision for humanity, especially families. In [_Gilead_](https://rekindle.co.za/content/reflection-gods-grace-in-gilead-and-reductionism/ "Gilead"), John Ames alerts his son to the 5th commandment, which says children must honour their parents. Anticipating the rebuttal, Ames writes, “If all this seems lopsided in favour of parents, I would point out again that it is the consistent example of parents in the Bible that they honour their children…My point here is that the great kindness and providence of the Lord has given each of us someone to honour—the child his parent, the parent his child. I have great respect for the uprightness of your character and the goodness of your heart…Your existence is a delight to us…what a splendid thing it has been that you came finally, and what a blessing to enjoy you now for almost seven years.” I believe if fathers were more convinced of this - that fatherhood is in some senses fleeting but also a splendid blessing from God to be savoured - we would never tire of giving ourselves to comforting, nurturing and loving these remarkable little people, [gifts entrusted to us by God](https://rekindle.co.za/content/doodle-childlessness-and-the-sovereignty-of-god/ "Children as gift of God").
+
+Ames delights in his son. He is aware of his character or heart; attentive to his son’s preferences—however insignificant they might seem. He enjoys him and is excited to be a part of his upbringing, even if that will be brief. Aren’t children splendid, a blessing? Ames’ close friend, in Robinson’s novel _Home_, says about his own son, “I thanked God for him every day of his life, no matter how much grief, how much sorrow…You see something beautiful in a child, and you almost live for it, you feel as though you would die for it, but it isn’t yours to keep or protect.” The temporal nature fatherhood is a prominent theme in Robinson’s writing. But so is the wonder and privilege attached to it. As Ames writes, back in _Gilead_, “It is only by the grace of God that we are made instruments of his providence and participants in a fatherhood that is always ultimately his.”
+
+Finally, in the third novel of the Gilead series, _Lila_, John Ames writes, “A father holds out his hands to a child who is learning to walk, and he comforts the child with words and draws it towards him, but he lets the child feel the risk it is taking, and lets it choose its own courage and the certainty of love and comfort…but there is no choice…because it is in the nature of the child to walk. As it is to want the attention and encouragement of the father. And the promise of comfort, which it is in the nature of the father to give.” This picture is as ordinary as it is profound. For I can remember standing, arms outstretched, encouraging my son through his earliest and very wobbly steps. I treasure those memories and wish I could have the moments over. But there are potentially hundreds more like them, ahead of us. For it is still in the nature of fatherhood to encourage and comfort, as it is in my son’s to grow up.
