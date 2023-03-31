@@ -16,7 +16,7 @@ tags:
 - Narrative
 - Preaching
 image: assets/images/nicolas-regnier-david-and-goliath.jpg
-featured: true
+featured: false
 hidden: false
 
 ---
