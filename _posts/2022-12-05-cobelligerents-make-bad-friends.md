@@ -12,7 +12,7 @@ tags:
 - Friends
 - Friendship
 image: assets/images/cobelligerents.jpg
-featured: false
+featured: true
 hidden: false
 
 ---
