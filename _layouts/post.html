@@ -108,6 +108,7 @@ post_class: post-template
             <!-- End Categories -->
 
             <!-- Post Tags -->
+            {% if page.tags %}
             <div class="after-post-tags">
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
@@ -118,6 +119,7 @@ post_class: post-template
                     {% endfor %}
                 </ul>
             </div>
+            {% endif %}
             <!-- End Tags -->
 
             <!-- Prev/Next -->
