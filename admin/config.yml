@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+media_folder: "assets/images"
+collections:
+  name: content
+  label: "Rekindle"
+  folder: "_posts"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  fields:
+    - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Author", name: "author", widget: "select", options: ["gheslop", "jcuenod"] default: "gheslop"}
+    - {label: "Categories", name: "categories", widget: "list"}
+    - {label: "Image", name: "image", widget: "image"}
+    - {label: "Featured", name: "featured", widget: "boolean"}
+    - {label: "Hidden", name: "hidden", widget: "boolean"}
+    - {label: "Tags", name: "tags", widget: "string"}

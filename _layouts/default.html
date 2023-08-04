@@ -24,6 +24,8 @@
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/github_search.js"></script>
 
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -194,5 +196,16 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>
