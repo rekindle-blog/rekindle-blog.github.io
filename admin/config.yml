@@ -14,9 +14,8 @@ collections:
     - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Author", name: "author", widget: "select", options: ["gheslop", "jcuenod"], default: "gheslop"}
-    - {label: "Categories", name: "categories", widget: "list"}
     - {label: "Image", name: "image", widget: "image"}
     - {label: "Featured", name: "featured", widget: "boolean"}
     - {label: "Hidden", name: "hidden", widget: "boolean"}
-    - {label: "Tags", name: "tags", widget: "string"}
+    - {label: "Tags", name: "tags", widget: "list"}
     - {label: "Body", name: "body", widget: "markdown"}
