@@ -19,3 +19,4 @@ collections:
     - {label: "Featured", name: "featured", widget: "boolean"}
     - {label: "Hidden", name: "hidden", widget: "boolean"}
     - {label: "Tags", name: "tags", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
