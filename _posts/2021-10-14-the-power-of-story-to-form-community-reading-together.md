@@ -1,20 +1,19 @@
 ---
 layout: post
-title: 'The Power of Story to Form Community: Reading Together'
+title: "The Power of Story to Form Community: Reading Together"
 author: gheslop
-tags:
-- Technology
-- Digital Age
-- Jane Davis
-- Books
-- Reading
-- Watership Down
-- Community
-- Story
 image: assets/images/watership-down.jpg
-featured: true
+featured: false
 hidden: false
-
+tags:
+  - Technology
+  - Digital Age
+  - Jane Davis
+  - Books
+  - Reading
+  - Watership Down
+  - Community
+  - Story
 ---
 Last year I formed a reading group that meets on Zoom to discuss literature. Initially our plan was to read _Lord Of The Rings_ through hard lockdown. But towards the end of 2020 a handful of regulars contacted me privately, both to express their gratitude for the group and to request that we carry on. What had started out as a kind of shared interest group had become a community. This shouldn’t have been as surprising as it was, for stories contain tremendous power to form, bind, and shape communities. This is one of the main themes of _Watership Down_, the story we are currently reading. But we’ll get to that later.
 
