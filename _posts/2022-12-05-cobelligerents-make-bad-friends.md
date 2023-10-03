@@ -2,19 +2,18 @@
 layout: post
 title: Cobelligerents Make Bad Friends
 author: gheslop
-tags:
-- Social Media
-- Identity
-- Ideology
-- Relationships
-- Cobelligerents
-- Co-belligerence
-- Friends
-- Friendship
 image: assets/images/cobelligerents.jpg
-featured: true
+featured: false
 hidden: false
-
+tags:
+  - Social Media
+  - Identity
+  - Ideology
+  - Relationships
+  - Cobelligerents
+  - Co-belligerence
+  - Friends
+  - Friendship
 ---
 Apparently Jesus once said something along the lines of: 'the enemy of my enemy is my friend.' Well, no, he didn’t. But the power of co-belligerence is as undeniable as it is pervasive. Our increasingly polarised society has left many scrambling for combat partners, within whatever cause they’re championing. We all seek out allies to join us in shelling the intellectual, ideological, religious, and political bastions of our enemies. Whether we do this online or on our couches, most of us believe that we’re engaged in a pitched battle for humanity, the soul, love, the church, or whatever you think truly matters. But cobelligerents make bad friends.
 
