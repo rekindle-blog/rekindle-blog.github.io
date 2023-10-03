@@ -2,19 +2,18 @@
 layout: post
 title: 5 Reasons Christians Give Bad Advice
 author: gheslop
-tags:
-- Westminster Confession of Faith
-- Church
-- Christian Community
-- Community
-- Platitude
-- Counsel
-- Advice
-- Wisdom
 image: assets/images/bad-advice.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Westminster Confession of Faith
+  - Church
+  - Christian Community
+  - Community
+  - Platitude
+  - Counsel
+  - Advice
+  - Wisdom
 ---
 A couple of months back I posted a [miscellany](https://rekindle.co.za/content/2022-06-23-bad-advice "Bad Christian Advice") of bad advice offered by Christians. Most of the examples in that article weren’t singular or specific, but common enough to be heard from more than one source. This, I argued in my [second article](https://rekindle.co.za/content/2022-08-04-bad-advice "Platitudes aren't Advice"), is a major reason why so much advice shared among Christians is unhelpful: it’s recycled, impersonal, and platitudinal.
 
