@@ -1,21 +1,20 @@
 ---
 layout: post
-title: 'If Jesus Were ''Wild At Heart'': The Gospels Reimagined'
+title: "If Jesus Were 'Wild At Heart': The Gospels Reimagined"
 author: gheslop
-tags:
-- Satire
-- The Gospels
-- Gospels
-- Jesus Christ
-- Jesus
-- John Eldredge
-- Wild at Heart
-- Masculinity
-- Fatherhood
 image: assets/images/wild-at-heart.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Satire
+  - The Gospels
+  - Gospels
+  - Jesus Christ
+  - Jesus
+  - John Eldredge
+  - Wild at Heart
+  - Masculinity
+  - Fatherhood
 ---
 Annually around Father’s Day John Edlredge’s bestselling book _Wild At Heart_ makes a resurgence. And so, last week, while browsing a local Christian bookstore, my wife asked what I knew about it. "Honestly," I told her, "not much." So we picked up a copy and read the introduction aloud. What we discovered was, well, hilarious. For one of Eldredge’s primary purposes is to rescue manly masculinity from the suffocating strictures and pressure to be a nice guy.
 
