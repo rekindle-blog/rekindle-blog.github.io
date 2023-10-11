@@ -12,6 +12,9 @@ tags:
   - Literature
   - Exposition
   - Preaching
+  - Expository_preaching
+  - Expository-preaching
+  - ""
 ---
 We’ve all heard the old saying, ‘don’t miss the wood for the trees.’ Unfortunately, like many idioms it is invariably misused and misunderstood. A particular issue with this idiom stems from the painful disintegration of careful communication. Because few of us write anything other than WhatsApp messages and Instagram captions, our ability to speak with any clarity is on the decline. But that’s a personal bugbear for another post. Another reason we readily butcher this idiom is that in English “wood” refers to both an area covered by trees and the material made from them. So missing the wood for the trees can be confusing. In brief, the idiom describes a failure to appreciate the whole because of a fixation on the details. And it’s very pertinent to how we read the Bible—that is, the relationship between [exegesis](https://rekindle.co.za/content/2022-10-27-most-biblical-narratives-don-t-have-a-main-point) and [good fiction](https://rekindle.co.za/content/2022-06-09-reading-fiction).
 
