@@ -12,7 +12,6 @@ tags:
   - Literature
   - Exposition
   - Preaching
-  - Expository_preaching
   - Expository-preaching
   - ""
 ---
