@@ -1,19 +1,18 @@
 ---
 layout: post
-title: 'Preaching: Great Exegesis Without Prayer Is Public Speaking'
+title: "Preaching: Great Exegesis Without Prayer Is Public Speaking"
 author: gheslop
-tags:
-- Expository Preaching
-- Exposition
-- Exegesis
-- Corporate Worship
-- Prayer
-- Preaching
-- Ministry
 image: assets/images/preaching-prayer.jpg
 featured: false
 hidden: false
-
+tags:
+  - Expository-preaching
+  - Exposition
+  - Exegesis
+  - Corporate Worship
+  - Prayer
+  - Preaching
+  - Ministry
 ---
 Many years ago I wrote a [reflective article](https://rekindle.co.za/content/doodle-the-dangerous-evangelical-assumption/ "The Dangerous Evangelical Assumption") about a dangerous assumption among Evangelicals, particularly those for whom expository preaching is a badge of honour. I summarised this assumption like so: "If we work hard at our exegesis and get the passage right, the Spirit will work." Put another way, effective preaching depends on careful exposition and study. However, the danger of this sort of thinking is that it "makes the Spirit a slave to our abilities of exegesis. He ceases to be the sovereign God who acts freely and despite us."
 
