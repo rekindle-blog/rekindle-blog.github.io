@@ -2,19 +2,18 @@
 layout: post
 title: Why 'Great' Preaching Can Make Ungodly Listeners
 author: gheslop
-tags:
-- Scripture
-- Bible Believing
-- Bible
-- Expository Preaching
-- Exposition
-- Exegesis
-- Preaching
-- Ministry
 image: assets/images/preaching-prayer.jpg
 featured: false
 hidden: false
-
+tags:
+  - Scripture
+  - Bible Believing
+  - Bible
+  - Expository-preaching
+  - Exposition
+  - Exegesis
+  - Preaching
+  - Ministry
 ---
 Earlier this year I posted [an article](https://rekindle.co.za/content/2022-04-28-preaching-great-exegesis-without-prayer-is-public-speaking "Preaching or Public Speaking?") reflecting on my own ministry training and church experience. Though these are both limited and anecdotal, I identified a ["dangerous assumption"](https://rekindle.co.za/content/doodle-the-dangerous-evangelical-assumption/ "The Dangerous Evangelical Assumption") among Christians teachers who prize technical exegesis, expository preaching, and the historical-grammatical hermeneutic. The assumption—though very rarely vocalised—is that God will work when we get the biblical text right. This, I argued, limits effective preaching to syntax diagramming and preparation, rather than the Holy Spirit and prayer.
 
