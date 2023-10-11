@@ -5,6 +5,14 @@ author: gheslop
 image: /assets/images/big-church.jpg
 featured: true
 hidden: true
+tags:
+  - Church-size
+  - Church-growth
+  - Metrics
+  - Ministry
+  - Church-leaders
+  - Church
+  - ""
 ---
 A friend once left a note on my desk, in jest, saying: "Get over your big church issues." While my critics might have phrased it differently, my writing on the topic of church size and growth has certainly been found wanting by many. And their criticisms could be boiled down to a chagrin laden and reductionistic, 'just get over it.' But I won't.
 
