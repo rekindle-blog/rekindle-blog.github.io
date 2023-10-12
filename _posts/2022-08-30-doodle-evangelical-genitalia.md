@@ -1,20 +1,19 @@
 ---
 layout: post
-title: 'Doodle: Are Evangelicals Obsessed with Other People''s Genitalia?'
+title: "Doodle: Are Evangelicals Obsessed with Other People's Genitalia?"
 author: gheslop
-tags:
-- NakedPastor
-- Genitalia
-- Exvangelical
-- Sexual ethics
-- Sexual sin
-- Sex
-- Evangelical
-- Doodle
 image: assets/images/genitalia-and-evangelicals.png
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - NakedPastor
+  - Genitalia
+  - Exvangelical
+  - Sexual ethics
+  - Sexual sin
+  - Sex
+  - Evangelical
+  - Doodle
 ---
 I couldn’t initially pinpoint why, but this cartoon (pictured above) really got under my skin when I saw it on my Facebook feed. So I put my phone down and scribbled a few thoughts. Of course, my irritation is certainly in part down to the fact that the cartoonist, David Hayward, gets paid to be humorous—something I’m not funny enough to pull off. But another facet of my frustration is that while this self-identified Exvangelical appears profound and edgy, he’s little more than a shill for more progressive sexual ethics. Compounding this, all of his work is carried out under the banner of spirituality, by which I can only assume he means the _zeitgeist_, or ‘spirit of the age.’
 
