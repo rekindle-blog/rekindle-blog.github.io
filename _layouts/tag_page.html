@@ -4,13 +4,16 @@ layout: default
 <section class="tagged-posts">
 
     <div class="section-title">
-		<h2 id="{{ category[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ page.tag }}</span></h2>
+		<h2 id="{{ category[0] | replace: " ","-" }}">Tag: <span class="text-capitalize">{{ page.tag }}</span></h2>
     </div>
 
     <div class="row listrecent">
-		{% for post in site.tags[page.tag] %}
-	        {% include postbox.html %}
-        {% endfor %}
+		{% for post in posts %}
+      {% assign normalizedTags = post.tags | map: 'strip' | map: 'replace', ' ', '-' | map: 'downcase' %}
+      {% if normalizedTags contains page.tag %}
+        {% include postbox.html %}
+      {% endif %}
+    {% endfor %}
     </div>
 
 </section>
