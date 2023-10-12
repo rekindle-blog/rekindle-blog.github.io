@@ -3,7 +3,7 @@ layout: post
 title: 5 Reasons Christians Give Bad Advice
 author: gheslop
 image: assets/images/bad-advice.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Westminster Confession of Faith
