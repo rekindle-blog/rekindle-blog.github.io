@@ -2,18 +2,17 @@
 layout: post
 title: The Celebration of Tyranny in Pastoral Ministry
 author: gheslop
-tags:
-- The Pastoral Epistles
-- Tyranny
-- Ministry Evaluation
-- Ministry
-- Church Growth
-- Blaise Pascal
-- Pensées
 image: assets/images/tyranny.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - The Pastoral Epistles
+  - Tyranny
+  - Ministry Evaluation
+  - Ministry
+  - Church Growth
+  - Blaise Pascal
+  - Pensées
 ---
 A few years back I attended a seminar on church growth. During one of the sessions, a church growth guru shared an anecdote from his ministry. He was the pastor of a large and rapidly growing church. But he’d noticed that their growth was plateauing. After some troubleshooting and evaluation, the growth guru identified another pastor on their team as an obstacle to expansive growth. In order to achieve megachurch numbers, though with deep regret, the guru decided he had to remove this pastor from the ministry team.
 
