@@ -4,7 +4,8 @@ title: "Rekindle"
 description: "Christian South Africans thinking in the open about culture, ethics, literature, Scripture and God in our context."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://rekindle.co.za
+# baseurl: 
+# url: https://rekindle.co.za
 google_analytics: 'UA-41751258-1'
 disqus: 'rekindle'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
