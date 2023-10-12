@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Six Propositions on Church Size
+title: "Church Size: Six Theses"
 author: gheslop
 image: /assets/images/big-church.jpg
 featured: true
@@ -18,13 +18,13 @@ A friend once left a note on my desk, in jest, saying: "Get over your big church
 
 Only, this isn’t another post querying what I perceive to be an unbiblical fixation on [church growth](https://rekindle.co.za/content/church-growth-must-we-be-passionate-about-numerical-growth/) and size—or what Mike Cosper refers to as the contemporary ABCs of ministry: attendance, buildings, and cashflow. You can read various iterations of that across Rekindle; or, even better, from [Karl Vaters](https://karlvaters.com/author/karl-vaters/).
 
-Instead, in this post I will list some propositions concerning church size. It is my hope that these—together with the articles I link throughout—will go some way towards explaining why I won’t get over my big church issues; why I don’t believe church size is arbitrary or neutral; and why I’m convinced incessant discussions about church growth are unhealthy.
+Instead, in this post I will list some theses concerning church size. It is my hope that these—together with the articles I link throughout—will go some way towards explaining why I won’t get over my big church issues; why I don’t believe church size is arbitrary or neutral; and why I’m convinced incessant discussions about church growth are unhealthy.
 
-And since they’re propositions, my hope for this article is that it will provide a platform for further conversations. In the West, the modern church is plagued by pragmatism. We desperately need to reclaim and reenter robust theological dialogue—not only about church size. If my propositions contribute towards that in even the slightest way, I will consider them a success.
+And since they’re theses, my hope for this article is that it will provide a platform for further conversations. In the West, the modern church is plagued by pragmatism. We desperately need to reclaim and reenter robust theological dialogue—not only about church size. If my theses contribute towards that in even the slightest way, I will consider them a success.
 
-So, in no particular order, here are six propositions about church size and church growth.
+So, in no particular order, here are six theses—or propositions—about church size and the church growth movement.
 
-### \[1] Large churches provide many opportunities for service, but they don’t create as many spaces for the gifts.
+### 1. Large churches provide many opportunities for service, but they don’t create as many spaces for the gifts.
 
 I’ve [written](https://rekindle.co.za/content/2022-03-03-gifts-service) about this recently, developing an [older post](https://rekindle.co.za/content/2021-04-20-church-cruise-liner-racing-yacht) contrasting smaller churches that resemble racing yachts with larger ones that more resemble cruise liners. The bigger a church gets the more its leaders become preoccupied with promoting service that improves their adherents’ and attendees’ experience. But this is largely superficial and unspiritual.
 
@@ -32,13 +32,13 @@ As Timothy Keller [recently](https://rekindle.co.za/content/2022-04-08-8-reasons
 
 ### 2. Larger churches leave too much room for nominal adherents.
 
-Linked with the above proposition, the larger a church becomes the more room it creates for passengers. It’s much easier to remain on the fringe of the believing community when there are 1000 people than when there are 100. Again, the cruise liner versus yacht analogy works here.
+Linked with the above thesis, the larger a church becomes the more room it creates for passengers. It’s much easier to remain on the fringe of the believing community when there are 1000 people than when there are 100. Again, the cruise liner versus yacht analogy works here.
 
 Undoubtedly, all churches have a fringe. Furthermore, if we aren’t creating space for unbelievers and nominal Christians then one might ask where evangelism is taking place. However, to knowingly leave a comfortable expanses for uncommitted 'members' in a church is [irresponsible shepherding](https://rekindle.co.za/content/pastor-you-are-a-shepherd-not-a-rancher/).
 
 ### 3. The desire for large churches ignores the statistical evidence that the majority of people crave smaller, tighter communities.
 
-For some evidence concerning this proposition, read [this post](https://www.christianitytoday.com/karl-vaters/2017/july/50-churches-100-instead-of-1-church-of-5000.html) from Karl Vaters. Unfortunately instead of seeing large churches for the anomalies of God’s grace that they are, we typically attribute the growth of God’s church to [corporate strategies](https://rekindle.co.za/content/2020-08-19-kings-and-christian-leadership), [ministry models](https://rekindle.co.za/content/2020-09-17-3-timothy), and [church growth gurus](https://rekindle.co.za/content/pastor-god-grows-churches/)—more on the latter under proposition five.
+For some evidence concerning this proposition, read [this post](https://www.christianitytoday.com/karl-vaters/2017/july/50-churches-100-instead-of-1-church-of-5000.html) from Karl Vaters. Unfortunately instead of seeing large churches for the anomalies of God’s grace that they are, we typically attribute the growth of God’s church to [corporate strategies](https://rekindle.co.za/content/2020-08-19-kings-and-christian-leadership), [ministry models](https://rekindle.co.za/content/2020-09-17-3-timothy), and [church growth gurus](https://rekindle.co.za/content/pastor-god-grows-churches/)—more on the latter under my fifth thesis (below).
 
 Not every believer desires smaller communities, of course. But assuming Vaters’ observations are correct, when church leaderships fixate on church growth they do so without considering the people God has already given them to oversee and pastor. Aiming at a bigger church is impersonal, abstract, and—very possibly—driven by a leader’s [search for recognition](https://africa.thegospelcoalition.org/article/pastor-why-do-you-want-a-big-church/). It imagines an ideal and faceless future, at the expense of the sheep already in the fold.
 
@@ -64,4 +64,4 @@ In the article linked above, I argued that at best metrics indicate trends. Howe
 
 #### Conclusion
 
-Like Galadriel, I feel as though I have fought the long defeat in this conversation, starting almost a decade ago. And without making any promises, I imagine this might be my last entry in it. While I won’t get over my big church issues, perhaps there isn’t much more to be said. However, don’t let that discourage you. Above are just six propositions—or theses—about church size. They’re all yours. Do with them what you will.
+Like Galadriel, I feel as though I have fought the long defeat in this conversation, starting almost a decade ago. And without making any promises, I imagine this might be my last entry in it. While I won’t get over my big church issues, perhaps there isn’t much more to be said. However, don’t let that discourage you. Above are just six theses about church size. They’re all yours. Do with them what you will.
