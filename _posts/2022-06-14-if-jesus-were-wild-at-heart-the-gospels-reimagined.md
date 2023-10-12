@@ -3,7 +3,7 @@ layout: post
 title: "If Jesus Were 'Wild At Heart': The Gospels Reimagined"
 author: gheslop
 image: assets/images/wild-at-heart.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Satire
