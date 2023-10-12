@@ -2,17 +2,16 @@
 layout: post
 title: You Can't Pop Over to the Friendship Super Store
 author: gheslop
-tags:
-- Antoine de Saint-Exupéry
-- The Little Prince
-- Consumerism
-- Social media
-- Friends
-- Friendship
 image: assets/images/friendship-super-store.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Antoine de Saint-Exupéry
+  - The Little Prince
+  - Consumerism
+  - Social media
+  - Friends
+  - Friendship
 ---
 Having recently relocated, my wife and I have been taking a new route to work. When not driving I’ve been enjoying the new sites, sounds and surrounds. And a couple weeks back I noticed a small shop on Main Road called the Friendship Super Store. Naturally, I snapped a photo of the store front and shared it with some friends on WhatsApp, joking: I’m trading you in. I'm sure the feelings are mutual.
 

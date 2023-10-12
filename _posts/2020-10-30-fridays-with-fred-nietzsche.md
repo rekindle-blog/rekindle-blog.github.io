@@ -1,29 +1,28 @@
 ---
 layout: post
-title: 'Fridays with Fred: On Being Woke'
+title: "Fridays with Fred: On Being Woke"
 author: gheslop
-categories:
-- Emotion
-- Love
-- Marriage
-- Existentialism
-- Philosophy
-- Fridays with Fred
-- Aphorisms on Love and Hate
-- Friedrich Nietzsche
 image: assets/images/fridays.jpg
-featured: false
+featured: true
 hidden: false
 tags:
-- Woke
-- Human history
-- Morality
-- Existentialism
-- Philosophy
-- Fridays with Fred
-- Aphorisms on Love and Hate
-- Friedrich Nietzsche
-
+  - Woke
+  - Human history
+  - Morality
+  - Existentialism
+  - Philosophy
+  - Fridays with Fred
+  - Aphorisms on Love and Hate
+  - Friedrich Nietzsche
+categories:
+  - Emotion
+  - Love
+  - Marriage
+  - Existentialism
+  - Philosophy
+  - Fridays with Fred
+  - Aphorisms on Love and Hate
+  - Friedrich Nietzsche
 ---
 As I write this post it is two weeks since the murder of George Floyd. But it is very possible that you are reading it months, even years, after that event. Presently, around the world, and particularly in England and America, statues of many who were previously deemed heroes have become villains—symbols of historical oppression and systemic racism. Over the last few years in my own country we have witnessed woke movements and protests defacing everything from statues to neo-colonialist shops and brands.
 
