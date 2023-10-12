@@ -39,7 +39,7 @@ for filename in filenames:
     yaml_object = yaml.safe_load(file_yml_string)
     if "tags" in yaml_object:
         total_tags.extend(yaml_object["tags"])
-total_tags = set([t.strip() for t in total_tags])
+total_tags = set([t.strip() for t in total_tags if t.strip() != ''])
 
 tl = list(total_tags)
 tl.sort()
@@ -56,9 +56,10 @@ if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
 for tag in total_tags:
-    tag_filename = tag_dir + tag.replace(" ", "-") + '.md'
-    f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tag_page\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    tag_str = tag.replace(" ", "-").lower()
+    tag_filename = tag_dir + tag_str + '.md'
+    f = open(tag_filename, 'w', encoding='utf8')
+    write_str = '---\nlayout: tag_page\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag_str + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
 print("---")
