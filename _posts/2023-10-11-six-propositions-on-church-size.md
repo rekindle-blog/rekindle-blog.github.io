@@ -4,7 +4,7 @@ title: "Church Size: Six Theses"
 author: gheslop
 image: /assets/images/big-church.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Church-size
   - Church-growth
