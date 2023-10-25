@@ -3,8 +3,8 @@ layout: post
 title: "Biblical Narratives: Some Comments on Structure, Themes, and Sermons"
 author: gheslop
 image: /assets/images/nicolas-regnier-david-and-goliath.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 tags:
   - Exegesis
   - Exposition
