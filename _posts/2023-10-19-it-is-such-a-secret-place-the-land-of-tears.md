@@ -4,7 +4,7 @@ title: It Is Such a Secret Place, the Land of Tears
 author: gheslop
 image: /assets/images/willow.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Suffering
   - Grief
