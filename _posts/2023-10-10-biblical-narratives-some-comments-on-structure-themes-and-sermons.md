@@ -12,6 +12,7 @@ tags:
   - Narrative
   - Story
   - Preaching
+  - Old-Testament
 ---
 Towards the end of last year I wrote [an article](https://rekindle.co.za/content/2022-10-27-most-biblical-narratives-don-t-have-a-main-point) arguing that most biblical narratives don’t have a main point. I was grateful to those readers who raised questions and engaged with me—both privately and on social media. Almost all of what I develop in this article is owed to those conversations and comments.
 
@@ -31,7 +32,7 @@ Furthermore, the idea of 'structuring' a story has a couple of challenges. First
 
 Secondly, Freytag’s plot points will vary depending on how one chooses to break up a biblical text. To my knowledge, there isn’t a single book in Scripture for which all the commentators have agreed on a structure—not even Philemon. So when you exegete a narrative, you must choose where the contained, smaller narratives begin in and end. This is obviously necessary, but it also means that your interpretation is governed by your—or some commentator’s—decision about that story’s parameters. This poses a significant challenge to any insistence on a main point, because you and I might be exegeting slightly different but overlapping portions of a larger narrative.
 
-## 2. Sermons Have Main Points But Stories Might Not
+## 2. Sermons Have Main Points but Stories Might Not
 
 Following closely from the previous point, we should probably all be quicker to admit that while sermons require a main point we can’t demand this of a Bible passage—least of all a narrative. One reader of my previous post offered this crucial clarification. He writes, "I often find it excruciating in preaching to try to find ‘the main point of the passage.’ But I often find it excruciating listening to a sermon that lacks a centre of gravity or main point. It seems that as a method of teaching, or preaching, main points are really useful; whereas as a method of exegesis they lead us down tortuous and gymnastic avenues." Amen.
 
