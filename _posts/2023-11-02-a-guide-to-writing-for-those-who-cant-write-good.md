@@ -100,6 +100,6 @@ This second group are instructors in the craft of writing. Typically they are wr
 
 Finally, to be a good writer you need to observe better writers. These needn’t be theologians or pastors, but simply others who’re further down the track in terms of writing. In fact, it’s not a bad idea to read across genres and categories, whether that’s philosophy or fiction. Spend time with the works of writers who’ve honed their craft. Learn from them.
 
-# Conclusion
+# Make Progress by Writing
 
 Let me conclude by taking two quotes out of context and then bringing them together. In 1 Timothy 4:15 Paul writes, "Practice these things, immerse yourself in  them, so that all may see your progress." A few centuries later, in his *Retractions*, Augustine says, "I am the sort of man who writes because he has made progress, and who makes progress—by writing." Now, Paul was talking about Christian leadership; Augustine was referring to theological development. Progress comes through action. If you desire to make progress in your writing you will only ever do so by practising it.
