@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Are Evangelicals Obsessed with Other People's Genitalia?"
 author: gheslop
 image: assets/images/genitalia-and-evangelicals.png
-featured: true
+featured: false
 hidden: false
 tags:
   - NakedPastor
