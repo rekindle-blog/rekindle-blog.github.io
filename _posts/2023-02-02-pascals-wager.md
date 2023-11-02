@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 'Pascal''s Wager: Faith Versus Picking the Right Horse'
+title: "Pascal's Wager: Faith Versus Picking the Right Horse"
 author: gheslop
-tags:
-- Eugene Peterson
-- Experiencing God
-- Apologetics
-- Pascal's Wager
-- Blaise Pascal
-- Pensées
 image: assets/images/pascals-wager.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Eugene Peterson
+  - Experiencing God
+  - Apologetics
+  - Pascal's Wager
+  - Blaise Pascal
+  - Pensées
 ---
 Most Christians will have heard an iteration of what’s called [Pascal’s wager](https://en.wikipedia.org/wiki/Pascal%27s_wager "Pascal's Wager"). It only appears in the _Unclassified Papers_ section of my _Pensées_, though I’m sure you can find it elsewhere in the French philosopher’s work. Blaise Pascal writes: "I should be much more afraid of being mistaken and then finding out that Christianity is true than of being mistaken in believing it to be true" (§387). According to Pascal’s reasoning: the rational person should live as though God exists. If they’re wrong they experience finite loss while if they’re right they enjoy infinite gains.
 
