@@ -3,7 +3,7 @@ layout: post
 title: "Fridays with Fred: On Being Woke"
 author: gheslop
 image: assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Woke
