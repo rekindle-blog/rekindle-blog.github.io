@@ -2,18 +2,17 @@
 layout: post
 title: 7 Means of Preaching That Trump Method
 author: gheslop
-tags:
-- Directory for Public Worship
-- Exegesis
-- Expository preaching
-- Exposition
-- Prayer
-- Preaching
-- Westminster Confession of Faith
 image: assets/images/westminster-abbey.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Directory for Public Worship
+  - Exegesis
+  - Expository preaching
+  - Exposition
+  - Prayer
+  - Preaching
+  - Westminster Confession of Faith
 ---
 Earlier this year I wrote an [article](https://rekindle.co.za/content/2022-04-28-preaching-great-exegesis-without-prayer-is-public-speaking "Prayerless Preaching is Mere Public Speaking") cautioning preachers—even occasional pulpiteers such as myself—against the idea that God’s work through preaching is relative to the amount of exegetical preparation and precision. This exaggerated emphasis on the importance of professional Bible teaching is most evident in prayerlessness. Far from pointing the finger, I write as someone well versed in proudly depending on my Bible handling over against prayerfully depending on the Spirit of God.
 
