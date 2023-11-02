@@ -1,21 +1,20 @@
 ---
 layout: post
-title: 'Personal Reflection: Tell Your Children The Truth'
+title: "Personal Reflection: Tell Your Children The Truth"
 author: gheslop
-tags:
-- Love
-- Emily Dickinson
-- Home
-- Marilynne Robinson
-- Deceit
-- Parenting
-- Truth
-- Children
-- Fatherhood
 image: assets/images/parenting-your-children-with-truth.JPG
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Love
+  - Emily Dickinson
+  - Home
+  - Marilynne Robinson
+  - Deceit
+  - Parenting
+  - Truth
+  - Children
+  - Fatherhood
 ---
 My wife and I didn’t want children. We weren’t convinced that the God commands married Christian couples to ["multiply,"](https://rekindle.co.za/content/2021-03-02-must-married-christians-multiply-by-having-children '"Be fruitful and multiply" (Genesis 1:28)') at least not in that way (Genesis 1:28). As people realised our position was more than the naivety of newly weds, I encountered significant pushback—some even [labelled our decision sinful](https://rekindle.co.za/content/responding-to-challies-is-it-okay-to-deliberately-not-have-children/ "Is Choosing A Childless Marriage Sinful?"). So, over the years, I’ve heard some remarkably [unconvincing arguments](https://rekindle.co.za/content/unconvincing-arguments-for-why-married-couples-must-have-children/ "Weak Arguments") for why married couples must at least attempt to procreate. Then, in July 2016, we learnt that my wife was pregnant.
 
