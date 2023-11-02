@@ -5,6 +5,14 @@ author: gheslop
 image: /assets/images/passive-voice-writing.jpg
 featured: true
 hidden: true
+tags:
+  - Writing
+  - Reading
+  - Literature
+  - Fiction
+  - Philosophy
+  - Theology
+  - ""
 ---
 One of the characters in Marilynne Robinson’s *Home* describes preaching as, "parsing the broken heart of humankind and praising the loving heart of Christ." I’ve often considered this a fitting description for Christian writing. Faithful Christian writers apply the balm of God’s truth to hurting, lost, and confused people. They aren’t content to merely state facts, but to thoughtfully show their readers why the truth matters. This article, originally given as [a talk](https://youtu.be/8jkizeLP9I8?si=d1nCnz3AsbRzM7ZG), will hopefully go some way towards helping you to do that in your own writing.
 
