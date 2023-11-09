@@ -4,7 +4,7 @@ title: A Guide to Good Writing for Those Who Can't Write Good
 author: gheslop
 image: /assets/images/passive-voice-writing.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Writing
   - Reading
