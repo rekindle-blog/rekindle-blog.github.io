@@ -3,8 +3,8 @@ layout: post
 title: How Persevering in Greek Equips You for the Christian Life
 author: gheslop
 image: /assets/images/learning-greek.jpeg
-featured: true
-hidden: true
+featured: false
+hidden: false
 tags:
   - Bible-College
   - Theological-College
@@ -17,9 +17,9 @@ At the outset of this year I [started lecturing](https://rekindle.co.za/content/
 
 ### Why Theological Students Lack Motivation
 
-For some this challenge will be surprising. For many believers envy those who get the privilege of a theological education. What could possibly explain a lack of motivation, when those fortunate few are afforded a full-time opportunity to grow in their faith and understanding? Most Christians are restricted to developing their theology in the margins—outside of instruction received in the local church. Many would jump at the chance and therefore can’t imagine why others wouldn’t relish it. Yet motivation is a major hurdle for theological students. And I think this is especially true in studying the original languages. Let me explain why.
+For some this challenge will be surprising. Many believers envy those who get the privilege of a theological education. What could possibly explain a lack of motivation, when those fortunate few are afforded a full-time opportunity to grow in their faith and understanding? Most Christians are restricted to developing their theology in the margins—outside of instruction received in the local church. Many would jump at the chance and therefore can’t imagine why others wouldn’t relish it. Yet motivation is a major hurdle for theological students. And I think this is especially true in studying the original languages. Let me explain why.
 
-On one hand, the reason for this lack of motivation is fairly simple: there’s a considerable delay in what we might call pay-off. As a [previous article](https://rekindle.co.za/content/2023-03-24-how-failing-greek-can-help-you-love-god) in this series noted, learning New Testament Greek is hugely demanding. And to make matters worse, the benefits always feel very far off—and in most ways they are. For the better part of the year my students have learnt a foreign verb system, hundreds of vocabulary words, and the dreaded reality of exceptions. Why? Well, that’s not always immediately obvious. It certainly doesn’t take your quiet times into the third heaven. You don’t suddenly become a [master Bible reader](https://rekindle.co.za/content/2021-04-14-bible-believing-1-thessalonians) or [preacher](https://rekindle.co.za/content/2022-04-28-preaching-great-exegesis-without-prayer-is-public-speaking).First year Greek is, on the balance, an extensive and arduous labour, with few ostensible fruits. At least, that’s how it can seem.
+The reason for this lack of motivation is fairly simple: there’s a considerable delay in what we might call pay-off. As a [previous article](https://rekindle.co.za/content/2023-03-24-how-failing-greek-can-help-you-love-god) in this series noted, learning New Testament Greek is hugely demanding. And to make matters worse, the benefits always feel very far off—and in most ways they are. For the better part of the year my students have learnt a foreign verb system, hundreds of vocabulary words, and the dreaded reality of exceptions. Why? Well, that’s not always immediately obvious. It certainly doesn’t take your quiet times into the third heaven. You don’t suddenly become a [master Bible reader](https://rekindle.co.za/content/2021-04-14-bible-believing-1-thessalonians) or [preacher](https://rekindle.co.za/content/2022-04-28-preaching-great-exegesis-without-prayer-is-public-speaking). First year Greek is, on the balance, an extensive and arduous labour, with few ostensible fruits. At least, that’s how it can seem.
 
 ### Making a Case for Persevering in Hard Things
 
