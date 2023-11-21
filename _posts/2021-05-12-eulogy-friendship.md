@@ -2,16 +2,15 @@
 layout: post
 title: A Eulogy To Friendship
 author: gheslop
-tags:
-- Spiritual Friendship
-- Forgive Me Friend
-- Smith & Thell
-- Eulogy
-- Friendship
 image: assets/images/eulogy.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Spiritual Friendship
+  - Forgive Me Friend
+  - Smith & Thell
+  - Eulogy
+  - Friendship
 ---
 In April the song [_Forgive Me Friend_](https://www.youtube.com/watch?v=oI9S2W66IYU "Forgive Me Friend (YouTube)") by Smith & Thell went viral. Listening to the lyrics brought an [old post ](https://rekindle.co.za/content/reflection-heaven-and-friendship/ "Is Friendship Forever?")to mind. That post was about the inevitability that haunts all of us, a spectre that lurks in the shadows of our relationships. We will lose those that we love; or they will leave us. As Heather Macdonald writes in _H Is For Hawk_, "There is a time in life when you expect the world to be always full of new things. And then comes a day when you realise that is not how it will be at all. You see that life will become a thing made of holes."
 
