@@ -2,21 +2,20 @@
 layout: post
 title: A Miscellany of Bad Advice Offered by Christians
 author: gheslop
-tags:
-- Satire
-- God's sovereignty
-- Ministry
-- Christian leadership
-- Singleness
-- Sex
-- Marriage
-- Counsel
-- Advice
-- Wisdom
 image: assets/images/bad-advice.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Satire
+  - God's sovereignty
+  - Ministry
+  - Christian leadership
+  - Singleness
+  - Sex
+  - Marriage
+  - Counsel
+  - Advice
+  - Wisdom
 ---
 A few weeks back, Tim Challies put together what became a very popular article: [40 Random Pieces of Advice for the Christian Life](https://www.challies.com/articles/random-words-of-advice-for-the-christian-life/ "A Miscellany of Good Advice"). His rationale for writing it was that, "Not every idea is worthy of an entire article. Hence, this one contains a long list of brief, random (and unsolicited) pieces of advice for living the Christian life." Reflecting on that article I had a few thoughts. Paramount among them was this: I’ve heard a lot of bad advice for living the Christian life. Worse still, I've offered it.
 
