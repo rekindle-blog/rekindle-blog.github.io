@@ -3,7 +3,7 @@ layout: post
 title: 7 Means of Preaching That Trump Method
 author: gheslop
 image: assets/images/westminster-abbey.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Directory for Public Worship
