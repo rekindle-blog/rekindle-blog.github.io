@@ -2,19 +2,18 @@
 layout: post
 title: The Pastor's Wife
 author: gheslop
-tags:
-- Jason Helopoulos
-- Authority
-- Ministry Couples
-- Pastor
-- Leadership
-- Church
-- Ministry
-- Pastor's Wife
 image: assets/images/pastors-wife.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Jason Helopoulos
+  - Authority
+  - Ministry Couples
+  - Pastor
+  - Leadership
+  - Church
+  - Ministry
+  - Pastor's Wife
 ---
 I was tempted to post an article titled: What Does The Bible Say About The Pastor’s Wife? The body of that article would have contained just one word: 'Nothing.' Of course, with sensationalism comes overstatement. But the simple fact is this: my imagined article would have been truer than the considerable emphasis many Christians place on the role of the pastor’s wife. Now, I’m not for a second suggesting that the wives of pastors don’t face [unique challenges](https://www.thegospelcoalition.org/reviews/help-married-pastor-jani-ortlund/ "Review of Jani Ortlund's new book"), which I hope to address in the latter half of this post. But before I do that, I want to challenge the unbiblical—and therefore unhelpful—significance and status many churches grant to the pastor’s wife.
 
