@@ -3,7 +3,7 @@ layout: post
 title: The Celebration of Tyranny in Pastoral Ministry
 author: gheslop
 image: assets/images/tyranny.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - The Pastoral Epistles
