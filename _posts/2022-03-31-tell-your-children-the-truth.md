@@ -3,7 +3,7 @@ layout: post
 title: "Personal Reflection: Tell Your Children The Truth"
 author: gheslop
 image: assets/images/parenting-your-children-with-truth.JPG
-featured: true
+featured: false
 hidden: false
 tags:
   - Love
