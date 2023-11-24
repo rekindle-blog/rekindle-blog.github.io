@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cancel Culture
+title: "Fridays with Fred: Cancel Culture"
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: true
