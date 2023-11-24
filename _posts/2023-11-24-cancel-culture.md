@@ -3,7 +3,7 @@ layout: post
 title: "Fridays with Fred: Cancel Culture"
 author: gheslop
 image: /assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Friedrich Nietzsche
