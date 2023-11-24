@@ -5,12 +5,22 @@ author: gheslop
 image: /assets/images/fridays.jpg
 featured: true
 hidden: true
+tags:
+  - Friedrich Nietzsche
+  - Fridays with Fred
+  - The Joyous Science
+  - Cancel Culture
+  - Fear
+  - Woke
+  - Logic
+  - Reason
+  - ""
 ---
 What frightens you? In general, children have readier answers to that question than adults. They’re able to list the things that cause them dread. Adults, on the other hand, not so much. Only this isn’t because we stop being afraid. We don’t grow out of fears. They merely become more sophisticated and abstract; and we become better at hiding them.
 
 My son is afraid that a garden snake might find its way into his room at night. He also frequently seeks assurance that my wife and I will always come home after going out. He’s afraid that he’ll be left alone. And while we, by which I mean adults, might similarly fear everything from abandonment to creepy crawlies, we’re much less honest and aware of what truly scares us. Anyone who has been in and around social media or the media in general over recent years will be no stranger to our ruthlessly exacting cancel culture. Whether we admit it or not, most adults are terrified at the prospect of being shamed by theses public courts. But this doesn’t only factor into what we’re willing to share on those platforms; it subtly determines what we believe.
 
-Speaking about something quite similar, though in another age, Friedrich Nietzsche applies his incisive mind to this matter in *The* *Joyous Science*.
+Speaking about something quite similar, though in another age, Friedrich Nietzsche applies his incisive mind to this matter in [*The* *Joyous Science*](https://en.wikipedia.org/wiki/The_Gay_Science).
 
 ### All of Us Fear Isolation and Exclusion
 
@@ -22,11 +32,11 @@ Very briefly then, Nietzsche argues that even the most sensitive conscience is n
 
 ### Cancel Culture Capitalises on That Fear
 
-For Nietzsche, too many Europeans were enthralled by religious tradition and the social mores it entailed. That was the “wholesome tradition” he loathed, the burdensome and **pitiful** **Christian ethic**. To use modern parlance, Nietzsche exhorted his original readers against finding themselves on the wrong side of history, caught up in the outmoded—not to mention oppressive—moralities of his day. But the obstacle to liberation, as he saw it, the obstacle to overcoming fusty faith was the fear of isolation. This, as he says, as an argument is profoundly more compelling than **mere reason**.
+For Nietzsche, too many Europeans were enthralled by religious tradition and the social mores it entailed. That was the “wholesome tradition” he loathed, the burdensome and [pitiful Christian ethic](https://rekindle.co.za/content/2022-11-04-fridays-with-fred-pitiful-christians). To use modern parlance, Nietzsche exhorted his original readers against finding themselves on the wrong side of history, caught up in the outmoded—not to mention oppressive—moralities of his day. But the obstacle to liberation, as he saw it, the obstacle to overcoming fusty faith was the fear of isolation. This, as he says, as an argument is profoundly more compelling than [mere reason](https://rekindle.co.za/content/2020-10-08-a-note-on-satire).
 
 However, his observations are perhaps more incontrovertible today than they were when Nietzsche first penned them. Ironically, we’re living nearer to what the German philosopher envisioned for society but we’re still ruled by fear. What started out two decades ago as a middling celebration of tolerance has rapidly turned into the deafening refusal to countenance anyone who disagrees with me ideologically, who isn’t on the right side of history. We’re no longer afraid of being excluded by mores of the past but the progressive culture of the future.
 
-To use Nietzsche’s words, all of us tremble in anticipation of that “cold look or lips curled in scorn,” set on cancelling you for failing to march in lockstep with **woke culture** and progressivism. Nietzsche is correct: “What are we afraid of? Isolation! As the argument which rebuts even the best arguments for a person or cause.” The sceptre of cancel culture is fear. Our age is no more enlightened than 19th century Germany. Everyone is afraid, afraid of being found to have transgressed the West’s ideological darlings: affirmation, authenticity, and autonomy.
+To use Nietzsche’s words, all of us tremble in anticipation of that “cold look or lips curled in scorn,” set on cancelling you for failing to march in lockstep with [woke culture](https://rekindle.co.za/content/2020-10-30-fridays-with-fred-nietzsche) and progressivism. Nietzsche is correct: “What are we afraid of? Isolation! As the argument which rebuts even the best arguments for a person or cause.” The sceptre of cancel culture is fear. Our age is no more enlightened than 19th century Germany. Everyone is afraid, afraid of being found to have transgressed the West’s ideological darlings: affirmation, authenticity, and autonomy.
 
 ### Reason and Logic Wilt in the Face of Fear
 
