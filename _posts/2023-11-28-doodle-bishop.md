@@ -33,7 +33,7 @@ The problem comes with Paul’s outlining of the requirements for church officer
 
 Returning to Caspian and candidates for the bishopric, it would seem that Paul and Lewis are on different pages; or, at the very least, how we were applying the latter was at odds with the apostle’s clear statement in 1 Timothy.
 
-### Header
+### We Need Convinced Leaders with Christian Character
 
 This proves something I [wrote](https://rekindle.co.za/content/2022-09-07-why-christians-give-bad-advice) last year. "A lot of conventional Christian advice seems to have simply materialised. And now it lives and moves and has its being by mere virtue of its existence. Thus we don’t theologically examine advice, probing its assumptions along with the worldview behind it." The same thing could be said regarding our preference for a candidate who didn’t actually want to be bishop—as if Paul had actually written, 'If anyone aspires to the office of bishop, his desires aren’t noble.' But he didn't. He penned the exact opposite. By prizing Aslan’s words over Paul’s we demonstrated an unbiblical and culturally conditioned commitment.
 
