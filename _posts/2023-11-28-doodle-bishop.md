@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: If Anyone Aspires to the Office of Bishop"
 author: gheslop
 image: /assets/images/bishop.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Elders
