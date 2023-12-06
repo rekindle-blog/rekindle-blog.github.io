@@ -3,7 +3,7 @@ layout: post
 title: A Miscellany of Bad Advice Offered by Christians
 author: gheslop
 image: assets/images/bad-advice.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Satire
