@@ -13,6 +13,8 @@ tags:
   - Fiction
   - Streaming services
   - Watership Down
+  - Escapism
+  - Humanity
   - ""
 ---
 If anyone is willing to sponsor it, I’ll embark on a PhD in literature tomorrow. My question: when did we start treating literature as escapism? This question obviously applies to stories more broadly, but I’m particularly interested in books. For while the medium of screens later combined with streaming services profoundly changed how we consume stories, mindless reading predates television and Netflix—and radio, for that matter. The uncritical and disengaged consumption of stories has certainly found an immense ally in our screens, only we were already mistreating stories when they arrived. In fact, I’d be tempted to argue that escapist reading paved the way for the success of streaming services. 
