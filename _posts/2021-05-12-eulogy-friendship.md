@@ -3,7 +3,7 @@ layout: post
 title: A Eulogy To Friendship
 author: gheslop
 image: assets/images/eulogy.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Spiritual Friendship
