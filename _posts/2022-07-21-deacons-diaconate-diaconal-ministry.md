@@ -2,18 +2,17 @@
 layout: post
 title: Where Did All the Deacons Go? Reconsidering Acts 6
 author: gheslop
-tags:
-- Acts 6
-- Acts
-- Mercy ministry
-- Diaconal ministry
-- Diaconate
-- Deacons
-- Church leaders
 image: assets/images/deacons.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Acts 6
+  - Acts
+  - Mercy ministry
+  - Diaconal ministry
+  - Diaconate
+  - Deacons
+  - Church leaders
 ---
 Most Bible readers will be familiar with the establishment of diaconal ministry in Acts 6:1-6. Of course, the church had helped the needy since Pentecost (Acts 2:45; 4:34-35), making [mercy ministry](https://rekindle.co.za/content/social-justice-as-obedience-to-god/ "Mercy Ministries and Social Justice") as fundamental to the Christian community as sitting under preaching, sharing communion, and prayer. But something important takes place in Acts 6, as the apostles establish the first diaconate. I’ve been reflecting on these verses recently and am convinced that they hold some important lessons for us, especially in correcting contemporary Protestantism’s [overinflated view](https://rekindle.co.za/content/2021-04-14-bible-believing-1-thessalonians  "More than Bible-believing ") of teaching and preaching ministries, along with the abandonment of any meaningful diaconal ministry.
 
