@@ -2,19 +2,18 @@
 layout: post
 title: How Failing Greek Can Help You Love God
 author: gheslop
-tags:
-- Pride
-- Humility
-- Theological College
-- Bible College
-- Love
-- Greek
-- Theology
-- Simone Weil
 image: assets/images/learning-greek.jpeg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Pride
+  - Humility
+  - Theological College
+  - Bible College
+  - Love
+  - Greek
+  - Theology
+  - Simone Weil
 ---
 Earlier this year I started lecturing New Testament Greek, and on Mondays I teach a double class. Before we delve into Jeremy Duff’s _Elements of New Testament Greek,_ I deliver a short exhortation. For the most part, these words of encouragement have developed a theme I [considered at length](https://rekindle.co.za/content/2022-02-02-character-of-a-theologian "Christian Character over Theological Content") last year: Christian character trumps theological acumen. In that series I identified some of [the perils](https://rekindle.co.za/content/2022-04-22-christian-theologian-101-ambition "Christian Theologian 101") that beset theological students. With an actual class in front of me, I’ve continued to sound these warnings, while also demonstrating the value of theological studies for Christian formation—even Greek.
 
