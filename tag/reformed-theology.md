@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Reformed theology"
+title: "Tag: Reformed Theology"
 tag: reformed-theology
 robots: noindex
 ---

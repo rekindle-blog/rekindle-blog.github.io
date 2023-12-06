@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Feminism"
+title: "Tag: feminism"
 tag: feminism
 robots: noindex
 ---

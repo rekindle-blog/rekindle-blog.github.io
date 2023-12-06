@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Biblical Eldership"
+title: "Tag: Biblical eldership"
 tag: biblical-eldership
 robots: noindex
 ---

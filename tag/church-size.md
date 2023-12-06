@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Church-size"
+title: "Tag: Church Size"
 tag: church-size
 robots: noindex
 ---
