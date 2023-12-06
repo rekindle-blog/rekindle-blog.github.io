@@ -6,11 +6,11 @@ image: /assets/images/big-church.jpg
 featured: false
 hidden: false
 tags:
-  - Church-size
-  - Church-growth
+  - Church size
+  - Church growth
   - Metrics
   - Ministry
-  - Church-leaders
+  - Church leaders
   - Church
 ---
 A friend once left a note on my desk, in jest, saying: "Get over your big church issues." While my critics might have phrased it differently, my writing on the topic of church size and growth has certainly been found wanting by many. And their criticisms could be boiled down to a chagrin laden and reductionistic, 'just get over it.' But I won't.
@@ -41,7 +41,7 @@ For some evidence concerning this proposition, read [this post](https://www.chri
 
 Not every believer desires smaller communities, of course. But assuming Vaters’ observations are correct, when church leaderships fixate on church growth they do so without considering the people God has already given them to oversee and pastor. Aiming at a bigger church is impersonal, abstract, and—very possibly—driven by a leader’s [search for recognition](https://africa.thegospelcoalition.org/article/pastor-why-do-you-want-a-big-church/). It imagines an ideal and faceless future, at the expense of the sheep already in the fold.
 
-### 4. Church growth movements are premised on the erroneous notion of cloning success; and, worse still, on the heretical belief than people grow the church.
+### 4. Church growth movements are premised on the erroneous notion of cloning success; and, worse still, on the heretical belief that people grow the church.
 
 With a delightful and disarming turn of phrase, I was once privileged to hear Gerald Bray field a question about the church growth movement. In answering, he asked us to imagine what conversations Christian leaders might have had following Peter’s Pentecost sermon. Bray’s purpose in mentioning that event was that it resulted in the conversion of 3000 plus people. It’s a visceral reminder that God grows churches, not men or methods.
 
@@ -51,7 +51,7 @@ As far as we can tell from Luke’s notes, Peter was a decent enough preacher. B
 
 If you’re hosting a conference on Christian leadership, who do you invite as the key note speaker? The faithful pastor of three decades in the small, local church down your street? No. That guy is probably an unambitious loser if his church hasn’t grown in all that time. You invite the successful pastor who’s overseen signifiant numerical growth. He can teach us something; he’s worth listening to. So we’ve valorised Christian leaders on the basis of their numbers on social media and Sundays rather than their character.
 
-My primary contention when it comes to growth gurus and leadership experts is the accompanying disregard for what God says qualifies Christian leaders—and what he commends. You can be faithful and full of character, yet pastor a small flock. Alternatively, you can shepherd a megachurch without possessing character or even faith (Matthew 7:21-23). The point is this: the pastors who most embody the virtues laid out in 1 Timothy 3 and Titus 1aren’t necessarily the ones leading the biggest churches.
+My primary contention when it comes to growth gurus and leadership experts is the accompanying disregard for what God says qualifies Christian leaders—and what he commends. You can be faithful and full of character, yet pastor a small flock. Alternatively, you can shepherd a megachurch without possessing character or even faith (Matthew 7:21-23). The point is this: the pastors who most embody the virtues laid out in 1 Timothy 3 and Titus 1 aren’t necessarily the ones leading the biggest churches.
 
 ### 6. Metrics or church numbers convey essentially nothing about the health of a local church.
 
