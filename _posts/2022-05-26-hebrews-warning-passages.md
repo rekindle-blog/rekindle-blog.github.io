@@ -1,19 +1,18 @@
 ---
 layout: post
-title: A Proposal For Reading Hebrews' Warning Passages
+title: A Proposal for Reading Hebrews' Warning Passages
 author: gheslop
-tags:
-- Thomas Schreiner
-- Gilead
-- Marilynne Robinson
-- Exegesis
-- Rhetoric
-- Warning passages
-- Hebrews
 image: assets/images/hebrews-warning-passages.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Thomas Schreiner
+  - Gilead
+  - Marilynne Robinson
+  - Exegesis
+  - Rhetoric
+  - Warning passages
+  - Hebrews
 ---
 I’ve often joked that Hebrews languishes in the New Testament’s wilderness. Compared to the Gospels and Paul’s writings, most Bible Christians make a wide berth of Hebrews, together with the Catholic Epistles (such as [1 Peter](https://rekindle.co.za/content/what-is-1-peter-all-about/ "Summary Of 1 Peter"), [2 Peter](https://rekindle.co.za/content/2020-06-04-add-works-to-your-faith "Add Works To Your Faith"), and [James](https://rekindle.co.za/content/the-epistle-of-james-wisdom-and-works/ "Wisdom And Works In James")). Though there are various factors contributing to this neglect, when it comes to Hebrews a primary one is almost certainly the warning passages (2:1-4; 3:7-4:11; 5:11-6:12; 10:26-31;12:25-29). Professing believers, especially those within the Reformed tradition, are uneasy around them because the possibility of apostasy seems incompatible with the Protestant emphasis on assurance and perseverance of the saints.
 
