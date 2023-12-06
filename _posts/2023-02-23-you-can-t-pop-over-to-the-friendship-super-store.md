@@ -3,7 +3,7 @@ layout: post
 title: You Can't Pop Over to the Friendship Super Store
 author: gheslop
 image: assets/images/friendship-super-store.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Antoine de Saint-Exupéry
