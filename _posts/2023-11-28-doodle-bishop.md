@@ -4,7 +4,7 @@ title: "Doodle: If Anyone Aspires to the Office of Bishop"
 author: gheslop
 image: /assets/images/bishop.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Elders
   - Church Polity
