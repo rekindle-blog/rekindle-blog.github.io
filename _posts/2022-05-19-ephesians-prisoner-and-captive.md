@@ -1,19 +1,18 @@
 ---
 layout: post
-title: 'The Myth Of Freedom: We''re All Captives'
+title: "The Myth Of Freedom: We're All Captives"
 author: gheslop
-tags:
-- Freedom
-- Identity
-- Ephesians
-- Service
-- Serving
-- Fight Club
-- David Foster Wallace
 image: assets/images/captives.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Freedom
+  - Identity
+  - Ephesians
+  - Service
+  - Serving
+  - Fight Club
+  - David Foster Wallace
 ---
 Preaching recently on Ephesians 4:1-16 I noticed something for the first time: Paul’s emphasis on believers being prisoners of Christ. Part of the reason for this oversight is that most sermons on this passage—including my own in the past— laconically preach unity (4:1-6) and diversity (4:7-16), with some application on serving with our gifts. But undergirding that unity and promoting service is the Christian’s identity as a captive or prisoner. Below I will demonstrate this from Ephesians 4, before arguing that every single human being is in fact captive. All we decide in this life is who or what we will give ourselves to in worship and service.
 
