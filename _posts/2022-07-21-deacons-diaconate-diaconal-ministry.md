@@ -3,7 +3,7 @@ layout: post
 title: Where Did All the Deacons Go? Reconsidering Acts 6
 author: gheslop
 image: assets/images/deacons.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Acts 6
