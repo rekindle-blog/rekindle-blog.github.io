@@ -3,7 +3,7 @@ layout: post
 title: A Proposal for Reading Hebrews' Warning Passages
 author: gheslop
 image: assets/images/hebrews-warning-passages.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Thomas Schreiner
