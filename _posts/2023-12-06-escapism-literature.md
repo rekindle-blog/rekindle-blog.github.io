@@ -4,7 +4,7 @@ title: Stories Are for so Much More Than Escapism
 author: gheslop
 image: /assets/images/escapism.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Story
   - Literature
