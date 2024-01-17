@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Was J. R. R. Tolkien an Antisemite?"
 author: gheslop
 image: /assets/images/tolkien.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Doodle
