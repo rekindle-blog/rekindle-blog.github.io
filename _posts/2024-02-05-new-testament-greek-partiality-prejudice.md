@@ -38,6 +38,6 @@ Last year I edited an academic article dealing with baptism. At one point the st
 
 My point in bringing this up isn’t to suggest I’m any better—I’ve made what I deem my own [erroneous appeals](https://rekindle.co.za/content/pastor-you-are-a-shepherd-not-a-rancher/) to uncommon Greek words. Instead, it’s to demonstrate that my preference for a commentator proves nothing from the biblical text. A certain level of theological bias is unavoidable. On top of that, we should be committed to our theological stable—by way of confessional standards and creeds. But that doesn’t mitigate against God’s exhortation to "rightly divide" the scriptures (2 Timothy 2:15). Don’t confuse confirmation bias with interpretation.
 
-### 2Greek Is a Great Platform for Theological 1Dialogue
+### Greek Is a Great Platform for Theological Dialogue
 
 Going over this point with my first year Greek students, I said that hermeneutical work has to be more than siding with the authors and speakers you like or esteem. Lest we give ourselves over unthinkingly to theological bias. There’s much room for disagreement—just as there’s a place to confidently assert a doctrinal point or position, over against another. Sometimes the task of interpretation entails critiquing the conclusions of others. But when you’re doing this just make sure you aren’t merely wielding the conclusions of another to do so.
