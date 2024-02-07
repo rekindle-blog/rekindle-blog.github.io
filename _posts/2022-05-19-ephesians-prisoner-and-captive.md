@@ -3,7 +3,7 @@ layout: post
 title: "The Myth Of Freedom: We're All Captives"
 author: gheslop
 image: assets/images/captives.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Freedom
