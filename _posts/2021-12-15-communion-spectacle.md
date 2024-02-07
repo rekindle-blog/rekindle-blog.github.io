@@ -2,18 +2,17 @@
 layout: post
 title: Isn't Weekly Communion Too Boring?
 author: gheslop
-tags:
-- Competing Spectacles
-- Tony Reinke
-- Reformed theology
-- Corporate worship
-- Church
-- Lord's Supper
-- Communion
 image: assets/images/communion.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Competing Spectacles
+  - Tony Reinke
+  - Reformed theology
+  - Corporate worship
+  - Church
+  - Lord's Supper
+  - Communion
 ---
 I recently wrote [an article](https://rekindle.co.za/content/2021-11-16-communion "5 Reasons To Celebrate Communion") arguing that the church should celebrate communion every Sunday. I offered five reasons why we should reclaim the Reformation’s emphasis on sharing in the Lord’s Supper weekly. If we reverse engineered those points, I’d suggest that don’t do so because our [Sunday worship](https://rekindle.co.za/content/2021-02-10-calvin-sabbath "Lord's Day Worship") is:
 
