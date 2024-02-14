@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Doodle: Was J. R. R. Tolkien an Antisemite?"
+title: "Doodle: Was J. R. R. Tolkien an Anti-Semite?"
 author: gheslop
 image: /assets/images/tolkien.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Doodle
   - Dwarves
