@@ -25,23 +25,23 @@ To quote from *The Chosen:* "By the eighteenth century, \[the Polish Jewry] had 
 
 Elsewhere I’ve written on some of the trappings of theological studies, such [ambition](https://rekindle.co.za/content/2022-04-22-christian-theologian-101-ambition) and [pride](https://rekindle.co.za/content/2022-02-16-christian-theologian-101-humility). But David Malter highlights the destructive lure of[sterile intellectualism](https://rekindle.co.za/content/2022-03-15-christian-theologian-101-intellectual-lust). This is when theologians are engaged in lively dialogue, rigorously pursuing publication, and attending various conferences. Only, as Malter says, despite appearances such theology may nevertheless be "dead."
 
-## Link through
+## A Crisis in Christian Theology
 
 In my opinion, his description of Jewish theologians in the 18th century isn’t wide of the mark in describing the contemporary state of much theological effort. Furthermore, this explains the circumspect approach many Christians take to theology. Though more could be said, I’m going to focus on three aspects of Malter’s critique, applying them to Christian theology, under the three headings below.
 
-#### 1. Header
+#### 1. Pedantic and Impractical
 
 Firstly, Malter notes that the study of Talmud among Jewish scholars had devolved into "empty, non-sensical arguments over minute details.” These, he continues, “have no relation at all to the world." They were nothing more than "empty discussions about matters that had no practical connexion with the desperate needs of the masses of Jews." Their large-scale scholarly enterprise was impractical, despite all its precision. However voluminous it was nevertheless empty. Poring over the same texts as the Jewish masses, their work was so pedantic that it remained impenetrable to laypeople.
 
-Returning to the shelves of my own theological library, the same could probably be said about many of the larger—as well as some of the smaller—works there. That Christian theologians have published an awesome amount of books is painfully evident. By scholarly, academic standards these works certainly cut the mustard. But aren’t many guilty of David Malter’s assessment? Fixated on minute details to the point of myopia. Full of citations, quotes, and detailed footnotes only simultaneously empty in terms of their value for the people sitting in the pews.
+Returning to the shelves of my own theological library, the same could probably be said about many of the larger—as well as some of the smaller—works there. That Christian theologians have published an awesome amount of books is painfully evident. By scholarly, academic standards these works certainly cut the mustard. But aren’t many guilty of David Malter’s assessment? Fixated on minute details. Full of citations, quotes, and detailed footnotes only simultaneously empty in terms of their value for the people sitting in the pews.
 
-#### 2. Header
+#### 2. Written for the Academy
 
 Secondly, their scholarship, according to David Malter, was increasingly aimed at other scholars. As he puts it, "Jewish scholars became interested in showing other Jewish scholars how much they knew, how many texts they could manipulate." Its audience was exclusively the academy, so to speak; its ambition was the demonstration of technical study and methodological mastery.
 
 Much Christian theology runs the same risk, creating a kind of academic echo chamber. Of course, there are levels of learning and technical aspects of theology that will inevitably exclude some, a problem compounded by functional illiteracy and social media. However, it’s worth making an important distinction here, alluded to but not spelt out by Malter. Christian theology should always have one eye on the church, instead of fixing both firmly on the academy. Thus even in the writing of detailed dogmatics, one needn’t forget vast majority of the Christians. You only need to read Bavinck’s *Wonderful Works of God* or Calvin’s *Institutes* for examples of this. This brings us to one final point.
 
-#### 3. 
+#### 3. No Interest in the Church
 
 Finally, Malter says that Jewish theologians became uninterested in teaching the masses, "in communicating their knowledge and uplifting their people." In many ways this is an obverse to the previous point. For simultaneously with their commitment to impressing and engaging other scholars, the scholars forget their people. A people who were in great need.
 
@@ -49,9 +49,9 @@ When writing one must choose an audience. No piece can be all things to all peop
 
 As Helmut Thielicke writes, in his *Little Exercise for Young Theologians*: "Living dogmatics never allows its problems to be self-originated as by a virgin birth, but it is always being fertilised, achieving its productive impulse through the questions of the time. It exists in living tension."
 
-## Result
+## Theologians Exist for the Church
 
-Please forgive me for the length of this article, as I’ve really struggled to know what to expand on and where to tough lightly. In conclusion let’s return to that quote from *The Chosen*. The result of what David Malter calls Pilpul is simple. "There grew up a great wall between the scholars and the people."
+In conclusion, let’s return to that quote from *The Chosen*. The result of what David Malter calls Pilpul is simple. "There grew up a great wall between the scholars and the people."
 
 Too much theological work relies on the assumption of a trickle down effect. This assumption says that work done in the rarified realms will eventually find its way down to the earthly ones. But I remain unconvinced of that. If there exists a wall between Christian scholarship and those filling our churches then it’s time to ask some hard questions about what we’re writing and who we’re writing for.
 
