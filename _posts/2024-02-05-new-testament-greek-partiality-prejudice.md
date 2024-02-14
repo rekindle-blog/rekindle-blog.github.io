@@ -4,7 +4,7 @@ title: How Knowing Greek Guards Against Prejudice and Partiality
 author: gheslop
 image: /assets/images/learning-greek.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Greek
   - Hermeneutics
