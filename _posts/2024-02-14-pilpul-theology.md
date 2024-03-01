@@ -4,7 +4,7 @@ title: Is Your Theology Pastoral or Pilpul?
 author: gheslop
 image: /assets/images/ben-myers-theology.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Chaim Potok
   - The Chosen (book)
