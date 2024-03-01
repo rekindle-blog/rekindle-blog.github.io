@@ -3,7 +3,7 @@ layout: post
 title: You'll Never Live a Life Worthy of the Gospel
 author: gheslop
 image: /assets/images/ocean-end-lane.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Neil Gaiman
