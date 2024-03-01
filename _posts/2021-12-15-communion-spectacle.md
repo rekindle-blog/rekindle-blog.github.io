@@ -3,7 +3,7 @@ layout: post
 title: Isn't Weekly Communion Too Boring?
 author: gheslop
 image: assets/images/communion.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Competing Spectacles
