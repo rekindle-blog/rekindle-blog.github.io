@@ -2,23 +2,22 @@
 layout: post
 title: Most Biblical Narratives Don't Have a Main Point
 author: gheslop
-tags:
-- Alan Stibbs
-- Fiction
-- Exposition
-- Expository preaching
-- Exegesis
-- Chimamanda Ngozi Adichie
-- Americanah
-- Lord of the Rings
-- Tolkien
-- Story
-- Narrative
-- Preaching
 image: assets/images/nicolas-regnier-david-and-goliath.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Alan Stibbs
+  - Fiction
+  - Exposition
+  - Expository preaching
+  - Exegesis
+  - Chimamanda Ngozi Adichie
+  - Americanah
+  - Lord of the Rings
+  - Tolkien
+  - Story
+  - Narrative
+  - Preaching
 ---
 Ifemelu is sitting in a salon, having extensions braided into her hair when another customer notices that she's is reading. The other customer innocently asks: what’s the book about? Annoyed—mostly for other reasons—the question rankles Ifemelu. She thinks, "Why did people ask 'What is it about?' as if a novel had to be about only one thing." This brief scene is from Chimamanda Ngozi Adichie’s _Americanah_. It’s a work well worth reflecting on, but in this post I want to focus on Ifemelu’s ire towards the question: what’s the story about? Because I’m convinced that most novels aren’t explicitly "about only one thing." This is also true of most biblical narratives.
 
