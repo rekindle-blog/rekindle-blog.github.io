@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Fridays with Fred: Friendship"
+title: "Fridays with Fred: Like Friendships in the Night"
 author: gheslop
 image: /assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Friedrich Nietzsche
