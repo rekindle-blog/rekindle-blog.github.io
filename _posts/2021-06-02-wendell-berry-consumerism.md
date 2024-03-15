@@ -1,19 +1,18 @@
 ---
 layout: post
-title: 'Digital Consumerism: Where Is The Line?'
+title: "Digital Consumerism: Where Is The Line?"
 author: gheslop
-tags:
-- Digital Age
-- Entertainment
-- Streaming Services
-- Social Media
-- Wendell Berry
-- Technology
-- Consumerism
 image: assets/images/technology-digital-consumerism.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Digital Age
+  - Entertainment
+  - Streaming Services
+  - Social Media
+  - Wendell Berry
+  - Technology
+  - Consumerism
 ---
 'How far is too far?' If you were a Christian teen, or have pastored to them, then it's very likely this is a question you’ve either asked or heard. For everyone else, the question concerns what is romantically and sexually permissible between those who aren’t yet married. It’s the indirect way of asking, "I know we can’t have sexual intercourse, but how close can we get to it?" Because it’s a matter of relational wisdom, I will leave answering it to someone else. In this post I want to suggest that this question—put another way, 'Where is the line?'—is one that we would do well to recover and apply to another pressing moral matter for Christians: the consumption of [social media](https://rekindle.co.za/content/more-ways-technology-takes/ "Technology Takes") and [entertainment](https://rekindle.co.za/content/2020-07-03-nietzsche "Nietzsche On Entertainment").
 
