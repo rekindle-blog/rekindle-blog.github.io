@@ -4,7 +4,7 @@ title: You'll Never Live a Life Worthy of the Gospel
 author: gheslop
 image: /assets/images/ocean-end-lane.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Neil Gaiman
   - The Ocean at the End of the Lane
