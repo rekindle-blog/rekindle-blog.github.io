@@ -1,20 +1,19 @@
 ---
 layout: post
-title: 'Book Review: The Victory of the Cross (James Payton Jr)'
+title: "Book Review: The Victory of the Cross (James Payton Jr)"
 author: gheslop
-categories:
-- Book review
-- Atonement
-- James Payton
-- Salvation
-- The Victory of the Cross
-- Eastern Orthodox
-- Christus Victor
 image: assets/images/30718840642_8c6a687835_c.jpg
-featured: false
+featured: true
 hidden: false
 tags: []
-
+categories:
+  - Book review
+  - Atonement
+  - James Payton
+  - Salvation
+  - The Victory of the Cross
+  - Eastern Orthodox
+  - Christus Victor
 ---
 Reading about the Eastern Orthodox tradition bears some similarities to meeting a long lost family member. There are undeniable traits, even recognisable gestures, and patent indicators of familial resemblance. But there are also marked differences, the results of growing up apart and being shaped by our respective environments. For this reason alone, James Payton’s _The Victory of the Cross: Salvation in Eastern Orthodoxy_ is an excellent resource. His book acts as the metaphorical introduction between estranged relatives. Of course, Payton functions on behalf of Eastern Orthodoxy, as both the book's title and his own academic focus suggest. In the preface he writes, “If Western Christians are to learn about Orthodoxy responsibly, they must seek to get inside the instincts, intuitions, and perspectives of the Orthodox approach.” Payton achieves that throughout _The Victory of the Cross_.
 
