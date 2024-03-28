@@ -3,7 +3,7 @@ layout: post
 title: "Digital Consumerism: Where Is The Line?"
 author: gheslop
 image: assets/images/technology-digital-consumerism.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Digital Age
