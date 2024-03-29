@@ -1,9 +1,9 @@
 ---
 layout: post
-title: good Friday with fred
+title: "Good Friday with Fred: The Cross of Jesus"
 author: gheslop
 image: /assets/images/good-friday-with-fred.png
-featured: true
+featured: false
 hidden: true
 tags:
   - Friedrich Nietzsche
