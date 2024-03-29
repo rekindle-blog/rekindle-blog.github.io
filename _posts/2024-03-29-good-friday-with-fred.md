@@ -5,6 +5,14 @@ author: gheslop
 image: /assets/images/good-friday-with-fred.png
 featured: true
 hidden: true
+tags:
+  - Friedrich Nietzsche
+  - The Anti-Christ (book)
+  - Crucifixion
+  - Cross
+  - Christus Exemplar
+  - Jesus Christ
+  - ""
 ---
 Friedrich Nietzsche wasn’t coy about his loathing for Christians and the Church; read [this](https://rekindle.co.za/content/2022-11-04-fridays-with-fred-pitiful-christians), for example. Thus it might come as a surprise to readers that he largely esteemed Jesus Christ. Of course, being a product of the late 1800s, Nietzsche’s Jesus more resembles the reimagined Jesus of [critical scholarship](https://rekindle.co.za/content/how-literary-criticism-has-damaged-our-view-of-the-gospels/) than the Gospels and history. Nevertheless, he admired Jesus, finding him to be both an impressive and imitable man.
 
@@ -20,13 +28,13 @@ Listen to how Nietzsche continues: on the cross Jesus gave flesh to his gospel, 
 
 So, a few aphorisms on in his *Anti-Christ,* Nietzsche writes, "Jesus himself could have desired nothing by his death but publicly to offer the sternest test, the proof of his teaching" (§40). With his typical self-confident dismissal of all others, Nietzsche insists everyone else got Jesus wrong—except for him. According to the German, then, Jesus demonstrates to all onlookers unflinching resolve to one’s commitments. The crucifixion was Jesus’ "sternest test," and the philosopher deems him to have passed with flying colours, however misunderstood he’s been since.
 
-### Header
+### The Anti-Christ's View Is a Popular One
 
 As I’ve already noted, Nietzsche’s Jesus is one that many people today readily celebrate. In recent years I’ve heard the likes of Jim Carrey and Jordan Peterson, along with many others in between,pointing to Jesus’ example in the face of staunch opposition and impossible odds, failure and severe suffering, and even death.
 
 To use Nietzsche’s words, Jesus demonstrates how to live—and die—with conviction. In doing so he left us an approach to adversity and hardship. If you’ll forgive a colloquialism, Jesus stuck the landing. Despite the many opportunities to turn from his course, "to avert the worst," he drank the poison, or cup. By dying for what he taught in accord with what he taught he gave the greatest defence of it. In this way he becomes someone worth imitating, an inspirational man to whom we ought to aspire. But to treat Jesus like this blatantly ignores at least one crucial piece of the passion narratives: Jesus was terrified.
 
-### Header
+### The Cross Is Much More Than a Demonstration
 
 As [I wrote](https://rekindle.co.za/content/lukes-innocent-jesus-a-point-from-repetition/) years ago, "Jesus’ agonising plea for rescue, his weakness supplemented by an angel’s strength, and the sweat like blood prevents us from saying that Jesus was bold before death (Luke 22:42-44)…That day was not an unflinching display of bravery." Jesus begged the Father that he might be spared the cross (Matthew 26:39, 42, 44). During those last moments, the disciples witnessed their Lord wilting in fear, agonising over the prospect and sorrowful before his tremendous suffering.
 
