@@ -43,7 +43,7 @@ Already, and perhaps unwittingly, Parris sketches a troubling trajectory. While 
 
 I mean, should we ever chastise someone for feeling entitled to life? Can we call the terminally ill person who declines assisted suicide selfish? Again, are we ignorant of the devastating historical witness to moments and movements—marching in lockstep—that measured human life by their outputs? We should be worried when one sector of society deems another worthless, owing to their burden on the economy.
 
-### Header
+### From Consent to Coercion and Beyond
 
 If Parris miraculously stumbled onto Rekindle he would no doubt accuse me of omitting one important caveat he makes concerning assisted suicide: [consent](https://rekindle.co.za/content/2021-07-30-blood-sports), that glorious lodestar of 21st century ethics and morality. For quite carefully throughout his article he insists on choice, even if he sees no issue with it being a coerced one. But how do we account for consent in cases of senility or dementia? What choice can someone make when they’re conscious but non-communicative? If we’re honest, commonplace instances such as these would be determined by others. This is the trajectory. This is what such a bill would create room for.
 
