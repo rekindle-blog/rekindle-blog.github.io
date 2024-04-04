@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Can Anticipate the Dangerous Cost of Assisted Suicide
+title: We Can Anticipate the Dangers of Assisted Suicide
 author: gheslop
 image: /assets/images/assisted-suicide.jpg
 featured: true
@@ -19,7 +19,7 @@ Earlier this week a friend shared an article with me titled *[We Can’t Afford 
 
 Below I will consider his argument that assisted suicide can be a selfless and gracious end, especially in light of the drain that old people can be on an economy.  I’ll then argue that what Parris is describing is little more than utilitarianism, something he seems to realise but refuses to admit has dangerous potential for all sorts of murderous distortions. I also examine Parris’ reiterated but—in my opinion—naive emphasis on consent, when he’s simultaneously calling for people to be evaluated by their economic contributions or outputs. Finally, I lean into the charge some readers will level against this article: the slippery slope fallacy.
 
-### Header
+### Parris: We Need a Shift in Thinking Around Suicide
 
 First, let's get our bearings with the article making a case for assisted dying. Parris writes, "Let’s acknowledge and confront the strongest argument against assisted dying. As (objectors say) the practice spreads, social and cultural pressure will grow on the terminally ill to hasten their own deaths so as ‘not to be a burden’ on others or themselves. I believe this will indeed come to pass." Parris goes on to write that he would welcome this monumental shift in morality.
 
@@ -35,7 +35,7 @@ Commendably Parris doesn’t shy away from the cold brutality of his position. I
 
 Unsurprisingly Parris steers clear of one word which just about perfectly sums up his position and argument: utilitarianism. Whatever his reasons for omitting that word—likely its historic connection with genocide—it could’ve stood in for the title of his article, as well as at numerous points throughout. After all, Parris believes that: in some circumstances, continuing to live is "selfish"; the unproductive elderly are an expensive burden on economies; and the future will be determined by reevaluating the worth of old age and reducing individuals to the contributions they make to the collective. What could go wrong?
 
-### Header
+### Utilitarianism Usually Gives More Than It Promises
 
 Though I may have only alluded to it now, let me state explicitly that I don’t believe Parris does actually address the strongest argument against assisted suicide. He’s convinced that the concerns of objectors centre on individuals choosing a burdensome and suffering-laden longevity over death. Put another way, he seems to think that those objecting to assisted suicide are worried that society will deem life less precious. But this isn’t the thick end of the wedge that most fear. Ironically, Parris himself hints at the darker side—the real thick end—his utilitarianism could lead to when he refers to our "sense of entitlement." Entitled to what, you might ask? To live.
 
