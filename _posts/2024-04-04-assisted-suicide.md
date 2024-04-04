@@ -1,6 +1,6 @@
 ---
 layout: post
-title: assisted suicide
+title: We Can Anticipate the Dangerous Cost of Assisted Suicide
 author: gheslop
 image: /assets/images/assisted-suicide.jpg
 featured: true
