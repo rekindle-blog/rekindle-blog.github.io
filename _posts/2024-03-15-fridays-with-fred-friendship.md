@@ -4,7 +4,7 @@ title: "Fridays with Fred: Like Friendships in the Night"
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Friedrich Nietzsche
   - The Joyous Science
