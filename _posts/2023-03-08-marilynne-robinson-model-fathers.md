@@ -2,29 +2,28 @@
 layout: post
 title: Marilynne Robinson's Model Fathers
 author: gheslop
-categories:
-- Father
-- Motherhood
-- Lila
-- Home
-- Gilead
-- Marilynne Robinson
-- Fatherhood
 image: assets/images/fatherhood.jpg
-featured: false
+featured: true
 hidden: false
 tags:
-- Children
-- Parenting
-- Fatherhood
-- Story
-- Fiction
-- Literature
-- Marilynne Robinson
-- Home
-- Jack
-- Gilead
-
+  - Children
+  - Parenting
+  - Fatherhood
+  - Story
+  - Fiction
+  - Literature
+  - Marilynne Robinson
+  - Home
+  - Jack
+  - Gilead
+categories:
+  - Father
+  - Motherhood
+  - Lila
+  - Home
+  - Gilead
+  - Marilynne Robinson
+  - Fatherhood
 ---
 I’ve made a point of not crying in public. Perhaps my masculinity is too fragile. Maybe I’ve wrongly associated tears with weakness. Either way, this commitment recently made for an uncomfortable coffee date, as both a friend and I teared up in our local coffee shop. We were discussing fatherhood, and I told her that few people have taught me as much about it as Marilynne Robinson. In fact, I believe the perennial fathers in her Gilead series—John Ames and Robert Boughton—are model fathers. Now, let’s get back to that conversation with my friend.
 
