@@ -4,7 +4,7 @@ title: "Good Friday with Fred: The Cross of Jesus"
 author: gheslop
 image: /assets/images/good-friday-with-fred.png
 featured: false
-hidden: true
+hidden: false
 tags:
   - Friedrich Nietzsche
   - The Anti-Christ (book)
