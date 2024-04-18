@@ -4,7 +4,7 @@ title: We Must Anticipate the Real Dangers of Assisted Suicide
 author: gheslop
 image: /assets/images/assisted-suicide.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Suicide
   - Assisted Suicide
