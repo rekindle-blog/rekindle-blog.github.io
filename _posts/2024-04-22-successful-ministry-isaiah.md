@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Why Wasn't Isaiah's Ministry More Successful?"
 author: gheslop
 image: /assets/images/isaiah.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Isaiah
