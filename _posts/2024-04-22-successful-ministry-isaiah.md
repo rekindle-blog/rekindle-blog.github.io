@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Wasn't Isaiah's Ministry More Successful?
+title: "Doodle: Why Wasn't Isaiah's Ministry More Successful?"
 author: gheslop
 image: /assets/images/isaiah.jpeg
 featured: true
@@ -11,6 +11,7 @@ tags:
   - Church growth
   - Old Testament
   - Holiness
+  - Doodle
   - ""
 ---
 A few years before the [cataclysmic end](https://rekindle.co.za/content/2021-09-15-rise-and-fall-of-mars-hill) of Mars Hill, I can remember Mark Driscoll exhorting pastors to preach like Arminians but sleep like Calvinists. As much as I appreciated it at the time, if we’re honest that line is all heat and little light. In fact, I think a good case can be made for preaching like a Calvinist, as Lucky Mogakane did [at TGC Africa](https://africa.thegospelcoalition.org/article/preach-confidently-in-the-knowledge-of-gods-effectual-call/). Furthermore, if our theology informs practice—something no one should deny—Driscoll’s rhetorical flourish ends up looking a little silly. All of that brings us to the point of this doodle: why wasn’t Isaiah’s ministry more successful?
