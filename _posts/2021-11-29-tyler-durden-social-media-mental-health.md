@@ -1,17 +1,16 @@
 ---
 layout: post
-title: 'Doodle: Tyler Durden On Mental Health'
+title: "Doodle: Tyler Durden On Mental Health"
 author: gheslop
-tags:
-- Community
-- Social media
-- Tyler Durden
-- Fight Club
-- Mental health
 image: assets/images/fight-club.jpeg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Community
+  - Social media
+  - Tyler Durden
+  - Fight Club
+  - Mental health
 ---
 That we are facing unprecedented levels of loneliness and anxiety—among other significant mental health crises—has been well documented. And while we aren’t wrong to identify living through a pandemic as partly responsible for this trend, it would be shortsighted to single the pandemic out as the cause. In my opinion, the past year and a half has for the most part merely compounded existing problems in society and with regards to mental health. What are those problems, you ask? And what is their cause? Well, before I answer those questions I want to turn up a passage from Chuck Palahniuk’s _Fight Club_.
 
