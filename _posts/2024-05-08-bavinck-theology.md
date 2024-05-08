@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Bavinck's Beautiful Vision for Theology"
 author: gheslop
 image: /assets/images/bavinck-reformed-dogmatics.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Herman Bavinck
