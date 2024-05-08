@@ -3,7 +3,7 @@ layout: post
 title: How Failing Greek Can Help You Love God
 author: gheslop
 image: assets/images/learning-greek.jpeg
-featured: false
+featured: true
 hidden: false
 tags:
   - Pride
