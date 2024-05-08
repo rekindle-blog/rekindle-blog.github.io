@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Tyler Durden On Mental Health"
 author: gheslop
 image: assets/images/fight-club.jpeg
-featured: true
+featured: false
 hidden: false
 tags:
   - Community
