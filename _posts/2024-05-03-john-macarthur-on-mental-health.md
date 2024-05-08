@@ -4,7 +4,7 @@ title: John MacArthur on Mental Health
 author: gheslop
 image: /assets/images/john-macarthur-mental-health.png
 featured: false
-hidden: true
+hidden: false
 tags:
   - John MacArthur
   - Mental health
