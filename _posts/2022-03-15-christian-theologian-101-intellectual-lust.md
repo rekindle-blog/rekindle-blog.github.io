@@ -1,21 +1,20 @@
 ---
 layout: post
-title: 'Christian Theologian 101: Intellectual Lust'
+title: "Christian Theologian 101: Intellectual Lust"
 author: gheslop
-tags:
-- Romans
-- Desire
-- Heart
-- Knowledge
-- Lust
-- Christian theologian
-- Theology
-- Theological College
-- Bible College
 image: assets/images/st-jerome-caravaggio.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Romans
+  - Desire
+  - Heart
+  - Knowledge
+  - Lust
+  - Christian theologian
+  - Theology
+  - Theological College
+  - Bible College
 ---
 Earlier this year I began a series of posts for those engaged in theological studies, particularly students. The [first post](https://rekindle.co.za/content/2022-02-02-character-of-a-theologian "Christian Theologian 101: Character") argued that the goal of any theological pursuit must always be Christian character. In the [second](https://rekindle.co.za/content/2022-02-16-christian-theologian-101-humility "Christian Theologian 101: Humility") I identified humility as a fundamental Christian virtue, defining it and then exploring its expression within theological studies. [Finally](https://rekindle.co.za/content/2022-02-18-fridays-with-fred "Nietzsche On Studying Theology"), I highlighted the perils of theological thinking "without inner necessity, without a deep personal choice, without joy" (Nietzsche). In this post I want to turn to the pervasive problem of lust among theologians: intellectual lust.
 
