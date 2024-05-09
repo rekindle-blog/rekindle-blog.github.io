@@ -19,7 +19,7 @@ I’m not exaggerating. Maybe read my slightly edited transcript below, if you t
 
 ### Transcript of John MacArthur on Mental Health
 
-There’s no such thing as PTSD. There’s no such thing as OCD There’s no such thing as ADHD. Those are noble lies. To basically give the excuse to, at the end of the day, medicate people. And Big Pharma is in charge of a lot of that.
+There’s no such thing as PTSD. There’s no such thing as OCD. There’s no such thing as ADHD. Those are noble lies. To basically give the excuse to, at the end of the day, medicate people. And Big Pharma is in charge of a lot of that.
 
 Take PTSD for example. What that really is is grief. You’re fighting a war you lost a buddy you have certain amount of survival guilt. How do you deal with the grief? Grief is a real thing. But grief is a part of life. And if you can’t navigate grief you can’t live life. But if you clinically define that you can give them a pill, a series of medications. And they end up in L.A. homeless on the sidewalk.
 
