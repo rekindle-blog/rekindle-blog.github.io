@@ -16,7 +16,7 @@ I recently had a lengthy conversation with someone who’d been attending our ch
 
 This phrase refers to Saul’s spectacular conversion. We meet him in Acts 7:58, where he seems to receive homage at the stoning of Stephen. In the next chapter of [Luke’s account](https://rekindle.co.za/content/why-acts-lukes-purpose-for-writing-the-sequel/) we’re told that "Saul was ravaging the church, and entering house after house, he dragged off men and women and committed them to prison" (Acts 8:3). But then in Acts 9 he’s struck blind and addressed personally by the [risen Lord Jesus](https://rekindle.co.za/content/how-the-early-church-proves-the-resurrection/). After three days, God sends Saul to Ananias, who explains what has happened to Saul. He says, "Brother Saul, the Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit" (Acts 9:17). Then the metaphorical scales fell off Saul’s eyes and he got baptised.
 
-#### Why Aren't There More Damascus Road Experience?
+#### Why Aren't There More Damascus Road Experiences?
 
 Most of us read this account in Acts and think: 'No wonder Saul turned his life around. I mean, if Jesus confronted me like that while travelling the N2 between Cape Town and Durban I’d also give my life to making him known, probably.' What happened to Saul on the road to Damascus was remarkable; it was spectacular. And the woman I mentioned above was voicing something nearly all of us have wondered. Why doesn’t Jesus appear to us today, shining so brightly that we’re blinded by his presence? Why doesn’t God’s voice thunder from the heavens, making himself known and our response a foregone conclusion? Shouldn’t there be more Damascus road like experiences?
 
