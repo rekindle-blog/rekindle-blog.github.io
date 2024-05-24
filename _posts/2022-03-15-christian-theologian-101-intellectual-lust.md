@@ -3,7 +3,7 @@ layout: post
 title: "Christian Theologian 101: Intellectual Lust"
 author: gheslop
 image: assets/images/st-jerome-caravaggio.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Romans
