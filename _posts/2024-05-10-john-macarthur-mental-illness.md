@@ -4,7 +4,7 @@ title: Not Many of You Should Become Teachers (on Mental Illness)
 author: gheslop
 image: /assets/images/john-macarthur-calvin-s-pulpit.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - John MacArthur
   - Mental health
