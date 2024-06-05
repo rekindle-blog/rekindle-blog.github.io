@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Stories Are for so Much More Than Escapism
+title: Stories Are for So Much More Than Escapism
 author: gheslop
 image: /assets/images/escapism.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Story
