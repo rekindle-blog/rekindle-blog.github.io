@@ -46,9 +46,4 @@ So we bring our requests to God, even those that might appear insignificant on t
 
 Lewis concludes this chapter of *Letters to Malcom* by probing our reasons for not bringing minor petitions to God, and points out a grave danger in this hesitation. "Perhaps, as those who do not turn to God in petty trials will have no habit or such resort to help them when the great trials come, so those who have not learned to ask him for childish things will have less readiness to ask him for great ones. We must not be too high-minded. I fancy we may sometimes be deterred from small prayers by a sense of our own dignity rather than of God’s."
 
-To quote a hymn that's [appeared](https://rekindle.co.za/content/2022-11-10-what-a-friend-we-have-in-jesus) on Rekindle before, though to other ends: 
-
-O what peace we often forfeit,
-  O what needless pain we bear,
-All because we do not carry
-  Everything to God in prayer.
+To quote a hymn that's [appeared](https://rekindle.co.za/content/2022-11-10-what-a-friend-we-have-in-jesus) on Rekindle before, though to other ends:  O what peace we often forfeit, / O what needless pain we bear, / All because we do not carry / Everything to God in prayer.
