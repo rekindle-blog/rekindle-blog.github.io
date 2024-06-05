@@ -3,7 +3,7 @@ layout: post
 title: A Wonderfully Liberating Point From C. S. Lewis on Prayer
 author: gheslop
 image: /assets/images/prayer.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - C. S. Lewis
