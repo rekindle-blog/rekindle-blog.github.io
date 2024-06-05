@@ -3,7 +3,7 @@ layout: post
 title: "Pascal's Wager: Faith Versus Picking the Right Horse"
 author: gheslop
 image: assets/images/pascals-wager.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Eugene Peterson
