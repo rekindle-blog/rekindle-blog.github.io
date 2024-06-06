@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Can I Pray About That?" C. S. Lewis Answers'
+title: '"Should I Even Pray About That?" C. S. Lewis Answers'
 author: gheslop
 image: /assets/images/prayer.jpg
 featured: false
@@ -43,6 +43,6 @@ Furthermore Lewis asks: when we forcibly exclude those concerns close to our hea
 
 So we bring our requests to God, even those that might appear insignificant on the divine stage, unrelated to glorifying our Lord, and unlikely to result in his name being hallowed. We do this because when we pray God is graciously attentive rather than critically alert. In that wonderful phrase of Helmut Thielicke, God is no "fussy faultfinder." He is a loving Father. As an [imperfect earthly father](https://rekindle.co.za/content/2020-06-18-fatherhood), I’m pleased by my son’s requests, however unconcerned with the more serious matters of life they may be (Matthew 7:11). How much more can we confidently approach God, despite our [disordered loves](https://rekindle.co.za/content/2022-03-15-christian-theologian-101-intellectual-lust) and desires?
 
-#### "Let Your Requests Be Made Known to God" (Philippians 4:6)
+#### "Let Your Requests Be Made Known to God"
 
 Lewis concludes this chapter of *Letters to Malcom* by probing our reasons for not bringing minor petitions to God, and points out a grave danger in this hesitation. "Perhaps, as those who do not turn to God in petty trials will have no habit or such resort to help them when the great trials come, so those who have not learned to ask him for childish things will have less readiness to ask him for great ones. We must not be too high-minded. I fancy we may sometimes be deterred from small prayers by a sense of our own dignity rather than of God’s."
