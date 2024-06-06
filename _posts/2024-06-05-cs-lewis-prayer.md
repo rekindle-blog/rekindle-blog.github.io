@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Wonderfully Liberating Point From C. S. Lewis on Prayer
+title: '"Can I Pray About That?" C. S. Lewis Answers'
 author: gheslop
 image: /assets/images/prayer.jpg
 featured: false
@@ -12,6 +12,7 @@ tags:
   - Lord's Prayer
   - Anxiety
   - Matthew's Gospel
+  - Philippians
   - ""
 ---
 The Lord’s Prayer opens with that quite peculiar request—"hallowed be your name" (Matthew 6:9); and two lines later has us praying "your will be done" (Matthew 6:10). Taken together, it becomes clear that prayer [isn’t ultimately](https://rekindle.co.za/content/what-easter-teaches-us-about-prayer/) about us. Nor our needs. Prayer is about God and his glory. As the Westminster Shorter Catechism [(Q101)](https://thewestminsterstandard.org/westminster-shorter-catechism/#101) puts it, "We pray, that God would enable us, and others, to glorify him in all those ways which he makes himself known, and that he would dispose all things to his own glory." But does this leave any room for our more personal requests and little lives? Should we even bring our needs and problems to God?
@@ -42,8 +43,6 @@ Furthermore Lewis asks: when we forcibly exclude those concerns close to our hea
 
 So we bring our requests to God, even those that might appear insignificant on the divine stage, unrelated to glorifying our Lord, and unlikely to result in his name being hallowed. We do this because when we pray God is graciously attentive rather than critically alert. In that wonderful phrase of Helmut Thielicke, God is no "fussy faultfinder." He is a loving Father. As an [imperfect earthly father](https://rekindle.co.za/content/2020-06-18-fatherhood), I’m pleased by my son’s requests, however unconcerned with the more serious matters of life they may be (Matthew 7:11). How much more can we confidently approach God, despite our [disordered loves](https://rekindle.co.za/content/2022-03-15-christian-theologian-101-intellectual-lust) and desires?
 
-#### "O What Peace We Often Forfeit"
+#### "Let Your Requests Be Made Known to God" (Philippians 4:6)
 
 Lewis concludes this chapter of *Letters to Malcom* by probing our reasons for not bringing minor petitions to God, and points out a grave danger in this hesitation. "Perhaps, as those who do not turn to God in petty trials will have no habit or such resort to help them when the great trials come, so those who have not learned to ask him for childish things will have less readiness to ask him for great ones. We must not be too high-minded. I fancy we may sometimes be deterred from small prayers by a sense of our own dignity rather than of God’s."
-
-To quote a hymn that's [appeared](https://rekindle.co.za/content/2022-11-10-what-a-friend-we-have-in-jesus) on Rekindle before, though to other ends:  O what peace we often forfeit, / O what needless pain we bear, / All because we do not carry / Everything to God in prayer.
