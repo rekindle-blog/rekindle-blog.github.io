@@ -3,7 +3,7 @@ layout: post
 title: "The Power of Story to Form Community: Reading Together"
 author: gheslop
 image: assets/images/watership-down.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Technology
