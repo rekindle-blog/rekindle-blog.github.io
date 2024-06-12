@@ -4,7 +4,7 @@ title: '"Should I Even Pray About That?" C. S. Lewis Answers'
 author: gheslop
 image: /assets/images/prayer.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - C. S. Lewis
   - Letters to Malcom
