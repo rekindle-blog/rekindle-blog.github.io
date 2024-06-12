@@ -3,7 +3,7 @@ layout: post
 title: A Beginner's Guide to Public Theology with John MacArthur
 author: gheslop
 image: /assets/images/john-macarthur-public-theologian.png
-featured: true
+featured: false
 hidden: true
 tags:
   - Mental health
@@ -11,6 +11,10 @@ tags:
   - John MacArthur
   - Mariylnne Robinson
   - Augustine
+  - Public Theology
+  - Humility
+  - Pride
+  - Humanity
   - ""
 ---
 Terry Eagleton famously remarked, "Imagine someone holding forth on biology whose only knowledge of the subject is the *Book of British Birds*, and you have a rough idea of what it feels like to read Richard Dawkins on theology." I mention Eagleton’s quip because listening to John MacArthur [speak authoritatively](https://rekindle.co.za/content/2024-05-10-john-macarthur-mental-illness) about mental illnesses is as painful as engaging Dawkins on theology. However, with only a little hesitation, I’d suggest that MacArthur’s teaching on mental illness is more [dangerous](https://www.youtube.com/watch?v=2JFmxGYtEXk&pp=ygUdZ2F2aW4gb3J0bHVuZCBqb2huIG1hY2FydGh1ciA%3D) for many Christians than Dawkins’ sophomoric philosophy.
