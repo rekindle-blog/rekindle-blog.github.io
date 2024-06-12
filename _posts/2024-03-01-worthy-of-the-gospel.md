@@ -3,7 +3,7 @@ layout: post
 title: You'll Never Live a Life Worthy of the Gospel
 author: gheslop
 image: /assets/images/a-life-worthy-of-the-gospel.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Neil Gaiman
