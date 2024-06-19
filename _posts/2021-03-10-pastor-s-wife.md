@@ -3,7 +3,7 @@ layout: post
 title: The Pastor's Wife
 author: gheslop
 image: assets/images/pastors-wife.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Jason Helopoulos
