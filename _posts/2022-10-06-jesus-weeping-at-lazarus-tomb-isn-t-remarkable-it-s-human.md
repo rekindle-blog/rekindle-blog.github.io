@@ -2,22 +2,21 @@
 layout: post
 title: Jesus Weeping at Lazarus' Tomb Isn't Remarkable—It's Human
 author: gheslop
-tags:
-- Richard Matheson
-- I Am Legend
-- Gentle and Lowly
-- John 11:35
-- John 11
-- John's Gospel
-- Jesus Christ
-- Jesus
-- Christ's humanity
-- Nicene Creed
-- Christology
 image: assets/images/jesus.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Richard Matheson
+  - I Am Legend
+  - Gentle and Lowly
+  - John 11:35
+  - John 11
+  - John's Gospel
+  - Jesus Christ
+  - Jesus
+  - Christ's humanity
+  - Nicene Creed
+  - Christology
 ---
 If it’s allowed, I think John’s Gospel is my favourite of the four. Though many literary characteristics and peculiar stories distinguish John from the Synoptics, what draws me to it are the extended narratives—or pericopes. One of the most famous among these is undoubtedly John 11, the raising of Lazarus from the dead. It’s a brilliantly crafted narrative, but the focus of this short post is John 11:35, "Jesus wept." My question is this: should we really make a fuss about the fact that Jesus cried, even if it’s one of only three recorded occasions in the Gospels?
 
