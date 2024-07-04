@@ -1,20 +1,19 @@
 ---
 layout: post
-title: '"The Heart Is Deceitful," But That Doesn''t Mean Feelings Are'
+title: "\"The Heart Is Deceitful,\" But That Doesn't Mean Feelings Are"
 author: gheslop
-tags:
-- Matthew Elliot
-- Jeremiah 17:9
-- Logic
-- Reason
-- Sin
-- Emotion
-- Feeling
-- Heart
 image: assets/images/heart.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Matthew Elliot
+  - Jeremiah 17:9
+  - Logic
+  - Reason
+  - Sin
+  - Emotion
+  - Feeling
+  - Heart
 ---
 Many years ago a friend asked this question on social media: "Why is our church so suspicious, and regularly dismissive, of feelings?" It didn’t take long for a mutual friend from our church to respond by quoting Jeremiah 17:9, "The heart is deceitful above all things, and desperately sick; who can understand it?" Take that, Charismatics. You see, the Christian faith is about objective facts rather than your unreliable feelings. Admittedly, at the time, I deemed this response adequate. For the prophet essentially says: 'Emotions and feelings are deceitful; who can understand them?' Only, he doesn’t. Below I will show why citing this text to make an argument against emotions is poor Bible handling. Then I will offer three suggestions for our thinking about the "heart" in the church.
 
