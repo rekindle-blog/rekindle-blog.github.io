@@ -3,7 +3,7 @@ layout: post
 title: Jesus Weeping at Lazarus' Tomb Isn't Remarkable—It's Human
 author: gheslop
 image: assets/images/jesus.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Richard Matheson
