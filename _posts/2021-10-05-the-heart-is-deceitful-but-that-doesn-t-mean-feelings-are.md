@@ -3,7 +3,7 @@ layout: post
 title: "\"The Heart Is Deceitful,\" But That Doesn't Mean Feelings Are"
 author: gheslop
 image: assets/images/heart.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Matthew Elliot
