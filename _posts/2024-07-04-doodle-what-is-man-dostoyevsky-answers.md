@@ -4,7 +4,7 @@ title: "Doodle: What Is Man? Dostoyevsky Answers"
 author: gheslop
 image: /assets/images/notes-from-underground.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Doodle
   - Fyodor Dostoyevsky
