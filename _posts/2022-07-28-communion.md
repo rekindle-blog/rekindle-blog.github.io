@@ -2,19 +2,18 @@
 layout: post
 title: Weekly Communion Becomes Routine—And That's Okay
 author: gheslop
-tags:
-- Habit
-- C. S. Lewis
-- Gerald Bray
-- Reformed theology
-- Corporate worship
-- Church
-- Lord's Supper
-- Communion
 image: assets/images/communion.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Habit
+  - C. S. Lewis
+  - Gerald Bray
+  - Reformed theology
+  - Corporate worship
+  - Church
+  - Lord's Supper
+  - Communion
 ---
 Last year I wrote a couple of articles on communion. The [first article ](https://rekindle.co.za/content/2021-11-16-communion "The Case for Weekly Communion")argued for the weekly celebration of communion. I made my case theologically, rooting my position in the Reformation, over against broad Evangelicalism’s overemphases on preaching, pragmatism, and individualistic worship. In the [second article](https://rekindle.co.za/content/2021-12-15-communion-spectacle "Is Weekly Communion too Boring?") I suggested that the reason so few churches who identify as Reformed don’t celebrate communion every Sunday is that it doesn't match the contemporary obsession with exciting, spectacular, and vibrant worship.
 
