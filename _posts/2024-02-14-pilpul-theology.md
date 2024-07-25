@@ -3,7 +3,7 @@ layout: post
 title: Is Your Theology Pastoral or Pilpul?
 author: gheslop
 image: /assets/images/ben-myers-theology.jpeg
-featured: false
+featured: true
 hidden: false
 tags:
   - Chaim Potok
