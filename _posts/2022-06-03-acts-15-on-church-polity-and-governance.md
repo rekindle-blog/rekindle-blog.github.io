@@ -2,19 +2,18 @@
 layout: post
 title: Two Important Principles for Church Polity from Acts 15
 author: gheslop
-tags:
-- Episcopalian
-- Connectionalism
-- Biblical eldership
-- Acts
-- Church Polity
-- Governance
-- Acts 15
-- Christian Leadership
 image: assets/images/westminster-abbey.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Episcopalian
+  - Connectionalism
+  - Biblical eldership
+  - Acts
+  - Church Polity
+  - Governance
+  - Acts 15
+  - Christian Leadership
 ---
 Earlier this year [I preached](https://www.youtube.com/watch?v=0nQ6rQ2M7WA&t=1222s "The Connected Church") on the Council at Jerusalem, found in Acts 15. For readers who aren’t familiar with it, most commentators consider it to be either Acts’ centrepiece or watershed—usually both. Thus John Stott writes, “We ourselves, from our later perspective of church history, can see the crucial importance of this first ecumenical Council held in Jerusalem. Its unanimous decision liberated the gospel from its Jewish swaddling clothes into being God’s message for all humankind, and gave the Jewish-Gentile church a self-conscious identity as the reconciled people of God, the one body of Christ.” Few moments in church history rival Acts 15 in significance, when the inclusion of Gentiles—though already evident in the book (Acts 11:18, 20, 23; 13:46; 14:1, 27)—was ratified.
 
