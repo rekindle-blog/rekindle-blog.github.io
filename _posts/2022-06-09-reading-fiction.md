@@ -2,19 +2,18 @@
 layout: post
 title: Is Reading Fiction a Waste of Time?
 author: gheslop
-tags:
-- Institutes
-- John Calvin
-- W. H. Auden
-- Lord of the Rings
-- Literature
-- Truth
-- Story
-- Fiction
 image: assets/images/reading-fiction.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Institutes
+  - John Calvin
+  - W. H. Auden
+  - Lord of the Rings
+  - Literature
+  - Truth
+  - Story
+  - Fiction
 ---
 Despite growing up before the advent of smartphones, streaming services, and YouTube, I read essentially no fiction until my early 20s. Sadly, this wasn’t because I was more invested in, say, non-fiction. I simply didn’t read. And my childhood was impoverished by this indifference to good literature. So I’ve spent the last decade playing catch up, which has been at times arduous but always enriching. Discovering and delving into great fiction has undoubtedly made me a more substantial person. Because far from merely delighting in well-told stories, fiction has provided me with countless windows into the truth.
 
