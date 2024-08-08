@@ -3,7 +3,7 @@ layout: post
 title: Weekly Communion Becomes Routine—And That's Okay
 author: gheslop
 image: assets/images/communion.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Habit
