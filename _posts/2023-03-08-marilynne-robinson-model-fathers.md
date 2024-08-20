@@ -3,7 +3,7 @@ layout: post
 title: Marilynne Robinson's Model Fathers
 author: gheslop
 image: assets/images/fatherhood.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Children
