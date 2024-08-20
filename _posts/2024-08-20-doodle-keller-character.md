@@ -1,9 +1,9 @@
 ---
 layout: post
-title: doodle Keller character
+title: "Doodle: How to Imitate Timothy Keller"
 author: gheslop
 image: /assets/images/timothy-keller-collin-hansen.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Character
@@ -12,6 +12,7 @@ tags:
   - Timothy Keller
   - Collin Hansen
   - Ambition
+  - Doodle
   - ""
 ---
 Earlier this year I worked on an article for TGC Africa that was eventually titled ['What Would Keller Do?**'**](https://africa.thegospelcoalition.org/article/what-would-keller-do-missional-ministry/)For my millennials readers and older, that title will very likely tug at your memories, having lived through the phenomenon of WWJD wristbands. Looking online it appears that the church didn’t keep up with the times, because colourful silicon wristbands are still trendy—somewhere. And because [virtue signalling](https://rekindle.co.za/content/2021-11-24-virtue-signal-consumerism-controversy) is alive and well you can order one in support of just about any cause. Then, as was the case with most of us donning our WWJD bands, you can feel good about yourself. No further action required. But that’s the end of my long meandering introduction, bringing us closer to the point of this doodle: discussing the Keller article I’d suggested we title it ‘WWKD’, with an image to match.
