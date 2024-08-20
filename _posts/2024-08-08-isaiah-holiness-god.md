@@ -4,7 +4,7 @@ title: "Isaiah 6: The Holiness of God"
 author: gheslop
 image: /assets/images/isaiah.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Isaiah
   - Holiness
