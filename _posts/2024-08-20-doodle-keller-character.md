@@ -4,7 +4,7 @@ title: "Doodle: How to Imitate Timothy Keller"
 author: gheslop
 image: /assets/images/timothy-keller-collin-hansen.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Character
   - Imitate
