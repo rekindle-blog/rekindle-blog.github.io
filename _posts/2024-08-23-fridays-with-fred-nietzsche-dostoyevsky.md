@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fridays with Fred: Fyodor and Meteors"
+title: "Fridays with Fred: Nietzsche, Fyodor and Meteors"
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: true
