@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fridays with Fred: Nietzsche Dostoyevsky"
+title: "Fridays with Fred: Fyodor and Meteors"
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: true
@@ -20,17 +20,17 @@ tags:
 ---
 Friedrich Nietzsche is often associated with nihilism. This might be because of the assonance between Nietzsche and nihilism. However, that association is also a good indicator that someone hasn’t read him. In fact, when defending the *Übermensch,* Nietzsche distanced himself from Christians and Darwinists, together with nihilists *(Ecce Homo*, §3.1). His ideals also shouldn’t be reduced to power dynamics either, but rather the human desire to vent strength, the will to power *(Beyond Good and Evil*, §13). In other words, far from nihilism, Nietzsche longed to see humans flourish through freely carrying out what he considered more fundamental than self-preservation: the exercise of power.
 
-Take for example the passage from his *Anti-Christ* (§2), which I’ve **likened** to a catechism or creed. Nietzsche asks: "What is good?" His answer: "All that heightens the feeling of power, the will to power…in man.” Then, after denouncing **weakness and pity**, he asks: "What is happiness?" The answer: "The feeling that power increases," overcoming resistance. Though he doesn’t frame it as a question, Nietzsche then contrasts contentment, peace and virtue with the accumulation of greater power, even war. Nietzsche wasn’t a nihilist. His philosophy grew out of what he considered a universal longing or desire that should be sated—lest we lose our way and live without purpose.
+Take for example the passage from his *Anti-Christ* (§2), which I’ve [likened](https://rekindle.co.za/content/2021-05-28-fridays-with-fred-perspectivism) to a catechism or creed. Nietzsche asks: "What is good?" His answer: "All that heightens the feeling of power, the will to power…in man.” Then, after denouncing [weakness and pity](https://rekindle.co.za/content/2022-11-04-fridays-with-fred-pitiful-christians), he asks: "What is happiness?" The answer: "The feeling that power increases," overcoming resistance. Though he doesn’t frame it as a question, Nietzsche then contrasts contentment, peace and virtue with the accumulation of greater power, even war. Nietzsche wasn’t a nihilist. His philosophy grew out of what he considered a universal longing or desire that should be sated—lest we lose our way and live without purpose.
 
 But my intention for this post isn’t to rescue Nietzsche from being mislabeled; it’s to demonstrate that the German’s philosophy wasn’t as exceptional we—or he—might imagine. That’s where Fyodor Dostoyevsky comes in. We’ll get to meteors towards the end.
 
 ### Header
 
-I remarked in a **previous post** that most readers are aware of Russian literature—and even aspire to read the likes of Turgenev, Dostoyevsky and Tolstoy—only to find their gargantuan works too daunting. Reading *Crime and Punishment* recently I was struck afresh by that tension. It’s incredibly demanding, sometimes arduous, but profoundly **rewarding**. Perhaps it shouldn’t surprise us that the greater effort required for reading yields greater results than, say, streaming or scrolling; Nietzsche certainly **thought as much**. Anyway, let’s get back to *Crime and Punishment*.
+I remarked in a [previous post](https://rekindle.co.za/content/2021-09-08-gospel-notes-from-underground) that most readers are aware of Russian literature—and even aspire to read the likes of Turgenev, [Dostoyevsky](https://rekindle.co.za/content/2024-07-04-doodle-what-is-man-dostoyevsky-answers) and [Tolstoy](https://rekindle.co.za/content/2024-04-18-death)—only to find their gargantuan works too daunting. Reading *Crime and Punishment* recently I was struck afresh by that tension. It’s incredibly demanding, sometimes arduous, but profoundly [rewarding](https://rekindle.co.za/content/2022-06-09-reading-fiction). Perhaps it shouldn’t surprise us that the greater effort required for reading yields greater results than, say, streaming or scrolling; Nietzsche certainly [thought as much](https://rekindle.co.za/content/2020-07-03-nietzsche). Anyway, let’s get back to *Crime and Punishment*.
 
 It’s hardly a spoiler for me to tell you that *Crime and Punishment* is about a murder. Rodion Raskolnikov plots and carries out a murder early in the novel—that’s the crime. But considering conquerors such as Napoleon or Mohammed, Raskolnikov argues that true greatness is found only among those who can do terrible things towards more glorious ends, with impunity. One of the more dubious characters, Svidrigailov, summarises this position: "a single villainous act is allowable if the central aim is good. One bad action and a hundred good deeds!" Importantly, however, Svidrigailov goes on to say that there are “people to whom everything is permitted.” In other words, they don’t only get away with their crimes—their conscience is unaffected by them.
 
-Achieving awesome deeds may necessitate **wounding the weak**, but it’s crucial that the conscience remains untroubled by battle fields littered with bodies. Herein lies true greatness.
+Achieving awesome deeds may necessitate [wounding the weak](https://rekindle.co.za/content/2022-05-05-the-celebration-of-tyranny-in-pastoral-ministry), but it’s crucial that the conscience remains untroubled by battle fields littered with bodies. Herein lies true greatness.
 
 ### Header
 
@@ -50,7 +50,7 @@ Like Fyodor Dostoyevsky’s protagonist in *Crime and Punishment*, Friedrich Nie
 
 ### Header
 
-When I set out to write this reflection my mind wasn’t flush with implications. I’m still not sure what to make of it. Perhaps one of the more obvious conclusions is that would-be students of thought must also be students of history and literature. Thought proceeds from biography, because existence precedes thought. This is something Herman Bavinck superbly demonstrates in his *Christian Worldview*.
+When I set out to write this reflection my mind wasn’t flush with implications. I’m still not sure what to make of it. Perhaps one of the more obvious conclusions is that would-be students of thought must also be students of history and literature. Thought proceeds from biography, because existence precedes thought. This is something Herman Bavinck superbly demonstrates in his *[Christian Worldview](https://www.crossway.org/books/christian-worldview-hcj/)*.
 
 Linked with the above conclusion I’d offer a caution against imagining ourselves as unaffected thinkers, weighing up the evidence and reaching logical conclusions. Contextual currents move all of us more than we realise. Linked with that we relish the thought of striking out on our own and setting trends, it’s far more likely you’re just following one or combining a few to give the impression of novelty.
 
