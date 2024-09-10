@@ -3,7 +3,7 @@ layout: post
 title: Preacher, Don't Miss the Wood for the Trees
 author: gheslop
 image: /assets/images/wood-trees.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Exegesis
