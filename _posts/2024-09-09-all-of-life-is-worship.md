@@ -4,7 +4,7 @@ title: If All of Life Is Worship Then Nothing Is
 author: gheslop
 image: /assets/images/all-of-life-is-worship.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Worship
   - Corporate worship
