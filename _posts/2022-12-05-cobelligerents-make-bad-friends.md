@@ -3,7 +3,7 @@ layout: post
 title: Cobelligerents Make Bad Friends
 author: gheslop
 image: assets/images/cobelligerents.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Social Media
