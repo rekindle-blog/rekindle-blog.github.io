@@ -4,7 +4,7 @@ title: Stop Blaming Martin Luther and the Reformation for Relativism
 author: gheslop
 image: /assets/images/luther-at-the-diet-of-worms-ef59db-640.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Herman Bavinck
   - Christian Worldview
