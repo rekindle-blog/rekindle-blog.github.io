@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bavinck's Beautiful Vision for the Church
+title: "Doodle: Bavinck's Beautiful Vision for the Church"
 author: gheslop
 image: /assets/images/bavinck-reformed-dogmatics.jpeg
 featured: false
@@ -10,6 +10,8 @@ tags:
   - Theology
   - Doodle
   - Reading
+  - Church
+  - Community
   - ""
 ---
 Earlier this year I wrote a [doodle](https://rekindle.co.za/content/2024-05-08-bavinck-theology) on Herman Bavinck’s expansive and inspiring vision for theological studies. In his words, from the *Reformed Dogmatics*, "Dogmatics is not a dull and arid science. It is a theodicy, a doxology to all God’s virtues and perfections, a hymn of adoration and thanksgiving, a 'glory to God in the highest.'" Put another way, theology is meant to fill us up to overflowing. It’s an exercise for [the heart](https://rekindle.co.za/content/2021-10-05-the-heart-is-deceitful-but-that-doesn-t-mean-feelings-are) and not only [the head](https://rekindle.co.za/content/2022-03-15-christian-theologian-101-intellectual-lust). This is why—more recently—the likes of Michael Horton and John Webster have said theological discipline that doesn’t end in doxology is deficient to the point of being incomplete.
