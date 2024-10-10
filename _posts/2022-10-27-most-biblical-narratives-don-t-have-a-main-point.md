@@ -3,7 +3,7 @@ layout: post
 title: Most Biblical Narratives Don't Have a Main Point
 author: gheslop
 image: assets/images/nicolas-regnier-david-and-goliath.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Alan Stibbs
