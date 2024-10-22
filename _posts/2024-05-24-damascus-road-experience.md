@@ -3,7 +3,7 @@ layout: post
 title: Two Thoughts on Damascus Road Experiences
 author: gheslop
 image: /assets/images/damascus-road-experience.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Acts
