@@ -4,7 +4,7 @@ title: Pray With an Open Bible
 author: gheslop
 image: /assets/images/open-bible.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - D. A. Carson
   - Prayer
