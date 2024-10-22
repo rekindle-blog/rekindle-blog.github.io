@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 'Doodle: Our Digital Age Isn''t the Golden Age'
+title: "Doodle: Our Digital Age Isn't the Golden Age"
 author: gheslop
-tags:
-- Doodle
-- Smartphones
-- Internet
-- Social media
-- Streaming services
-- Digital Age
 image: assets/images/internet.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Doodle
+  - Smartphones
+  - Internet
+  - Social media
+  - Streaming services
+  - Digital Age
 ---
 Midway through 2005 I dropped out of university—and not for the first time. I can clearly remember talking to my understandably worried parents before officially deregistering. Attempting to stave off their consternation, I reassured them that I would use the next six months to learn. You see, the early 2000s was an exciting moment in recent history. The internet was expanding rapidly, boasting an already vast sea of content. Thus, dropping out of university was actually an opportunity to develop new skills and broaden my learning. So I claimed. But my parents’ concerns were well justified and later vindicated.
 
