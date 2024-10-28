@@ -9,11 +9,14 @@ tags:
   - Reading
   - Fiction
   - Story
+  - Habit
+  - Discipline
+  - Community
   - ""
 ---
-Last week Gavin Ortlund released a superb [video](https://www.youtube.com/watch?v=cknkEYf1u4g&t=17s) on how to become a better readers, his strategies for reading more. Crucially he starts by saying, "There’s no real shortcuts to this. It’s hard work." Because of that, reading is in decline—and no, neither Instagram captions nor foreign films with subtitles count. I appreciate how Ortlund begins, because he doesn’t deny the need for discipline and discernment in becoming a better reader. In fact, as you’ll see from most of his points, reading well is a [cultivated habit](https://rekindle.co.za/content/2020-07-31-fridays-with-fred). At times it will be demanding. It should always be deliberate. Ortlund also avoids popular approaches to reading, which measure success by volume or information gleaned. Thus, I heartily recommend listening to his video.
+Last week Gavin Ortlund released a superb [video](https://www.youtube.com/watch?v=cknkEYf1u4g&t=17s) on how to become better readers, with five strategies for reading more. Crucially he starts by saying, "There’s no real shortcuts to this. It’s hard work." Because of that, reading is in decline—and no, neither Instagram captions nor foreign films with subtitles count. I appreciate how Ortlund begins, because he doesn’t deny the need for discipline and discernment in becoming a better reader. In fact, as you’ll see from most of his points, reading well is a [cultivated habit](https://rekindle.co.za/content/2020-07-31-fridays-with-fred). At times it will be demanding. It should always be deliberate. Ortlund also avoids popular approaches to reading, which measure success by volume or information gleaned. Thus, I heartily recommend watching his video.
 
-In this supplementary post to Ortlund’s video, I will summarise each of his five points, adding the occasional—or odd—comment of my own. Then I will suggest two more ways to becoming better readers.
+In this supplementary post, I will summarise each of Ortlund's five strategies, adding the occasional—or odd—comment of my own. Then I will suggest two more ways to becoming better readers.
 
 ## Gavin Ortlund's Strategies
 
@@ -27,13 +30,13 @@ In this supplementary post to Ortlund’s video, I will summarise each of his fi
 
 Undergirding these points are two principles or themes, both of which Ortlund makes explicit. These are also worth some reflection.
 
-The first is that good reading depends on a high quality of literature and personal engagement with it. To be plain, not all books are created equal. Many are written to be sold. Sadly, we often confuse the "bestseller" with 'best book' on the topic. That’s rarely the case. If you desire to become a better read you must comb the shelves and read critically.
+The first is that good reading depends on a high quality of literature and personal engagement with it. To be plain, not all books are created equal. Many are written to be sold. Sadly, we often confuse the "bestseller" with 'best book' on the topic. But that’s rarely the case. If you desire to become a better read you must comb the shelves and read critically.
 
-Ortlund’s second theme is to beware making reading into a burden. As he puts it, we must aim at enjoyment, though we also must’t conflate that with [escapism](https://rekindle.co.za/content/2023-12-06-escapism-literature). Certain written works will demand perseverance, but your reading shouldn’t be a joyless march with gritted teeth. More isn’t better (Ecclesiastes 12:12). Nor is toiling for the sake of ticking books off some conceited list you found online. A good reader will love the journey, delighting in the discipline and developing through it.
+Ortlund’s second theme is to beware making reading into a burden. As he puts it, we must aim at enjoyment, though we also mustn’t conflate that with [escapism](https://rekindle.co.za/content/2023-12-06-escapism-literature). Certain written works will demand perseverance, but your reading shouldn’t be a joyless march with gritted teeth. More isn’t better (Ecclesiastes 12:12). Nor is toiling for the sake of ticking books off some conceited list you found online. A good reader will love the journey, delighting in the discipline and developing through it.
 
 ## Two Supplementary Points
 
-Ortlund admits that being so short, his video is not an attempt at being comprehensive. Furthermore, it’s become a fairly unimaginative cottage industry to identify the deficiencies of listicles and practical advice online. Therefore my two supplements below aren’t offered in spite of Ortlund, but rather in the same spirit that longs to see better reading undertaken and treasured in our age. I hope some readers will also appreciate my taking up of Ortlund’s alliterative mantel.
+Ortlund admits that, being so short, his video is not an attempt at being comprehensive. Furthermore, it’s become a fairly unimaginative cottage industry to identify the deficiencies of listicles and practical advice online. Therefore my two supplements below aren’t offered in spite of Ortlund, but rather in the same spirit that longs to see better reading undertaken and treasured in our age. I hope some readers will also appreciate my taking up of Ortlund’s alliterative mantel.
 
 #### 6. Read Stories
 
