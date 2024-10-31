@@ -4,7 +4,7 @@ title: How to Become a Better Reader
 author: gheslop
 image: /assets/images/reading.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Reading
   - Fiction
