@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Our Digital Age Isn't the Golden Age"
 author: gheslop
 image: assets/images/internet.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Doodle
