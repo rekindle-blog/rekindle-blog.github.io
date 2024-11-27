@@ -3,7 +3,7 @@ layout: post
 title: A Beginner's Guide to Public Theology with John MacArthur
 author: gheslop
 image: /assets/images/john-macarthur-public-theologian.png
-featured: false
+featured: true
 hidden: false
 tags:
   - Mental health
