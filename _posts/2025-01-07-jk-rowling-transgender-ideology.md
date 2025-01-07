@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jk Rowling transgender ideology
+title: "Doodle: J. K. Rowling, Ideologies, and Make-Believe"
 author: gheslop
 image: /assets/images/jk-rowling-harry-potter.jpeg
 featured: true
@@ -12,6 +12,8 @@ tags:
   - Ideology
   - Fiction
   - Transgender
+  - Story
+  - Escapism
   - ""
 ---
 Around the turn of the year, J. K. Rowling was once again the object of ire on social media. This most recent backlash came after she took to X—formerly known as Twitter—to say that no child is born in the wrong body. It was, for those unacquainted with the years-long [controversy](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2F2024%2F05%2F29%2Fjk-rowling-transgender-assault-womens-rights-book-essay%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1fCSdSvwKenNFT_rJ3MHL9-XKMuAERghTeC99LLjXsi9GDmtCo2-iiu_A_aem_aDXOx9Tgu9IYE1wdtZDYHg&h=AT2sI7rbaqwitvKYhwQm8x9C_wYfVTsPADYOPExuobWym8P_79myhohbONwPoa_SdOqqzvMC27qrnOZFrhKBAKtCRWEdFYsV7VbWs4KcKcJlc1v4gbAam3jNe9OoT7hMLLYLLpA&__tn__=-UK-R&c[0]=AT2KC2VACT29sc5XPF4AGvn-76SvTEhW6dLtzyor3GkkuTkZNZT9DEq36hF2YvOY0hJlsCMIQZeS0kskXJCjfMDPTrmWB7nSdVvDBTK5RL2Dd-k6YhIIwiq6Lj-nAy_V45asRnhggkylNhAQtVadfXDXk1UgEJi8LOGuFN2qSZTQUQ36L2EH6-qu5Zo8wGC__fPs0m6DHuUlJOU3D4_gdndzaQ) surrounding Rowling, her latest criticism of transgender ideology. Admittedly this is a veritable hornet’s nest in our age, which Rowling has stirred up on many occasions. For the time being, I’d rather not be stung. So the aim of this doodle is simply to single out two of the broader and most common criticisms levelled against the much beloved and despised author of *Harry Potter*.
@@ -34,7 +36,7 @@ But let’s get back to matter at hand. Should Rowling devote her writing effort
 
 ## 2. Rowling Isn't Qualified to Address These Issues
 
-By far the most repeated—and slightly less rabid—critique of J. K. Rowling points out that, "she isn't even qualified on the subject. She’s only an author. She needs to keep her nose out of things she really doesn't understand." Now I always love it when people commenting on social media threads cry foul concerning someone else’s qualifications. Does this commenter have a PhD? Do they quietly refrain from speaking on subjects they haven't studied at a tertiary level? Added to that, when is someone even qualified to address transgenderism? Because, the wider consensus is that most university courses in gender studies and theory are equal parts laughable and lamentable.
+By far the most repeated—and slightly less rabid—critique of J. K. Rowling points out that, "she isn't even qualified on the subject. She’s only an author. She needs to keep her nose out of things she really doesn't understand." Now I always love it when people commenting on social media threads cry foul concerning someone else’s qualifications. Does this commenter have a PhD? Do they quietly refrain from speaking on subjects they haven't studied at a tertiary level? Added to that, when is someone even qualified to address transgenderism? The wider consensus is that most university courses in gender studies and theory are equal parts laughable and lamentable.
 
 But there’s a bigger issue at stake her: instead of engaging with Rowling’s position, her critics prefer to discredit her *a priori*, without the needing to examine her arguments. Thus one commenter posed what they felt was a "serious question": "A fiction writer—am I supposed to listen to her because she’s rich?" Similarly, "I consider her views on this to be equally important to Stephen King's or any other celebrity. They're worth exactly what I paid to have to see them." The astonishing irony here is just how much [we value the position](https://www.elle.com/uk/life-and-culture/culture/news/g30794/celebrities-supporting-lgbqt/) of celebrities, until they disagree with us. Fortunately the likes of Elliot Page, Daniel Radcliffe, Beyoncé, and Miley Cyrus are such accomplished, widely respected intellectuals.
 
