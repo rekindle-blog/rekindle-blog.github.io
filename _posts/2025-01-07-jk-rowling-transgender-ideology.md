@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: J. K. Rowling, Ideologies, and Make-Believe"
 author: gheslop
 image: /assets/images/jk-rowling-harry-potter.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Doodle
