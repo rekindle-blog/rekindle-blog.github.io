@@ -3,7 +3,7 @@ layout: post
 title: What Is the Atonement? A Brief Answer
 author: gheslop
 image: /assets/images/jesus-redeemer-atonement.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Atonement
