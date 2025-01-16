@@ -4,7 +4,7 @@ title: "Doodle: J. K. Rowling, Ideologies, and Make-Believe"
 author: gheslop
 image: /assets/images/jk-rowling-harry-potter.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Doodle
   - J. K. Rowling
