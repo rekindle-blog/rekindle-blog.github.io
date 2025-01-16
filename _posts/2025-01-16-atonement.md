@@ -14,7 +14,7 @@ tags:
   - Romans
   - ""
 ---
-A friend recently reached out to me and asked what theologians mean by the word 'atonement.' She’d come across it while reading Oswald Chambers classic, *My Utmost for His Highest*. Chambers’ point was—as far as I can tell—that the Christian life must be built on the presupposition or fact of what Christ has achieved for us. So Chambers writes, "the great need is not to *do* things, but to *believe* things." Some readers might squabble over a perceived overemphasis on Chambers’ part here, only I imagine most readers would agree that "we cannot do anything pleasing to God," apart from God’s supernatural grace. The atonement, therefore, stands at the centre of the Christian life. It is the foundation of our faith. But what exactly is the atonement?
+A friend recently reached out to me and asked what theologians mean by the word 'atonement.' She’d come across it while reading Oswald Chambers classic, *[My Utmost for His Highest](https://utmost.org)*. Chambers’ point was—as far as I can tell—that the Christian life must be built on the presupposition or fact of what Christ has achieved for us. So Chambers writes, "the great need is not to *do* things, but to *believe* things." Some readers might squabble over a perceived overemphasis on Chambers’ part here, only I imagine most readers would agree that "we cannot do anything pleasing to God," apart from God’s supernatural grace. The atonement, therefore, stands at the centre of the Christian life. It is the foundation of our faith. But what exactly is the atonement?
 
 ## Atonement Aspects and Its Anchor
 
