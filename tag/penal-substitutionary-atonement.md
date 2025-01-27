@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Penal substitutionary atonement"
+title: "Tag: Penal Substitutionary Atonement"
 tag: penal-substitutionary-atonement
 robots: noindex
 ---

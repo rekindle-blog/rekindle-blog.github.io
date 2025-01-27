@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Children"
-tag: children
+title: "Tag: Man of God"
+tag: man-of-god
 robots: noindex
 ---

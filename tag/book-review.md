@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Book review"
+title: "Tag: Book Review"
 tag: book-review
 robots: noindex
 ---

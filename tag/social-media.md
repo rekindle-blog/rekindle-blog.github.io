@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Social media"
+title: "Tag: Social Media"
 tag: social-media
 robots: noindex
 ---

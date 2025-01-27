@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Children"
-tag: children
+title: "Tag: Suicide"
+tag: suicide
 robots: noindex
 ---

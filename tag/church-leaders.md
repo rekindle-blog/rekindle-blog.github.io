@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Church leaders"
+title: "Tag: Church Leaders"
 tag: church-leaders
 robots: noindex
 ---

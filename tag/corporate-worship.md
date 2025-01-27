@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Corporate worship"
+title: "Tag: Corporate Worship"
 tag: corporate-worship
 robots: noindex
 ---
