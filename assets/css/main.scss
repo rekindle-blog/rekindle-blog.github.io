@@ -56,3 +56,9 @@ $paginateColor: #00ab6b;
     border: solid 1px $paginateColor;
 }
 /* pagination end */
+
+/* prevent disqus ads */
+iframe[id]:not([src]),
+div#disqus_thread iframe[sandbox] {
+    max-height: 0px !important;
+}
