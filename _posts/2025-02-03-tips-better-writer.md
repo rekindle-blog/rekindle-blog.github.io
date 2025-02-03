@@ -5,6 +5,12 @@ author: gheslop
 image: /assets/images/passive-voice-writing.jpg
 featured: true
 hidden: true
+tags:
+  - Writing
+  - Reading
+  - Humility
+  - Correction
+  - ""
 ---
 I recently had the opportunity to deliver a short talk to theological students on the writing of assignments. To risk giving away my age, it’s been over four years since I submitted my last theological paper. However as someone who continues to write I was able to say a handful of helpful things—at least, that’s what they told me afterwards. So below are five tips to help you strengthen your writing.
 
