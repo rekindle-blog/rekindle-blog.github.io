@@ -3,7 +3,7 @@ layout: post
 title: If All of Life Is Worship Then Nothing Is
 author: gheslop
 image: /assets/images/all-of-life-is-worship.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Worship
