@@ -4,7 +4,7 @@ title: What Is the Atonement? A Brief Answer
 author: gheslop
 image: /assets/images/jesus-redeemer-atonement.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Atonement
   - Penal substitutionary atonement
