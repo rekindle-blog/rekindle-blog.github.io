@@ -3,16 +3,17 @@ layout: post
 title: Some Reading Tips After Reflecting on My Own Habits
 author: gheslop
 image: /assets/images/reading.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Habit
   - Reading
+  - Books
   - ""
 ---
-In 2013 I started keeping a list of the books I read each year. I can’t account for the decision, but looking over them makes for interesting—well—reading. For example, the number of books I read dips in 2017 and 2018, before plummeting in 2019. The explanation for that trend: my son was born in 2017 and I began my Master's Degree in 2019. But observing trends in my own reading aren’t really the point of this article. Instead I hope that by reflecting on those lists I can offer up some advice or lessons about reading.
+In 2013 I started keeping a list of the books I read each year. I can’t account for the decision, but looking over them makes for interesting—well—reading. For example, the number of books I read dips in 2017 and 2018, before plummeting in 2019. The explanation for that trend: my son was born in 2017 and I began a Master's in 2019. But observing trends in my own reading aren’t really the point of this article. Instead I hope that by reflecting on those lists I can offer up some lessons about reading.
 
-So I’ve done three things below, coinciding with the three headings. I begin by highlighting some of the mistakes I’ve made as a reader, over the years. Then I turn to three things that I believe have served me—and will serve you—well in this task. Finally, I suggest how you might read more, both in terms of how many books and the size of those books.
+So I’ve done three things below, coinciding with the three headings. I begin by highlighting some of the mistakes I’ve made as a reader, over the years. Then I turn to three things that I believe have served me—and will serve you—well, in this task. Finally, I suggest how you might read more, both in terms of how many books and the size of those books.
 
 ### Mistakes I've Made As a Reader
 
