@@ -3,7 +3,7 @@ layout: post
 title: I'm Not Sure We Need a More Muscular Christianity
 author: gheslop
 image: /assets/images/dominance.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Culture
