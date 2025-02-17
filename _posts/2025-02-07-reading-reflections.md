@@ -4,7 +4,7 @@ title: Some Reading Tips After Reflecting on My Own Habits
 author: gheslop
 image: /assets/images/reading.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Habit
   - Reading
