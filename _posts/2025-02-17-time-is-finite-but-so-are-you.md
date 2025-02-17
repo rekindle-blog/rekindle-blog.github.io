@@ -3,13 +3,15 @@ layout: post
 title: Time Is Finite, But So Are You
 author: gheslop
 image: /assets/images/time.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Finite
   - Time
   - Rest
   - Sabbath
+  - Donald Whitney
+  - Existentialism
   - ""
 ---
 I think it was Esther Meeks who said that we don’t use time as much as time does something to us. In our age of near-frenetic productivity and the regrettable influence of rise and grind guys, Meeks’ observation is as important as it is insightful. We obsess about making the most of our time. There is of course a hedonistic terror behind much of this, a [desperate snatching](https://rekindle.co.za/content/2020-07-03-nietzsche) at experiences and comfort since that’s all there is and then you die, but that isn’t my concern here. Returning to Meeks’ corrective, our culture is unblinking in its efforts to get the most out of our time. Amid this noisy bustle we deem ourselves masters of time, even fate, forgetting that [time masters all of us](https://rekindle.co.za/content/2024-04-18-death).
@@ -29,7 +31,7 @@ My point for this meandering introduction—and as the title of this article ind
 
 ### Time Is Finite
 
-There are only so many hours in a day—24 to be precise, though far less if you’re getting enough sleep. Then there are just seven days in the week—six if you’re a good [Sabbatarian](https://rekindle.co.za/content/2021-02-10-calvin-sabbath). We only have so much time, with many demands and responsibilities. Time is finite.
+There are only so many hours in a day—24 to be precise, though far less if you’re getting enough sleep. Then there are just seven days in the week—six if you’re a good [Sabbatarian](https://rekindle.co.za/content/2021-02-10-calvin-sabbath). We only have so much time, with many demands and responsibilities. Time is finite. 
 
 I haven’t read anything more incisive on this matter than Donald Whitney, in *Spiritual Disciplines*—in a passage I’ve used on more [occasions](https://rekindle.co.za/content/managing-technology/) than I can remember. Whitney writes, "We speak of saving time, buying time, and making up time, and so on, but those are illusions, for time is always passing." Therefore, "we should use our time wisely." To drive this home, Whitney goes on, "time is infinitely more precious than money because money can't buy time." We’ve all heard about non-renewable resources, whose value is determined by their finitude. How much more valuable, then, is time?
 
