@@ -3,7 +3,7 @@ layout: post
 title: '"Should I Even Pray About That?" C. S. Lewis Answers'
 author: gheslop
 image: /assets/images/prayer.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - C. S. Lewis
