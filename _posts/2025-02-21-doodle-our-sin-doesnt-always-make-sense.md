@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Our Sin Doesn't Always Make Sense"
 author: gheslop
 image: /assets/images/sin-weed.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Sin
