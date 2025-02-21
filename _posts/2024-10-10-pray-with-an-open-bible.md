@@ -3,7 +3,7 @@ layout: post
 title: Pray With an Open Bible
 author: gheslop
 image: /assets/images/open-bible.jpeg
-featured: false
+featured: true
 hidden: false
 tags:
   - D. A. Carson
