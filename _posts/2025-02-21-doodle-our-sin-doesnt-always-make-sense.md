@@ -4,7 +4,7 @@ title: "Doodle: Our Sin Doesn't Always Make Sense"
 author: gheslop
 image: /assets/images/sin-weed.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Sin
   - Mortification
