@@ -3,7 +3,7 @@ layout: post
 title: "'What's Best Next'? Three Reasons It Isn't This Book"
 author: gheslop
 image: /assets/images/productivity.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Matt Perman
