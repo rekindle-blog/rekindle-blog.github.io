@@ -12,9 +12,10 @@ tags:
   - Liturgy
   - Reformed Theology
   - Communion
+  - Lord's Supper
   - ""
 ---
-In the course of my undergraduate studies I was introduced to the very refreshing New Testament scholar, C. H. Dodd. Since then I’ve collected and read most of his works. In fact, searching his name at Rekindle turns up—a little to my surprise even—over 10 hits, most of them interactions with Dodd’s *Founder of Christianity.* While many of those articles could be categorised under New Testament studies, this article is more concerned with ecclesiology, particularly corporate Christian worship. Lord's Supper,
+In the course of my undergraduate studies I was introduced to the very refreshing New Testament scholar, C. H. Dodd. Since then I’ve collected and read most of his works. In fact, searching his name at Rekindle turns up—a little to my surprise even—over 10 hits, most of them interactions with Dodd’s *Founder of Christianity.* While many of those articles could be categorised under New Testament studies, this article is more concerned with ecclesiology, particularly corporate Christian worship. 
 
 In his introduction *The Founder of Christianity*, Dodd puts "the time-machine into reverse" in an "attempt to trace" both "the place which the church has held in history" together with the epicentre of its continued significance. As Dodd says, any serious consideration of the church in our own time must examine how it arose. In order to accomplish this, he works backwards through time, stopping at the Reformation and Rome, before finally arriving at the first century believers. "If we want to get an inside view of the Christian movement," Dodd notes, "the natural course is to go into the church—any church. What are these people doing?" How do they worship?
 
