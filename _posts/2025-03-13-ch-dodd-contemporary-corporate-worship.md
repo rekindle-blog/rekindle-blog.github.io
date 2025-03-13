@@ -13,6 +13,7 @@ tags:
   - Reformed Theology
   - Communion
   - Lord's Supper
+  - History
   - ""
 ---
 In the course of my undergraduate studies I was introduced to the very refreshing New Testament scholar, C. H. Dodd. Since then I’ve collected and read most of his works. In fact, searching his name at Rekindle turns up—a little to my surprise even—over 10 hits, most of them interactions with Dodd’s *Founder of Christianity.* While many of those articles could be categorised under New Testament studies, this article is more concerned with ecclesiology, particularly corporate Christian worship. 
