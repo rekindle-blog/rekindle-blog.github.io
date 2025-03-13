@@ -4,7 +4,7 @@ title: "'What's Best Next'? Three Reasons It Isn't This Book"
 author: gheslop
 image: /assets/images/productivity.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Matt Perman
   - What's Best Next
