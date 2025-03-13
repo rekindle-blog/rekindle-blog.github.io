@@ -20,7 +20,7 @@ In his introduction *The Founder of Christianity*, Dodd puts "the time-machine i
 
 Dodd’s reasoning is that [worship reveals](https://rekindle.co.za/content/2020-08-06-christus-victor-theology) much about one’s beliefs and theology. If worship of God is the church’s "special business," as Dodd writes, unless we understand it "we are not likely to grasp the nature or the history of the church." This isn’t a remarkable or particularly novel observation. However, what I did find remarkable is just how much [contemporary worship](https://www.thegospelcoalition.org/podcasts/everyday-pastor/why-liturgy-matters/) is unlike Dodd’s historical sketch of Christian worship.
 
-### \[Worship]
+### The Historical Riches of Corporate Worship
 
 Dodd begins with a caveat. "Their ways of worship vary a good deal." However, he’s quick, "in any church you may enter you will find that certain things always form part of it," some of which will be familiar to contemporary churchgoers. "They all make use of some form of words, spoken or sung, which express belief in God. They praise God for his goodness and power, and thank him for all good things of life, because they believe him to be the Maker of all things, visible and invisible." This includes things like a [call to worship](https://africa.thegospelcoalition.org/article/make-the-call-to-worship-great-again/), [singing](https://africa.thegospelcoalition.org/article/how-the-early-church-proves-the-resurrection/), and [reciting the creeds](https://africa.thegospelcoalition.org/article/why-baptists-dont-have-creeds-and-why-we-should/) together—among other things. Sadly, as I’ve said on many occasions, the extent to which swathes of contemporary worship uses words can be boiled down to a professional worship set and a Bible talk. Historically, as Dodd notes, corporate worship was far richer.
 
@@ -32,7 +32,7 @@ Only then does Dodd arrive at Bible reading. Yet he doesn’t hurriedly add prea
 
 Dodd’s sketch undoubtedly makes uncomfortable reading for some—perhaps many. For corporate worship today is many corners of the contemporary church could be summed up as a music set plus TED Talk. Long gone are many of the elements that made it distinctly, as well as historically, Christian. But Dodd’s final observation concerning corporate worship historically is arguably the most damning.
 
-### \[HEADER]
+### The Historical Centre of Christian Worship
 
 Dodd writes, "Among the services of the church there is one element in particular which in different forms is observed by all kinds of Christian societies. It is variously known as the sacrament of the Lord’s Supper, or Holy Communion, or the Eucharist, or the Mass. Under all its different forms we can recognise features of the Sunday assembly of Christians" dating back to the first century. "As then, so now," he continues, "the assembly of Christians is centred on a communal meal—reduced now to its simplest elements of bread and wine. About that central act cluster most of the elements of Christian worship which we have briefly noted."
 
