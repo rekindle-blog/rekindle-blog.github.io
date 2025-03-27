@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Confident Prayer
+title: Being Convinced of God's Power Should Mean Confident Prayers
 author: gheslop
 image: /assets/images/open-bible.jpeg
 featured: true
