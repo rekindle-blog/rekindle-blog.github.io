@@ -13,7 +13,7 @@ tags:
   - Power
   - ""
 ---
-I recebtly published [an article](https://africa.thegospelcoalition.org/article/pray-with-an-open-bible/) urging Christians to pray with an open Bible, "employing the Spirit-inspired words of God’s people and theology to breathe new life into our praises, petitions, confession of sin, and thanksgiving." With the help of D. A. Carson's remarkable book, *A Call to Spiritual Reformation*,also *Praying With Paul*, I outlined two ways an open Bible enriches our prayers: with vocabulary and theology, form and truth.
+I recently published [an article](https://africa.thegospelcoalition.org/article/pray-with-an-open-bible/) urging Christians to pray with an open Bible, "employing the Spirit-inspired words of God’s people and theology to breathe new life into our praises, petitions, confession of sin, and thanksgiving." With the help of D. A. Carson's remarkable book, *A Call to Spiritual Reformation*,also *Praying With Paul*, I outlined two ways an open Bible enriches our prayers: with vocabulary and theology, form and truth.
 
 For example, on more occasions than I can remember, I’ve used [Philippians 1:9-11](https://rekindle.co.za/content/2020-06-09-philippians-1-9-11-devotional)to illustrate how to infuse our prayers with scripture—how to pray with an open Bible, so to speak. Like so many other prayers in the Bible, Paul’s provides both the language and theology behind it; his petitions are concerned with the Philippians love, discernment, holiness and righteousness, "to the glory and praise of God" (1:11). Passages like this one can and should enrich our prayer lives. But below I want to consider something oft overlooked in the verses prior that can also be a boon to praying: Paul’s confidence.
 
