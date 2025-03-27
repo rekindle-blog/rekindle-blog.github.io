@@ -3,7 +3,7 @@ layout: post
 title: "Book Review: The Victory of the Cross (James Payton Jr)"
 author: gheslop
 image: assets/images/30718840642_8c6a687835_c.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Book Review
