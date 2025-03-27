@@ -4,7 +4,7 @@ title: C. H. Dodd and the Decline of Corporate Worship
 author: gheslop
 image: /assets/images/corporate-worship.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - C. H. Dodd
   - Worship
