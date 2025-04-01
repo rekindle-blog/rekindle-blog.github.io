@@ -4,7 +4,7 @@ title: Being Convinced of God's Power Should Mean Confident Prayers
 author: gheslop
 image: /assets/images/open-bible.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Philippians 1:7-8
   - Philippians
