@@ -4,7 +4,7 @@ title: Did Peter Believe Jesus Was God?
 author: gheslop
 image: /assets/images/peter-icon.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - 1 Peter
   - 2 Peter
