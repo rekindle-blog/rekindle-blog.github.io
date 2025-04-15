@@ -3,7 +3,7 @@ layout: post
 title: It Is Such a Secret Place, the Land of Tears
 author: gheslop
 image: /assets/images/willow.jpeg
-featured: false
+featured: true
 hidden: false
 tags:
   - Suffering
