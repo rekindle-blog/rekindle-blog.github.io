@@ -1,9 +1,9 @@
 ---
 layout: post
-title: pope francis
+title: "Protestants and the Popes: We Must Do Better"
 author: gheslop
 image: /assets/images/pope-francis.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Pope Francis
@@ -13,6 +13,8 @@ tags:
   - Reformation
   - Pharisees
   - Faith
+  - John Calvin
+  - Herman Bavinck
   - ""
 ---
 Late on Monday my wife and I were discussing the news that had broken on Monday morning: Pope Francis died. Naturally, one didn’t need to search hard for [eulogies](https://www.thegospelcoalition.org/article/pope-francis-roman-church-legacy/) and commendations, pouring in from almost every corner of the world. This is to be expected, since the Roman Catholic office remains a beloved one and those who occupy it are known for their character, love, compassion, kindness and selfless service—in a word, these men exemplify Christlikeness. To play on the Greek word typically translated "holy" (ἅγιος or ἁγιάζω), popes are set apart for their task and simultaneously those who set themselves apart by their lives. It is fitting, therefore, that the world celebrates Pope Francis’ life and remembers him in his death.
