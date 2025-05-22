@@ -1,9 +1,9 @@
 ---
 layout: post
-title: francis schaeffer holiness sanctification
+title: Does Reformed Theology Discourage Personal Holiness?
 author: gheslop
 image: /assets/images/constantia-nek.heic
-featured: true
+featured: false
 hidden: true
 tags:
   - Francis Schaeffer
@@ -13,13 +13,15 @@ tags:
   - Mortification
   - Justification
   - Faith
+  - Reformed Theology
+  - True Spirituality
   - ""
 ---
 Over my summer break I reread Francis Schaeffer’s refreshing introduction to the Christian faith: *[True Spirituality](https://www.thegospelcoalition.org/reviews/true-spirituality/)*. As a brief aside, it’s to our own detriment when we abandon these classic, perhaps simpler introductions. Just because these well-worn, time-tested books are typically put in the hands of new believers, it doesn’t mean they’re "milk, not solid food" (Hebrews 5:12). In my experience, they’re "pure spiritual milk" (1 Peter 2:2). And, like me, I’m sure many readers have delighted in returning to these works—whether J. I. Packer’s *Knowing God,* Augustine’s *Confessions, Pilgrim’s Progress* or some other—and discovered they’re also "for the mature" (Hebrews 5:14). And that brings us back to *True Spirituality* by Francis Schaeffer, particularly the concerns he raises about the Reformed tradition's seemingly low levels of commitment to personal holiness, what we might call progressive sanctification.
 
 In the section of *True Spirituality* discussing a Christian believer’s gradual transformation, their restoration through God’s grace, Schaeffer raises a couple of linked concerns. The first is that by majoring in [justification by faith alone](https://rekindle.co.za/content/romans-the-righteousness-of-god/) we sap the motivation for pursuing personal holiness. The second is that by overstating the persistent, pervasive nature of sin we undermine the possibility of personal holiness. Let's consider each in turn.
 
-### Header
+### Does Justification by Faith Undermine Sanctification?
 
 Firstly then, Schaeffer worries that if we major in justification we will inevitably soft-peddle sanctification—particularly the believer’s active role in pursuing holiness. Linked with these, he argues that by emphasising our inability to keep God’s law we might inadvertently communicate that obedience to God is impossible, and therefore not something we should prioritise.
 
@@ -29,7 +31,7 @@ Of course, that criticism is as old as the Reformation itself, with charges of a
 
 What will motivate godliness or holiness, repentance and resisting sin if none of that factors into the final soteriological equation? Why would believers pursue holiness if they’re repeatedly told obedience is beyond them? These are important questions. Though I feel like Schaeffer is being a little too selective with the WLC—see for example [Q75-78](https://thewestminsterstandard.org/westminster-larger-catechism/#76)—I don’t think his concerns and caution are easily dismissed.
 
-### Header
+### Does Indwelling Sin Make Holiness Impossible?
 
 He continues, "We must be very careful to warn \[children] of the danger of thinking that they can look lightly or abstractly at sin in their lives. If I count on Christ’s victory for my entrance to heaven, will I deny him the glory he would gain in victories won, in me and through me, in my present life? If I look to Jesus Christ and his victory on the cross for my entrance into a future heaven, dare I deny to him what that victory should produce in the battles of the present life—the battles before men and angels and the supernatural world? What an awful thought."
 
@@ -37,7 +39,7 @@ Schaeffer’s point is fairly plain: by reducing sin to the guilt that Christ co
 
 To use his words, there is a real danger in us looking "lightly or abstractly at sin." Yes, our sin and disobedience, both actively breaking God’s law and omitting to fulfil it, means we stand condemned, under the penalty of God. But our sin is also organic, to use a favourite word among the [Neo-Calvinists](https://rekindle.co.za/content/2024-10-02-bavinck-theology-church). That is, my sin means both that I stand under the curse of God, apart from Christ; and that my person is corrupted. By his grace, God works to resolve not only the penalty of sin but also its power—this is progressive sanctification and the pursuit of holiness.
 
-### Header
+### Reclaim "the Conscious Side of the Christian Life"
 
 In conclusion, I don’t think these deficiencies are baked into Reformed theology, as some have suggested—and not only Roman Catholics. Schaeffer acknowledges as much. However, I don’t think he’s wide of the mark in suggesting that the Reformed tradition has not always majored in practical, personal holiness. As he writes, "I think that much of the emphasis of traditional, orthodox Church in the historic stream of the Reformation has laid insufficient stress on the conscious side of the Christian life."
 
