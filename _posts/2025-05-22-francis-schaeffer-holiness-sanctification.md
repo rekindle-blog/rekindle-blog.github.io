@@ -15,13 +15,9 @@ tags:
   - Faith
   - ""
 ---
-Over my summer break I reread Francis Schaeffer’s refreshing introduction to the Christian faith: *True Spirituality*. As a brief aside, it’s to our own detriment when we abandon these classic, perhaps simpler introductions. Just because these well-worn, time-tested books are typically put in the hands of new believers, it doesn’t mean they’re "milk, not solid food" (Hebrews 5:12). In my experience, they’re "pure spiritual milk" (1 Peter 2:2). And, like me, I’m sure many readers have delighted in returning to these works—whether J. I. Packer’s *Knowing God,* Augustine’s *Confessions, Pilgrim’s Progress* or some other—and discovered they’re also "for the mature" (Hebrews 5:14). And that brings us back to *True Spirituality* by Francis Schaeffer, ***particularly…***
+Over my summer break I reread Francis Schaeffer’s refreshing introduction to the Christian faith: *[True Spirituality](https://www.thegospelcoalition.org/reviews/true-spirituality/)*. As a brief aside, it’s to our own detriment when we abandon these classic, perhaps simpler introductions. Just because these well-worn, time-tested books are typically put in the hands of new believers, it doesn’t mean they’re "milk, not solid food" (Hebrews 5:12). In my experience, they’re "pure spiritual milk" (1 Peter 2:2). And, like me, I’m sure many readers have delighted in returning to these works—whether J. I. Packer’s *Knowing God,* Augustine’s *Confessions, Pilgrim’s Progress* or some other—and discovered they’re also "for the mature" (Hebrews 5:14). And that brings us back to *True Spirituality* by Francis Schaeffer, particularly the concerns he raises about the Reformed tradition's seemingly low levels of commitment to personal holiness, what we might call progressive sanctification.
 
-Making little of sin therefore minoring in holiness
-
-Majoring in justification by faith alone can do the same
-
-Discussing the believer’s gradual transformation (or progressive sanctification), our restoration through God’s grace
+In the section of *True Spirituality* discussing a Christian believer’s gradual transformation, their restoration through God’s grace, Schaeffer raises a couple of linked concerns. The first is that by majoring in [justification by faith alone](https://rekindle.co.za/content/romans-the-righteousness-of-god/) we sap the motivation for pursuing personal holiness. The second is that by overstating the persistent, pervasive nature of sin we undermine the possibility of personal holiness. Let's consider each in turn.
 
 ### Header
 
