@@ -3,7 +3,7 @@ layout: post
 title: "Church Size: Six Theses"
 author: gheslop
 image: /assets/images/big-church.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Church size
