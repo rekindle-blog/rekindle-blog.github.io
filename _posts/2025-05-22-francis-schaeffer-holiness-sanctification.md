@@ -10,7 +10,13 @@ tags:
   - Holiness
   - ""
 ---
-Introduction 
+Over my summer break I reread Francis Schaeffer’s refreshing introduction to the Christian faith: *True Spirituality*. As a brief aside, it’s to our own detriment when we abandon these classic, perhaps simpler introductions. Just because these well-worn, time-tested books are typically put in the hands of new believers, it doesn’t mean they’re “milk, not solid food” (Hebrews 5:12). In my experience, they’re “pure spiritual milk” (1 Peter 2:2). And, like me, I’m sure many readers have delighted in returning to these works—whether J. I. Packer’s *Knowing God,* Augustine’s *Confessions, Pilgrim’s Progress* or some other—and discovered they’re also “for the mature” (Hebrews 5:14). And that brings us back to *True Spirituality* by Francis Schaeffer, ***particularly…***
+
+Making little of sin therefore minoring in holiness
+
+Majoring in justification by faith alone can do the same
+
+Discussing the believer’s gradual transformation (or progressive sanctification), our restoration through God’s grace
 
 ### Header
 
