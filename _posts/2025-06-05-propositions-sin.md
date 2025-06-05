@@ -16,8 +16,8 @@ In 1 John 2:1, the apostles outlines one of the purposes behind writing his epis
 
 The three propositions are:
 
-1. None of us are without sin\
-2. We can put off sin\
+1. No one is without sin
+2. We can put off sin
 3. Christ must save us from sin.
 
 Very briefly below I will demonstrate each of those propositions from 1 John. I'll then offer a few examples of what happens when we don't major in all of them, before suggesting in my conclusion how you might use them as a diagnostic in your own life.
