@@ -3,7 +3,7 @@ layout: post
 title: John Ames' Advice Against Defensiveness
 author: gheslop
 image: /assets/images/gilead-book.JPG
-featured: false
+featured: true
 hidden: false
 tags:
   - Gilead
