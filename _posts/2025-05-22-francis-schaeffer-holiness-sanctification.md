@@ -4,7 +4,7 @@ title: Does Reformed Theology Discourage Personal Holiness?
 author: gheslop
 image: /assets/images/constantia-nek.heic
 featured: false
-hidden: true
+hidden: false
 tags:
   - Francis Schaeffer
   - Holiness
