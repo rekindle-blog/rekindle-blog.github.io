@@ -12,7 +12,7 @@ tags:
   - Sanctification
   - ""
 ---
-In 1 John 2:1, the apostles outlines one of the purposes behind writing his epistle. "I am writing these things to you so that you may not sin." There are, of course, other purposes, both explicit and implicit (1 John 1:4; 2:21, 26; 5:13). But the purpose statement in 1 John 2:1 is my particular concern in this article, because it provides us with one of the three related propositions about sin found in 1 John 1:5–2:2. As you’ll see, these aren’t novel, which is why I’m not referring to them as my propositions. They are consistent with countless other biblical texts, the Christian theology of sin, and our own experience.
+In 1 John 2:1, the apostle outlines one of the purposes behind writing his epistle. "I am writing these things to you so that you may not sin." There are, of course, other purposes, both explicit and implicit (1 John 1:4; 2:21, 26; 5:13). But the purpose statement in 1 John 2:1 is my particular concern in this article, because it provides us with one of the three related propositions about sin found in 1 John 1:5–2:2. As you’ll see, these aren’t novel, which is why I’m not referring to them as my propositions. They are consistent with countless other biblical texts, the Christian theology of sin, and our own experience.
 
 The three propositions are:
 
