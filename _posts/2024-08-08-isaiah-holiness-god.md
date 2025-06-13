@@ -3,7 +3,7 @@ layout: post
 title: "Isaiah 6: The Holiness of God"
 author: gheslop
 image: /assets/images/isaiah.jpeg
-featured: true
+featured: false
 hidden: false
 tags:
   - Isaiah
