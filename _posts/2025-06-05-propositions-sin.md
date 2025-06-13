@@ -4,7 +4,7 @@ title: Three Propositions About Sin From 1 John
 author: gheslop
 image: /assets/images/sin-weed.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - 1 John
   - Sin
