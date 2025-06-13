@@ -3,7 +3,7 @@ layout: post
 title: Time Is Finite, But So Are You
 author: gheslop
 image: /assets/images/time.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Finite
