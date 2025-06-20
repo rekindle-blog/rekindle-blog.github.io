@@ -1,0 +1,30 @@
+---
+layout: post
+title: No More Fridays With Fred? No More Friedrich Nietzsche?
+author: gheslop
+image: /assets/images/fridays.jpg
+featured: false
+hidden: true
+tags:
+  - Friedrich Nietzsche
+  - Common Grace
+  - Natural Revelation
+  - Philosophy
+  - Herman Bavinck
+  - Eugene Peterson
+  - Literature
+  - ""
+---
+Earlier this year I had the opportunity to present a talk on Friedrich Nietzsche at [KRUX](https://www.krux.africa/), a Christian Study Centre out in Stellenbosch that "disciples young adults through theological education, mentoring, community, and a unique focus on the arts." Now anyone who frequents Rekindle—I love you mom—wouldn’t deem it particularly noteworthy that I presented on Nietzsche, given that I’ve been [engaging](https://rekindle.co.za/content/2020-10-30-fridays-with-fred-nietzsche) with him in writing since 2020. But during the Q&A that followed my talk, one of the attendees asked whether we should be reading Nietzsche, given his sustained and infamous [disdain](https://rekindle.co.za/content/2022-11-04-fridays-with-fred-pitiful-christians) for almost all things Christian. This is, I think, an important question worth considering.
+
+In the talk itself I’d retold how I began reading the German philosopher and why I persevered with him. Being persuaded of both general revelation and common grace, I knew that God has not left himself without a witness outside of the Bible (Romans 1:20-21), nor has he withheld his goodness from the world he’s made (Matthew 5:45). For this reason Herman Bavinck writes, "theology is not in need of a specific philosophy" *(Reformed Dogmatics* 1:609). He goes on to say that theology "is not per se hostile to any philosophical system and does not, *a priori* and without criticism give priority," to Plato or Aristotle or some other philosopher or system. Rather, "It brings along its own criteria, tests all philosophies by them, and takes over what it deems true and useful." In many ways, Nietzsche is an outstanding test case for these theological convictions.
+
+Proceeding from the above, I laid out a selection of the strengths I’d observed in Nietzsche's writing. For starters, he was an incredibly astute psychologist, in the older sense of the word. That is, he was a student of human motives and behaviour, nature and desire. Secondly, he advocated for the *[vita contemplativa](https://rekindle.co.za/content/2024-04-18-death)*, a life of contemplation and thought. Thirdly, no one was safe from his searching criticisms. Far from modern caricatures, he didn’t only lampoon Christianity but also Enlightenment thought, Darwinism, German nationalism and the *zeitgeist.* Finally, Nietzsche was ultimately an [existentialist](https://rekindle.co.za/content/2020-07-03-nietzsche), rather than a [nihilist](https://rekindle.co.za/content/2024-08-23-fridays-with-fred-nietzsche-dostoyevsky). In other words, he ardently desired that people flourish; his philosophy wasn’t abstract but aimed at human happiness. Taken together, there are great reasons for reading him.
+
+But let me not assume you’re convinced. After all, the attendee who asked that question heard all of the above—and more. Yet he still didn’t see the value of reading the self-appointed anti-Christ. Part of me wonders if his question arose from the suspicion many Christians have towards philosophy in general. This suspicion is usually seen in lazy handwaving, smugly dismissing these silly men and women who lock themselves away to think about nothing practically meaningful. But when it comes to Nietzsche, he was more than a philosopher; he was a prophet, announcing the demise of Christianity and calling for us to remake the world without it. So I understand the reticence. I mean, maybe reading Nietzsche will be bad for you, for your faith. So, aren't we better off without him?
+
+On the night this question was put to me I answered it like this: should we only read books and listen to talks delivered by Christians and theologians? The way I see it, calling for a moratorium on reading Friedrich Nietzsche—and his ilk— or philosophers in general, creates a difficult way forward. Why shouldn’t we read him? If the answer is that he that he wasn’t a believer, that rules out the vast majority of written works through the ages and at present; if it’s that he was antagonist towards Christianity, so too are Plato and Aristotle’s philosophical systems, along Jordan Peterson’s popular thought for that matter. If you don’t think we should read Friedrich Nietzsche then you must haul a host of other books off your shelves—and scrub your YouTube while you’re at it.
+
+In recent years I’ve steadily grown in my appreciation of Eugene Peterson. So it was serendipitous to learn that he was himself a student of the German philosopher. In fact, the title of his *Long Obedience in the Same Direction* plays on a passage from Nietzsche’s *Beyond Good and Evil* (§188). Peterson was able to do this because he understood the theology I alluded to above, particularly common grace. As he puts it in *When Kingfishers Catch Fire*, "Even our so-called secular lives are permeated by grace." In other words, though he would have hated the thought, Nietzsche didn't live apart from God's providence and blessing. This much is evident in just how much truth the German philsopher struck on.
+
+Let me conclude with the lengtheir passages that precedes the above. As Peterson writes, "I quit sorting books and magazines and journals into Christian and secular, with a preference for Christian. I read the secular, of course, but not with the same attention as the Christian. I had made a pretty sharp division between reading the Bible scholars and theologians and reading the newspaper, supplemented with detective novels and literary fiction. Eventually the division lines disappeared. It all took place in God’s world and kingdom. The Holy Spirit used anything and anyone. And if the Holy Spirit could do it, so could I."
