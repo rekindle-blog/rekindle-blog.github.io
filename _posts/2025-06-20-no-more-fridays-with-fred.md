@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no more Fridays with fred
+title: No More Fridays With Fred? No More Friedrich Nietzsche?
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: true
