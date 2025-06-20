@@ -3,7 +3,7 @@ layout: post
 title: No More Fridays With Fred? No More Friedrich Nietzsche?
 author: gheslop
 image: /assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Friedrich Nietzsche
