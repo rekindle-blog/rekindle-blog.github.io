@@ -5,8 +5,19 @@ author: gheslop
 image: /assets/images/fridays.jpg
 featured: true
 hidden: true
+tags:
+  - Friedrich Nietzsche
+  - Common Grace
+  - Natural Revelation
+  - Philosophy
+  - Herman Bavinck
+  - Eugene Peterson
+  - Literature
+  - ""
 ---
 Earlier this year I had the opportunity to present a talk on Friedrich Nietzsche at [KRUX](https://www.krux.africa/), a Christian Study Centre out in Stellenbosch that "disciples young adults through theological education, mentoring, community, and a unique focus on the arts." Now anyone who frequents Rekindle—I love you, mom—wouldn’t deem it particularly noteworthy that I presented on Nietzsche, given that I’ve been engaging with him in writing since 2020. But during the Q&A that followed my talk, one of the attendees asked why I bother reading Nietzsche, given his sustained and infamous disdain for almost all things Christian. This is, I think, an important question worth considering.
+
+
 
 In the talk itself I’d retold how I’d started reading the German philosopher and why I persevered with him. Being persuaded of both general revelation and common grace I knew that God has not left himself without a witness outside of the Bible (Romans 1__), nor has he withheld his goodness from the world he’s made. For this reason Herman Bavinck writes, "theology is not in need of a specific philosophy" *(Reformed Dogmatics* 1:609). He goes on to say that theology "is not per se hostile to any philosophical system and does not, *a priori* and without criticism give priority," to Plato or Aristotle or some other philosopher or system. Rather, "It brings along its own criteria, tests all philosophies by them, and takes over what it deems true and useful." In many ways, Nietzsche is an outstanding test case for my own theological convictions.
 
