@@ -4,7 +4,7 @@ title: Reflections on Fatherhood From 'The Road'
 author: gheslop
 image: /assets/images/the-road.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - The Road
   - Cormac McCarthy
