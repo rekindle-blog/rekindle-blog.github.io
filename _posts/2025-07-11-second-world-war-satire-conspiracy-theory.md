@@ -7,9 +7,20 @@ featured: true
 hidden: true
 tags:
   - Satire
+  - Conspiracy theory
+  - History
+  - Doubt
+  - Authority
+  - Second World War
+  - World War II
+  - Social Media
+  - Logic
+  - Reason
   - ""
 ---
 If you grew up in South Africa, then there’s a good chance that you were indoctrinated—just like I was. Sitting through history class in the early 2000s it never occurred to me that what Mr van der Bergh taught as fact was nothing more than a fabrication, an elaborate ruse. To my shame I thoughtlessly gobbled up his nonsense, never stopping to do my own research and uncover for the truth. Instead I sat in darkness, for years; finally I’ve seen the light (Matthew 4:16). I now know that the Second World War never happened.
+
+
 
 ‘What changed?’ you ask. Well, I went onto YouTube and started doing my own research. In less than a week I realised I knew better than 99% of our so-called historians and academics. But I’m not naive. I did more than watch 30 or so hours of completely unregulated YouTube content; I was sure to test my research by listening to other experts, both on the History Channel and Reddit. Unsurprisingly, when I visited my local library they told me there isn’t a single book in print that denies the events of the Second World War. Fortunately I was able to watch hundreds of peer-reviewed shorts on social media. All of them confirmed my suspicions: a global conspiracy to make people believe in the Second World War.
 
@@ -27,7 +38,7 @@ Finally, whenever I hear sheeple citing the hundreds of hours of film documentin
 
 A lot of you have raised questions about the credibility of the reels I’ve been sharing on Instagram. To all of you, I’d ask this searching question: who are you going to believe, someone with a PhD in history from Cambridge or someone with an iPhone and an internet connection? Do you seriously trust your high school history teachers, when nazisfornoobs1939 has shown incontrovertibly that they’re complicit in the global conspiracy? Have you forgotten that you also played ‘war games’ when you were children? Now set aside your childish ways and stop thinking like one (1 Corinthians 13:11). 
 
-### A Note
+#### A Note to the Reader
 
 In case you missed it, this is a [satire](https://rekindle.co.za/content/2020-10-08-a-note-on-satire). The Second World War took place. In fact, I chose it as the subject of this satirical piece because I don’t imagine anyone would claim otherwise, making it an effective analogue for thinking about popular conspiracies—such as the moon landings being faked, the assassination of J. F. K., *The Da Vinci Code* and aliens being stored in Area 51.
 
