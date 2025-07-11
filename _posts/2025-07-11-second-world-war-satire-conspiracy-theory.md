@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second World War satire conspiracy theory
+title: "The Second World War Never Happened: A Satire"
 author: gheslop
 image: /assets/images/second-world-war-satire.png
 featured: false
