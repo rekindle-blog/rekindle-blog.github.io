@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: What Is Man? Dostoyevsky Answers"
 author: gheslop
 image: /assets/images/notes-from-underground.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Doodle
