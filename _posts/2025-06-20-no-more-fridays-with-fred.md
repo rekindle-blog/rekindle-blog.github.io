@@ -4,7 +4,7 @@ title: No More Fridays With Fred? No More Friedrich Nietzsche?
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Friedrich Nietzsche
   - Common Grace
