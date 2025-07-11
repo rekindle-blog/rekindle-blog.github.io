@@ -3,7 +3,7 @@ layout: post
 title: Second World War satire conspiracy theory
 author: gheslop
 image: /assets/images/second-world-war-satire.png
-featured: true
+featured: false
 hidden: true
 tags:
   - Satire
