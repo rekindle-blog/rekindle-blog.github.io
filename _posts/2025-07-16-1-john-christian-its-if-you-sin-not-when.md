@@ -11,6 +11,7 @@ tags:
   - Mortification
   - 1 John
   - John Owen
+  - Sin
   - ""
 ---
 "I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous" (1 John 2:1). Focusing on this wonderfully reassuring verse, alongside others from 1 John 1:5-2:2, I recently presented [three propositions](https://rekindle.co.za/content/2025-06-05-propositions-sin) about sin: (i) no one is without sin; (ii) we can put sin off; and (iii) Christ must save us from our sin. I argued that we must hold those propositions together if we’re to understand the gospel and avoid moralism, unnecessary guilt as well as an indifference towards personal holiness. Put another way, my propositions function to give clarity about both salvation and sanctification.
