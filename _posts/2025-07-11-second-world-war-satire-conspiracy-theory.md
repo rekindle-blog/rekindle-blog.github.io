@@ -4,7 +4,7 @@ title: "The Second World War Never Happened: A Satire"
 author: gheslop
 image: /assets/images/second-world-war-satire.png
 featured: false
-hidden: true
+hidden: false
 tags:
   - Satire
   - Conspiracy theory
