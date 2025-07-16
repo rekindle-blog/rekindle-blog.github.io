@@ -2,7 +2,7 @@
 layout: post
 title: "1 John: Christian, It's \"If\" You Sin, Not 'When'"
 author: gheslop
-image: /assets/images/la-iglesia-de-la-compañía-de-jesús.jpg
+image: /assets/images/la-iglesia-de-la-compania-de-jesus.jpg
 featured: false
 hidden: true
 tags:
@@ -26,7 +26,7 @@ One of the contentions of my article was that if we make too little—or too muc
 
 If we go back to John’s purpose statement (1 John 2:1), you’ll notice that sin is a concession whereas his expectation is that Christians won’t sin. While I would never want to be understood as detracting from the latter half of that verse—"if anyone does sin, we have an advocate with the Father, Jesus Christ"—there is a very real danger that we can exaggerate it to the detriment of personal sanctification. In my far from extensive survey of commentaries on 1 John, this seems to be the case. Furthermore, all the preaching I’ve heard on the epistle has majored in gospel reassurances at the expense of gospel-driven sanctification. Because the apostle deems progressive holiness a very real possibility we must be alert to defeatism concerning personal sin.
 
-One commentator argues that 1 John 2:1 is about us “having a genuine knowledge of Christ, what he has done and what he is doing for us.” Indeed, that Christ advocates for us before the Father with his own atoning blood is a truth to be treasured. As that same commentator goes on to say, "Our belief about Christ is always the foundational test for reality in scriptural experience. If we are wrong here, nothing else will be right." Amen. Only, again, none of this should undermine the apostle’s purpose: that believers might not sin. "By this we know that we have come to know him," writes John, "if we keep his commandments" (1 John 2:3). I take it that obedience here assumes the active [resistance](https://rekindle.co.za/content/christs-temptation-and-our-own/) and [mortification](https://rekindle.co.za/content/john-owen-and-asceticism/)of sin.
+One commentator argues that 1 John 2:1 is about us “having a genuine knowledge of Christ, what he has done and what he is doing for us.” Indeed, that Christ advocates for us before the Father with his own atoning blood is a truth to be treasured. As that same commentator goes on to say, "Our belief about Christ is always the foundational test for reality in scriptural experience. If we are wrong here, nothing else will be right." Amen. Only, again, none of this should undermine the apostle’s purpose: that believers might not sin. "By this we know that we have come to know him," writes John, "if we keep his commandments" (1 John 2:3). I take it that obedience here assumes the active [resistance](https://rekindle.co.za/content/christs-temptation-and-our-own/) and [mortification](https://rekindle.co.za/content/john-owen-and-asceticism/) of sin.
 
 As I concluded the previous post, "Continuing in sin because we’re too spiritually lethargic is very different to prayerfully struggling with sin and practising repentance. Putting off sin is possible, personal holiness should be an ambition of every believer." As the apostle puts it, "Whoever says he abides in him ought to walk in the same way in which he walked" (1 John 2:6).
 
