@@ -2,20 +2,19 @@
 layout: post
 title: In Defence Of Satire
 author: gheslop
-tags:
-- 3 Timothy
-- New Testament
-- Parable
-- Old Testament
-- Narrative
-- Rhetoric
-- Irony
-- Literary device
-- Satire
 image: assets/images/satire-waterloo.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - 3 Timothy
+  - New Testament
+  - Parable
+  - Old Testament
+  - Narrative
+  - Rhetoric
+  - Irony
+  - Literary device
+  - Satire
 ---
 In _Between Two Worlds_, John Stott defines satire as a literary device or tool that uncovers folly. It subversively exposes the fallen human condition, which tends to make us resist corrective truth. One blogger [recently wrote](https://www.patreon.com/posts/idless-joe-and-41627596 "Defining satire"), “Satire tends to take bad behaviour to a humorous extreme in order to expose what’s wrong with it. It participates in the bad behaviour in order to hold up a mirror, and it does so humorously so that a viewer might sufficiently lower their guard to see themselves in that mirror.” This was my intention for [3 Timothy](https://rekindle.co.za/content/2020-09-17-3-timothy "3 Timothy")**.** Regarding my satirical Pauline epistle I said, “I hope that, by parodying the pastoral epistles, readers will see how far much contemporary Christian leadership and church growth literature is from the New Testament.” In this lengthy note I want to respond to three criticisms made against satire, both generally and specifically my own.
 
