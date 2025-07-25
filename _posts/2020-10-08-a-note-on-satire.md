@@ -3,7 +3,7 @@ layout: post
 title: In Defence Of Satire
 author: gheslop
 image: assets/images/satire-waterloo.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - 3 Timothy
