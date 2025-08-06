@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Satan and Senate
+title: "Satan and Senate: Do Global Powers Serve the Devil's Ends?"
 author: gheslop
 image: /assets/images/earthrise-apollo-8.jpg
 featured: true
@@ -15,9 +15,9 @@ Following some kind of algorithm shuffle on Facebook, a few weeks back I started
 
 Drawing on my newfound knowledge of the 20th century, after reading Svetlana Alexievich’s *[Secondhand Time](https://en.wikipedia.org/wiki/Secondhand_Time:_The_Last_of_the_Soviets)*, I wrote: "The craziest thing about flat earth claims is that its proponents would have us believe America and the USSR collaborated in the deceit—in the 1960s, during the Cold War." In hindsight I should have taken aim at the claim that the moon landings were faked, rather than flat earth theory. But the successful Apollo missions did produce photographic evidence concerning the earth’s shape (pictured above), so it fits. Anyway, my observation about the profoundly illogical view most conspiracy theorists take of geopolitics and history kicked off a lively Facebook thread. Central to Tim’s arguments in favour of the flat earth was his insistence that Satan or the devil is a liar, a deceiver. That is the focus of this article.
 
-It’s certainly true, as Tim pointed out, that the devil is a deceiver, "more crafty than any other beast of the field" (Genesis 3:1; 2 Corinthians 11:3). Alongside his other works of [accusing](https://rekindle.co.za/content/2020-07-22-christus-victor-new-testament) (Zechariah 3:1-3) and [tempting](https://rekindle.co.za/content/christs-temptation-and-our-own/)(Matthew 4:3; 1 Corinthians 7:5), Jesus described Satan as "the father of lies" (John 8:44). Clearly, the devil isn’t to be trusted. But does that mean governments or NASA aren’t to be trusted either? Christian conspiracy theorists think so. So it’s to that argument which we’ll now turn.
+It’s certainly true, as Tim pointed out, that the devil is a deceiver, "more crafty than any other beast of the field" (Genesis 3:1; 2 Corinthians 11:3). Alongside his other works of [accusing](https://rekindle.co.za/content/2020-07-22-christus-victor-new-testament) (Zechariah 3:1-3) and [tempting](https://rekindle.co.za/content/christs-temptation-and-our-own/) (Matthew 4:3; 1 Corinthians 7:5), Jesus described Satan as "the father of lies" (John 8:44). Clearly, the devil isn’t to be trusted. But does that mean governments or NASA aren’t to be trusted either? Christian conspiracy theorists think so. So it’s to that argument which we’ll now turn.
 
-## Satan's Deceit Isn't Linked With Leaders
+## Satan's Deceit Isn't Tied to Leaders
 
 Tim correctly points out that "deceit has been used against humanity since the beginning" (Genesis 3:4). Naturally. Theologically. However, he then added, "To think world governments aren't answering to one leader is naive." Really? Without claiming to have done an exhaustive reading of the biblical texts on Satan, none of those that I’m aware of conflate his deceit with world leaders or governments. Though Paul refers to him as "the ruler of this world" (2 Corinthians 4:4), the apostle doesn’t make any links between Satan and senate. Neither did Jesus, who called him "the ruler of this world" (John 12:31). Significantly, from this point on in John’s Gospel Jesus moves towards Golgotha, not some imperial palace or an earthy seat of power.
 
@@ -39,6 +39,6 @@ Appealing to some of the passages above, Tim then mentioned to their context. Ho
 
 With the above correction in place, one hardly needs to engage Tim’s claim that world powers are colluding with Satan to deceive the sheeple. So I’ll be brief. As he says, "If these leaders are not Bible-believing, born again…sanctified men of God, then they're worshipping Satan or self." To make this categorical point we have to reject out of hand passages like Romans 13:1-7—worthy of special mention from that passage is Paul’s description of governing authorities as "God’s servant for your good" (Romans 13:4). Peter exhorted Christians to "honour the emperor" (1 Peter 2:17). Even if these leaders aren’t Bible-believing men and women of God, the Bible calls them God’s servants and urges us to honour them. I’m not sure labelling them a satanic cabal quite fits God’s assessment.
 
-#### Header — Conclusion
+#### Develop a Better Theology of the Devil
 
-Even a cursory survey of the biblical texts on Satan, with only a little attention to their context, reveals that the devil is less involved in governments and global politics than conspiracy theorists insist. His deceit is not limited to the corridors of power. There is little to no biblical indication that the devil is especially at work among world leaders. I’m sure he’s perfectly happy with people spending all their free time consuming conspiratorial drivel on social media and reading about it in blog posts.
+Even a cursory survey of the biblical texts on Satan, with only a little attention to their context, reveals that the devil is less involved in governments and global politics than conspiracy theorists insist. His deceit is not limited to the corridors of power. There is little to no biblical indication that the devil is especially at work among world leaders. In factm I’m sure he’s perfectly happy with people spending all their free time consuming conspiratorial drivel on social media and reading about it in [blog posts](https://rekindle.co.za/content/2025-07-11-second-world-war-satire-conspiracy-theory).
