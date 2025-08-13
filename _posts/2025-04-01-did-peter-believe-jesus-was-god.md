@@ -3,7 +3,7 @@ layout: post
 title: Did Peter Believe Jesus Was God?
 author: gheslop
 image: /assets/images/peter-icon.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - 1 Peter
