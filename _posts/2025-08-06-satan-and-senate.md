@@ -4,11 +4,12 @@ title: "Satan and Senate: Do Global Powers Serve the Devil's Ends?"
 author: gheslop
 image: /assets/images/earthrise-apollo-8.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Satan
   - Conspiracy theory
   - History
+  - Temptation
   - ""
 ---
 Following some kind of algorithm shuffle on Facebook, a few weeks back I started seeing videos and images that I would class as conspiracy theories. You can pick your poison—from 9/11 to faked moon landings, flat earth theory and Michelle Obama’s gender—I sampled many. To my wife’s ire I starting thinking about them, critically, particularly flat earth theory. While washing dishes I would suddenly shout, "How do they explain elongated shadows or the seasons?" In my defence the person, let’s call him Tim, sharing those videos insisted we practice radical skepticism towards, well, everything. So I’d like to think I was doing nothing more than accepting Tim’s call to critical inquiry, by needling the so-called proofs and arguments he was sharing.
