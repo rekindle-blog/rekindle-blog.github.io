@@ -4,11 +4,13 @@ title: Christian, Look To and Learn From Older Saints
 author: gheslop
 image: /assets/images/old-saints.png
 featured: false
-hidden: true
+hidden: false
 tags:
   - Chronological Snobbery
   - Church life
   - Christian maturity
+  - Community
+  - Titus
   - ""
 ---
 The shortfalls of chronological snobbery are well documented, perhaps most famously by [C. S. Lewis](https://www.cslewisinstitute.org/resources/c-s-lewis-on-chronological-snobbery/) and therefore unsurprisingly by the late Timothy Keller. Both men routinely called their peers out for measuring the past and other peoples by one’s own cultural and modern yardstick. As Carl Trueman notes in *Histories and Fallacies*, antihistorical tendencies are a particular penchant in the West, ranging from [troubling skepticism](https://rekindle.co.za/content/2025-07-11-second-world-war-satire-conspiracy-theory) to outright contempt. This is well illustrated by Sencra, in David Gemmell’s *Midnight Falcon* when he labels his civilization the greatest in history. In Sencra’s words, "our culture is the finest the world has seen. Therefore we will find little of consequence in ancient writings." These reflections on the logic and value of history arose from [recent interactions](https://rekindle.co.za/content/2025-08-06-satan-and-senate) with a conspiracy theorist. But I’ve also encountered an ugly and starkly unbiblical chronological snobbery in the contemporary church: how we view older saints.
