@@ -11,11 +11,17 @@ tags:
   - The Epistle of James
   - Apocrypha
   - Romans
+  - Faith
+  - Justification by faith
+  - Justification
+  - Doodle
   - ""
 ---
-Writing over two millennia ago, in his *Defence of Socrates*, Plato warned against the unqualified opinions of celebrities. “Because of their excellence at their own trade,” says Plato of poets, “each claimed to be a great expert also on matters of the utmost importance; and this arrogance of theirs seemed to eclipse wisdom”—**a** [similar point](https://rekindle.co.za/content/2022-05-05-the-celebration-of-tyranny-in-pastoral-ministry) is made by Blaise Pascal in his *Pensées*. This blurring of qualifications and fame—expertise and successes—has reached fever pitch in the digital age. In fact, you don’t even need to be famous in the more traditional senses of the word anymore, for a blue-tick supposedly means credibility in our day. Coupled with that, social media trades in aesthetics above argumentation. All of this was well illustrated in a recent and popular [Instagram video](https://www.instagram.com/reel/DN0b26KXOrT/?igsh=MWJ4MDhudXlwcjgwYg==)by a Roman Catholic influencer.
+Writing over two millennia ago, in his *Defence of Socrates*, Plato warned against the unqualified opinions of celebrities. "Because of their excellence at their own trade," says Plato, "each claimed to be a great expert also on matters of the utmost importance; and this arrogance of theirs seemed to eclipse wisdom"—a [similar point](https://rekindle.co.za/content/2022-05-05-the-celebration-of-tyranny-in-pastoral-ministry) is made by Blaise Pascal in his *Pensées*. This blurring of qualifications and fame—expertise with success—has reached fever pitch in the digital age. In fact, you don’t even need to be famous in the more traditional senses of the word anymore; today a blue-tick means credibility. Coupled with that, social media trades in aesthetics above argumentation. All of this was well illustrated in a recent and quite popular [Instagram video ](https://www.instagram.com/reel/DN0b26KXOrT/?igsh=MWJ4MDhudXlwcjgwYg==)by a Roman Catholic influencer, Marie Elisa. 
 
-In that video, Marie Elisa makes three claims. Firstly, she says that the *Apocrypha* was canonical from the late 4th century until the Reformation, when Martin Luther deemed it irreconcilable with his “personal theology” of salvation by faith alone. Secondly, she highlights Luther’s rejection of James, because the Reformer found verses like James 2:17 and 2:24 incompatible with his “personal theology.” Thirdly, Marie suggests that Luther added to the Bible in his German translation of Romans 3:28 (cf. Deuteronomy 4:2; 12:32; Deuteronomy 22:18). Again, this was to promote his “personal theology.” In sum, spanning countries and even centuries we should dismiss the Reformation as little more than Martin Luther’s obsession with *sola fidei*—that is, if we believe Marie Elisa’s hackneyed albeit humorous video.
+While Marie's video is full of wit and humour, she also makes some seriously porous claims, three of them that I will consider in this doodle.
+
+Firstly, Marie says that the *Apocrypha* was canonical from the late 4th century until the Reformation, when Martin Luther deemed it irreconcilable with his "personal theology" of salvation by faith alone. Secondly, she highlights Luther’s rejection of James, because the Reformer found verses like James 2:17 and 2:24 incompatible with his “personal theology.” Thirdly, Marie suggests that Luther added to the Bible in his German translation of Romans 3:28 (cf. Deuteronomy 4:2; 12:32; Deuteronomy 22:18). Again, this was to promote his “personal theology.” In sum, spanning countries and even centuries we should dismiss the Reformation as little more than Martin Luther’s obsession with *sola fidei*—that is, if we believe Marie Elisa’s hackneyed albeit humorous video.
 
 ### Header
 
