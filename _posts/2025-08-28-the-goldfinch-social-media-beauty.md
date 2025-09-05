@@ -4,7 +4,7 @@ title: "Donna Tartt: Beautiful Windows Into the Transcendent"
 author: gheslop
 image: /assets/images/the-goldfinch-book.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Beauty
   - Donna Tartt
