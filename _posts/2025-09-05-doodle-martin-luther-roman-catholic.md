@@ -4,7 +4,7 @@ title: "Doodle: Roman Catholics and Martin Luther"
 author: gheslop
 image: /assets/images/luther-at-the-diet-of-worms-ef59db-640.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Roman Catholicism
   - Catholic
