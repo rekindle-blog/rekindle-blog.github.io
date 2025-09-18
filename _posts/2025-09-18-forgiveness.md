@@ -1,6 +1,6 @@
 ---
 layout: post
-title: forgiveness
+title: Forgive Without Limit, Even if It Isn't Looked for
 author: gheslop
 image: /assets/images/forgiveness.jpg
 featured: false
