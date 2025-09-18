@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forgive Without Limit, Even if It Isn't Looked for
+title: "Christian Forgiveness: Unlimited and Unconditional"
 author: gheslop
 image: /assets/images/forgiveness.jpg
 featured: false
@@ -23,7 +23,7 @@ To save you turning it up, Peter asks Jesus, "Lord, how often will my brother si
 
 To leave the exposition there would already be immensely challenging. Losing count of wrongs committed against us? I keep lists. But it gets worse. Because forgiveness here isn’t explicitly predicated on repentance or reconciliation.
 
-### Header
+### What if People Take Advantage of My Forgiveness?
 
 Matthew 18:20-21 isn’t concerned with the wrongdoer but the one wronged—with their response. According to [Charles Quarles](https://www.amazon.com/Matthew-Exegetical-Guide-Greek-Testament/dp/1433676168), Peter’s "question is 'volitional' and concerns what one ought to do," when sinned against. Of course, there is a link to the preceding section (Matthew 18:15-20). For there Jesus spells out how to confront sin, providing us with a process for rebuke, repentance and restoration or reconciliation. But in Matthew 18:21-22 "the possibility of needing to cope with the recurrence of sin is introduced; and the need to forgive is explicitly addressed" (Nolland), which may or may not be part of the process outlined in Matthew 18:15-20. In other words, this brief section suggest that forgiveness ought to be extended, repeatedly, even if it isn’t sought out.
 
@@ -31,7 +31,7 @@ In writing that—and perhaps for you, reading it—a dark cloud looms, casting 
 
 But Peter’s question and Jesus' answer to that question isn’t concerned with them. It’s for those who’ve been wronged. "Lord," Peter asks, "how often will my brother sin against me, and I forgive him?" (Matthew 18:21). The words sit uneasily on our own lips, especially for those who know our Lord’s answer.
 
-### Header
+### Forgiveness: An Antidote for Our Age
 
 So forgetting the inevitable abuse of forgiveness, we must turn our attention back to ourselves; to those who’ve been wronged.
 
