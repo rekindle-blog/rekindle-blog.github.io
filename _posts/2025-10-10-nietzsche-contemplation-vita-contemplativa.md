@@ -8,6 +8,12 @@ hidden: true
 tags:
   - Friedrich Nietzsche
   - Philosophy
+  - Love
+  - The Joyous Science
+  - Digital Age
+  - Streaming services
+  - Social Media
+  - Existentialism
   - ""
 ---
 My [very first](https://rekindle.co.za/content/2020-07-03-nietzsche) Nietzsche reflection was on a line from *Human, All Too Human:* “One hears a lot of talk about men, but none at all about man” (§35). As I argued there, Nietzsche spied a distorted interest in the famous and the frivolous, contrast with a disturbing indifference to deep thinking and sustained reflection. Without suggesting that culture is always in decline, the [digital age](https://rekindle.co.za/content/2023-03-17-doodle-our-digital-age-isn-t-the-golden-age)certainly fits Nietzsche’s description. We are a people obsessed with entertainment. We are passive consumers. Our digital diets are hardly thought provoking or profound. To use a Latin phrase that the German championed, the *vita contemplativa* is not on our minds—contemplative living, Nietzsche’s ["psychological observation"](https://rekindle.co.za/content/2025-06-20-no-more-fridays-with-fred) or "rumination" has fallen on hard times. This should concern us. For we are more than our eyes and there’s much more to life than entertainment.
@@ -16,7 +22,7 @@ Of course, most readers would concur. After all, few would promote a mindless an
 
 Be honest. The vast majority of time you spend in front of a screen isn’t intellectually stimulating. It doesn’t move you to ponder reality or [appreciate beauty](https://rekindle.co.za/content/2025-08-28-the-goldfinch-social-media-beauty). In my most cynical assessment, it is equal parts vapid and [vainglory](https://rekindle.co.za/content/2021-11-29-tyler-durden-social-media-mental-health).
 
-### Header
+### Contemplation Is Critical for Human Flourishing
 
 As far as Nietzsche was concerned, late 19th century Europeans were not living the *vita contemplativa.* Like Socrates two millennia before him, he insisted that the unexamined life was not worth living. More than this, he opines, “If we possess our why of life we can put up with almost any how” *(Twilight of the Idols*, Maxim §12). So in various ways Nietzsche insisted that we start into the abyss, confront our [existential dread](https://rekindle.co.za/content/2024-04-18-death) and grapple with the meaning of it all. To do otherwise is worse than merely glutting ourselves on distraction; it is intellectually dishonest and leaves us unprepared for the vicissitudes of human existence. This Nietzschean challenge is perhaps nowhere clearer than in the opening of his *Joyous Science*.
 
@@ -26,7 +32,7 @@ Nietzsche goes on, applying more pressure to those of us who glibly guide throug
 
 In this section of *The Joyous Science* we encounter Nietzsche at his existential best—but also at his sneerful worst. To use his words, how can we not question and tremble with curious enquiry amid the wonder of being? It’s unconscionable. It’s to sell ourselves short. Yet week to week, perhaps owing to exhaustion, we sell our birthright for a stew of digital drivel. Shame on us. But shame on us doubly—and maybe I’m speaking to myself in particular here—if we follow Nietzsche into contempt and [hatred](https://rekindle.co.za/content/2020-07-31-fridays-with-fred).
 
-### Header
+### Contempt Undermines Our Humanity
 
 In conclusion there are two dangers before us. The first is the unexamined and superficial life, a life sated with distraction, the superficial and meaningless. In a word, entertainment. As Nietzsche warned, echoing Socrates from millennia before himself: such a life is barely worth living. Work. Watch. Die. We shouldn’t settle for this. But there’s a second danger, one Nietzsche falls into himself: disdain and contempt, the haughtiness of thought and philosophical reflection. Pride.
 
