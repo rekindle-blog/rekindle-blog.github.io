@@ -1,9 +1,9 @@
 ---
 layout: post
-title: nietzsche contemplation vita contemplativa
+title: "Fridays with Fred: Between Contemplation and Contempt"
 author: gheslop
 image: /assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Friedrich Nietzsche
