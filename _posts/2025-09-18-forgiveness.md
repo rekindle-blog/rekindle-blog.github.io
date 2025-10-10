@@ -4,7 +4,7 @@ title: "Christian Forgiveness: Unlimited and Unconditional"
 author: gheslop
 image: /assets/images/forgiveness.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Forgiveness
   - Matthew's Gospel
