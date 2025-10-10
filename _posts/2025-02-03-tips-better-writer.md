@@ -3,7 +3,7 @@ layout: post
 title: Five Tips for Becoming a Better Writer
 author: gheslop
 image: /assets/images/passive-voice-writing.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Writing
