@@ -2,18 +2,17 @@
 layout: post
 title: The Necessity of Mixed-Sex Friendships for Christian Faith
 author: gheslop
-tags:
-- Lord of the Rings
-- Discipleship
-- Mixed-sex friendships
-- Tolkien
-- Kathy Keller
-- Marriage
-- Friendship
 image: assets/images/friendship-between-men-and-women.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Lord of the Rings
+  - Discipleship
+  - Mixed-sex friendships
+  - Tolkien
+  - Kathy Keller
+  - Marriage
+  - Friendship
 ---
 Two weeks ago I wrote a [post](https://rekindle.co.za/content/2021-01-13-tolkien-friendship-versus-marriage "Tolkien: Marriage Versus Friendship") exploring the implied conflict between friendship and marriage in J. R. R. Tolkien’s _The Lord Of The Rings_. I argued that towards the end of his work Tolkien undoes the wonderfully rich theme of friendship he develops throughout. For in the last chapter we learn that as long as Frodo remains in Middle-earth, Sam will be "torn." Sam will forever be strung between Rosie and his old master. Tolkien even contrasts being torn with becoming whole or healed. In other words, Sam would have experienced an ongoing unrest as long as both Frodo and Rosie were in his life. As I said in that post, I believe this is how many of us perceive marriage: one relationship to rule them all.
 
