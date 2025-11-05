@@ -4,7 +4,7 @@ title: "Fridays with Fred: Between Contemplation and Contempt"
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Friedrich Nietzsche
   - Philosophy
