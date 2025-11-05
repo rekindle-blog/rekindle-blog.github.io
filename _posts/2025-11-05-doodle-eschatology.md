@@ -36,6 +36,6 @@ Finally, so much could be said about Revelation. But when you read it front to b
 
 And who can forget the chapter that opens Revelation? Confronted by the glorified Son of God, John collapses at his feet in dread. "But he laid his right hand on me," John recounts, and he said "fear not" (Revelation 1:17).
 
-### Conclusion
+### "He Who Calls You is Faithful"
 
 Being merely a doodle, much has been left unsaid and underdeveloped in this piece. But in conclusion, I hope this the above has provided a crude rubric for your eschatology. Does it solidify faith and offer encouragement? It should. "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. He who calls you is faithful; he will surely do it" (1 Thessalonians 5:23-24).
