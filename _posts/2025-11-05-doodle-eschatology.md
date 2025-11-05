@@ -8,6 +8,10 @@ hidden: true
 tags:
   - Doodle
   - Eschatology
+  - New Testament
+  - 1 Thessalonians
+  - 2 Thessalonians
+  - Revelation
   - ""
 ---
 Having recently come up on three occasions while lecturing, I feel fairly comfortable to say that the Lord has laid the matter of eschatology on my heart—or, at the very least, my lips. For as long as I can remember I’ve had little to no interest in conversations about eschatology. That might have something to do with me being converted in a Baptist church, where I heard about premillennialism and the tribulation much more than I cared to or remotely understood. But I’ll resist blaming the Baptists, today. Throughout my theological training I read the bare minimum when it came to eschatology and since then I’ve made sparing recourse to the doctrine, both in my personal [reading](https://rekindle.co.za/content/doodle-hellenism-ethics-and-old-testament-eschatology/) and [writing](https://rekindle.co.za/content/2021-02-23-sabbath-hebrews-4-9)—my [Masters dissertation](https://rekindle.co.za/content/2022-05-26-hebrews-warning-passages) dealt with a fair deal of Hebrews’ eschatology, but I won’t bore you with that. Only, eschatology isn’t unimportant.
@@ -34,6 +38,4 @@ And who can forget the chapter that opens Revelation? Confronted by the glorifie
 
 ### Conclusion
 
-
-
-"Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. He who calls you is faithful; he will surely do it" (1 Thessalonians 5:23-24).
+Being merely a doodle, much has been left unsaid and underdeveloped in this piece. But in conclusion, I hope this the above has provided a crude rubric for your eschatology. Does it solidify faith and offer encouragement? It should. "Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. He who calls you is faithful; he will surely do it" (1 Thessalonians 5:23-24).
