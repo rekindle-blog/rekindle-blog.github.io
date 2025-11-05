@@ -3,7 +3,7 @@ layout: post
 title: The Necessity of Mixed-Sex Friendships for Christian Faith
 author: gheslop
 image: assets/images/friendship-between-men-and-women.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Lord of the Rings
