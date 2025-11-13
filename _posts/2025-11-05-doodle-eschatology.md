@@ -4,7 +4,7 @@ title: "Doodle: Misleading Eschatologies"
 author: gheslop
 image: /assets/images/purpose-eschatology.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Doodle
   - Eschatology
