@@ -9,6 +9,9 @@ tags:
   - Word of Faith
   - Prosperity Gospel
   - Faith
+  - Wealth
+  - Heresy
+  - Evil
   - ""
 ---
 September 2025 saw the [online publication](https://africastatement.org) of the *Africa Statement on the Prosperity Gospel and Word of Faith Theology* [(PDF)](https://africastatement.org/wp-content/uploads/2025/08/Africa-Statement-on-the-Prosperity-Gospel-and-Word-of-Faith-Theology.pdf). I was privileged to be a part of drafting it, offering both my editorial and theological eyes to refining the 14 articles— affirmations and denials—that constitute the statement. Now, along with many others, I’m praying that God will use it mightily to refine his Church across Africa. As a South African suburbanite I wasn’t really exposed to the excesses and pervasiveness of the prosperity gospel, until I started working for the Gospel Coalition Africa. I’d written about the likes of [Joyce Meyer](https://rekindle.co.za/content/doodle-joyce-meyer-and-restaurant-dinners/) and Andrew Wommack, calling the word of faith movement both [foolish](https://rekindle.co.za/content/the-folly-of-word-of-faith/) and [wicked](https://rekindle.co.za/content/the-wickedness-of-word-of-faith/), but I was only recently introduced to ministries like [T. B. Joshua’s](https://rekindle.co.za/content/2024-01-08-tb-joshua). Preying on some of the poorest people in the world, these prosperity gospel preachers in Africa have much to fear on judgment day.
