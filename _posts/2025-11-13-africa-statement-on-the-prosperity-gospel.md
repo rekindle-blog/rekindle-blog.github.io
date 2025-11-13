@@ -3,7 +3,7 @@ layout: post
 title: Africa Statement on the Prosperity Gospel
 author: gheslop
 image: /assets/images/africa-statement-on-the-prosperity-gospel-and-word-of-faith-theology.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Word of Faith
@@ -19,21 +19,19 @@ While many readers would agree with the previous paragraph, others will bristle.
 
 Though much more could be said—and indeed [has been](https://www.youtube.com/watch?v=jLRue4nwJaA)—below I outline three exchanges that take usually place when the prosperity gospel is preached. "Claiming to be wise," writes Paul, "they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things" (Romans 1:22-23). Likewise, prosperity gospel preaching (1) gives us gifts instead of God himself; (2) makes mankind into gods instead of those who depend on him; and (3) robs people of glory with misleading promises about the present. I’ll draw on the statement to demonstrate each of these exchanges.
 
-## \[1] Read affirmation of 14, below — God’s Gifts Instead of Himself
+## 1. God’s Gifts Instead of Himself
 
 In many ways a fitting conclusion, the last sentence of the ASPG reads, "We deny that God should ever be used as a means to any end, including health or wealth." Yet that is exactly what prosperity preaching does. Though couched in what Eugene Peterson refers to as "God-talk," the prosperity gospel has little to no interest in God—apart from what he might give us.
 
 The affirmation of the same article quoted above says, "At the fall, mankind’s desires became disordered, making us inclined to pursue the good gifts above the giver, created things above the Creator." It is our disordered desires that prosperity gospel leverages. Worse still—if that were possible—prosperity preachers cultivate our skewed and fallen desires, often by appealing to their own material blessings and success. Developing the *Westminster Confession of Faith* (1.1), the ASPG insists that, "man most aligns with his God-given purpose when he treasures God far above anything that God has created."
 
-
-
-## \[2] 
+## 2. 
 
 Secondly, the prosperity gospel makes us gods, in place of the true God. I’m not here referring to the nonsensical heresy proffered by men like T. D. Jakes and the aptly named Creflo Dollar, who identify people as "little gods." I’m instead highlighting a more subtle—therefore perhaps more dangerous—notion: God answers to us. Put another way, God isn’t sovereign if you have a great enough faith; God’s will can succumb to yours (cf. Luke 22:42).
 
 Article 11 of the ASPG denies, "that faith is a personal force which Christians are to use to manifest any reality they desire." It goes, insisting that faith isn’t some, "independent agent or substance which possesses creative power or which God is decisively bound to honour." God isn’t bound to our wills, regardless of how much faith we possess. As the affirmation reminds us: "faith is a gift of God by which we trust in God.” It is “the open hand with which we lay hold of God’s saving grace," not a fist with which we pummel God into submission. God won’t be coerced—especially not by those he created.
 
-## \[3] Earth Rather Than Glory
+## 3. Earth Rather Than Glory
 
 The third exchange of prosperity gospel preaching is the false promise of earthly blessings for the new heavens and the new earth. Our continent is one of the poorest in the world, with some referring to Africa as the 'bottom billion.' Many of my readers only know abject poverty from a distance, myself included. We haven’t wondered if we’ll have food tomorrow or drinkable water; medicine for our aging parents or newly born children. We know little of the desperation that is almost common place across Africa. Having experienced something like that, I believe we’d better understand why the prosperity gospel has triumphed here—not to mention a sharper focus on the wickedness of its heralds.
 
@@ -41,4 +39,4 @@ Article 1 affirms verses like Matthew 7:11 and James 1:17. "Our Heavenly Father 
 
 #### Header
 
-Much more could be said. Thankfully, many people are speaking out about the abuses and manipulation that mark these ministries. Maybe you also have a story to tell. Don’t hesitate. It may very well help others. But even if you don’t, why not help someone else find the *Africa Statement on Prosperity Gospel and Word of Faith Theology?* Use one of the links above to visit the website. Sign the statement. Share it. Help those who’re sat in darkness see a great light.
+Much more could be said. Thankfully, many people are speaking out about the abuses and manipulation that mark these ministries. Maybe you also have a story to tell. Don’t hesitate. It may very well help others. But even if you don’t, why not help someone else find the *Africa Statement on Prosperity Gospel and Word of Faith Theology?* Use one of the links above to visit the website. Sign the statement. Share it. Help those who’re in darkness to see a great light.
