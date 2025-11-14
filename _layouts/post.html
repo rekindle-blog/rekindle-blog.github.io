@@ -94,19 +94,6 @@ post_class: post-template
                 </small>
             </p>
 
-            <!-- Post Categories
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tag/{{ category | replace: " ","-" | strip }}">{{ category | strip }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-			</div>-->
-            <!-- End Categories -->
-
             <!-- Post Tags -->
             {% if page.tags %}
             <div class="after-post-tags">
