@@ -9,7 +9,7 @@ layout: default
 
     <div class="row listrecent">
     {% assign normalizedPageTag = page.tag | strip | replace: ' ', '-' | downcase %}
-		{% for post in posts %}
+		{% for post in site.posts %}
       {% assign normalizedTags = post.tags | map: 'strip' | map: 'replace', ' ', '-' | map: 'downcase' %}
       {% if normalizedTags contains normalizedPageTag %}
         {% include postbox.html %}
