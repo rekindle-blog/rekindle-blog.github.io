@@ -98,7 +98,7 @@ post_class: post-template
             {% if page.tags %}
             <div class="after-post-tags">
                 <ul class="tags">
-                    {% assign sortedTags = page.tags | compact | sort %}
+                    {% assign sortedTags = page.tags | sort | where_exp: "tag", "tag != ''" %}
                     {% for tag in sortedTags %}
                     <li>
                         <a class="smoothscroll" href="{{site.baseurl}}/tag/{{ tag | strip | replace: " ","-" | downcase }}">{{ tag }}</a>
