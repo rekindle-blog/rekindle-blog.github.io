@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: spiritual gifts"
+title: "Tag: Spiritual Gifts"
 tag: spiritual-gifts
 robots: noindex
 ---

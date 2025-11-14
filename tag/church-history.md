@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Church History"
+title: "Tag: Church history"
 tag: church-history
 robots: noindex
 ---

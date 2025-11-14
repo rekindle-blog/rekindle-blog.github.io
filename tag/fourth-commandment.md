@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Fourth commandment"
+title: "Tag: Fourth Commandment"
 tag: fourth-commandment
 robots: noindex
 ---

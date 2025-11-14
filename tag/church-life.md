@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Church life"
+title: "Tag: Church Life"
 tag: church-life
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Family"
-tag: family
+title: "Tag: Capitalism"
+tag: capitalism
 robots: noindex
 ---

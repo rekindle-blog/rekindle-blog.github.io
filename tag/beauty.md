@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Family"
-tag: family
+title: "Tag: Beauty"
+tag: beauty
 robots: noindex
 ---

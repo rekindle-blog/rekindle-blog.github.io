@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Christian Community"
+title: "Tag: Christian community"
 tag: christian-community
 robots: noindex
 ---

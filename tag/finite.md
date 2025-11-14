@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Family"
-tag: family
+title: "Tag: Finite"
+tag: finite
 robots: noindex
 ---
