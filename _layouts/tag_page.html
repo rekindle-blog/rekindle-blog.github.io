@@ -10,8 +10,15 @@ layout: default
     <div class="row listrecent">
     {% assign normalizedPageTag = page.tag | strip | replace: ' ', '-' | downcase %}
 		{% for post in site.posts %}
-      {% assign normalizedTags = post.tags | map: 'strip' | map: 'replace', ' ', '-' | map: 'downcase' %}
-      {% if normalizedTags contains normalizedPageTag %}
+      {% assign postMatches = false %}
+      {% for tag in post.tags %}
+        {% assign normalizedTag = tag | strip | replace: ' ', '-' | downcase %}
+        {% if normalizedTag == normalizedPageTag %}
+          {% assign postMatches = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% if postMatches %}
         {% include postbox.html %}
       {% endif %}
     {% endfor %}
