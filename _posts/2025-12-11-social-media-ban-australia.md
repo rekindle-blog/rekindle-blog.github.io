@@ -10,9 +10,9 @@ tags:
   - Smartphones
   - ""
 ---
-Yesterday saw the Australian government’s ban on social media for teens under-16 come into effect. Some might say that Aslan is on the move—and I’d offer up my hearty amen. For the profound harm that social media causes adolescents has been well-documented. Only many people still deny or ignore the mounting evidence. Naturally, the companies that stand to profit from social media are its most eager defenders—a bit like gun manufacturers celebrating the Second Amendment. But social media has many more advocates in the real world. And until we honestly confront the terrifying and distorting grip it has over most of us, the next generation will remain in peril—regardless of social media bans and the like.
+Yesterday saw the Australian government’s ban on social media for under-16s come into effect. Some might say that Aslan is on the move—and I’d offer up my hearty amen. For the profound harm that social media causes adolescents has been well-documented. Only many people still deny or ignore the mounting evidence. Naturally, the companies that stand to profit from social media are its most eager defenders—a bit like gun manufacturers celebrating the Second Amendment. But social media also has advocates in the real world. And until we honestly confront the terrifying and distorting grip it has over most of us, the next generation will remain in peril—regardless of social media bans.
 
-As Tony Reinke argues in *Competing Spectacles—*or maybe it was *12 Ways Your Phone Is Changing You—*when it comes to smartphone and social media use among children, the greatest responsibility falls to parents. ***More?***
+As Tony Reinke argues in *[Competing Spectacles](https://www.desiringgod.org/books/competing-spectacles)—*or maybe it was *[12 Ways Your Phone Is Changing](https://www.desiringgod.org/books/12-ways-your-phone-is-changing-you) You—*when it comes to smartphone and social media use among children, the greatest responsibility falls to parents. ***More?***
 
 Rejoice in the band because we recognise the damage but then readily consume social media ourselves?
 
