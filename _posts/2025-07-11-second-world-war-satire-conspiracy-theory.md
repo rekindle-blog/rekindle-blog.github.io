@@ -3,7 +3,7 @@ layout: post
 title: "The Second World War Never Happened: A Satire"
 author: gheslop
 image: /assets/images/second-world-war-satire.png
-featured: false
+featured: true
 hidden: false
 tags:
   - Satire
