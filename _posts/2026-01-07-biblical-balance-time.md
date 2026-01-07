@@ -3,7 +3,7 @@ layout: post
 title: Pursuing a Biblical Balance in How We Use Our Time
 author: gheslop
 image: /assets/images/goya-balance.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Time
@@ -12,6 +12,9 @@ tags:
   - Smartphones
   - Entertainment
   - Grace
+  - D. A. Carson
+  - Spiritual discipline
+  - Technology
   - ""
 ---
 For Christmas I was given a copy of D. A. Carson’s *[The Gospel and the Modern World](https://www.crossway.org/books/the-gospel-and-the-modern-world-tpb/)*. Though it goes without saying when it comes to his writing, I highly recommend this collection of essays, thoughtfully selected and arranged by Bryan Tabb. Throughout 2026 it’s my intention to read through Carson’s work—employing John Piper’s ["disciplined blocks"](https://rekindle.co.za/content/2025-02-07-reading-reflections)—and occasionally reflecting on it in my own writing. This article is the first of such offerings, exploring [Carson’s exhortation](https://www.thegospelcoalition.org/themelios/article/the-beauty-of-biblical-balance/) to consider the Bible’s many axes along which Christians must pursue balance. One such axis is our use of time and the multitude of responsibilities God places on his people.
