@@ -1,6 +1,6 @@
 ---
 layout: post
-title: biblical balance time
+title: Pursuing a Biblical Balance in How We Use Our Time
 author: gheslop
 image: /assets/images/goya-balance.jpg
 featured: true
@@ -18,9 +18,11 @@ For Christmas I was given a copy of D. A. Carson’s *[The Gospel and the Modern
 
 ### Header
 
-As Carson writes, "The Bible exhorts us to discharge many responsibilities, all of them time-consuming: to work, love our neighbour, love our spouse, bring up our children in the nurture and admonition of the Lord, pray, meditate on God’s Word, meet together with other believers for mutual edification and corporate praise, bear witness to the gospel with unbelievers, and much more." Fulfilling those responsibilities is difficult enough, but they’re made even more complicated when we remember that time is a zero-sum game—you can’t compress, condense, manipulate or bend time, as some [misguided folk](https://www.youtube.com/shorts/dEDEMBMPsvg) believe. However we allocate and distribute our time, the sum total doesn’t change. "One cannot allot more time and energy to one responsibility,” writes Carson, “without correspondingly diminishing one or more of the other blocks." Fidelity and obedience to God must therefore reckon with the finitude of time.
+As Carson writes, "The Bible exhorts us to discharge many responsibilities, all of them time-consuming: to work, love our neighbour, love our spouse, bring up our children in the nurture and admonition of the Lord, pray, meditate on God’s Word, meet together with other believers for mutual edification and corporate praise, bear witness to the gospel with unbelievers, and much more."
 
-Faithfully using our time is, however, further complicated by what Carson identifies as "the peculiar rush of duties that befall us in peculiar circumstances." Someone falls ill. You’re swamped with home admin. Work is unseasonably intense. Perhaps you binged the last season of *Stranger Things,* which left you scratching for some 10 hours in your week.Even the most deliberate stewards of their time will succumb to unforeseen circumstances and unusually chaotic seasons.
+Fulfilling those responsibilities is difficult enough, but they’re made even more complicated when we remember that time is a zero-sum game—you can’t compress, condense, manipulate or bend time, as some [misguided folk](https://www.youtube.com/shorts/dEDEMBMPsvg) believe. However we allocate and distribute our time, the sum total doesn’t change. "One cannot allot more time and energy to one responsibility," writes Carson, "without correspondingly diminishing one or more of the other blocks." Fidelity and obedience to God must therefore reckon with the finitude of time.
+
+Faithfully using our time is further complicated by what Carson identifies as "the peculiar rush of duties that befall us in peculiar circumstances." Someone falls ill. You’re swamped with home admin. Work is unseasonably intense. Perhaps you binged the last season of *Stranger Things,* which left you scratching for some 10 hours in your week. Even the most deliberate stewards of their time will succumb to unforeseen circumstances and unusually chaotic seasons.
 
 All of this is to say: finding a biblical balance in our use of time isn’t straightforward. But the start of the year is a great time to reconsider it, perhaps recommitting to more wisely stewarding our time as the Lord teaches us to number our days (Psalm 90:12). As Carson puts it, "The needed balance in the face of such demands turns on right priorities in using the time God has given us."
 
