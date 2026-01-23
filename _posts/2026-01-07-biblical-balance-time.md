@@ -4,7 +4,7 @@ title: Pursuing a Biblical Balance in How We Use Our Time
 author: gheslop
 image: /assets/images/goya-balance.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Time
   - Streaming Services
