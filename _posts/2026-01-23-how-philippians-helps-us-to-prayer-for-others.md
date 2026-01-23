@@ -5,8 +5,21 @@ author: gheslop
 image: /assets/images/praying-with-paul.jpg
 featured: false
 hidden: true
+tags:
+  - Philippians
+  - D. A. Carson
+  - Prayer
+  - Pray
+  - Love
+  - Philippians 1:3-6
+  - Philippians 1:7-8
+  - Philippians 1:9-11
+  - Bible
+  - ""
 ---
-Last week I was reading through Philippians 1:3-11 when it struck me that Paul provides us with a few fundamentals of praying for others. In a sentence, we might summarise those principles like this: praying for others is grounded in the assured confidence that comes with knowing God and affectionately remembering his people, desiring their good and God’s glory. 
+Last week I was reading through Philippians 1:3-11 when it struck me that Paul provides us with a few fundamentals of praying for others. In a sentence, we might summarise those principles like this: praying for others is grounded in the assured confidence that comes with knowing God and affectionately remembering his people, desiring their good and God’s glory.
+
+
 
 Previously [I’ve developed](https://rekindle.co.za/content/2024-10-10-pray-with-an-open-bible) a passage from D. A. Carson’s *Praying With Paul*, where he outlines the two broad ways that the Bible ought to shape our prayer lives. Firstly, meditating on the Bible informs our theology and therefore our prayers. Secondly, we can [pray the prayers](https://rekindle.co.za/content/2021-07-07-prayer-belgic-confession-pandemic) found in the Bible. This reflection on Philippians 1:3-11 tends towards the former, the theological principles and foundations out of which prayers grow.
 
@@ -44,6 +57,6 @@ Finally, Paul concludes [what he actually prays](https://rekindle.co.za/content/
 
 But praying that God might be glorified can’t be used as a kind of spiritual full-stop. It doesn’t somehow baptise thoughtless prayers. It isn’t a bow we tie around lazy and indifferent prayers. The verses preceding Philippians 1:11 don’t allow for that. Though we might not always know how God will glorify himself—often through the unexpected—we ought to always pray according to his revealed will.
 
-#### Conclusion
+#### A Theological Guide
 
 As I alluded to in my introduction, we might conceive of two broader ways the Bible can shape our prayers. One simply adopts or slightly adapts biblical prayers, whether those are Jesus’ or Jeremiah’s, Paul’s or a psalmist’s. The other way is to have our prayers informed and infused with theological truth. Though the passage I’ve considered above is a Pauline prayer, this article has attempted to outline some of the theological principles of praying for others. Paul affectionally remembers the Philippians when he prays for them, drawing great assurance from God’s character and desiring that God would be glorified in them. Let’s do likewise.
