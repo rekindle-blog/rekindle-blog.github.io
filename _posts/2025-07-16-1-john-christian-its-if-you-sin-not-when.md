@@ -3,7 +3,7 @@ layout: post
 title: "1 John: Christian, It's \"If\" You Sin, Not 'When'"
 author: gheslop
 image: /assets/images/la-iglesia-de-la-compania-de-jesus.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Sanctification
