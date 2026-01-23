@@ -3,7 +3,7 @@ layout: post
 title: "Satan and Senate: Do Global Powers Serve the Devil's Ends?"
 author: gheslop
 image: /assets/images/earthrise-apollo-8.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Satan
