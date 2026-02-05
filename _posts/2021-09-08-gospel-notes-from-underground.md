@@ -2,18 +2,17 @@
 layout: post
 title: Gospel Notes From Underground
 author: gheslop
-tags:
-- Book review
-- Literature
-- Power
-- Love
-- Gospel
-- Fyodor Dostoyevsky
-- Notes From Underground
 image: assets/images/notes-from-underground.jpg
-featured: false
+featured: true
 hidden: false
-
+tags:
+  - Book review
+  - Literature
+  - Power
+  - Love
+  - Gospel
+  - Fyodor Dostoyevsky
+  - Notes From Underground
 ---
 However accomplished and capable, for most readers the Russians—particularly Fyodor Dostoyevsky and Leo Tolstoy—pose a substantial problem. While they obviously consist of some of the most important literary works in history, they are incredibly demanding reads. So even after the long march through, say _Brothers Karamazov_ or _War And Peace,_ one cannot easily discuss the literary themes. Because of this experience, I recently made my way through Dostoyevsky’s _Notes From Underground,_ for the third time. And thanks to the reading group that I’m a part of, I finally made some sense of this masterful novella. In this post I want to share some of those observations, especially the interplay between [power](https://rekindle.co.za/content/2021-05-28-fridays-with-fred-perspectivism "Nietzsche on Power") and love.
 
