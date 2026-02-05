@@ -3,7 +3,7 @@ layout: post
 title: Reflections on Fatherhood From 'The Road'
 author: gheslop
 image: /assets/images/the-road.jpeg
-featured: true
+featured: false
 hidden: false
 tags:
   - The Road
