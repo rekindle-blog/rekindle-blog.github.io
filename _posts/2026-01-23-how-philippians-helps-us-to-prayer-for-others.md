@@ -4,7 +4,7 @@ title: How Philippians Helps Us to Pray for Others
 author: gheslop
 image: /assets/images/praying-with-paul.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Philippians
   - D. A. Carson
