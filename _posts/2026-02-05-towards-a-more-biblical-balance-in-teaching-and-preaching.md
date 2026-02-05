@@ -3,7 +3,7 @@ layout: post
 title: Towards a More Biblical Balance in Teaching and Preaching
 author: gheslop
 image: /assets/images/bible.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Herman Bavinck
