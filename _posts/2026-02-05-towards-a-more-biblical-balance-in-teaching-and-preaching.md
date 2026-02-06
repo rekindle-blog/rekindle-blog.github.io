@@ -4,7 +4,7 @@ title: Towards a More Biblical Balance in Teaching and Preaching
 author: gheslop
 image: /assets/images/bible.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Herman Bavinck
   - D. A. Carson
