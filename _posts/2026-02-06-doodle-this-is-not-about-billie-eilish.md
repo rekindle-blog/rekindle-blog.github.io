@@ -3,8 +3,8 @@ layout: post
 title: "Doodle: This Is Not About Billie Eilish"
 author: gheslop
 image: /assets/images/billie-eilish.jpg
-featured: true
-hidden: false
+featured: false
+hidden: true
 tags:
   - Billie Eilish
   - J. K. Rowling
@@ -14,6 +14,7 @@ tags:
   - Plato
   - Celebrity Culture
   - Philosophy
+  - Doodle
   - ""
 ---
 Without condoning any of the slander she’s receiving, I think we can all agree that Billie Eilish’s recent comment at the Grammy’s was indefensible. If you can put the general nastiness aside, social media is awash with everything from [ruthless satire](https://rekindle.co.za/content/2020-10-08-a-note-on-satire) to [well-reasoned](https://www.facebook.com/share/r/1CBrkMmk3F/) arguments demonstrating the intellectual poverty of Eilish’s remarks. Many of those, including the comedian himself, have reprised Ricky Gervais’ shot across the bow from the Golden Globes: "If you do win an award tonight, don’t use it as a platform to make a political speech. You’re in no position to lecture the public about anything. You know nothing about the world." While it would be incredibly harsh to claim that Billie Eilish knows nothing about the world, we certainly couldn’t call her speech even remotely thoughtful. But here’s the thing: that’s not a problem for people who agree with the sentiments conveyed by Eilish.
