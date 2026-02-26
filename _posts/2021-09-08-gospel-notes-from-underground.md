@@ -3,7 +3,7 @@ layout: post
 title: Gospel Notes From Underground
 author: gheslop
 image: assets/images/notes-from-underground.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Book review
