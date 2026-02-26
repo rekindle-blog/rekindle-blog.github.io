@@ -4,7 +4,7 @@ title: "Doodle: This Is Not About Billie Eilish"
 author: gheslop
 image: /assets/images/billie-eilish.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Billie Eilish
   - J. K. Rowling
