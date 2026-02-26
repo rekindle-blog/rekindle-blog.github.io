@@ -3,7 +3,7 @@ layout: post
 title: Christian, Look To and Learn From Older Saints
 author: gheslop
 image: /assets/images/old-saints.png
-featured: true
+featured: false
 hidden: false
 tags:
   - Chronological Snobbery
