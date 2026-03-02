@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Gentle And Lowly"
+title: "Tag: Gentle and Lowly"
 tag: gentle-and-lowly
 robots: noindex
 ---

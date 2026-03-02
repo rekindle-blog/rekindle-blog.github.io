@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Church Online"
+title: "Tag: Church online"
 tag: church-online
 robots: noindex
 ---

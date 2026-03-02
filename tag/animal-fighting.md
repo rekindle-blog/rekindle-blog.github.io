@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Animal fighting"
+title: "Tag: Animal Fighting"
 tag: animal-fighting
 robots: noindex
 ---

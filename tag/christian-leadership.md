@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: Christian leadership"
+title: "Tag: Christian Leadership"
 tag: christian-leadership
 robots: noindex
 ---

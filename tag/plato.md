@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-title: "Tag: family"
-tag: family
+title: "Tag: Plato"
+tag: plato
 robots: noindex
 ---
