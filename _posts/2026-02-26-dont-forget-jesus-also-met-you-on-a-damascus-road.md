@@ -4,7 +4,7 @@ title: Don't Forget, Jesus Also Met You on a Damascus Road
 author: gheslop
 image: /assets/images/damascus-road-experience.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Philippians
   - Acts
