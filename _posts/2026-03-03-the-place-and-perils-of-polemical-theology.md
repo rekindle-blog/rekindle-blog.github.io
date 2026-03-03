@@ -19,8 +19,6 @@ tags:
 ---
 In my work with TGC Africa I’ve become aware of various discernment ministries around Africa. Invariably, they engage in what we would call polemical theology. As D. A. Carson defines it, "Polemical theology is nothing other than contending for a particular theological understanding (usually one that the contender holds to be the truth) and disputing those that contradict or minimise it." Though discernment blogging typically majors in disputing aberrant teaching or practices and abuses, the definition fits. But in the [short editorial](https://www.thegospelcoalition.org/themelios/article/editorial1/) where Carson provides that definition, he also issues a few timely warnings for those who engage in critical theological dialogue—from discernment blogging to response videos. For, as my title suggests, polemical theology is a necessary but perilous undertaking.
 
-
-
 In the two sections below I’ll: make a case for polemical theology and rescue it from how it tends to be mischaracterised; and then unpack some of the warnings in Carson’s letters for those engaged in critical theology, discernment ministries and reacting to others’s theology in general.
 
 ## The Necessity for Polemical Theology
@@ -45,6 +43,6 @@ Secondly, Carson continues, "Some become far better known for what they are agai
 
 Finally, "at the risk of a generalisation," observes Carson, "those who spend their lives refuting and correcting fellow believers but who rarely engage at a serious level with ideas and stances in the broader world almost always find themselves at increasing odds with more and more believers." His point here is slightly different but related to those preceding it. Instead of ceaselessly critiquing those within the Church, Carson exhorts Christians to work at standing beside other believers and looking at the world. There’s an apt word, often attached to Christians: internecine, which describes destructive infighting whereby all sides are hurt. At the risk of being repetitious, there’s a place for polemical theology but not if it blinds us to "the common heritage of Christians."
 
-#### Header
+#### Know Its Place, Beware Its Perils
 
 In closing let me reiterate what I set out to say in the two sections above. On the one hand, polemical theology has its place. Refuting error, defending the truth and positively presenting sound doctrine is all necessary. There is also a well-documented biblical precedent for it. On the other hand, there are many pitfalls in making it one’s aim to always be refuting error or correcting others. "God knows there is plenty of error to confute," writes Carson. But, he goes on, majoring in that "is likely to diminish the joyful affirmation of truth and make every affirmation of truth sound angry, supercilious, self-righteous—in a word, polemical."
