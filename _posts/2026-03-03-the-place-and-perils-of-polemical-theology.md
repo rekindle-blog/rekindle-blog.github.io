@@ -9,13 +9,21 @@ tags:
   - Apologetics
   - Polemical theology
   - D. A. Carson
+  - Theology
+  - Correction
+  - Discernment
+  - Discernment blogs
+  - Speech
+  - Rebuke
   - ""
 ---
 In my work with TGC Africa I’ve become aware of various discernment ministries around Africa. Invariably, they engage in what we would call polemical theology. As D. A. Carson defines it, "Polemical theology is nothing other than contending for a particular theological understanding (usually one that the contender holds to be the truth) and disputing those that contradict or minimise it." Though discernment blogging typically majors in disputing aberrant teaching or practices and abuses, the definition fits. But in the [short editorial](https://www.thegospelcoalition.org/themelios/article/editorial1/) where Carson provides that definition, he also issues a few timely warnings for those who engage in critical theological dialogue—from discernment blogging to response videos. For, as my title suggests, polemical theology is a necessary but perilous undertaking.
 
+
+
 In the two sections below I’ll: make a case for polemical theology and rescue it from how it tends to be mischaracterised; and then unpack some of the warnings in Carson’s letters for those engaged in critical theology, discernment ministries and reacting to others’s theology in general.
 
-### The Necessity and Biblical Precedent for Polemical Theology
+## The Necessity for Polemical Theology
 
 Firstly, polemics are both unavoidable and necessary. As Carson argues, it’s difficult to take a theological position seriously unless it also examines other positions offering "serious engagement with those who disagree." Therefore, writes Carson, "It is not easy for Christians to be entirely free of polemics, and it is not wise to attempt such freedom."
 
@@ -27,7 +35,7 @@ Fourthly, the arena of polemical theology is one where we must pay special atten
 
 *Abusus non tollit usum*.
 
-### Polemics, Pitfalls and Spiritual Perils
+## Polemics, Pitfalls and Spiritual Perils
 
 With its place established, we must turn our attention to the perils of polemical theology. In his *Exegetical Fallacies*, Carson [insists](https://rekindle.co.za/content/doodle-driscoll-perilous-negativism-and-the-apostle-paul/) that "persistent negativism is spiritually perilous." From his editorial we can tease out at least three ways in which this is true.
 
