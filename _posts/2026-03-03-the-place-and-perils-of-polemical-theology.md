@@ -3,7 +3,7 @@ layout: post
 title: The Place and Perils of Polemical Theology
 author: gheslop
 image: /assets/images/dominance.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Apologetics
