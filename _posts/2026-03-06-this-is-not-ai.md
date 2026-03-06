@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This Is Not AI
+title: "This Is Not AI: It's Writing"
 author: gheslop
 image: /assets/images/pippin-ai.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Writing
@@ -13,6 +13,7 @@ tags:
   - Artificial Intelligence
   - Steve Jobs
   - Walter Isaacson
+  - Reading
   - ""
 ---
 Pictured above is Master Peregrin Took—Pippin for short—the latest addition to our home. Like a proud parent, I recently showed him to a friend and her response surprised me. Staring hard at the picture she asked: "Is that AI?" I was taken aback. Why would I try to pass off an AI-generated picture of a kitten as my own, picture or cat? Though it was a bizarre question to ask, I fully understand the growing cynicism with which people are viewing online content. Social media was already a hall of mirrors and disingenuous influencers. But today’s levels of fakery beggar belief. However this isn’t another post about social media—you can read some of my more recent thoughts on that [here](https://rekindle.co.za/content/2025-12-11-social-media-ban-australia). Neither is it about AI-generated images, a battle other creatives can fight. Rather, my recent interaction about the picture of Pippin got me thinking about writing.
@@ -23,10 +24,8 @@ Since I mentioned both biographies and developers above, we’d do well to consi
 
 I realise that all of the above could come across as bitterness, barely more than an angry missive from a [self-confessed](https://rekindle.co.za/content/2023-03-17-doodle-our-digital-age-isn-t-the-golden-age) Luddite—I am trying to make it something more. But part of me is angry. Passing off work that isn’t yours was until very recently considered plagiarism. It was an expellable offence in most higher learning institutions. Then along comes generative AI and suddenly it’s okay? As if the briefest of human inputs upfront—in the form of a prompt—somehow turns whatever the machine pumps out into a human labour. It doesn’t. Obviously. It’s plagiarism. Period. And to those who aren’t under threat of institutional expulsion, plagiarism is more than transgressing intellectual property laws; it’s a lack of integrity. It’s disingenuous, tending towards full-blown deceit.
 
+Imagine Steve Jobs tasked Walter Isaacson with writing his biography but, before the book went to press or print, Jobs had Isaacson killed, stole the complete manuscript and published it as *[Steve Jobs: The Exclusive Autobiography](https://www.amazon.co.za/Steve-Jobs-Biography-Walter-Isaacson/dp/1451648537).* Admittedly the analogy is imperfect; we’d all agree that murder would be the most glaring peccadillo on Job’s part, had that happened. But the analogy does illustrate the sheer nonsense of calling AI-generated work your own, just because you prompted it or later edited the text.
 
-
-Imagine Steve Jobs tasked Walter Isaacson with writing his biography but, before the book went to press or print, Jobs had Isaacson killed, stole the complete manuscript and published it as *Steve Jobs: The Exclusive Autobiography.* Admittedly the analogy is imperfect; we’d all agree that murder would be the most glaring peccadillo on Job’s part, had that happened. But the analogy does illustrate the sheer nonsense of calling AI-generated work your own, just because you prompted it or later edited the text.
-
-I began this article by recounting a conversation from which I got its title. By now I’m sure it’s also no surprise that the title is a comment on my own writing: this isn’t AI. Nothing at Rekindle is AI-generated. Everything from ‘ideation to content creation’—to adapt a gag-inducing shibboleth—is human. I don’t use AI to help with editing. It doesn’t write my conclusions or introductions. Nor does it help with corrections or improving ‘readability’ scores. In fact, just months before widespread access to ChatGPT I explained [why I forego](https://rekindle.co.za/content/2022-03-23-passive-voice) tools like Grammarly, which are undoubtedly by now fully integrated with AI. As C. S. Lewis argued in his *Experiment in Criticism,* good writing is determined by a piece’s power to draw us back to itself—rather than the percentage of passive voice or sentence length. Therefore writing can only be evaluated by careful readers. Not computers.
+I began this article by recounting a conversation from which I got its title. By now I’m sure it’s also no surprise that the title is a comment on my own writing: this isn’t AI. Nothing at Rekindle is AI-generated. Everything from ‘ideation to content creation’—to adapt a gag-inducing shibboleth—is human. I don’t use AI to help with editing. It doesn’t write my conclusions or introductions. Nor does it help with corrections or improving ‘readability’ scores. In fact, just months before widespread access to ChatGPT I explained [why I forego](https://rekindle.co.za/content/2022-03-23-passive-voice) tools like Grammarly, which are undoubtedly by now fully integrated with AI. As C. S. Lewis argued in his *[Experiment in Criticism](https://www.youtube.com/watch?v=Ls-L5K3OH8M),* good writing is determined by a piece’s power to draw us back to itself—rather than the percentage of passive voice or sentence length. Therefore writing can only be evaluated by careful readers. Not computers.
 
 Since I’ve already threatened to do, in closing let me attempt a positive appeal. There’s a passage in Dostoyevsky’s *[Notes From Underground](https://rekindle.co.za/content/2021-09-08-gospel-notes-from-underground)* where the narrator turns over a few reasons to write. He notes how writing is linked to memory; that those who practice it tend to be better prepared for speaking; that it enables us to examine ourselves and our own ideas; and that there is often relief in scribbling down our struggles. But throughout he also remarks that writing is arduous and demanding. This is very likely why most people have flocked to prompts and abandoned their proverbial pens. Bringing the thought to and end, Dostoyevsky’s narrator writes, “Writing is really something like work. They say work makes a man honest and good. Well, it’s a chance, at least.”
