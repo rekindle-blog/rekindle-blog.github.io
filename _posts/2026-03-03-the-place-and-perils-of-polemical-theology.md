@@ -4,7 +4,7 @@ title: The Place and Perils of Polemical Theology
 author: gheslop
 image: /assets/images/dominance.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Apologetics
   - Polemical theology
