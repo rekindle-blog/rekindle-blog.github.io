@@ -3,7 +3,7 @@ layout: post
 title: Between the Delights of Solitude and Dread of Loneliness
 author: gheslop
 image: /assets/images/solitude-or-loneliness.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Loneliness
@@ -15,7 +15,7 @@ tags:
   - Community
   - ""
 ---
-It’s been many years—though she might prefer the expression ‘many moons’—since I read ***The*** ***Luminaries***. The mammoth, award-winning first novel from Eleanor Catton hopefully needs no introduction. If you’re after one, I can’t help you. In this article I want to consider just one short passage from the novel, about loneliness and the illusion of company. In the words of Catton’s narrator, “Solitude is a condition best enjoyed in company. Especially the company of another soul. It’s dreadful to feel alone and really be alone. But I love to enjoy the feeling when I’m not."
+It’s been many years—though she might prefer the expression ‘many moons’—since I read **[*The* *Luminaries*](https://thebookerprizes.com/the-booker-library/books/the-luminaries)**. The mammoth, award-winning first novel from Eleanor Catton hopefully needs no introduction. If you’re after one, I can’t help you. In this article I want to consider just one short passage from the novel, about loneliness and the illusion of company. In the words of Catton’s narrator, “Solitude is a condition best enjoyed in company. Especially the company of another soul. It’s dreadful to feel alone and really be alone. But I love to enjoy the feeling when I’m not."
 
 It’s a delightfully thought provoking passage. While more could be said about it, it makes two salient point and related points. Conclusion
 
@@ -23,7 +23,7 @@ It’s a delightfully thought provoking passage. While more could be said about 
 
 Firstly, a distinction can be made between solitude and loneliness. In the scene being narrated, one of Catton’s characters is surrounded by people and the sounds of their voices, only they are also unsighted. This is solitude without being truly alone. "I love to enjoy the feeling," of being alone, "when I’m not."
 
-Even as a Myers-Briggs verified extrovert, I’m partial to moments like the one described here. Though preferences may vary, most of us enjoy time alone. Personally, I prize undisturbed time for my **thoughts** and **books**,or **writing**. Such solitudes tend towards this first kind. While my community might not be immediately present, I’m aware of them. Company stands as an unseen atmosphere to periods of solitude. The latter is merely a mode of existing, rather than my truest or fundamental experience of the world.
+Even as a Myers-Briggs verified extrovert, I’m partial to moments like the one described here. Though preferences may vary, most of us enjoy time alone. Personally, I prize undisturbed time for my [thoughts](https://rekindle.co.za/content/2024-04-18-death) and [books](https://rekindle.co.za/content/2025-02-07-reading-reflections) or [writing](https://rekindle.co.za/content/2026-03-06-this-is-not-ai). Such solitudes tend towards this first kind. While my community might not be immediately present, I’m aware of them. Company stands as an unseen atmosphere to periods of solitude. The latter is merely a mode of existing, rather than my truest or fundamental experience of the world.
 
 ## 2. The Dread of Loneliness
 
@@ -33,7 +33,7 @@ The point I want to make from this passage is that genuine loneliness can also o
 
 #### Header
 
-I’m well aware that there’s much more to the passage I’ve quoted from Eleanor Catton’s *Luminaries*, particularly its context. Being well-drilled in the dangers of **misusing texts** demands that I keep this reflection short; it’s a terse passage in an otherwise considerable work. So in closing I want to offer two brief implications of the above.
+I’m well aware that there’s much more to the passage I’ve quoted from Eleanor Catton’s *Luminaries*, particularly its context. Being well-drilled in the dangers of [misusing texts](https://rekindle.co.za/content/2022-10-27-most-biblical-narratives-don-t-have-a-main-point) demands that I keep this reflection short; it’s a terse passage in an otherwise considerable work. So in closing I want to offer two brief implications of the above.
 
 Firstly, most of us take up a part in someone else’s crowd—the humdrum of what might otherwise be a lonely life. The possibility of dreadful loneliness despite being among people demands vigilance. It demands intentionally looking around for those hidden in plain sight. Remember, busyness and bustle are not companionship. Beneath it might be an aching isolation. Those most desperate for help are usually those who’ve long given up asking for it, so the cliché goes. But then clichés often teem with truth and therefore shouldn’t be dismissed on account of familiarity. Likewise, we shouldn’t disregard the likelihood that certain people in our lives are terribly lonely.
 
