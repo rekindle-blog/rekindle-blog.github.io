@@ -4,7 +4,7 @@ title: This Is Not AI
 author: gheslop
 image: /assets/images/pippin-ai.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Writing
   - Fyodor Dostoyevsky
