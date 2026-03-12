@@ -31,7 +31,7 @@ Secondly, however, as that passage from *The Luminaries* says, "It's dreadful to
 
 The point I want to make from this passage is that genuine loneliness can occur in the crowd. Rubbing shoulders with people doesn’t extinguish a burning and acute sense of loneliness. Nor will superficial conversations and shallow community, if such combinations of words aren’t oxymoronic. Just like you can feel alone without truly being alone, you can also be profoundly alone despite being immersed in people. Despite a humming social life or stacked calendar. Despite a glossy and full life according to social media, which is little more than a carefully curated conceit. Most people can attest to this, even if most people aren’t willing to admit it.
 
-#### Header
+#### From Dread to Dependence
 
 There’s much more to the passage I’ve quoted from Eleanor Catton’s *Luminaries*, particularly its context. Being well-drilled in the dangers of [misusing texts](https://rekindle.co.za/content/2022-10-27-most-biblical-narratives-don-t-have-a-main-point) demands that I keep this reflection short; it’s a terse passage in an otherwise considerable work. So in closing I want to offer two brief implications; one for the crowds (all of us) and another for the lonely (many of us).
 
