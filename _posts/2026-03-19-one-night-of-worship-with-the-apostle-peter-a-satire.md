@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One Night of Worship with the Apostle Peter: A Satire"
+title: "Worship Summit With the Apostle Peter: A Satire"
 author: gheslop
 image: /assets/images/apostle-peter-worship.jpg
 featured: true
