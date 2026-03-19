@@ -4,7 +4,7 @@ title: Between the Delights of Solitude and Dread of Loneliness
 author: gheslop
 image: /assets/images/solitude-or-loneliness.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Loneliness
   - The Luminaries
