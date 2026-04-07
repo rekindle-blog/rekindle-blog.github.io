@@ -2,30 +2,29 @@
 layout: post
 title: Christus Victor and The Gospels
 author: gheslop
-categories:
-- Reformed theology
-- Irenaeus
-- Recapitulation
-- Church history
-- Reformation
-- Martin Luther
-- Patristic theology
-- Gustav Aulén
-- Atonement
-- Christus Victor
 image: assets/images/christus-victor-vicarious-suffering.jpg
 featured: false
 hidden: false
 tags:
-- Cross
-- Christ
-- Satan
-- New Testament
-- The Gospels
-- Atonement
-- Gustav Aulén
-- Christus Victor
-
+  - Cross
+  - Christ
+  - Satan
+  - New Testament
+  - The Gospels
+  - Atonement
+  - Gustaf Aulén
+  - Christus Victor
+categories:
+  - Reformed theology
+  - Irenaeus
+  - Recapitulation
+  - Church history
+  - Reformation
+  - Martin Luther
+  - Patristic theology
+  - Gustav Aulén
+  - Atonement
+  - Christus Victor
 ---
 In John 6:15, after Jesus feeds the 5000, we read: "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself.” This verse has been of particular interest to me as I’ve thought about the [Christus Victor](https://rekindle.co.za/content/2020-07-01-christus-victor-strengths "Retreiving Christus Victor") atonement theme. In my mind it relates to another Gospel passage (Matthew 12:22-32), briefly considered in an [earlier post ](https://rekindle.co.za/content/2020-07-08-critique-christus-victor "Critique of Christus Victor")from this series. For despite Christ’s evident authority and power, not only over demons but Satan too, his inauguration as king must wait for after the cross. Thus in John 6, though fully deserving of kingship and seemingly unchallenged were he to accept people’s coronation, Christ refuses. Why is this so?
 
