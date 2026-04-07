@@ -2,28 +2,27 @@
 layout: post
 title: Christus Victor and 1 Peter 3
 author: gheslop
-categories:
-- Reformed theology
-- Irenaeus
-- Recapitulation
-- Church history
-- Reformation
-- Martin Luther
-- Patristic theology
-- Gustav Aulén
-- Atonement
-- Christus Victor
 image: assets/images/christus-victor-vicarious-suffering.jpg
 featured: false
 hidden: false
 tags:
-- John Webster
-- 1 Peter 3
-- Exegesis
-- Atonement
-- Gustav Aulén
-- Christus Victor
-
+  - John Webster
+  - 1 Peter 3
+  - Exegesis
+  - Atonement
+  - Gustaf Aulén
+  - Christus Victor
+categories:
+  - Reformed theology
+  - Irenaeus
+  - Recapitulation
+  - Church history
+  - Reformation
+  - Martin Luther
+  - Patristic theology
+  - Gustav Aulén
+  - Atonement
+  - Christus Victor
 ---
 The formation and refining of a Christian’s theology is the result of a continuous conversation [between Scripture and theology](https://rekindle.co.za/content/scriptures-doctrine-and-theologys-bible-a-bilateral-hermeneutic/ "Bilateral hermeneutics"). Though exegesis seeks to understand the plain meaning of Scripture, inevitably our doctrinal convictions and systematic presuppositions influence interpretation. Therefore no one’s exegesis offers an unencumbered, plain reading. The sooner we admit this the better. In fact, theological convictions established through exegesis can further our interpretation of other passages. In bringing our series on [Christus Victor](https://rekindle.co.za/content/2020-07-01-christus-victor-strengths "Introductory article") to a close, this is my contention: a fuller grasp of Christus Victor as we encounter it in the [New Testament](https://rekindle.co.za/content/2020-07-22-christus-victor-new-testament "Christus Victor in NT") (see also [in the Gospels](https://rekindle.co.za/content/2020-08-26-christus-victor-and-the-gospels "Christus Victor in Gospels")) can be used to interpret a particularly difficult passage in 1 Peter 3.
 
