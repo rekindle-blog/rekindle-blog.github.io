@@ -2,16 +2,15 @@
 layout: post
 title: Retrieving Christus Victor
 author: gheslop
-tags:
-- Dramatic View
-- Classic View
-- Gustav Aulén
-- Atonement
-- Christus Victor
 image: assets/images/christus-victor-vicarious-suffering.jpg
 featured: false
 hidden: false
-
+tags:
+  - Dramatic View
+  - Classic View
+  - Gustaf Aulén
+  - Atonement
+  - Christus Victor
 ---
 Despite the criticisms levelled against Mel Gibson’s _The Passion,_ especially from Protestant quarters, his portrayal of Gethsemane is profoundly theological. After pleading with the Father to be spared the cross, Jesus stands up and crushes a snake’s head. This striking imagery alludes to God’s promise in Genesis 3:15, “I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.” This has traditionally been called the _protevangelion_ (‘first gospel’). It promised that even though the reality for fallen humanity would be conflict with evil powers (Genesis 3:14), the promised end of that strife is victory. As Gibson depicts, Christ’s life was marked by conflict yet it ended in God’s promised conquest. But where was that victory won? Identifying the serpent as Satan, in Revelation 12:11-12 we read that Satan was conquered by the blood of the Lamb. Mysteriously then, it is through his death - and resurrection - that Christ triumphs over evil and brings us back to God. To use an old but obscure word: at the cross Christ achieves ‘atonement.’
 
