@@ -3,7 +3,7 @@ layout: post
 title: "Donna Tartt: Beautiful Windows Into the Transcendent"
 author: gheslop
 image: /assets/images/the-goldfinch-book.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Beauty
