@@ -3,7 +3,7 @@ layout: post
 title: "Fridays with Fred: How to Become Immortal"
 author: gheslop
 image: /assets/images/fridays.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Friedrich Nietzsche
@@ -19,23 +19,23 @@ tags:
 ---
 In 2019 George Whitefield College hosted Gerald Bray and I had the privilege of sitting his intensive lecture series on the person and work of Christ. One of the results of my attendance was the simultaneously niche and surprisingly popular [series of articles](https://rekindle.co.za/tag/christus-victor/) on Gustaf Aulén’s *Christus Victor—*and unless you’re into turgid theology, I’d recommend taking a wide berth of it. While some would deem this less complimentary, another benefit of Bray’s lectures was hearing his hilarious anecdotes and smarting quips. For example, when asked about the church growth movement Bray had us imagine a discussion among 1st century pastors following Peter’s hugely successful Pentecost ministry. [Bray’s point](https://rekindle.co.za/content/pastor-god-grows-churches/) was a simple, but important one: God grows his church; men and methods don’t. It’s another of these whimsical stories that stands behind this article and how to gain eternal life.
 
-Though I can’t recall the context, at one point during Bray’s lectures he quipped that there are two ways to live forever—to become immortal. The first, as he put is, is the traditional Christian route (John 3:15; see 17:3). The second, according to Bray, is to join a church council, leadership or committee and make every decision as protracted as possible. Those people, he added with a devilish smile, never die. They seem to live forever, as if the frustrations of others affords them supernatural longevity—perhaps even immortality. I often find myself relaying Bray’s delightful jab quip. But my reason for bringing it up here is to draw attention to humanity’s invariable desire to live forever.
+Though I can’t recall the context, at one point during Bray’s lectures he quipped that there are two ways to live forever—to become immortal. The first, as he put is, is the traditional Christian route (John 3:15; see 17:3). The second, according to Bray, is to join a church council, leadership or committee and make every decision as protracted as possible. Those people, he added with a devilish smile, never die. They seem to live forever, as if the frustrations of others affords them supernatural longevity—perhaps even immortality. I often find myself relaying Bray’s delightful jab; my reason for bringing it up here is to draw attention to humanity’s invariable desire to live forever.
 
-*Arthur & George*; distraction or striving; living to be remembered, illustrated by Nietzsche, conclusion
+Below I'll consider this longing, our pursuit of eternal life, illustrating the unease all of us feel with death from Julian Barnes' novel, *Arthur & George*. Then I briefly turn over some of the ways we attempt to attain immortality, such as our obsession with health. After that we'll finally arrive at Nietzsche, who describes a very another very popular approach to living forever: through the memories of others. Finally, I attempt to bring all of that together by highlighting how none of these approaches actually work, bringing us back to Bray's first suggestion, above.
 
 ## Header
 
-As I argued at length, [here](https://rekindle.co.za/content/2024-04-18-death), "annihilation is a dreadful prospect,” which explains why "we’re all devoted to eating and drinking, to distraction and diversion."
+As I argued at length, [here](https://rekindle.co.za/content/2024-04-18-death), "annihilation is a dreadful prospect," which explains why "we’re all devoted to eating and drinking, to distraction and diversion."
 
 Our preference for a kind of willed ignorance about the end of ourselves is well put by Julian Barnes’ in *Arthur & George*. With the novel reaching its conclusion, one of the eponymous characters—George Edalji—says that death can only mean one of two things. The dead are either "extinguished utterly, with the death of the body the test and proof that their self, their essence, their individuality, no longer existed; or you could believe that somewhere, somehow…they were still alive." Only George doesn’t stop there. Despite being a self-contented skeptic concerning all things religious, the recognition that there is "no position of compromise" between these two views—no way both can be true—means George struggles "to believe that this intense and complex thing called life was merely some chance happening on an obscure planet, a brief moment of light between two eternities of darkness."
 
 If we don’t live forever, indeed if death is end, then ahead lies an eternity of darkness. An abyss. Annihilation. Like Julian Barnes’ character in *Arthur & George*, many hold the view that death is a complete cessation of the person. In George’s words, death spells the end of the self. Whatever essence constitutes us is utterly extinguished. However, as I’ve argued in the article linked above, in the day-to-day those same people live as if there’s something more—as if death isn’t the end. To be frank, to do otherwise would be unbearable. Simultaneously, all of us pursue eternal life; we all desire to live forever, hoping for something beyond the veil, on the other side of the grave.
 
-## Header
-
 Transhumanism is arguably the most recent faith-fuelled attempt to achieve eternal life. Behind it stands our almost religious fixation on health and well=being. Only, as Peter Leithart writes in *Solomon Among the Postmoderns*, "Jog and lift weights until you are eighty-five; aspire to be the healthiest ninety-year-old in history, but eventually you will be a corpse. Delay the inevitable with skin creams and make-up; keep fit by dieting and exercise; maintain your youthful appearance with plastic surgery and liposuction, but eventually your beauty will fade, and if it doesn't fade while you're alive, it will fade when you die." We know this. We just pretend we don’t. So we give ourselves over to various diversions—whether that’s a career and family, success or simply what are popularly referred to as side-quests. In the end, these are fools’ errands.
 
 Enter Nietzsche.
+
+## Header
 
 There is another way we brace ourselves against the immanent frame, against the terrifying prospect of death as utter extinction of the person: to be remembered by others. Listen to everyone’s favourite German philosopher, in *Twilight of the Idols*. "I am often asked why it is I write in German: nowhere am I worse read than in the Fatherland. But who knows, after all, whether I even wish to be read today? - To create things upon which time tries its teeth in vain in form and in substance to strive after a little immortality - I have never been modest enough to demand less of myself. The aphorism, the apophthegm \[or maxim], in which I am the first master among Germans, are the forms of 'eternity'" (see *Expeditions of an Untimely Man* §51). While it’s typically blusterous, don’t miss Nietzsche’s repeated idea: perhaps immortality is possible through others’ memory.
 
