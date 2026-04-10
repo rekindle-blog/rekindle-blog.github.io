@@ -15,6 +15,7 @@ tags:
   - Sherlock Holmes
   - Peter Leithart
   - Ecclesiastes
+  - Memory
   - ""
 ---
 In 2019 George Whitefield College hosted Gerald Bray and I had the privilege of sitting his intensive lecture series on the person and work of Christ. One of the results of my attendance was the simultaneously niche and surprisingly popular [series of articles](https://rekindle.co.za/tag/christus-victor/) on Gustaf Aulén’s *Christus Victor—*and unless you’re into turgid theology, I’d recommend taking a wide berth of it. While some would deem this less complimentary, another benefit of Bray’s lectures was hearing his hilarious anecdotes and smarting quips. For example, when asked about the church growth movement Bray had us imagine a discussion among 1st century pastors following Peter’s hugely successful Pentecost ministry. [Bray’s point](https://rekindle.co.za/content/pastor-god-grows-churches/) was a simple, but important one: God grows his church; men and methods don’t. It’s another of these whimsical stories that stands behind this article and how to gain eternal life.
@@ -23,7 +24,7 @@ Though I can’t recall the context, at one point during Bray’s lectures he qu
 
 Below I'll consider this longing, our pursuit of eternal life, illustrating the unease all of us feel with death from Julian Barnes' novel, *Arthur & George*. Then I briefly turn over some of the ways we attempt to attain immortality, such as our obsession with health. After that we'll finally arrive at Nietzsche, who describes a very another very popular approach to living forever: through the memories of others. Finally, I attempt to bring all of that together by highlighting how none of these approaches actually work, bringing us back to Bray's first suggestion, above.
 
-## Header
+## Life As a Snatch of Light Within Eternal Darkness
 
 As I argued at length, [here](https://rekindle.co.za/content/2024-04-18-death), "annihilation is a dreadful prospect," which explains why "we’re all devoted to eating and drinking, to distraction and diversion."
 
@@ -35,7 +36,7 @@ Transhumanism is arguably the most recent faith-fuelled attempt to achieve etern
 
 Enter Nietzsche.
 
-## Header
+## How to Become Immortal: In Memoriam
 
 There is another way we brace ourselves against the immanent frame, against the terrifying prospect of death as utter extinction of the person: to be remembered by others.
 
@@ -47,7 +48,7 @@ Unsurprisingly, Nietzsche struts his way through this pronouncement. But to adap
 
 And on the one hand, he wasn’t wrong. His name is to a degree "associated with the memory of something tremendous." Was this a crisis without equal on earth, the most profound collision of conscience"? I’m not sure. But on the other hand, how many people even know the name Friedrich Nietzsche? Can we even speak about his memory? Does the continued study of his writing grant him eternal life? Can we meaningfully speak about "immortality" when human memory is so fragile and fleeting? Surely these "forms of 'eternity'" fully warrant those inverted commas. For Nietzsche there is no eternity. Memory is such a precarious thing to stake your immortality on.
 
-## Header
+## No One Survives the Vicissitudes of Memory
 
 Much of what I’ve written above could be illustrated using Ecclesiastes. Consider these famous words, "There was a little city with few men in it, and a great king came against it and besieged it, building great siege-works against it. But there was found in it a poor, wise man, and he by his wisdom delivered the city. Yet no one remembered that poor man" (Ecclesiastes 9:14-15). It is a profoundly unsettling Bible book, largely misunderstood and routinely avoided. So to spare my blushes I’ll encourage you to read it for yourself. And instead of landing this anfractuous flight in the Old Testament text, I’m going to return to another already quoted: *Arthur & George*.
 
