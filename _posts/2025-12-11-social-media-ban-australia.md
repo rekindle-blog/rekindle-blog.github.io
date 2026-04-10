@@ -3,8 +3,8 @@ layout: post
 title: Australia Bans Social Media for Under-16s. Why Don't Parents Do the Same?
 author: gheslop
 image: /assets/images/internet.jpg
-featured: false
-hidden: true
+featured: true
+hidden: false
 tags:
   - Social media
   - Smartphones
