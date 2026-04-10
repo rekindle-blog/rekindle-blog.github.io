@@ -4,7 +4,7 @@ title: "Worship Summit With the Apostle Peter: A Satire"
 author: gheslop
 image: /assets/images/apostle-peter-worship.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Satire
   - Peter
