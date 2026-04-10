@@ -3,7 +3,7 @@ layout: post
 title: How to Become a Better Reader
 author: gheslop
 image: /assets/images/reading.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Reading
