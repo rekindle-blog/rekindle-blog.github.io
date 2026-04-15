@@ -3,7 +3,7 @@ layout: post
 title: Is It Time to Commit Western Theology to the Flames?
 author: gheslop
 image: /assets/images/burning-of-old-south-church-bath-maine.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Western Theology
