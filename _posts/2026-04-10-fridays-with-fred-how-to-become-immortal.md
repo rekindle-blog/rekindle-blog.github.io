@@ -4,7 +4,7 @@ title: "Fridays with Fred: How to Become Immortal"
 author: gheslop
 image: /assets/images/fridays.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Friedrich Nietzsche
   - Eternal life
