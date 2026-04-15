@@ -10,6 +10,10 @@ tags:
   - Marilynne Robinson
   - Cancel Culture
   - Deconstruction
+  - Modernism
+  - Postmodernism
+  - Herman Bavinck
+  - Community
   - ""
 ---
 These days, whether it’s in an effort to decolonise theology or simply under the banner of deconstruction, it’s cool—and relatively costless—to pillory Western theology. This dismissal of the Western tradition is part of a larger social reckoning. As I contend below, that broader backdrop isn’t inconsequential as we observe the same instincts among theologians; simultaneously it is beyond the scope of this article not to mention my own abilities. As a theologian, however, I find this widely recycled scorn for Western theology troubling and profoundly problematic. My reasons for saying so will be spelt out in the forthcoming series of articles. It’s my intention for those articles to address the various theological, intellectual, historical and philosophical problems with anti-Western sentiments. My aim for this article is far more modest: to briefly explore why this mood is so prevalent and to highlight one of its Achilles’ heels.
