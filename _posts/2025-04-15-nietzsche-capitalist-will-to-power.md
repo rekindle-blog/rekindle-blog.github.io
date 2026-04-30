@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Friedrich Nietzsche's Capitalist Manifesto"
 author: gheslop
 image: /assets/images/edvard-munch.png
-featured: false
+featured: true
 hidden: false
 tags:
   - Friedrich Nietzsche
