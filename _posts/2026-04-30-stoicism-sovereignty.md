@@ -1,9 +1,9 @@
 ---
 layout: post
-title: stoicism sovereignty
+title: Don't Confuse Faith in the Sovereign God With Stoicism
 author: gheslop
 image: /assets/images/stoicism-greek-pillars.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Stoicism
