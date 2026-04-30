@@ -18,7 +18,7 @@ Stoicism—popularised versions of it, at least—is a growing force in contempo
 
 Below I offer a brief description of Stoicism, drawing on both Marcus Aurelius and a contemporary philosopher. In the following section I show how certain Christian approaches to suffering are barely distinguishable from the Stoic’s, barring different language. Finally, with the help of Eugene Peterson I contrast Christian faith with the stoical spirit, arguing that the former means weakly depending on another rather than bravely standing on your own strength.
 
-### Stoicism
+### A Layman's Guide to Stoicism
 
 Despite my wide-range of dabbling, let me begin this section by reminding readers that I’m no philosopher. While I have read both Marcus Aurelius and Seneca it would be a lie to claim any sort of competence concerning Stoicism—or any other philosophical system for that matter, excepting perhaps [Friedrich Nietzsche’s](https://rekindle.co.za/tag/fridays-with-fred/). Having said all of this, I will attempt a—very likely flawed—summary of Stoicism.
 
@@ -28,7 +28,7 @@ Aurelius’ words capture Stoicism’s emphasis on being unaffected by the world
 
 The Stoic accepts that she isn’t free to determine the course of history or even her own life and must therefore pursue "peace of mind." In Aurelius’ words she refuses to accede power to "things in themselves," calling instead for exercising what little power we have in and of ourselves. This is the only and surest path to happiness, refusing to tie it to anything other than the individual will. This is also virtuous. The Stoic’s inner resolve is a feat of individual strength—a decision despite the horns of suffering.
 
-### Header
+### Stoicism in the Church
 
 As I’ve already said, Stoicism fits well within our disenchanted and individualistic age. But I’m far more interested in its appeal and apparent congruence with the Christian faith. If you listen closely, talk of suffering among believers is often indistinguishable from Stoicism; you can hear it in many of our hymns too.
 
@@ -36,7 +36,7 @@ Years ago [I wrote](https://rekindle.co.za/content/doodle-trite-comfort-from-the
 
 In the end, too much Christian counsel sounds like it was cribbed from the Stoics, with a sprinkling of sovereignty. When we do this we betray a profound misunderstanding about the presence of God. Worse still, any admixture of Stoicism and God’s sovereignty ultimately turns on the believer’s personal resolve and grit, their ability to persevere.
 
-### Header
+### Distinguishing Christian Faith From Stoicism
 
 In his outstanding *Long Obedience in the Same Direction*, Eugene Peterson acknowledges that God’s people are no strangers to deep struggles or suffering. When they bear it well, he adds, this has nothing to do with them having "a good digestion and sunny disposition." To suggest so veers back towards Stoicism. "The person of faith," Peterson insists, doesn’t persevere by personal strength or resolve. Nor do they shut their eyes tight, pretending not to see the world’s troubles. Like the author of Psalm 124, the believer "looks into the troubles of history, the anxiety of personal conflict and emotional trauma." Why? Or how? Because it’s only outside of themselves that they can find the God who is at their side. “Our help is in the name of the Lord" (Psalm 124:8).
 
