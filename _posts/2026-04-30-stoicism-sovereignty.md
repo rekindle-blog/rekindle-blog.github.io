@@ -10,6 +10,8 @@ tags:
   - Eugene Peterson
   - Suffering
   - Sovereignty of God
+  - Faith
+  - Philosophy
   - ""
 ---
 Stoicism—popularised versions of it, at least—is a growing force in contemporary culture. By Stoicism I’m not referring to the stiff-upper lip, but the philosophy dating back to ancient Greece. Thanks to the efforts of authors like Ryan Holiday and his [Daily Stoic](https://dailystoic.com) there’s no shortage of moderns loosely identifying as Stoics. I say "loosely" because the philosophy has been cherrypicked rather than properly understood or consistently applied. That being said, Stoicism’s recent popularity makes a lot of sense, given its thoroughgoing commitment to materialism as well as moderns’ eclectic approach to ethics or morality, all within their expressive individualism. But I’m not here to weigh-in on [another cultural trend](https://rekindle.co.za/content/2026-04-15-western-theology). Rather I’m interested in the ways Christians unwittingly reach for versions of Stoicism when facing hardships and suffering. 
