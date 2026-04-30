@@ -4,7 +4,7 @@ title: Is It Time to Commit Western Theology to the Flames?
 author: gheslop
 image: /assets/images/burning-of-old-south-church-bath-maine.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Western Theology
   - Marilynne Robinson
