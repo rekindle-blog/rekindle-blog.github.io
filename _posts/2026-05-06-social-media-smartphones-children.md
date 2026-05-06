@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sure, Millennials Got Phones Young, But the Similarities Stop There
+title: Millennials Got Phones Young, But the Similarities Stop There
 author: gheslop
 image: /assets/images/millennials-phone.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Social media
