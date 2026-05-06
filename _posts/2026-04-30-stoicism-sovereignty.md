@@ -4,7 +4,7 @@ title: Don't Confuse Faith in the Sovereign God With Stoicism
 author: gheslop
 image: /assets/images/stoicism-greek-pillars.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Stoicism
   - Eugene Peterson
