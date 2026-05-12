@@ -17,7 +17,7 @@ tags:
   - Grace
   - ""
 ---
-After the institution of the Lord’s Supper, Jesus and his disciples sang a hymn (Matthew 26:30). But early church tradition tells us more. Peter was leading worship that night, with his brother Andrew was on piano. James and John trimmed the candles, as Matthew prepared the offering bags. Thaddeus slowly turned up the ambience on the pad, as Peter stepped up to the mic. Then, after inviting the Holy Spirit into their presence, Peter sang:
+After the institution of the Lord’s Supper, Jesus and his disciples sang a hymn (Matthew 26:30). But early church tradition tells us more. Peter was leading worship that night, with his brother Andrew on piano. James and John trimmed the candles, as Matthew prepared the offering bags. Thaddeus slowly turned up the ambience on the pad, as Peter stepped up to the mic. Then, after inviting the Holy Spirit into their presence, Peter sang:
 
 *Even if I must die with you*\
 *I will not deny*\
@@ -34,7 +34,7 @@ After the institution of the Lord’s Supper, Jesus and his disciples sang a hym
 
 Hands raised. Eyes shut. After Peter sings the chorus an eighth and last time he bows his head in prayer. Andrew keeps the melody going on the keyboard and ambient pad ensures the atmosphere is spiritually dense. Then the music soars again. Alone now, Peter prays: "If I must die with you, I will not deny you" (Mark 14:31). This moment feels especially significant. Peter seems Spirit-filled. Spirit-assured. Spirit-led. There’s a fire in his eyes. Surely Jesus is pleased? Praised? Glorified?
 
-Jesus looks at Peter. He stares kindly into his eyes and glances around the room at the other disciples. "Will you lay down your life for me?" he asks Peter. "Yes," Peter’s cries out. An audible murmur is heard from the other disciples. But Jesus; response silences them. "Truly, truly, I say to you, the rooster will not crow till you have denied me three times" (John 13:38).
+Jesus looks at Peter. He stares kindly into his eyes and glances around the room at the other disciples. "Will you lay down your life for me?" he asks Peter. "Yes," Peter’s cries out. An audible murmur is heard from the other disciples. But Jesus' response silences them. "Truly, truly, I say to you, the rooster will not crow till you have denied me three times" (John 13:38).
 
 ## Two Tenets of Contemporary Worship
 
@@ -55,7 +55,7 @@ The apostle Peter on the night of Jesus' arrest came to mind.
 
 ## Sing of Grace, Not Your Great Commitment
 
-It goes without saying, but then such things are worth saying: the first section of this article is [satirical](https://rekindle.co.za/content/2020-10-08-a-note-on-satire). All we read in the Gospels is that Jesus and his disciples sang a hymn. However, the lyrics to Peter’s satirical hymn are—if you’ll forgive me saying so—biblical. In fact, they’re little more than a paraphrase of Peter’s various promises to never abandon Jesus or fail him; they merely repackage him insisting that he’d faithfully persist, even if he was the last man standing from the twelve. Only Peter was wrong. His confidence was misplaced; his bravado little more than arrogance. Just hours later Peter swears: "I do not know the man" (Matthew 26:72). Just before that infamous denial, he slept as Jesus prayed (Matthew 26:40). An hour’s watch was too much despite those bold declarations. It’s no wonder departs the trial, weeping bitterly (Matthew 26:75).
+It goes without saying, but then such things are worth saying: the first section of this article is [satirical](https://rekindle.co.za/content/2020-10-08-a-note-on-satire). All we read in the Gospels is that Jesus and his disciples sang a hymn. However, the lyrics to Peter’s satirical hymn are—if you’ll forgive me saying so—biblical. In fact, they’re little more than a paraphrase of Peter’s various promises to never abandon Jesus or fail him; they merely repackage him insisting that he’d faithfully persist, even if he was the last man standing of the twelve. Only Peter was wrong. His confidence was misplaced; his bravado little more than arrogance. Just hours later Peter swears: "I do not know the man" (Matthew 26:72). Just before that infamous denial, he slept as Jesus prayed (Matthew 26:40). An hour’s watch was too much despite those bold declarations. It’s no wonder departs Jesus' trial weeping bitterly (Matthew 26:75).
 
 Bringing my satire and recent worship experience together, what we sing in corporate worship matters tremendously. The person whose regular worship—and [broader liturgy](https://africa.thegospelcoalition.org/article/make-the-call-to-worship-great-again/)—never gets beyond God’s greatness and our ambition to glorify him will be ill-prepared for life. If all I ever sing about is how wonderful God is, what comfort do I have when my life does everything but honour him? What do I do with my sin? How do I cope with doubts, questions about whether he really is glorious or good? Where will I turn? What will I sing?
 
