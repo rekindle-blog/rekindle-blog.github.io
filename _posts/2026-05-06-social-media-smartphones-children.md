@@ -4,7 +4,7 @@ title: Millennials Got Phones Young, But the Similarities Stop There
 author: gheslop
 image: /assets/images/millennials-phone.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Social media
   - Smartphones
