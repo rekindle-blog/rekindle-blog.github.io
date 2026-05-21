@@ -23,7 +23,7 @@ To answer the question posed by my title, while the Bible is enough—or suffici
 
 ## The Church Must Keep Retelling Salvation History
 
-Towards the end of his relatively unknown little work, *What Is Christianity?*, Bavinck asks whether the Bible is enough. As you read the lengthy passage below, note that his high view of Scripture result in demeaning theology or Christian thought; in fact, the opposite is true.
+Towards the end of his relatively unknown little work, *What Is Christianity?*, Bavinck asks whether the Bible is enough. As you read the lengthy passage below, note that his high view of Scripture doesn't result in demeaning theology or Christian thought; in fact, we can observe the opposite.
 
 "Scripture is the magnificent painting which, in a series of captivating scenes, brings before our eyes the works of God in salvation history. Well then, that powerful imprint which the Scriptures make on the Church, it must reproduce. What the Church has seen through that wonderful book, what it has felt of the word of life, it must proclaim. The Church must try to put it into words and account for it. The Church has absorbed what the Scriptures tell it, lived it as it were, and now reproduces it in its confession. Emerging again from the penetration of the Holy Scriptures, it looks around itself, feels strange in this world, and expresses to opponents and those who are astray—with holy enthusiasm—what it has experienced and enjoyed."
 
