@@ -3,7 +3,7 @@ layout: post
 title: How Philippians Helps Us to Pray for Others
 author: gheslop
 image: /assets/images/praying-with-paul.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Philippians
