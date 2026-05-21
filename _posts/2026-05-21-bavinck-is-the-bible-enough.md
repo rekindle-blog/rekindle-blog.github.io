@@ -21,7 +21,7 @@ In response a few readers felt I was suggesting that the Bible isn’t enough. A
 
 To answer the question posed by my title, while the Bible is enough—or sufficient—Christians need theology. And Herman Bavinck is here to persuade us.
 
-## Header
+## The Church Must Keep Retelling Salvation History
 
 Towards the end of his relatively unknown little work, *What Is Christianity?*, Bavinck asks whether the Bible is enough. As you read the lengthy passage below, note that his high view of Scripture result in demeaning theology or Christian thought; in fact, the opposite is true.
 
@@ -31,13 +31,13 @@ As Bavinck puts it, what the Church experiences and enjoys in God’s wonderful 
 
 Throughout the ages Christian theologians have carried out this [beautiful vision](https://rekindle.co.za/content/2024-05-08-bavinck-theology) with varying success. There are many reasons for Christians’ mixed feelings towards theology—a few of which I explored recently [here](https://rekindle.co.za/content/2024-02-14-pilpul-theology)and [here](https://rekindle.co.za/content/2026-04-15-western-theology)—but a high view of the Bible does not entail the dismissal of theology. Instead, it invites us to gratefully listen to Christians voices from the past and perhaps add ours to their chorus.
 
-## Header
+## Theology Is More Than Man's Thoughts About God
 
 Bavinck goes on, possibly anticipating another reason to support an indifference towards theology: isn’t theology just people’s thoughts about God? In response to this objection Bavinck says, "The Church does not create; it does not discover a single truth; it only finds what is laid down in Scripture; it merely reflects after the Holy Spirit has thought it all out, but then the Church expresses what it has found and thus reflects it in its own language, in its own way, fully conscious and understandable for everyone. The confession it expresses, therefore, does not stand above or beside or outside Scripture, but entirely in Scripture."
 
 While there is no shortage of speculative and abstract theology, the best Christian thinking is—as Bavinck puts it—the Church’s attempt to faithfully witness to what it hears from the Spirit in the Bible. Regrettably much theology today is self-referencing; as Stanley Hauerwas observes, instead of writing about God, academic theology has essentially become people writing about the thoughts of other people. When theology takes this direction, the Church’s suspicion is justified. But when theologians take seriously Bavinck’s charge then their writing will serve believers and witness to their own age. The means of doing so is nothing other than what God has "laid down in Scripture." Therefore the best theology isn’t self-congratulatory or circular but the Church’s humble and prayerful attempt to think God’s thoughts after him, for "the Holy Spirit has \[already] thought it all out."
 
-## Header
+## The Church's Theology Is Incomplete
 
 Bavinck makes one last point in this remarkable section. Again he seems to anticipate a common objection to theology: we’ve got two millennia of Christian theology, do we really need more? Somedays I’m more sympathetic to this scruple than others, though as I’ve [written elsewhere](https://africa.thegospelcoalition.org/article/africa-needs-theological-resources-help-us-to-publish-them/)the relative abundance of theological writing in certain quarters doesn’t cover the lack in others. Bavinck, on other hand, offers a peculiar answer, one that [I’ve argued](https://rekindle.co.za/content/2024-10-31-why-write) before: the Church’s theology is incomplete.
 
@@ -45,6 +45,6 @@ Concerning the Church’s confession, Bavinck insists that "what is contained in
 
 Thus Bavinck continues, "each time the Church is introduced more deeply into God’s revelation in subsequent times, this root grows up and various branches grow on it, some of which bend sideways and grow in the wrong direction. But thus, in the course of the centuries, the love of Christ is interpreted more and more broadly, and that glorious image which the Church conceives from the Holy Scriptures and causes to radiate outwardly is further and further completed."
 
-#### Header
+#### The Bible Corrects a Low View of Theology
 
 This article is longer than what I tend to publish here—I hope the extended portions from Bavinck’s *What Is Christianity?* offset my own ramblings. In conclusion, many Christians today have adopted a low view of Christian theology. Without getting into the reasons behind that view, Bavinck provided us with three correctives to it. Firstly, the Spirit empowered reception of God’s glorious truth demands retelling. Secondly, theology proper is an initiative of God that draws people to him. Finally, the theological task will remain incomplete until Christ returns.
