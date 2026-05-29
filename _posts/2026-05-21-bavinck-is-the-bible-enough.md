@@ -4,7 +4,7 @@ title: If the Bible Is Sufficient, Do We Really Need Theology?
 author: gheslop
 image: /assets/images/bavinck-reformed-dogmatics.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Herman Bavinck
   - Theology
