@@ -7,11 +7,18 @@ featured: true
 hidden: true
 tags:
   - Doodle
+  - MMA
+  - Boxing
+  - Blood sports
+  - Tobias Wolff
+  - Augustine
   - ""
 ---
 To my own surprise, I’ve probably read more memoirs in the last two years than I’d previously read in my entire life. Writing that sentence I realise it might not be entirely true. This is partly down to the fact that the line between autobiography and memoir is difficult to draw—and I’ve definitely read my fair share of those, most noticeably Augustine’s *Confessions*, which everyone simply must read. It’s my intention to produce reflections on at least two standout memoirs in the future: Hilary Mantel’s *Giving Up the Ghost* and Laura Cumming’s *Thunderclap*. But the passage I want to turn over below comes from *This Boy’s Life,* by Tobias Wolff’s. Within Wolff’s memoir it isn’t an insignificant passage. Only he uses it reflect on the difficult relationship he had with his stepfather. My purposes are somewhat more on the nose, related to watching of blood sports.
 
 Owing to this being a doodle, I’m not even going give you broad brushstrokes describing Wolff’s memoir; we’re going to jump straight into the relevant passage. I’ll make a few brief comments along the way, mostly tied back to my writing on blood sports, and possibly offer up some concluding thoughts.
+
+
 
 ### Boxing in *This Boy’s Life*
 
