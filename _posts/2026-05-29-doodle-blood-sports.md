@@ -3,7 +3,7 @@ layout: post
 title: "Doodle: Hi Kids, (Why) Do You Like Violence?"
 author: gheslop
 image: /assets/images/blood-sports.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Doodle
