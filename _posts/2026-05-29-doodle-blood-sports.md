@@ -1,6 +1,6 @@
 ---
 layout: post
-title: doodle blood sports
+title: "Doodle: Hi Kids, (Why) Do You Like Violence?"
 author: gheslop
 image: /assets/images/blood-sports.jpg
 featured: true
