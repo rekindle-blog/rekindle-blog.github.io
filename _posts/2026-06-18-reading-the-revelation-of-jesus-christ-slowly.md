@@ -3,7 +3,7 @@ layout: post
 title: Reading the Revelation of Jesus Christ Slowly
 author: gheslop
 image: /assets/images/open-bible.jpeg
-featured: true
+featured: false
 hidden: true
 tags:
   - Exegesis
