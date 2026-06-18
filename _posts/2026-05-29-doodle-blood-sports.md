@@ -4,7 +4,7 @@ title: "Doodle: Hi Kids, (Why) Do You Like Violence?"
 author: gheslop
 image: /assets/images/blood-sports.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Doodle
   - MMA
