@@ -8,9 +8,13 @@ hidden: true
 tags:
   - Melchizedek
   - Hebrews
+  - Man of God
+  - Prosperity Gospel
+  - Exegesis
+  - Angels
   - ""
 ---
-I was recently tasked with [listening to a sermon](https://africa.thegospelcoalition.org/article/should-we-publicly-name-false-teachers-like-shepherd-bushiri/) from one of our continent’s many self-proclaimed prophets. Time would fail me to tell of all the abject Bible-handling and aberrant theology. But as I’m preparing a lecture series on Hebrews I was particularly intrigued—read: horrified—by his notion of the "Melchizedek anointing." Completely ignoring everything else Hebrews says, our prophet banged on about this so-called anointing, highlighting "that the inferior is blessed by the superior" (Hebrews 7:7). Of course, our prophet zealously reminded his flock that, as their superior, he blesses them; that be remaining beneath his covering they will enjoy God’s blessing. So Hebrews was enlisted in floating the prophet’s greatness and assuring the audience of their own spiritual—read: financial—maturity. Only Hebrews isn’t about either of those things.
+I was recently tasked with [listening to a sermon](https://africa.thegospelcoalition.org/article/should-we-publicly-name-false-teachers-like-shepherd-bushiri/) from one of our continent’s many self-proclaimed prophets. Time would fail me to tell of all the abject Bible-handling and [aberrant theology](https://rekindle.co.za/content/2026-03-03-the-place-and-perils-of-polemical-theology). But as I’m preparing a lecture series on Hebrews I was particularly intrigued—read: horrified—by his notion of the "Melchizedek anointing." Completely ignoring everything else Hebrews says, our prophet banged on about this so-called anointing, highlighting "that the inferior is blessed by the superior" (Hebrews 7:7). Of course, our prophet zealously reminded his flock that, as their superior, he blesses them; that be remaining beneath his covering they will enjoy God’s blessing. So Hebrews was enlisted in floating the prophet’s greatness and assuring the audience of their own spiritual—read: financial—maturity. Only Hebrews isn’t about either of those things.
 
 Below I’ll very briefly consider what Hebrews actually says about Melchizedek, which has nothing to do with an anointing and instead wants us to recognise Jesus’ superiority. In that first section I suggest that our prophet struggles to read Hebrews 5-7 correctly because making too much of Jesus would threaten his own fame. In the second and slightly longer section we’ll look over Hebrews 1-2, which also happens to be about Jesus. There I give some attention to the prophet’s and Hebrew’s competing visions for greatness, seeing as though the Melchizedek anointing apparently makes us kings and queens rather than servants.
 
@@ -32,6 +36,6 @@ Yet as I listened to our prophet’s sermon and read the epistle I was struck by
 
 Hebrews makes much of Christ. It rings emphatically with his greatness. It’s striking, then, that twice in this chapter we read about the Son helping his people (Hebrews 2:16, 18). Greatness, it seems, doesn’t eschew sacrificial service or lowliness—at least, not in God's eyes.
 
-### Header
+### The Man of God Sells But Jesus Saves
 
 Admittedly, it’s easy to pick apart nonsense like our prophet’s "Melchizedek anointing." But the exegesis goes beyond poor to being both pathetically embarrassing and perilous. What makes it so very pathetic is that even the first two verses of Hebrews should've steered the prophet away from his self-aggrandising schtick and cause him to centre his preaching on Christ. But Jesus doesn’t sell. The man of God knows this, which is why his preaching makes so little of Jesus and so much of himself. It’s why the man of God must embody a greatness other than Jesus’, a greatness marked by success and wealth rather than self-giving and service.
