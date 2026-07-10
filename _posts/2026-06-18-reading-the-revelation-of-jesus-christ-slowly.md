@@ -4,7 +4,7 @@ title: Reading the Revelation of Jesus Christ Slowly
 author: gheslop
 image: /assets/images/open-bible.jpeg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Exegesis
   - Greek
