@@ -3,7 +3,7 @@ layout: post
 title: "Protestants and Popes: We Must Do Better"
 author: gheslop
 image: /assets/images/pope-francis.jpg
-featured: true
+featured: false
 hidden: false
 tags:
   - Pope Francis
