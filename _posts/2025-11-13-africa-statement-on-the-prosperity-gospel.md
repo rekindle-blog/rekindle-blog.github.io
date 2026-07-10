@@ -3,7 +3,7 @@ layout: post
 title: Three Exchanges Preached by the Prosperity Gospel
 author: gheslop
 image: /assets/images/africa-statement-on-the-prosperity-gospel-and-word-of-faith-theology.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Word of Faith
