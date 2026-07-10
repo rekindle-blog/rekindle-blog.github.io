@@ -3,7 +3,7 @@ layout: post
 title: Melchizedek Anointing, Hebrews and the Man of God
 author: gheslop
 image: /assets/images/flamisch-melchizedek.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Melchizedek
@@ -14,7 +14,7 @@ I was recently tasked with [listening to a sermon](https://africa.thegospelcoali
 
 Below I’ll very briefly consider what Hebrews actually says about Melchizedek, which has nothing to do with an anointing and instead wants us to recognise Jesus’ superiority. In that first section I suggest that our prophet struggles to read Hebrews 5-7 correctly because making too much of Jesus would threaten his own fame. In the second and slightly longer section we’ll look over Hebrews 1-2, which also happens to be about Jesus. There I give some attention to the prophet’s and Hebrew’s competing visions for greatness, seeing as though the Melchizedek anointing apparently makes us kings and queens rather than servants.
 
-### Header
+### How Hebrews Employs the Figure of Melchizedek
 
 After introducing his comparison between Jesus and Melchizedek using Psalm 110, the author of Hebrews admits that “it is hard to explain” (Hebrews 5:11). The reason was that the original hearers had “become dull of hearing.” Now, I’m not going to suggest that this description is true of our prophet; nor that while he ought to be a teacher he needs someone to teach him “the basic principles of the oracles of God” (Hebrews 5:12). Only he would certainly benefit from some familiarity with the basic principles of exegesis or skill in the word of God (Hebrews 5:13). For even one of my first year theological students would probably be able to tell you that Hebrews’ sustained comparison between Jesus and Melchizedek is about, well, Jesus.
 
@@ -22,9 +22,9 @@ Nowhere in Hebrews 5-7 is anything that the author says about Melchizedek or Jes
 
 Before moving on, we might highlight one more reason our prophet struggles with these chapters of Hebrews: when they do address Christians, the author majors in loving service of others (Hebrews 6:10), and patient endurance (Hebrews 6:11-12). Such exhortations hardly square with our prophet’s empty promises of personal success and marketplace might.
 
-### Hebrews 1-2
+### What Hebrews Teaches About Jesus' Greatness
 
-Around the time I was subject to our prophet’s sermon I was reading through Hebrews 1-2. Those two chapters introduce us to the epistle’s purpose, which David Peterson **summarises** as: “Expressing the absolute effectiveness of Christ to fulfil the divine plan of bringing ‘many sons to glory.’” There just as in Hebrews 5-7, the author’s argument turns on Jesus’ superiority. In other words, we might say that Hebrews emphatically reiterates Jesus’ incomparable greatness. Again, I imagine our prophet to be bemused with that meaning, because those who make much of Christ must sacrifice the limelight. But we’ve already covered that point, above. Instead I want to consider Hebrews’ and our prophet’s differing visions of greatness.
+Around the time I was subject to our prophet’s sermon I was reading through Hebrews 1-2. Those two chapters introduce us to the epistle’s purpose, which David Peterson [summarises](https://archive.org/details/hebrewsperfectio0000pete) as: “Expressing the absolute effectiveness of Christ to fulfil the divine plan of bringing ‘many sons to glory.’” There just as in Hebrews 5-7, the author’s argument turns on Jesus’ superiority. In other words, we might say that Hebrews emphatically reiterates Jesus’ incomparable greatness. Again, I imagine our prophet to be bemused with that meaning, because those who make much of Christ must sacrifice the limelight. But we’ve already covered that point, above. Instead I want to consider Hebrews’ and our prophet’s differing visions of greatness.
 
 Hebrews is in many ways about Jesus’ superiority. In Hebrews 1 this theme is argued developing what’s often referred to as a “catena” of Old Testament passages, comparing Jesus with angels (Hebrews 1:4). That chapter concludes by pointing out that angels are sent by God to serve his people (Hebrews 1:14). Angels are servants created by God, but Jesus is God’s Son—a comparison the author will later make between Moses and Jesus as well (Hebrews 3:5-6). If you don’t come away from Hebrews with an enlarged vision of God’s Son, a vision that stokes awe at his greatness and confidence in his grace, then you’ve missed the whole point. Jesus is glorious, “he upholds the universe by the word of his power” (Hebrews 1:3).
 
