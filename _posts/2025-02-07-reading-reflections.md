@@ -3,7 +3,7 @@ layout: post
 title: Some Reading Tips After Reflecting on My Own Habits
 author: gheslop
 image: /assets/images/reading.jpeg
-featured: false
+featured: true
 hidden: false
 tags:
   - Habit
