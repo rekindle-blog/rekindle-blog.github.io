@@ -13,6 +13,7 @@ tags:
   - Herman Bavinck
   - Eugene Peterson
   - Literature
+  - Fridays With Fred
   - ""
 ---
 Earlier this year I had the opportunity to present a talk on Friedrich Nietzsche at [KRUX](https://www.krux.africa/), a Christian Study Centre out in Stellenbosch that "disciples young adults through theological education, mentoring, community, and a unique focus on the arts." Now anyone who frequents Rekindle—I love you mom—wouldn’t deem it particularly noteworthy that I presented on Nietzsche, given that I’ve been [engaging](https://rekindle.co.za/content/2020-10-30-fridays-with-fred-nietzsche) with him in writing since 2020. But during the Q&A that followed my talk, one of the attendees asked whether we should be reading Nietzsche, given his sustained and infamous [disdain](https://rekindle.co.za/content/2022-11-04-fridays-with-fred-pitiful-christians) for almost all things Christian. This is, I think, an important question worth considering.
