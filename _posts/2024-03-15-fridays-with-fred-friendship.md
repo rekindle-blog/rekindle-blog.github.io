@@ -10,6 +10,7 @@ tags:
   - The Joyous Science
   - Friendship
   - Marriage Vows
+  - Fridays With Fred
   - ""
 ---
 Last year had an opportunity to speak on a topic close to my heart: friendship. It wasn’t recorded but you can listen to a discussion of it, [here](https://www.youtube.com/watch?v=Yug61R9xzL0&t=2020s);you can also read various articles on friendship across Rekindle. My aim for the talk was to argue that friendship must be both organic and intentional. Put differently, I showed that lasting friendships are rooted in two things. Firstly, there’s what C. S. Lewis described as the "You too?" moment. We might call this a mysterious chemistry, unlooked for and coincidental, but powerfully palpable. It’s like love at first sight. Secondly, however, friendship requires commitment or even a covenant, not unlike [vows](https://rekindle.co.za/content/2021-06-09-friendship-forsaking-all-others). By this I mean the best friendships build on that initial connection with promises of fidelity.
