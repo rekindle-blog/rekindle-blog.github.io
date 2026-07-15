@@ -12,6 +12,7 @@ tags:
   - Cross
   - Christus Exemplar
   - Jesus Christ
+  - Fridays With Fred
   - ""
 ---
 Friedrich Nietzsche wasn’t coy about his loathing for Christians and the Church; read [this](https://rekindle.co.za/content/2022-11-04-fridays-with-fred-pitiful-christians), for example. Thus it might come as a surprise to readers that he largely esteemed Jesus Christ. Of course, being a product of the late 1800s, Nietzsche’s Jesus more resembles the reimagined Jesus of [critical scholarship](https://rekindle.co.za/content/how-literary-criticism-has-damaged-our-view-of-the-gospels/) than the Gospels and history. Nevertheless, he admired Jesus, finding him to be both an impressive and imitable man.
