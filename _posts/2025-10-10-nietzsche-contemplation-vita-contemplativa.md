@@ -14,6 +14,7 @@ tags:
   - Streaming services
   - Social Media
   - Existentialism
+  - Fridays With Fred
   - ""
 ---
 My [very first](https://rekindle.co.za/content/2020-07-03-nietzsche) Nietzsche reflection was on a line from *Human, All Too Human:* “One hears a lot of talk about men, but none at all about man” (§35). As I argued there, Nietzsche spied a distorted interest in the famous and the frivolous, contrast with a disturbing indifference to deep thinking and sustained reflection. Without suggesting that culture is always in decline, our [digital age](https://rekindle.co.za/content/2023-03-17-doodle-our-digital-age-isn-t-the-golden-age) certainly fits Nietzsche’s description. We are a people obsessed with entertainment. We are passive consumers. Our digital diets are hardly thought provoking or profound. To use a Latin phrase that the German championed, the *vita contemplativa* is not on our minds—contemplative living, Nietzsche’s ["psychological observation"](https://rekindle.co.za/content/2025-06-20-no-more-fridays-with-fred) or "rumination" has fallen on hard times. This should concern us. For we are more than our eyes and there’s much more to life than entertainment.
