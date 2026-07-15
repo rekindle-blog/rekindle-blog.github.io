@@ -16,6 +16,7 @@ tags:
   - Fiction
   - Literature
   - Philosophy
+  - Fridays With Fred
   - ""
 ---
 Friedrich Nietzsche is often associated with nihilism. This might be because of the assonance between Nietzsche and nihilism. However, that association is also a good indicator that someone hasn’t read him. In fact, when defending the *Übermensch,* Nietzsche distanced himself from Christians and Darwinists, together with nihilists *(Ecce Homo*, §3.1). His ideals also shouldn’t be reduced to power dynamics either, but rather the human desire to vent strength, the will to power *(Beyond Good and Evil*, §13). In other words, far from nihilism, Nietzsche longed to see humans flourish through freely carrying out what he considered more fundamental than self-preservation: the exercise of power.
