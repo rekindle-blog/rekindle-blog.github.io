@@ -1,29 +1,29 @@
 ---
 layout: post
-title: 'Fridays with Fred: Sorry, Not Sorry'
+title: "Fridays with Fred: Sorry, Not Sorry"
 author: gheslop
-categories:
-- Emotion
-- Love
-- Marriage
-- Existentialism
-- Philosophy
-- Fridays with Fred
-- Aphorisms on Love and Hate
-- Friedrich Nietzsche
 image: assets/images/fridays.jpg
 featured: false
 hidden: false
 tags:
-- Sorry
-- Apology
-- Power
-- Existentialism
-- Philosophy
-- Fridays with Fred
-- Aphorisms on Love and Hate
-- Friedrich Nietzsche
-
+  - Sorry
+  - Apology
+  - Power
+  - Existentialism
+  - Philosophy
+  - Aphorisms on Love and Hate
+  - Friedrich Nietzsche
+  - Fridays With Fred
+  - ""
+categories:
+  - Emotion
+  - Love
+  - Marriage
+  - Existentialism
+  - Philosophy
+  - Fridays with Fred
+  - Aphorisms on Love and Hate
+  - Friedrich Nietzsche
 ---
 Few readers will be unfamiliar with the idiom, 'it’s better to ask for forgiveness than to ask for permission.' Of course, only the criminally insane would apply this expression to, say, murder or some other vile act. But I know I’m not alone in admitting that I’ve plied this proverb on more than one occasion to quell my conscience and downplay wrongdoing or hurt I’ve inflicted. Reflecting on Friedrich Nietzsche’s _Aphorisms on Love and Hate_ has made me realise that something more sinister may lie behind our preference for apologising over seeking permission: power. Previously we considered how [power plagues friendships](https://rekindle.co.za/content/2020-09-04-fridays-with-fred-friendship "Friendship with Fred"), as friendship requires love and vulnerability. Slightly differently, though still within the realm of relationships, in this post I will argue that our desire for power can lie behind an apology. Saying sorry after we have hurt someone may actually be nothing more than doubling up our domination over them.
 
