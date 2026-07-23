@@ -4,7 +4,7 @@ title: Melchizedek Anointing, Hebrews and the Man of God
 author: gheslop
 image: /assets/images/flamisch-melchizedek.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Melchizedek
   - Hebrews
