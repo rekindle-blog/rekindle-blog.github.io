@@ -3,7 +3,7 @@ layout: post
 title: No Amount of Success Will Satisfy Your Soul
 author: gheslop
 image: /assets/images/img_1765.heic
-featured: true
+featured: false
 hidden: true
 tags:
   - Existentialism
