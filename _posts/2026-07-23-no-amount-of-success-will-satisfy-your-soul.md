@@ -4,7 +4,7 @@ title: No Amount of Success Will Satisfy Your Soul
 author: gheslop
 image: /assets/images/img_1765.heic
 featured: false
-hidden: true
+hidden: false
 tags:
   - Existentialism
   - Love
