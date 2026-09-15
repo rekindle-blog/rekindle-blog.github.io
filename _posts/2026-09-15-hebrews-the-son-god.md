@@ -3,7 +3,7 @@ layout: post
 title: "Hebrews: Hear, O Israel, Jesus Is God, the LORD Is One"
 author: gheslop
 image: /assets/images/nicaea-icon.jpg
-featured: true
+featured: false
 hidden: true
 tags:
   - Second Temple Judaism
@@ -27,7 +27,7 @@ In an [outstanding essay](https://books.google.co.za/books/about/The_Epistle_to_
 
 On the latter, it’s my intention to release a lengthier and somewhat more technical article exploring the Greek of Hebrews 1, alongside the New World Translation’s embarrassingly bad rendering. On the former—that is, hackneyed claims that no one ever explicitly says 'Jesus is God' in the New Testament—you might want to read [my article](https://rekindle.co.za/content/2025-04-01-did-peter-believe-jesus-was-god) on 1 Peter. But taken together for now let’s test those two positions against Bauckham’s thesis and Hebrews 1.
 
-### Jewish Monotheism and Jesus
+### Jewish Monotheism, Jesus and Hebrews
 
 First up, Bauckham lists seven characteristics of God within Jewish monotheism, which may very well be summed up in Deuteronomy 6:4, "Hear, O Israel: the LORD our God, the LORD is one." Drawn from both the Old Testament and Second Temple Judaism, Bauckham shows that Jewish monotheism insisted that God:
 
