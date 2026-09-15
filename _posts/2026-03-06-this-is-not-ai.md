@@ -3,7 +3,7 @@ layout: post
 title: This Is Not AI
 author: gheslop
 image: /assets/images/pippin-ai.jpg
-featured: false
+featured: true
 hidden: false
 tags:
   - Writing
