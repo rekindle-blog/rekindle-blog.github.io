@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hebrews the son god
+title: "Hebrews: Hear, O Israel, Jesus Is God, the LORD Is One"
 author: gheslop
 image: /assets/images/nicaea-icon.jpg
 featured: true
