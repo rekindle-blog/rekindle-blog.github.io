@@ -4,7 +4,7 @@ title: "Doodle: I'm Not Sure That You Can Say You \"Read\" an Audiobook"
 author: gheslop
 image: /assets/images/reading.jpg
 featured: false
-hidden: true
+hidden: false
 tags:
   - Reading
   - Doodle
