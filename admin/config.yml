@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: rekindle-blog/rekindle-blog.github.io
+  name: git-gateway
   branch: master
 
 publish_mode: editorial_workflow
